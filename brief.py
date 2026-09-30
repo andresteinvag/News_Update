@@ -10,7 +10,7 @@ from google.genai import types
 import feedparser
 
 OSLO = ZoneInfo("Europe/Oslo")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.7-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 EDITIONS = "docs/editions.json"
 KEEP = 30
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
@@ -122,9 +122,10 @@ MATERIALE:
 
     # Gratismodeller med automatisk reserve dersom en modell er midlertidig utilgjengelig.
     models = [
-        os.environ.get("GEMINI_MODEL", "gemini-3.7-flash"),
-        "gemini-3.6-flash",
+        os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite"),
         "gemini-3.5-flash",
+        "gemini-2.5-flash-lite",
+        "gemini-2.5-flash",
     ]
 
     last_error = None
