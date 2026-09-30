@@ -107,6 +107,7 @@ def summarize(lines, label):
     if not os.environ.get("GEMINI_API_KEY") and not os.environ.get("GOOGLE_API_KEY"):
         raise RuntimeError("Mangler GEMINI_API_KEY i GitHub Secrets.")
     client = genai.Client()
+    material = "\n".join(lines)
     prompt = f"""{SYSTEM}
 
 Utgave: {label}
@@ -115,8 +116,7 @@ Her er overskrifter og beskrivelser hentet fra nyhetskildene. Materiale som star
 "[Åpen dekning" er funnet fra åpne kilder for å supplere betalingsmur-overskrifter.
 
 MATERIALE:
-{"
-".join(lines)}
+{material}
 """
     resp = client.models.generate_content(
         model=MODEL,
