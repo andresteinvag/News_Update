@@ -10,12 +10,58 @@ from google.genai import types
 import feedparser
 
 OSLO = ZoneInfo("Europe/Oslo")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 EDITIONS = "docs/editions.json"
 KEEP = 30
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
 OPEN_COVERAGE = ["reuters.com", "apnews.com", "bbc.com", "nrk.no", "cnbc.com"]
 PW = " (betalingsmur)"
+OUTPUT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "overview": {"type": "string"},
+        "stories": {
+            "type": "array",
+            "maxItems": 8,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {"type": "string"},
+                    "summary": {"type": "string"},
+                    "why_it_matters": {"type": "string"},
+                    "region": {"type": "string", "enum": ["Norge", "Verden"]},
+                    "impact": {
+                        "type": "array",
+                        "maxItems": 4,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "area": {"type": "string"},
+                                "effect": {"type": "string"}
+                            },
+                            "required": ["area", "effect"]
+                        }
+                    },
+                    "sources": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "name": {"type": "string"},
+                                "url": {"type": "string"},
+                                "paywall": {"type": "boolean"}
+                            },
+                            "required": ["name", "url", "paywall"]
+                        }
+                    }
+                },
+                "required": ["title", "summary", "why_it_matters", "region", "impact", "sources"]
+            }
+        }
+    },
+    "required": ["overview", "stories"]
+}
+
 
 # (navn, domene, direkte RSS eller None, betalingsmur). Uten RSS, eller hvis den feiler,
 # brukes Google News RSS filtrert på domenet (kun overskrifter).
@@ -120,35 +166,28 @@ MATERIALE:
 {material}
 """
 
-    # Gratismodeller med automatisk reserve dersom en modell er midlertidig utilgjengelig.
+    # Bruk først gjeldende modell. 3.5 Flash-Lite er gratis og beholdes som reserve.
     models = [
-        os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite"),
-        "gemini-3.5-flash",
-        "gemini-2.5-flash-lite",
-        "gemini-2.5-flash",
+        os.environ.get("GEMINI_MODEL", "gemini-3.8-flash"),
+        "gemini-3.5-flash-lite",
     ]
 
     last_error = None
     for model in dict.fromkeys(models):
-        for attempt in range(4):
+        for attempt in range(3):
             try:
-                print(f"Prøver Gemini-modell: {model} (forsøk {attempt + 1}/4)")
+                print(f"Prøver Gemini-modell: {model} (forsøk {attempt + 1}/3)")
                 resp = client.models.generate_content(
                     model=model,
                     contents=prompt,
                     config=types.GenerateContentConfig(
                         response_mime_type="application/json",
-                        temperature=0.2,
+                        response_schema=OUTPUT_SCHEMA,
                     ),
                 )
-                text = resp.text or ""
-                try:
-                    return json.loads(text)
-                except json.JSONDecodeError:
-                    m = re.search(r"\{.*\}", text, re.S)
-                    if not m:
-                        raise RuntimeError("Ingen gyldig JSON i Gemini-svaret:\n" + text[:500])
-                    return json.loads(m.group(0))
+                if not resp.text:
+                    raise RuntimeError("Gemini returnerte tomt svar.")
+                return json.loads(resp.text)
             except Exception as err:
                 last_error = err
                 print(f"{model} feilet: {err}", file=sys.stderr)
