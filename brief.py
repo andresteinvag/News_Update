@@ -13,7 +13,7 @@ OSLO = ZoneInfo("Europe/Oslo")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 EDITIONS = "docs/editions.json"
 KEEP = 30
-PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
+PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com", "nytimes.com"]
 OPEN_COVERAGE = ["reuters.com", "apnews.com", "bbc.com", "nrk.no", "cnbc.com"]
 PW = " (betalingsmur)"
 OUTPUT_SCHEMA = {
@@ -59,12 +59,39 @@ OUTPUT_SCHEMA = {
             }
         }
     },
-    "required": ["overview", "stories"]
+        "general_stories": {
+            "type": "array",
+            "maxItems": 3,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {"type": "string"},
+                    "summary": {"type": "string"},
+                    "why_it_matters": {"type": "string"},
+                    "region": {"type": "string", "enum": ["Norge", "Verden"]},
+                    "sources": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "name": {"type": "string"},
+                                "url": {"type": "string"},
+                                "paywall": {"type": "boolean"}
+                            },
+                            "required": ["name", "url", "paywall"]
+                        }
+                    }
+                },
+                "required": ["title", "summary", "why_it_matters", "region", "sources"]
+            }
+        },
+    "required": ["overview", "stories", "general_stories"]
 }
 
 
 # (navn, domene, direkte RSS eller None, betalingsmur). Uten RSS, eller hvis den feiler,
 # brukes Google News RSS filtrert på domenet (kun overskrifter).
+# Økonomikildene som allerede er med i briefen.
 SOURCES = [
     ("E24", "e24.no", "https://e24.no/rss2/", True),
     ("VG", "vg.no", "https://www.vg.no/rss/feed/", False),
@@ -76,13 +103,32 @@ SOURCES = [
     ("Financial Times", "ft.com", None, True),
 ]
 
+# En liten ekstra del for det brede verdensbildet.
+GENERAL_SOURCES = [
+    ("Aftenposten", "aftenposten.no", None, False),
+    ("Associated Press", "apnews.com", None, False),
+    ("BBC", "bbc.com", None, False),
+    ("The Guardian", "theguardian.com", None, False),
+    ("Deutsche Welle", "dw.com", None, False),
+    ("Al Jazeera", "aljazeera.com", None, False),
+    ("Euronews", "euronews.com", None, False),
+    ("CNN", "cnn.com", None, False),
+    ("The New York Times", "nytimes.com", None, True),
+    ("Wall Street Journal", "wsj.com", None, True),
+    ("Bloomberg", "bloomberg.com", None, True),
+]
+
 SYSTEM = """Du er økonomiredaktør og skriver en kort brief på norsk (bokmål) for en økonomistudent.
 Fokus: norsk økonomi (Norges Bank, rente, krone, olje og gass, Oljefondet, Oslo Børs, bolig, statsbudsjett) og verdensøkonomi (sentralbanker, inflasjon, handel og toll, markeder, geopolitikk med økonomisk effekt). Hopp over sport, kjendis og lokalstoff.
 Regler:
-- Velg de 6-8 viktigste sakene og slå sammen dubletter.
+- Lag to deler:
+  1) "ØKONOMI": 6-8 viktigste økonomisakene. Dette skal være hoveddelen og ligne på briefen som allerede finnes.
+  2) "ANDRE VIKTIGE NYHETER": 2-3 store globale/norske nyhetssaker som er verdt å kjenne til, selv om de ikke først og fremst handler om økonomi. Hold denne delen kort.
+- Slå sammen dubletter og prioriter faktisk viktige hendelser fremfor mange småsaker.
 - Kilder merket (betalingsmur) gir bare overskrift. For slike saker legges eventuelle funn fra åpne kilder (Reuters, AP, BBC, NRK, CNBC) inn i materialet ditt med merking som "Åpen dekning". Bruk den åpne dekningen når den faktisk beskriver samme sak. Finner du ingenting, skriv kun det overskriften faktisk sier, uten å gjette.
-- Gi hver sak 2-4 punkter under "impact" om mulig påvirkning på de delene av samfunnet og økonomien som faktisk er relevante, f.eks. Aksjemarkedet, Renter, Kronekurs, Inflasjon, Bolig, Arbeidsmarked, Energi og råvarer, Politikk, Næringsliv. Angi retning (opp, ned, uklart) og begrunn kort. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd.
-- Skriv i egne ord, aldri lange sitater. Lenk bare til URL-er fra listen eller fra søkeresultater.
+- For økonomidelen: Gi hver sak 2-4 punkter under "impact" om mulig påvirkning på relevante områder. Angi retning (opp, ned, uklart) og begrunn kort. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd.
+- For den generelle delen: ikke lag investeringsvurderinger; forklar kort hva som har skjedd og hvorfor saken er viktig å kjenne til.
+- Skriv i egne ord, aldri lange sitater. Lenk bare til URL-er fra materialet.
 - Returner KUN JSON uten markdown-gjerder.
 {"overview": "2 setninger om dagens bilde", "stories": [{"title": "...", "summary": "2-3 setninger", "why_it_matters": "1 setning om betydning for Norge eller verdensøkonomien", "region": "Norge eller Verden", "impact": [{"area": "Aksjemarkedet", "effect": "1 setning"}], "sources": [{"name": "...", "url": "https://...", "paywall": true}]}]}"""
 
@@ -149,24 +195,26 @@ def open_coverage(lines):
     return results[:40]
 
 
-def summarize(lines, label):
+def summarize(lines, general_lines, label):
     if not os.environ.get("GEMINI_API_KEY") and not os.environ.get("GOOGLE_API_KEY"):
         raise RuntimeError("Mangler GEMINI_API_KEY i GitHub Secrets.")
 
     client = genai.Client()
-    material = "\n".join(lines)
+    economic_material = "\n".join(lines)
+    general_material = "\n".join(general_lines)
     prompt = f"""{SYSTEM}
 
 Utgave: {label}
 
-Her er overskrifter og beskrivelser hentet fra nyhetskildene. Materiale som starter med
-"[Åpen dekning" er funnet fra åpne kilder for å supplere betalingsmur-overskrifter.
+ØKONOMIMATERIALE:
+{economic_material}
 
-MATERIALE:
-{material}
+GENERELT NYHETSMATERIALE:
+{general_material}
+
+Materiale som starter med "[Åpen dekning" er funnet fra åpne kilder for å supplere betalingsmur-overskrifter.
 """
 
-    # Bruk først gjeldende modell. 3.5 Flash-Lite er gratis og beholdes som reserve.
     models = [
         os.environ.get("GEMINI_MODEL", "gemini-3.8-flash"),
         "gemini-3.5-flash-lite",
@@ -208,6 +256,7 @@ body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 Georgia,'Times
 main{max-width:42rem;margin:0 auto;padding:2rem 1.25rem 4rem}
 .time{font:700 clamp(4.5rem,18vw,8rem)/.9 system-ui,sans-serif;letter-spacing:-.04em;color:var(--acc)}
 .date{font:600 1.1rem system-ui,sans-serif;margin-top:.5rem}
+h2{font:700 1.15rem/1.3 system-ui,sans-serif;margin:2rem 0 .25rem;color:var(--acc)}
 .lead{font-size:1.15rem;border-top:1px solid var(--rule);padding-top:1rem;margin:1.5rem 0 0}
 article{border-top:1px solid var(--rule);padding:1.25rem 0}
 h3{font:700 1.25rem/1.3 system-ui,sans-serif;margin:0 0 .4rem}
@@ -248,7 +297,14 @@ def story(s):
 
 
 def body(e):
-    return f'<p class="lead">{esc(e.get("overview"))}</p>' + "".join(story(s) for s in e.get("stories", []))
+    html_body = f'<p class="lead">{esc(e.get("overview"))}</p>'
+    economic = e.get("stories", [])
+    if economic:
+        html_body += '<h2>Økonomi</h2>' + "".join(story(x) for x in economic)
+    general = e.get("general_stories", [])
+    if general:
+        html_body += '<h2>Andre viktige nyheter</h2>' + "".join(story(x) for x in general)
+    return html_body
 
 
 def label(e):
@@ -277,10 +333,12 @@ def main():
         print("Utgaven finnes allerede.")
         return
     lines = [ln for s in SOURCES for ln in fetch(*s)]
-    lines += open_coverage(lines)
+    general_lines = [ln for s in GENERAL_SOURCES for ln in fetch(*s)[:12]]
+    open_lines = open_coverage(lines + general_lines)
+    lines += open_lines
     if len(lines) < 10:
         sys.exit("For få overskrifter hentet, avbryter.")
-    data = summarize(lines, f"{now:%d.%m.%Y} kl. {hour:02d}:00")
+    data = summarize(lines, general_lines, f"{now:%d.%m.%Y} kl. {hour:02d}:00")
     ed = {"id": ed_id, "hour": hour, "date": f"{now:%Y-%m-%d}", "generated": now.strftime("%d.%m.%Y %H:%M"), **data}
     editions = sorted([e for e in editions if e["id"] != ed_id] + [ed], key=lambda e: e["id"], reverse=True)[:KEEP]
     os.makedirs("docs", exist_ok=True)
