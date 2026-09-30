@@ -1,18 +1,20 @@
-"""Økonomibrief: henter overskrifter, lar Claude oppsummere, bygger docs/index.html."""
+"""Økonomibrief: henter overskrifter, bruker Gemini gratisnivå, bygger docs/index.html."""
 import html, json, os, re, sys
 from calendar import timegm
 from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 from zoneinfo import ZoneInfo
 
-import anthropic
+from google import genai
+from google.genai import types
 import feedparser
 
 OSLO = ZoneInfo("Europe/Oslo")
-MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-5-5")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
 EDITIONS = "docs/editions.json"
 KEEP = 30
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
+OPEN_COVERAGE = ["reuters.com", "apnews.com", "bbc.com", "nrk.no", "cnbc.com"]
 PW = " (betalingsmur)"
 
 # (navn, domene, direkte RSS eller None, betalingsmur). Uten RSS, eller hvis den feiler,
@@ -32,10 +34,10 @@ SYSTEM = """Du er økonomiredaktør og skriver en kort brief på norsk (bokmål)
 Fokus: norsk økonomi (Norges Bank, rente, krone, olje og gass, Oljefondet, Oslo Børs, bolig, statsbudsjett) og verdensøkonomi (sentralbanker, inflasjon, handel og toll, markeder, geopolitikk med økonomisk effekt). Hopp over sport, kjendis og lokalstoff.
 Regler:
 - Velg de 6-8 viktigste sakene og slå sammen dubletter.
-- Kilder merket (betalingsmur) gir bare overskrift. Der en sak kun dekkes av slike kilder, bruk web_search til å finne åpen dekning (Reuters, AP, BBC, NRK, CNBC m.fl.) og bygg oppsummeringen på den. Finner du ingenting, skriv kun det overskriften faktisk sier, uten å gjette.
+- Kilder merket (betalingsmur) gir bare overskrift. For slike saker legges eventuelle funn fra åpne kilder (Reuters, AP, BBC, NRK, CNBC) inn i materialet ditt med merking som "Åpen dekning". Bruk den åpne dekningen når den faktisk beskriver samme sak. Finner du ingenting, skriv kun det overskriften faktisk sier, uten å gjette.
 - Gi hver sak 2-4 punkter under "impact" om mulig påvirkning på de delene av samfunnet og økonomien som faktisk er relevante, f.eks. Aksjemarkedet, Renter, Kronekurs, Inflasjon, Bolig, Arbeidsmarked, Energi og råvarer, Politikk, Næringsliv. Angi retning (opp, ned, uklart) og begrunn kort. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd.
 - Skriv i egne ord, aldri lange sitater. Lenk bare til URL-er fra listen eller fra søkeresultater.
-- Svar KUN med JSON:
+- Returner KUN JSON uten markdown-gjerder.
 {"overview": "2 setninger om dagens bilde", "stories": [{"title": "...", "summary": "2-3 setninger", "why_it_matters": "1 setning om betydning for Norge eller verdensøkonomien", "region": "Norge eller Verden", "impact": [{"area": "Aksjemarkedet", "effect": "1 setning"}], "sources": [{"name": "...", "url": "https://...", "paywall": true}]}]}"""
 
 
@@ -62,19 +64,74 @@ def fetch(name, domain, url, paywall):
     return []
 
 
+def open_coverage(lines):
+    """Finn åpen omtale av betalingsmur-overskrifter via gratis Google News RSS."""
+    results = []
+    seen = set()
+    paywall_lines = [ln for ln in lines if "(betalingsmur)" in ln]
+
+    for ln in paywall_lines[:20]:
+        try:
+            headline = ln.split("] ", 1)[1].split(" | ", 1)[0].strip()
+        except IndexError:
+            continue
+        key = headline.lower()
+        if key in seen or not headline:
+            continue
+        seen.add(key)
+
+        domain_query = " OR ".join(f"site:{d}" for d in OPEN_COVERAGE)
+        query = f'"{headline[:180]}" ({domain_query}) when:2d'
+        url = f"https://news.google.com/rss/search?q={quote(query)}&hl=en&gl=US&ceid=US:en"
+
+        try:
+            feed = feedparser.parse(url, agent="Mozilla/5.0 (okonomibrief)")
+        except Exception as err:
+            print(f"Åpen dekning: {err}", file=sys.stderr)
+            continue
+
+        for e in feed.entries[:3]:
+            title = e.get("title", "").strip()
+            link_url = e.get("link", "")
+            source_data = e.get("source")
+            source = source_data.get("title", "") if hasattr(source_data, "get") else ""
+            if not title or not link_url:
+                continue
+            results.append(
+                f"[Åpen dekning {source or 'åpen kilde'}] {title} | {link_url}"
+            )
+    return results[:40]
+
+
 def summarize(lines, label):
-    resp = anthropic.Anthropic().messages.create(
+    client = genai.Client()
+    prompt = f"""{SYSTEM}
+
+Utgave: {label}
+
+Her er overskrifter og beskrivelser hentet fra nyhetskildene. Materiale som starter med
+"[Åpen dekning" er funnet fra åpne kilder for å supplere betalingsmur-overskrifter.
+
+MATERIALE:
+{"
+".join(lines)}
+"""
+    resp = client.models.generate_content(
         model=MODEL,
-        max_tokens=7000,
-        system=SYSTEM,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 8, "blocked_domains": PAYWALLED}],
-        messages=[{"role": "user", "content": f"Utgave: {label}. Overskrifter siste 16 timer:\n\n" + "\n".join(lines)}],
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+            temperature=0.2,
+        ),
     )
-    text = "".join(b.text for b in resp.content if b.type == "text")
-    m = re.search(r"\{.*\}", text, re.S)
-    if not m:
-        raise RuntimeError("Ingen JSON i svaret:\n" + text[:500])
-    return json.loads(m.group(0))
+    text = resp.text or ""
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        m = re.search(r"\{.*\}", text, re.S)
+        if not m:
+            raise RuntimeError("Ingen gyldig JSON i Gemini-svaret:\n" + text[:500])
+        return json.loads(m.group(0))
 
 
 DAYS = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag"]
@@ -139,7 +196,7 @@ def render(editions):
     older = "".join(
         f'<details><summary>{label(e)} kl. {e["hour"]:02d}:00</summary>{body(e)}</details>' for e in old
     )
-    return f"""<!doctype html><html lang="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Økonomibrief</title><style>{CSS}</style></head><body><main><header><div class="time">{new["hour"]:02d}:00</div><div class="date">{label(new)}</div></header>{body(new)}{older}<footer>Generert automatisk av Claude fra overskrifter og åpne kilder ({esc(new["generated"])}). Les originalsakene før du bruker innholdet i beslutninger.</footer></main></body></html>"""
+    return f"""<!doctype html><html lang="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Økonomibrief</title><style>{CSS}</style></head><body><main><header><div class="time">{new["hour"]:02d}:00</div><div class="date">{label(new)}</div></header>{body(new)}{older}<footer>Generert automatisk av Gemini fra overskrifter og åpne kilder ({esc(new["generated"])}). Les originalsakene før du bruker innholdet i beslutninger.</footer></main></body></html>"""
 
 
 def main():
@@ -155,6 +212,7 @@ def main():
         print("Utgaven finnes allerede.")
         return
     lines = [ln for s in SOURCES for ln in fetch(*s)]
+    lines += open_coverage(lines)
     if len(lines) < 10:
         sys.exit("For få overskrifter hentet, avbryter.")
     data = summarize(lines, f"{now:%d.%m.%Y} kl. {hour:02d}:00")
