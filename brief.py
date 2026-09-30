@@ -117,14 +117,14 @@ SOURCES = [
 # En liten ekstra del for det brede verdensbildet.
 GENERAL_SOURCES = [
     ("Aftenposten", "aftenposten.no", None, False),
-    ("Associated Press", "apnews.com", None, False),
-    ("BBC", "bbc.com", None, False),
-    ("The Guardian", "theguardian.com", None, False),
-    ("Deutsche Welle", "dw.com", None, False),
-    ("Al Jazeera", "aljazeera.com", None, False),
+    ("Associated Press", "apnews.com", "https://feeds.apnews.com/rss/apf-topnews", False),
+    ("BBC", "bbc.com", "https://feeds.bbci.co.uk/news/rss.xml", False),
+    ("The Guardian", "theguardian.com", "https://www.theguardian.com/world/rss", False),
+    ("Deutsche Welle", "dw.com", "https://rss.dw.com/rdf/rss-en-all", False),
+    ("Al Jazeera", "aljazeera.com", "https://www.aljazeera.com/xml/rss/all.xml", False),
     ("Euronews", "euronews.com", None, False),
-    ("CNN", "cnn.com", None, False),
-    ("The New York Times", "nytimes.com", None, True),
+    ("CNN", "cnn.com", "https://rss.cnn.com/rss/edition.rss", False),
+    ("The New York Times", "nytimes.com", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", True),
     ("Wall Street Journal", "wsj.com", None, True),
     ("Bloomberg", "bloomberg.com", None, True),
 ]
@@ -137,8 +137,8 @@ Regler:
   2) "ANDRE VIKTIGE NYHETER": 2-3 store globale/norske nyhetssaker som er verdt å kjenne til, selv om de ikke først og fremst handler om økonomi. Hold denne delen kort.
 - Slå sammen dubletter og prioriter faktisk viktige hendelser fremfor mange småsaker.
 - Kilder merket (betalingsmur) gir bare overskrift. For slike saker legges eventuelle funn fra åpne kilder (Reuters, AP, BBC, NRK, CNBC) inn i materialet ditt med merking som "Åpen dekning". Bruk den åpne dekningen når den faktisk beskriver samme sak. Finner du ingenting, skriv kun det overskriften faktisk sier, uten å gjette.
-- For økonomidelen: Gi hver sak 2-4 punkter under "impact" om mulig påvirkning på relevante områder. Angi retning (opp, ned, uklart) og begrunn kort. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd.
-- For den generelle delen: ikke lag investeringsvurderinger; forklar kort hva som har skjedd og hvorfor saken er viktig å kjenne til.
+- For økonomidelen: Gi hver sak 2-4 punkter under "impact" om mulig påvirkning på relevante områder. Angi retning (opp, ned, uklart) og begrunn kort. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd. Bruk gjerne flere ulike kilder når de dekker samme sak, og unngå at én enkelt avis står for nesten hele økonomidelen når andre relevante kilder finnes.
+- For den generelle delen: ikke lag investeringsvurderinger; forklar kort hva som har skjedd og hvorfor saken er viktig å kjenne til. Bruk bare kilder fra den generelle nyhetslisten eller åpne dekningskilder (Reuters, AP, BBC, NRK, CNBC) i denne delen; ikke bruk E24/DN/Finansavisen/FT som kilde til en generell nyhetssak.
 - Skriv i egne ord, aldri lange sitater. Lenk bare til URL-er fra materialet.
 - Returner KUN JSON uten markdown-gjerder.
 {"overview": "2 setninger om dagens bilde", "stories": [{"title": "...", "summary": "2-3 setninger", "why_it_matters": "1 setning om betydning for Norge eller verdensøkonomien", "region": "Norge eller Verden", "impact": [{"area": "Aksjemarkedet", "effect": "1 setning"}], "sources": [{"name": "...", "url": "https://...", "paywall": true}]}]}"""
@@ -165,6 +165,31 @@ def fetch(name, domain, url, paywall):
             return items[:25]
     print(f"{name}: ingen treff", file=sys.stderr)
     return []
+
+
+def balance_sources(lines, max_per_source=6):
+    """Begrens én kilde og flett kildene, slik at én avis ikke dominerer inputen."""
+    buckets = {}
+    order = []
+    for ln in lines:
+        source = ln.split("] ", 1)[0].lstrip("[").strip()
+        if source not in buckets:
+            buckets[source] = []
+            order.append(source)
+        if len(buckets[source]) < max_per_source:
+            buckets[source].append(ln)
+
+    out = []
+    while True:
+        added = False
+        for source in order:
+            bucket = buckets[source]
+            if bucket:
+                out.append(bucket.pop(0))
+                added = True
+        if not added:
+            break
+    return out
 
 
 def open_coverage(lines):
@@ -345,11 +370,27 @@ def main():
         return
     lines = [ln for s in SOURCES for ln in fetch(*s)]
     general_lines = [ln for s in GENERAL_SOURCES for ln in fetch(*s)[:12]]
-    open_lines = open_coverage(lines + general_lines)
-    lines += open_lines
+    general_lines += open_coverage(general_lines)
+    lines += open_coverage(lines)
+    lines = balance_sources(lines, max_per_source=7)
+    general_lines = balance_sources(general_lines, max_per_source=5)
     if len(lines) < 10:
         sys.exit("For få overskrifter hentet, avbryter.")
     data = summarize(lines, general_lines, f"{now:%d.%m.%Y} kl. {hour:02d}:00")
+
+    # Forhindre at den generelle seksjonen blir fylt med økonomikilder.
+    allowed_general_sources = {
+        name for name, _, _, _ in GENERAL_SOURCES
+    } | {"Reuters", "AP", "BBC", "NRK", "CNBC International"}
+    data["general_stories"] = [
+        story for story in data.get("general_stories", [])
+        if any(
+            src.get("name") in allowed_general_sources
+            for src in story.get("sources", [])
+            if isinstance(src, dict)
+        )
+    ][:3]
+
     ed = {"id": ed_id, "hour": hour, "date": f"{now:%Y-%m-%d}", "generated": now.strftime("%d.%m.%Y %H:%M"), **data}
     editions = sorted([e for e in editions if e["id"] != ed_id] + [ed], key=lambda e: e["id"], reverse=True)[:KEEP]
     os.makedirs("docs", exist_ok=True)
