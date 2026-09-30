@@ -1,0 +1,160 @@
+[
+ {
+  "id": "2026-09-30-20",
+  "hour": 20,
+  "date": "2026-09-30",
+  "generated": "30.09.2026 20:58",
+  "overview": "Lavere inflasjon i USA enn ventet har løftet Wall Street og gitt positive impulser til de globale markedene. Her hjemme preges nyhetsbildet av Norges Banks kronehåndtering og nye politiske prioriteringer i statsbudsjettet.",
+  "stories": [
+   {
+    "title": "Lavere inflasjon i USA",
+    "summary": "Ferske tall viser at prisveksten i USA falt til 3,4 prosent i august, noe som er lavere enn markedet hadde ventet. Dette har redusert uroen knyttet til videre rentehevinger fra den amerikanske sentralbanken.",
+    "why_it_matters": "Lavere amerikansk inflasjon demper rentefrykten internasjonalt og gir positive utslag på globale børser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Oppgang på Wall Street og internasjonale markeder kan trolig fortsette ettersom renteuroen avtar."
+     },
+     {
+      "area": "Renter",
+      "effect": "Forventninger om at Federal Reserve kan holde renten i ro kan dempe presset på globale renter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/M7Md2J/prisveksten-i-usa-falt-til-3-4-prosent-i-august-viser-sentralbankens-favorittmaal?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkxCMkhWMXBYNDFRRUdwMERTZHNGbFhGWF9YYkdWeVRzay1Kc0dtNlRZTFdWMXBLeDYxR3hPNEdic1NMVWhabFdXbTRDcjJrS1Z0a2xfZVd5VDBLbGliVjBkcm85MTRObGtLOEdCNnFTS0pyUFZKODJUWm44NWVUUmdIb1dkaFdq?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norges Bank fortsetter kronesalget",
+    "summary": "Norges Bank har annonsert at de vil fortsette å selge norske kroner i oktober, tilsvarende 176 millioner kroner daglig. Dette leddet er knyttet til transaksjoner på vegne av staten i forbindelse med oljeinntektene.",
+    "why_it_matters": "Det vedvarende kronesalget påvirker likviditeten og kan legge en demper på kronekursen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "Kan bidra til å holde den norske kronekursen svakere mot store valutaer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/9pj6Od/norges-bank-skal-selge-kroner-for-176-millioner-daglig-i-oktober?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nordic Mining gir grønt lys for deponering og sjefen slutter",
+    "summary": "Klima- og miljødepartementet har gitt Nordic Mining tillatelse til å deponere gruveavfall i Førdefjorden i tre år. Samtidig har selskapets sjef gått av med umiddelbar virkning.",
+    "why_it_matters": "Avgjørelsen avklarer rammevilkårene for selskapet, men møter sterk kritikk fra miljøorganisasjoner.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Avklaringen om deponering fjerner en vesentlig regulatorisk risiko, men lederskiftet kan skape kortsiktig usikkerhet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskapet kan trolig gå videre med sine operative planer i Førdefjorden."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/Gxzk2m/nordic-mining-faار-dumpe-tillatelse?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/vestland/regjeringa-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-1.18041425",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Statsbudsjettet satser på romfart og AI",
+    "summary": "Regjeringens nye statsbudsjett legger opp til å bevilge 650 millioner kroner til en ny rakettrampe på Andøya, samt 120 millioner kroner til ulike kunstig intelligens-tiltak.",
+    "why_it_matters": "Investeringene viser økt politisk satsing på strategisk teknologi og infrastruktur med sikte på å styrke norsk konkurransekraft.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Prioriteringene gir økte offentlige inntekter til teknologi- og romfartssektoren."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Kan gi oppdrag og vekstmuligheter for leverandørindustrien innen forsvar, teknologi og AI."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/n150QB/vil-bruke-650-millioner-paa-ny-rakettrampe-paa-andoeya?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/ln6LOL/regjeringen-vil-bruke-120-millioner-paa-ai-tiltak?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Finanstilsynet kritiserer sparebankens utlån",
+    "summary": "Finanstilsynet retter en skarp advarsel mot Sparebank 1 Østlandet, med bekymring for at banken undervurderer risiko og kapitalbehov i sine næringsutlån.",
+    "why_it_matters": "Tilsynets knallharde kritikk kan føre til strengere kapitalkrav og mer konservativ utlånspraksis i banksektoren.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Banken kan bli nødt til å styrke kapitaldekningen, noe som kan påvirke utlånskapasiteten til næringseiendom og bedrifter."
+     },
+     {
+      "area": "Renter",
+      "effect": "Strammere kapitalkrav kan isolert sett trekke i retning av noe strammere kredittvillkår."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/Ar4EEq/finanstilsynet-med-skarp-kritikk-av-sparebank?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Russland forlenger dieselforbud",
+    "summary": "Russland har valgt å forlenge sitt eksisterende forbud mot eksport av diesel, noe som strammer til det globale drivstoffmarkedet.",
+    "why_it_matters": "Restriksjonene påvirker den globale energiforsyningen og kan presse opp prisene på raffinerte oljeprodukter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Kan føre til høyere priser på diesel og økt kostnadspress for transportsektoren og industrien."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere energipriser kan indirekte bidra til å holde den generelle inflasjonen oppe."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT013dTdmTnpNM0JjVjFBUTE0anluNDRaUHJXRVk4aWd4NzR2UVZOUmdPRHpybW92c0NoQUpjekdhUXE4bVNtUjFyemV5TjgtRWJhOTVmV1dhc2R1alNmeTZrRGlCVTVIR3AyUXd0TTVyWWVVSkhBbzRJUUViTkZnQkQ4UVpVQzAxazEzc3lR?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ]
+ }
+]
