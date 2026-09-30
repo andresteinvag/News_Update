@@ -10,7 +10,7 @@ from google.genai import types
 import feedparser
 
 OSLO = ZoneInfo("Europe/Oslo")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 EDITIONS = "docs/editions.json"
 KEEP = 30
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
@@ -104,6 +104,8 @@ def open_coverage(lines):
 
 
 def summarize(lines, label):
+    if not os.environ.get("GEMINI_API_KEY") and not os.environ.get("GOOGLE_API_KEY"):
+        raise RuntimeError("Mangler GEMINI_API_KEY i GitHub Secrets.")
     client = genai.Client()
     prompt = f"""{SYSTEM}
 
