@@ -10,7 +10,7 @@ from google.genai import types
 import feedparser
 
 OSLO = ZoneInfo("Europe/Oslo")
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.7-flash")
 EDITIONS = "docs/editions.json"
 KEEP = 30
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com"]
