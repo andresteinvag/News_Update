@@ -1,5 +1,5 @@
 """Økonomibrief: henter overskrifter, bruker Gemini gratisnivå, bygger docs/index.html."""
-import html, json, os, re, sys
+import html, json, os, re, sys, time
 from calendar import timegm
 from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
@@ -106,6 +106,7 @@ def open_coverage(lines):
 def summarize(lines, label):
     if not os.environ.get("GEMINI_API_KEY") and not os.environ.get("GOOGLE_API_KEY"):
         raise RuntimeError("Mangler GEMINI_API_KEY i GitHub Secrets.")
+
     client = genai.Client()
     material = "\n".join(lines)
     prompt = f"""{SYSTEM}
@@ -118,22 +119,44 @@ Her er overskrifter og beskrivelser hentet fra nyhetskildene. Materiale som star
 MATERIALE:
 {material}
 """
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.2,
-        ),
-    )
-    text = resp.text or ""
-    try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        m = re.search(r"\{.*\}", text, re.S)
-        if not m:
-            raise RuntimeError("Ingen gyldig JSON i Gemini-svaret:\n" + text[:500])
-        return json.loads(m.group(0))
+
+    # Gratismodeller med automatisk reserve dersom en modell er midlertidig utilgjengelig.
+    models = [
+        os.environ.get("GEMINI_MODEL", "gemini-3.7-flash"),
+        "gemini-3.6-flash",
+        "gemini-3.5-flash",
+    ]
+
+    last_error = None
+    for model in dict.fromkeys(models):
+        for attempt in range(4):
+            try:
+                print(f"Prøver Gemini-modell: {model} (forsøk {attempt + 1}/4)")
+                resp = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config=types.GenerateContentConfig(
+                        response_mime_type="application/json",
+                        temperature=0.2,
+                    ),
+                )
+                text = resp.text or ""
+                try:
+                    return json.loads(text)
+                except json.JSONDecodeError:
+                    m = re.search(r"\{.*\}", text, re.S)
+                    if not m:
+                        raise RuntimeError("Ingen gyldig JSON i Gemini-svaret:\n" + text[:500])
+                    return json.loads(m.group(0))
+            except Exception as err:
+                last_error = err
+                print(f"{model} feilet: {err}", file=sys.stderr)
+                if "503" in str(err) or "UNAVAILABLE" in str(err) or "429" in str(err):
+                    time.sleep(2 ** attempt)
+                    continue
+                break
+
+    raise RuntimeError(f"Alle Gemini-forsøk feilet. Siste feil: {last_error}")
 
 
 DAYS = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag"]
