@@ -57,8 +57,7 @@ OUTPUT_SCHEMA = {
                 },
                 "required": ["title", "summary", "why_it_matters", "region", "impact", "sources"]
             }
-        }
-    },
+        },
         "general_stories": {
             "type": "array",
             "maxItems": 3,
@@ -69,6 +68,18 @@ OUTPUT_SCHEMA = {
                     "summary": {"type": "string"},
                     "why_it_matters": {"type": "string"},
                     "region": {"type": "string", "enum": ["Norge", "Verden"]},
+                    "impact": {
+                        "type": "array",
+                        "maxItems": 1,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "area": {"type": "string"},
+                                "effect": {"type": "string"}
+                            },
+                            "required": ["area", "effect"]
+                        }
+                    },
                     "sources": {
                         "type": "array",
                         "items": {
@@ -82,12 +93,12 @@ OUTPUT_SCHEMA = {
                         }
                     }
                 },
-                "required": ["title", "summary", "why_it_matters", "region", "sources"]
+                "required": ["title", "summary", "why_it_matters", "region", "impact", "sources"]
             }
-        },
+        }
+    },
     "required": ["overview", "stories", "general_stories"]
 }
-
 
 # (navn, domene, direkte RSS eller None, betalingsmur). Uten RSS, eller hvis den feiler,
 # brukes Google News RSS filtrert på domenet (kun overskrifter).
