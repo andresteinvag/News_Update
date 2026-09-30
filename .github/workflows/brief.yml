@@ -1,0 +1,46 @@
+name: Økonomibrief
+
+on:
+  schedule:
+    # Kjører både sommer- og vintertid (UTC). brief.py hopper over alt som ikke er kl. 08 eller 20 i Oslo.
+    - cron: "5 6,7,18,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency: brief
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - id: gen
+        run: python brief.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+      - if: steps.gen.outputs.new == 'true'
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add docs
+          git commit -m "Ny utgave" && git push
+      - if: steps.gen.outputs.new == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - if: steps.gen.outputs.new == 'true'
+        id: deploy
+        uses: actions/deploy-pages@v4
