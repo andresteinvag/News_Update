@@ -144,9 +144,8 @@ Regler:
 {"overview": "2 setninger om dagens bilde", "stories": [{"title": "...", "summary": "2-3 setninger", "why_it_matters": "1 setning om betydning for Norge eller verdensøkonomien", "region": "Norge eller Verden", "impact": [{"area": "Aksjemarkedet", "effect": "1 setning"}], "sources": [{"name": "...", "url": "https://...", "paywall": true}]}]}"""
 
 
-def fetch(name, domain, url, paywall):
+def fetch(name, domain, url, paywall, cutoff):
     gnews = f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:1d')}&hl=no&gl=NO&ceid=NO:no"
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=16)
     for u in [x for x in (url, gnews) if x]:
         try:
             feed = feedparser.parse(u, agent="Mozilla/5.0 (okonomibrief)")
@@ -373,8 +372,13 @@ def main():
     if any(e["id"] == ed_id for e in editions) and not force:
         print("Utgaven finnes allerede.")
         return
-    lines = [ln for s in SOURCES for ln in fetch(*s)]
-    general_lines = [ln for s in GENERAL_SOURCES for ln in fetch(*s)[:12]]
+    if hour == 8:
+        window_start = (now.replace(hour=20, minute=0, second=0, microsecond=0) - timedelta(days=1)).astimezone(timezone.utc)
+    else:
+        window_start = now.replace(hour=8, minute=0, second=0, microsecond=0).astimezone(timezone.utc)
+
+    lines = [ln for s in SOURCES for ln in fetch(*s, window_start)]
+    general_lines = [ln for s in GENERAL_SOURCES for ln in fetch(*s, window_start)[:12]]
     general_lines += open_coverage(general_lines)
     lines += open_coverage(lines)
     lines = balance_sources(lines, max_per_source=7)
