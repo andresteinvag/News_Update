@@ -1,5 +1,203 @@
 [
  {
+  "id": "2026-10-01-08",
+  "hour": 8,
+  "date": "2026-10-01",
+  "generated": "01.10.2026 08:19",
+  "overview": "Dagens markedsbilde preges av positive takter i Asia og på Wall Street, til tross for en brutal måned i rentemarkedet. Her hjemme leverer selskaper kvartalstall og det knytter seg spenning til tilstanden i norsk næringsliv.",
+  "stories": [
+   {
+    "title": "Stolt-Nielsen leverer kvartalstall",
+    "summary": "Stolt-Nielsen la frem et resultat på 92 millioner dollar for kvartalet, samtidig som rederiet melder om utsikter til et svakere fjerde kvartal. Resultatene er samlet sett på linje med fjoråret.",
+    "why_it_matters": "Selskapet er en sentral aktør innen frakt og logistikk, og gir en pekepinn på den globale handelsaktiviteten.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Aksjen kan påvirkes av det svake utsiktene for fjerde kvartal."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Indikerer en avflatning i visse transport- og logistikkmarkeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/5pmPWz/stolt-nielsen-tjente-92-millioner-dollar?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/eGWW7a/stolt-nielsen-tjente-92-millioner-dollar",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Forvaltere ser kjøpsmuligheter etter kursfall",
+    "summary": "Etter kraftige kursfall i sektorer som laks, konsum og eiendom, velger flere forvaltere å kjøpe seg opp i de kuttrammede aksjene i håp om en snarlig rekyl.",
+    "why_it_matters": "Gir innsikt i hvordan profesjonelle investorer posisjonerer seg i det norske markedet etter tøffe perioder for enkeltsektorer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kan bidra til økt kjøpsinteresse og stabilisering i utsatte sektorer."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Svekket utvikling i konsumaksjer kan gjenspeile tøffere tider for detaljhandelen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Blandet utvikling i Asia etter tøff rentemåned",
+    "summary": "Børsene i Tokyo og Seoul stiger torsdag, noe som gir en viss opptur etter en brutal måned preget av uro i det globale rentemarkedet.",
+    "why_it_matters": "Utviklingen i Asia påvirker risikosentimentet i globale markeder og slår inn på internasjonale børser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Gir en etterlengtet, om enn blandet, oppgang i regionen."
+     },
+     {
+      "area": "Renter",
+      "effect": "Høyt trykk i rentemarkedet skaper fortsatt usikkerhet for investorer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0wyMHlJWFdMUG1XODdYaFAtVnZSQ0RET3N4UGdlNnI5NmEzOG01LXlLb0FDR0hja2V4MGhaTGFGYU43MzFrNVVBWFlQakpkLVRDaEdqeWNkdzJIUFNzLWtqR0l3NWxuR1lzcXVGdnh2SXJaUFpJdGU3Ti1ieE54M1h1dTIwS3oyQ0FkejNLb2I5dlYxWmgyM0tsa0lxWm9SWXpSUFZJd2QwamFWWmEtMWFn?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmhBSU0xeVRJdDI5aFFucG05dnlGNmF1ZUNTWEZoN3RLOXF3elZkbmRXLWtzX210enNiRDgtdnUxaU5heHY3QzlHa2o0a0pqZ2UycnNZYTNrV0FmUXVWTDlGYnRmTWxvWUJ6c0M2d3ZJYWVsTm53aWcwdlBoSUowYzhvdHVpZFlxMjlMRHl5UkgtRTRJRE51aA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Emisjonskø og analyser på Oslo Børs",
+    "summary": "Flere selskaper står i kø for å hente inn frisk kapital gjennom emisjoner på Oslo Børs, samtidig som meglere og analytikere kommer med nye anbefalinger.",
+    "why_it_matters": "Aktiviteten på primærmarkedet viser selskapenes behov for kapital og appetitten blant investorene i det norske markedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Emisjonskøen kan legge press på eksisterende aksjonærer gjennom utvanning."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Sikrer nødvendig finansiering for selskaper i en krevende markedssituasjon."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdS1sYjdzZ09KbjU3QnQ0SlVTMnRiVWFwVTBhb19xbU9hTTRidFl2RmhmNzVHTjZEdGR3bXgtNWFiQnhEajNMdGRoZU95Ql9na3VLYjA1QzVjajlOYnNjTG9DeUVCNXdtMnhsSERkT1VtQ2JiNEt2c1pZdVVKckVFLV8tWQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Haaland har saksøkt Norwegian",
+    "summary": "Fotballstjernen Erling Braut Haaland og hans team har gått til søksmål mot flyselskapet Norwegian med anklager om at selskapet har utnyttet stjernen kommersielt.",
+    "why_it_matters": "Saken kaster lys over grensene for kommersiell utnyttelse av profilerte idrettsfolk uten direkte avtaler.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Kan skape juridisk presedens for bruk av merkevarer knyttet til kjente personer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/pB01W1/erling-braut-haaland-har-gaatt-til-sak-mot-norwegian-etter-vm?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/sport/erling-braut-haaland-saksoker-norwegian-1.18041636",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Nordic Mining-sjef går av på dagen",
+    "summary": "Otto Søberg tar over midlertidig som sjef for Nordic Mining etter at den tidligere toppsjefen har sluttet med umiddelbar virkning i det pressede selskapet.",
+    "why_it_matters": "Utskiftninger i ledelsen skaper ekstra usikkerhet rundt et selskap som allerede står overfor store krevende prosesser.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kan føre til økt kursvolatilitet på kort sikt."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Krever rask stabilisering i ledelsen for å opprettholde fremdrift i prosjektene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/6qrwj3/nordic-mining-sjefen-slutter-paa-dagen?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Høyeste dødstall i trafikken på ti år",
+    "summary": "Statens vegvesen melder at 95 personer har omkommet i trafikken så langt i år, noe som er det høyeste nivået på et tiår.",
+    "why_it_matters": "En tragisk utvikling som rammer hardt og setter fokus på trafikksikkerhet og forebyggende tiltak.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Utløser debatt om trafikksikkerhetstiltak og økt kontroll."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/stor-oslo/ulykker-pa-veiene_-hoyeste-dodstall-pa-ti-ar-1.18041736",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sveitsiske breer mister rekordmye is",
+    "summary": "Nye målinger viser at de sveitsiske breene har tapt over fem prosent av sitt isvolum i løpet av året, preget av kraftige hetebølger.",
+    "why_it_matters": "Illustrerer det raske tempoet i klimaendringene og de synlige konsekvensene for globale vannressurser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Miljø og klima",
+      "effect": "Forsterker bekymringen rundt langsiktig smelting og havnivåstigning."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-09-30-20",
   "hour": 20,
   "date": "2026-09-30",
