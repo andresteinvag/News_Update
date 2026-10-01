@@ -109,6 +109,9 @@ SOURCES = [
     ("NRK", "nrk.no", "https://www.nrk.no/toppsaker.rss", False),
     ("CNBC International", "cnbc.com", "https://www.cnbc.com/id/20910258/device/rss/rss.html", False),
     ("Reuters", "reuters.com", None, False),
+    ("Bloomberg", "bloomberg.com", None, True),
+    ("Wall Street Journal", "wsj.com", None, True),
+    ("The New York Times", "nytimes.com", None, True),
     ("Dagens Næringsliv", "dn.no", None, True),
     ("Finansavisen", "finansavisen.no", None, True),
     ("Financial Times", "ft.com", None, True),
@@ -117,16 +120,13 @@ SOURCES = [
 # En liten ekstra del for det brede verdensbildet.
 GENERAL_SOURCES = [
     ("Aftenposten", "aftenposten.no", None, False),
-    ("Associated Press", "apnews.com", "https://feeds.apnews.com/rss/apf-topnews", False),
+    ("Associated Press", "apnews.com", "https://apnews.com/hub/ap-top-news?output=1", False),
     ("BBC", "bbc.com", "https://feeds.bbci.co.uk/news/rss.xml", False),
     ("The Guardian", "theguardian.com", "https://www.theguardian.com/world/rss", False),
     ("Deutsche Welle", "dw.com", "https://rss.dw.com/rdf/rss-en-all", False),
     ("Al Jazeera", "aljazeera.com", "https://www.aljazeera.com/xml/rss/all.xml", False),
     ("Euronews", "euronews.com", None, False),
     ("CNN", "cnn.com", "https://rss.cnn.com/rss/edition.rss", False),
-    ("The New York Times", "nytimes.com", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", True),
-    ("Wall Street Journal", "wsj.com", None, True),
-    ("Bloomberg", "bloomberg.com", None, True),
 ]
 
 SYSTEM = """Du er økonomiredaktør og skriver en kort brief på norsk (bokmål) for en økonomistudent.
@@ -145,8 +145,20 @@ Regler:
 
 
 def fetch(name, domain, url, paywall, cutoff):
-    gnews = f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:1d')}&hl=no&gl=NO&ceid=NO:no"
-    for u in [x for x in (url, gnews) if x]:
+    norwegian = domain.endswith((".no", ".dk", ".se", ".fi")) or name in {"E24", "VG", "NRK", "Dagens Næringsliv", "Finansavisen", "Aftenposten"}
+    if norwegian:
+        gnews_urls = [
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:24h')}&hl=no&gl=NO&ceid=NO:no",
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:48h')}&hl=no&gl=NO&ceid=NO:no",
+        ]
+    else:
+        gnews_urls = [
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:24h')}&hl=en-US&gl=US&ceid=US:en",
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:48h')}&hl=en-US&gl=US&ceid=US:en",
+        ]
+
+    urls = ([url] if url else []) + gnews_urls
+    for u in urls:
         try:
             feed = feedparser.parse(u, agent="Mozilla/5.0 (okonomibrief)")
         except Exception as err:
@@ -390,7 +402,22 @@ def main():
     # Forhindre at den generelle seksjonen blir fylt med økonomikilder.
     allowed_general_sources = {
         name for name, _, _, _ in GENERAL_SOURCES
-    } | {"Reuters", "AP", "BBC", "NRK", "CNBC International"}
+    } | {"Reuters", "Associated Press", "AP", "BBC", "NRK", "CNBC International"}
+    # Økonomidelen skal være bred: maks 2 saker der E24 er eneste kilde.
+    e24_only = 0
+    balanced_stories = []
+    for st in data.get("stories", []):
+        source_names = {
+            src.get("name") for src in st.get("sources", [])
+            if isinstance(src, dict)
+        }
+        if source_names == {"E24"}:
+            if e24_only >= 2:
+                continue
+            e24_only += 1
+        balanced_stories.append(st)
+    data["stories"] = balanced_stories[:8]
+
     data["general_stories"] = [
         story for story in data.get("general_stories", [])
         if any(
