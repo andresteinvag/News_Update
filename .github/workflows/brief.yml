@@ -3,7 +3,7 @@ name: Økonomibrief
 on:
   schedule:
     # Kjører både sommer- og vintertid (UTC). brief.py hopper over alt som ikke er kl. 08 eller 20 i Oslo.
-    - cron: "5 6,7,18,19 * * *"
+    - cron: "5,15 6,7,18,19 * * *"
   workflow_dispatch:
 
 permissions:
