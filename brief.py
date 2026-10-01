@@ -359,10 +359,12 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    if now.hour not in (8, 20) and not force:
+    # Tillat én times forsinkelse fra GitHub Actions.
+    # 08-utgaven kan lages kl. 08 eller 09, og 20-utgaven kl. 20 eller 21.
+    if not force and now.hour not in (8, 9, 20, 21):
         print("Ikke utgavetid, hopper over.")
         return
-    hour = 8 if now.hour < 14 else 20
+    hour = 8 if now.hour in (8, 9) else 20
     ed_id = f"{now:%Y-%m-%d}-{hour:02d}"
     editions = json.load(open(EDITIONS, encoding="utf-8")) if os.path.exists(EDITIONS) else []
     if any(e["id"] == ed_id for e in editions) and not force:
