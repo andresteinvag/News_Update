@@ -1,5 +1,208 @@
 [
  {
+  "id": "2026-10-01-20",
+  "hour": 20,
+  "date": "2026-10-01",
+  "generated": "01.10.2026 21:31",
+  "overview": "Verdensøkonomien preges av økt politisk press på sentralbanker og geopolitisk uro, mens det på hjemmebane er fokus på store selskaps- og infrastrukturprosjekter. Markedene reagerer på både renteuro og selskapsnyheter.",
+  "stories": [
+   {
+    "title": "Fortsetter angrepene på Powell",
+    "summary": "President Donald Trump vil ha den tidligere sentralbanksjefen ut av Fed-styret og rentekomiteen. Dette skaper bekymring for sentralbankens uavhengighet i en periode med krevende inflasjons- og rentesituasjon.",
+    "why_it_matters": "Trusselen mot en uavhengig amerikansk sentralbank kan skape uro i globale finansmarkeder og påvirke rentebanen internasjonalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Uvisst om politisk press vil tvinge frem raskere rentekutt, noe som skaper volatilitet i obligasjonsmarkedet."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kan skape nervøsitet blant investorer som frykter politisk styring av pengepolitikken."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/qypnrz/fortsetter-angrepene-paa-powell?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Milliardsalg for Disruptive Technologies",
+    "summary": "Profiler som Stein Erik Hagen-familien (Andresen), Torstein Førre og Øystein Stenshagen håver inn storesummer på et nytt milliardsalg i teknologiselskapet Disruptive Technologies.",
+    "why_it_matters": "Viser at det fortsatt er solid appetitt for tidlig fase- og teknologiselskaper med globale ambisjoner fra norske profilinvestorer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Betydelig kapitalgevinst for kjente norske investorer som kan reinvesteres i nye vekstbedrifter."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Positivt signal for det norske tech-miljøet og oppstartsselskaper som søker privat kapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUURUY00yUFhjcV9aUXlJOU5sLUVaTFZjZGdnc3ViTEd6b3RqYzVuTWdDYTRfVEdfTDRsaTlfYlVoNVRPRmVmU3k4dVVPR1hMV1gyUXpjblNtaTJ5VC1HUWV3ajBULXI1djVCeGhXdnJnLTk4N2xPLU1rbFUtWDJrT2E5R2hfOVF6alhjd01lYVJ6Uk9QSVl0RkMzZDhwQ2hBZHh5bERPUnU1alJPMFJhdk9nZkZUOHJGeTJXMnlMWDBkX3pxODdGTFJrNWExUQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Tom Hagen saksøkt av partner",
+    "summary": "Tom Hagen har havnet i en bitter strid om selskapet som er hjørnesteinen i hans gigantformue, etter at en partner krever å bli betalt ut.",
+    "why_it_matters": "Konflukter i sentrale eierskap kan få betydning for drift og verdsettelse av store norske unoterte selskaper.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Kan binde opp ressurser og skape usikkerhet rundt selskapets fremtidige strategi og ledelse."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/K8Jr94/tom-hagen-saksoekt-partner-krever-aa-bli-betalt-ut-av-milliardselskap?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Rødt på Oslo Børs og Wall Street stiger",
+    "summary": "Oslo Børs opplevde en rød dag med blant annet en smell for Kongsberg, mens Wall Street trakk oppover støttet av en sterk kvartalsrapport fra brikkekjempen Micron Technology.",
+    "why_it_matters": "Utviklingen viser de stadige svingningene knyttet til enkeltsektorer og den sterke globale avhengigheten av halvlederindustrien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Blandet utvikling der teknologiaksjer internasjonalt gjør det sterkt, mens enkelte norske industritungvektere møter motvind."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Global etterspørsel etter teknologi holder seg robust til tross for makroøkonomisk usikkerhet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmtjbGRRa3UtYXVBdUhwWjV1azJ1Qk8zYXZFTnpwV25tZFBrSUFZY0NIRk1WUnJBbVREOGZXYkRXS2ZaNlpCSnJ4Yms2czVlcVZHOUk0QXBSXzZyNTZ5V2xycmtGRnotRHdjUGV4cVZmVmQ0QTdNZXR2cU5GU3VXTC1acXRHOE9CVEFzNnpuLW5BWlVYUE0wM0tobTB2RUdBQ3VXNE94M1h1V3VLNDhia3NmaGRuM2NV?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/AbzQLr/wall-street-stiger-fra-start?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljefondet samler eierskap og forvaltning",
+    "summary": "Norges Bank Investment Management gjør endringer og samler aktivt eierskap og aktiv forvaltning i én felles avdeling.",
+    "why_it_matters": "Slike interne organisndringer i verdens største oljefond kan påvirke hvordan fondet utøver sin eierstyring internasjonalt.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Kan gi en mer strømlinjeformet og helhetlig tilnærming til bærekraft og eierdialog i porteføljeselskapene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/L3paEq/oljefondet-gjoer-endringer?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Renteuro og politiske stramminger",
+    "summary": "Markedet merker effekten av høyere renter, noe som ifølge strateger kan tvinge tidligere udisiplinerte politikere til å stramme inn pengebruken.",
+    "why_it_matters": "Høyere kapitalkostnader endrer rammebetingelsene for både stater og bedrifter med mye gjeld.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere rentekostnader legger press på både privatpersoner og offentlige budsjetter."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Økt press på finanspolitisk disiplin i land med store underskudd."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/gdawo5/renteuro-kan-faa-udisiplinerte-politikere-til-aa-stramme-inn?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Ny prislapp for Bybanen til Åsane",
+    "summary": "De oppdaterte beregningene for Bybanen til Åsane viser en prislapp på 28,9 milliarder kroner, hvor tunnelløsningen er betydelig dyrere enn traséen langs Bryggen.",
+    "why_it_matters": "Store offentlige samferdselsprosjekter legger beslag på betydelige midler og påvirker regionale investeringsprioriteringer i Norge.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Betydelig økte kostnader for det offentlige som krever prioriteringer på tvers av budsjetter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/vestland/nytt-forslag-for-bybanetrase-til-asane-_-prislapp_-28_9-milliardar-kroner-1.18041970",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Ny pågripelse etter hendelse ved RAF Fairford",
+    "summary": "Britisk politi har pågrepet en 27 år gammel britisk-iransk mann mistenkt for terrorplanlegging i forbindelse med en hendelse ved en britisk flybase.",
+    "why_it_matters": "Saken understreker den vedvarende sikkerhetstrusselen mot militær infrastruktur i Europa og økt fokus på terrorberedskap.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet og politikk",
+      "effect": "Skjerpet fokus på anti-terrorarbeid og beskyttelse av militære anlegg i Storbritannia."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Canada fremskynder oljerørledning",
+    "summary": "Canada har erklært en ny oljerørledning som et nasjonalt interesseprosjekt for å fremskynde godkjenningsprosessen og diversifisere eksporten vekk fra USA.",
+    "why_it_matters": "Viser hvordan nasjoner forsøker å omstrukturere sin energihandel for å redusere geopolitisk sårbarhet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og handel",
+      "effect": "Kan endre de nordamerikanske energistrømmene og redusere USAs dominans over canadisk energieksport over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-01-08",
   "hour": 8,
   "date": "2026-10-01",
