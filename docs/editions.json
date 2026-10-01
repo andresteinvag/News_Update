@@ -3,22 +3,59 @@
   "id": "2026-10-01-20",
   "hour": 20,
   "date": "2026-10-01",
-  "generated": "01.10.2026 21:34",
-  "overview": "Dagens markedsbilde preges av politisk støy rundt sentralbanker og store strukturelle endringer i både norsk og internasjonal økonomi. Investorer følger nøye med på utviklingen i USA og geopolitiske spenninger som kan påvirke energimarkeder og råvarer.",
+  "generated": "01.10.2026 21:53",
+  "overview": "Uro i globale rentemarkeder og stigende lånekostnader preger markedsbildet, samtidig som politisk press mot sentralbankenes uavhengighet skaper økt usikkerhet. Her hjemme gjennomfører Oljefondet interne organisasjonsendringer, mens Oslo Børs tynges av fall i tunge industrinavn som Kongsberg Gruppen.",
   "stories": [
    {
-    "title": "Fortsetter angrepene på Powell",
-    "summary": "President Donald Trump fortsetter sin offentlige kritikk og vil ha den tidligere sentralbanksjefen ut av Fed-styret og rentekomiteen. Slike angrep skaper usikkerhet rundt den amerikanske sentralbankens uavhengighet.",
-    "why_it_matters": "Trusler mot sentralbankens uavhengighet kan skape uro i globale finansmarkeder og påvirke rentebanen internasjonalt.",
+    "title": "Kraftig rentehopp i USA etter bredt nedsalg i obligasjonsmarkedet",
+    "summary": "Amerikanske boliglånsrenter har steget markant til rundt 7,3 prosent etter det største rentehoppet på fire år. Oppgangen drives av et vedvarende nedsalg i statsobligasjoner, noe som sender markedsrentene opp og skaper svingninger på de internasjonale finansmarkedene.",
+    "why_it_matters": "Når lange amerikanske renter stiger, øker lånekostnadene globalt, noe som også begrenser Norges Banks handlingsrom for fremtidige rentekutt.",
     "region": "Verden",
     "impact": [
      {
       "area": "Renter",
-      "effect": "Usikkerhet rundt Feds uavhengighet kan føre til økt volatilitet i renteforventningene."
+      "effect": "Høyere amerikanske markedsrenter forplanter seg globalt og kan utsette forventede rentekutt."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Dyrere finansiering kjøler ned aktiviteten i det amerikanske eiendomsmarkedet og rammer husholdningenes kjøpekraft."
      },
      {
       "area": "Aksjemarkedet",
-      "effect": "Politisk innblanding i pengepolitikken kan gi negativ stemning i aksjemarkedene."
+      "effect": "Økende avkastningskrav på obligasjoner legger negativt press på verdivurderingen av risikable eiendeler."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWg2eFJlUUdIbk1MUGNMazBmaTBhNUpReW1ZQjBLRWFxakR4Vl9ZeUFMa2JfRGJJMWhBZ2Nic1VUS2J2bkNXUWJFSXpWdWFjUlpieFZjZEp4aG1NSV84UC1MXzBfV2gzaHJ3NktzZWZzbC11dnpWYkV3TzlvbzJNdGVNTTM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNjZoZzB6Wm1pc0htZmxQMVJObnlpRnNNeWxMc1ZJTnJwRU83Sjg3MUhNdEEteFh1SmhmSnR2bjN0TWRNZ3M3Q1dsWGh0bnlRSXpfWFJPeG5CQXowcEoxeURtRWstdGdmUS1iaWZnaFVOWXJOeGQ5U0RUSQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Donald Trump trapper opp angrepene mot sentralbanksjef Powell",
+    "summary": "President Donald Trump fortsetter sin offentlige kritikk av USAs sentralbanksjef Jerome Powell og krever at han fjernes fra Federal Reserves styre og rentekomité. Kampanjen skaper frykt for sentralbankens institusjonelle uavhengighet.",
+    "why_it_matters": "Politisering av Federal Reserve truer tilliten til dollaren og kan destabilisere det globale finanssystemet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Uavhengigheten til verdens mektigste sentralbank utfordres, noe som skaper usikkerhet rundt fremtidig pengepolitikk."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Fluktuasjoner i tilliten til dollaren kan skape utilsiktet volatilitet i mindre valutaer som den norske kronen."
      }
     ],
     "sources": [
@@ -30,42 +67,18 @@
     ]
    },
    {
-    "title": "Svenske danseband puster lettet ut",
-    "summary": "Etter at Bård Hoksrud tok opp Tolletatens strenge grep med Stortinget, har Finansdepartementet kommet med en gledelig nyhet for de svenske dansebandene som reiser på turné i Norge.",
-    "why_it_matters": "Saken viser hvordan politisk press raskt kan reversere byråkratiske toll- og avgiftstiltak som rammer kulturelt utvekt og mindre aktører.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Positive nyheter for arrangører og band som slipper uforutsette grensehindringer."
-     },
-     {
-      "area": "Handel",
-      "effect": "Forenkler regelverket for grenseoverskridende tjenester innen kultursektoren."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/vr0Mxm/svenske-danseband-puster-lettet-ut?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/0Bj24J/svenske-danseband-puster-lettet-ut",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Oljefondet gjør interne endringer",
-    "summary": "Oljefondet melder om organisatoriske grep der aktivt eierskap og aktiv forvaltning samles i én og samme avdeling.",
-    "why_it_matters": "Endringene kan styrke fondets posisjon som ansvarlig eier og spisse den aktive forvaltningen ytterligere.",
+    "title": "Oljefondet gjør strukturendringer og knyttes til tyrkisk børsuro",
+    "summary": "Norges Bank Investment Management (NBIM) slår sammen avdelingene for aktivt eierskap og aktiv forvaltning til én enhet for å effektivisere styringen. Samtidig melder Bloomberg at fondet har havnet i søkelyset i forbindelse med en børsskandale i Tyrkia.",
+    "why_it_matters": "Fondets organisering og risikostyring i fremvoksende markeder har direkte betydning for Norges nasjonale formue.",
     "region": "Norge",
     "impact": [
      {
       "area": "Offentlige finanser",
-      "effect": "Strukturinndelingen kan effektivisere forvaltningen av Norges store sparepenger."
+      "effect": "Effektivisering av Oljefondets forvaltning har som mål å styrke langsiktig avkastning og eierskapsutøvelse for fellesskapet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Eksponering mot regulatoriske hendelser i fremvoksende markeder understreker fondets omdømme- og styringsrisiko."
      }
     ],
     "sources": [
@@ -73,60 +86,106 @@
       "name": "E24",
       "url": "https://e24.no/norsk-oekonomi/i/L3paEq/oljefondet-gjoer-endringer?utm_medium=rss",
       "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Tom Hagen saksøkt av partner i milliardselskap",
-    "summary": "Tom Hagen har havnet i en bitter selskapsstrid der en partner krever å bli betalt ut av hjørnesteinen i hans formue.",
-    "why_it_matters": "Konflikter i sentrale eierskapsselskaper kan binde opp verdier og skape usikkerhet rundt større private selskaper i Norge.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Kan medføre krevende rettsprosesser og potensiell omstrukturering av eierforholdene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/K8Jr94/tom-hagen-saksoekt-partner-krever-aa-bli-betalt-ut-av-milliardselskap?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Perx-konkursen: Tryg Forsikring har fått 800 krav",
-    "summary": "Hundrevis av långivere har meldt inn krav gjennom folkefinansieringsplattformen etter råd fra advokat, i kjølvannet av Perx-konkursen.",
-    "why_it_matters": "Saken kaster lys over risikoen forbundet med folkefinansiering og forsikringsløsninger for private långivere.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Mange mindre investorer risikerer tap og må gjennom lange oppgjørs- og forsikringsprosesser."
      },
      {
-      "area": "Regulering",
-      "effect": "Kan føre til strengere krav til oversikt og sikkerhet for alternative finansieringsplattformer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/w36rnG/perx-konkursen-tryg-forsikring-har-faatt-800-krav?utm_medium=rss",
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWJiNFFjYUNfUHNJcmZZRkU4UGprZkZVLWpvVElPVEQ0TF93SElOOElKTDRnN2dNWFFpWXdIN2lHamhleENER0VPT2lETlRQWjAyQWMzZ090WDJDcGQxVVIxLUloUEJGUGY2YTFIUjhkT1dzZXQ3RWpkdWhfYUFhMVEtNlp0ZU9zcGtuTWVEd0wtSVJJYjBPbmYwM25tZjly?oc=5",
       "paywall": true
      }
     ]
    },
    {
-    "title": "Wall Street stiger etter sterk rapport",
-    "summary": "De amerikanske børsene åpner oppover, hjulpet av sterke tall fra brikkekjempen Micron Technology som løfter teknologisektoren.",
-    "why_it_matters": "Utviklingen på Wall Street gir ofte retning for internasjonale børser, inkludert Oslo Børs.",
+    "title": "Canada hurtigbehandler ny oljerørledning for å minske USA-avhengighet",
+    "summary": "Canadiske myndigheter har tatt i bruk ekstraordinære fullmakter for å gi grønt lys til en ny oljerørledning mot Stillehavskysten under en forenklet regulatorisk prosess. Prosjektet er erklært som en nasjonal interesse for å diversifisere landets energi-eksport.",
+    "why_it_matters": "Økt canadisk eksportkapasitet mot Asia kan endre globale handelsruter for råolje og påvirke prisdannelsen på sikt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Canada posisjonerer seg for direkte oljeleveranser til asiatiske markeder, noe som gradvis kan redusere rabatten på tungolje."
+     },
+     {
+      "area": "Handel",
+      "effect": "Tiltaket reduserer Canadas sårbarhet overfor det amerikanske raffinerimarkedet og åpner nye eksportkorridorer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG5sYm9xb0ZfRjh4SE9POUFqNkVBbnk1M1Z0eDlGX2xPX3ZaeU9qS3p1M21HenlfdDBIaFVCaTJoTUF5b3NkM3lUWmhSNnlER2xmYi1sQ3c2cDJkbEJJSno2amltNWhiNTdUSGZ1N2JiSDNaSzBjcDlralFLODlwMTk1aTk5Y3huZFotQlQyYnl3X2h4T0VSY01mR1dLQ1RVSU9rSWpBNmtEV2lzX0hucEw5SU0?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kongsberg-fall tynget Oslo Børs tross opptur i teknologisektoren",
+    "summary": "Hovedindeksen på Oslo Børs endte i rødt, primært tynget av et kraftig kursfall for forsvarskjempen Kongsberg Gruppen etter lengre tids oppgang. Fallet ble delvis motvirket av teknologiselskaper som opplevde et byks etter positive analytikeranbefalinger.",
+    "why_it_matters": "Forsvarssektoren har vært blant de sterkeste vekstdriverne på Oslo Børs, og markante korreksjoner slår direkte inn på det norske aksjemarkedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Korreksjonen i forsvarsaksjer svekker Hovedindeksen på kort sikt, mens tech-sektoren tiltrekker seg ny kapital."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Til tross for kursfallet melder forsvarsrelaterte leverandører fortsatt om en solid ordreinngang drevet av Nato-opprustning."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdmtjbGRRa3UtYXVBdUhwWjV1azJ1Qk8zYXZFTnpwV25tZFBrSUFZY0NIRk1WUnJBbVREOGZXYkRXS2ZaNlpCSnJ4Yms2czVlcVZHOUk0QXBSXzZyNTZ5V2xycmtGRnotRHdjUGV4cVZmVmQ0QTdNZXR2cU5GU3VXTC1acXRHOE9CVEFzNnpuLW5BWlVYUE0wM0tobTB2RUdBQ3VXNE94M1h1V3VLNDhia3NmaGRuM2NV?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbktjTjdwQzViOG9hYWVuYUFNUUVTcUxYYnAyajBtN19PNWx6YnpsWThfVFR4R0pWd1M1R3RnSy1ndXZYUzR4MEd4WWg0TTBteDB5UXA1Vll0QzdMSFhvcTY2MjNPYXY4X25wLXdGUVZHUW5HdjlHU3BSU0lzQnpDd3JxWEk2Wk1Tb3M2SzFKVXY2Q1d6V2xURlA5LUNDTXpoR0xwWWdJX09Jdw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Japanske selskaper trekker seg ut av Kina i rekordtempo",
+    "summary": "En ny kartlegging viser at japanske virksomheter nå avvikler eller flytter sine kinesiske etableringer i et tempo man aldri har sett før. Utviklingen skyldes økt geopolitisk spenning, strengere lokal regulering og svakere marginer i det kinesiske innenlandsmarkedet.",
+    "why_it_matters": "En akselererende frakobling mellom to av Asias største økonomier vil omforme regionale forsyningskjeder og påvirke global industriproduksjon.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Global industri ser en vedvarende dreining mot vennelokalisering ('friend-shoring') bort fra kinesiske underleverandører."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Økende økonomisk avstand mellom Japan og Kina kan forsterke de sikkerhetspolitiske spenningene i Øst-Asia."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlAzNnZZaXdiR21DamE4ZXpjejNLdDJEbmZnTnlRdU1tWEtnNWtabmk3SFNwZHc3cGU2SXVMWXkwSVN1ZE9ZbXpGNXJUSHR4blJUaTdwcmh3ei1hdFNxZnJwUk1zSDQ2aExGZUtJbGRncjhaTUwybHlETkJfcWxEQkRDZEc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Brikke- og teknologiselskaper viser styrke drevet av AI-etterspørsel",
+    "summary": "Amerikanske børser steg torsdag etter sterke kvartalstall fra minnebrikkeprodusenten Micron Technology, som drar nytte av massiv etterspørsel etter maskinvare til kunstig intelligens. Samtidig forbereder AI-selskapet Anthropic seg på en storstilt børsnotering før Thanksgiving.",
+    "why_it_matters": "Investeringsbølgen innen kunstig intelligens fortsetter å være den viktigste motoren for selskapsinntjening og verdivurdering i globale markeder.",
     "region": "Verden",
     "impact": [
      {
       "area": "Aksjemarkedet",
-      "effect": "Positivt sentiment og oppgang i teknologiaksjer internasjonalt."
+      "effect": "Solid inntjening hos halvlederprodusentene gir fornyet optimisme til hele den globale teknologisektoren."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Kapitalallokeringen mot datasentre og infrastruktur for kunstig intelligens opprettholdes på rekordhøye nivåer."
      }
     ],
     "sources": [
@@ -134,50 +193,84 @@
       "name": "E24",
       "url": "https://e24.no/boers-og-finans/i/AbzQLr/wall-street-stiger-fra-start?utm_medium=rss",
       "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JhTnFqcnpPcDJNbTZGZmJUOUNSZ3FGNWw2cFpsOFE2UjZQSVA5TzJGald3RjA0SFh2NFQtLUF1dXVmY2JuMVVPdmp4TFkzNy12azEzU2FrSmhMWVpwb09iWklObGZkZEkySmZESkZzRTRhX1kwaUt6OG9tUkVRc0tGRVpnVUNIZ0E2U0g1elVLdTByMGQtZC1UNjlVeUhvQ3FUNXJzWkwzMERJMmJ2NVo1bVFlMUl3dnh3cA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5",
+      "paywall": true
      }
     ]
    }
   ],
   "general_stories": [
    {
-    "title": "Britisk-iransk mann pågrepet i Storbritannia",
-    "summary": "En 27 år gammel britisk-iransk mann er pågrepet av antiterrorpoliti i London i forbindelse med en hendelse ved flybase i England.",
-    "why_it_matters": "Saken viser økt trusselbilde og fokus på sikkerhet rundt militære installasjoner i Europa.",
+    "title": "Omfattende elev- og studentopptøyer sprer seg i Frankrike",
+    "summary": "Tusenvis av franske elever og studenter har sperret skoler og satt fyr på barrikader i protest mot overfylte klasserom, lærermangel og forfalne skolebygg. Statsministeren har innkalt til krisemøte mens politiet har pågrepet flere hundre demonstranter.",
+    "why_it_matters": "Protestene skaper betydelig politisk press på den franske regjeringen og forsterker uroen rundt landets offentlige tjenester og budsjettprioriteringer.",
     "region": "Verden",
     "impact": [
      {
-      "area": "Sikkerhet",
-      "effect": "Skjerpet beredskap og internasjonalt samarbeid knyttet til terrorforebygging."
+      "area": "Samfunn og politikk",
+      "effect": "Eskalerende sosial uro svekker myndighetenes autoritet og kan tvinge fram budsjettendringer innen utdanningssektoren."
      }
     ],
     "sources": [
      {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&at_campaign=rss",
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkNpN2l2enlnYmxURVQwT04yekxLeWZya0hoTklJWG9McVFJbmxEM2ZWVmtqeEZEX2NjVmtsaU9KakRfQTdoVTkwTUtFY2pucFdJRTRMYVJseDZNU3c4d0Y5a2dtTzRodFdVVkgxZlc2c1B0cm8zRUNXMW1Nb0pCU21WaDllaGwyMUdqRnc4dmFCS3JCN1o0bUd6WlVhZkdBOENObjBtaC1scmR1TVRKYzVyLWVHb0V1Qmhz?oc=5",
       "paywall": false
      },
      {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/britisk-iransk-mann-pagrepet-i-storbritannia-1.18042513",
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
       "paywall": false
      }
     ]
    },
    {
-    "title": "Canada vil fortgang i ny oljerørledning",
-    "summary": "Canada tar grep for å diversifisere økonomien bort fra USA ved å gi raskere godkjenning til en større oljerørledning av nasjonal interesse.",
-    "why_it_matters": "Initiativet kan endre landets energistrategi og handelsmønstre overfor nabolandet i sør.",
+    "title": "Kaptein forhindret flykapring på rute til Israel",
+    "summary": "En 38 år gammel kaptein på et FlyDubai-fly på vei til Israel klarte på dramatisk vis å slå tilbake et angrep i cockpiten da en person forsøkte å ta kontroll over flyet. Israelske myndigheter hevder gjerningspersonen var radikalisert og hadde til hensikt å styrte maskinen.",
+    "why_it_matters": "Hendelsen skaper fornyet frykt for luftfartssikkerheten i Midtøsten og kan medføre skjerpede sikkerhetsprosedyrer og ruteendringer internasjonalt.",
     "region": "Verden",
     "impact": [
      {
-      "area": "Energi og råvarer",
-      "effect": "Legger til rette for økt eksportkapasitet til nye markeder utenfor USA."
+      "area": "Sikkerhet og luftfart",
+      "effect": "Episoden utløser umiddelbare sikkerhetsgjennomganger hos internasjonale flyselskaper med trafikk i regionen."
      }
     ],
     "sources": [
      {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss",
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDVnRPM016ZnBHZEIyRk9FVHpVSDlFYmNHRWxnUndFNzNmMnMtdUFCSlBSQmdNRWluYjlYUTVScVMyWHZPUUdRYjkxajREZkFIRVhfUVlmOVVlMURUNmRZbjhIdzRNVnNhTkVOeWYyWTVkSjhtZU00cFdkeHdVel8zZWxfR0ljM2tYeHREUmt0b0cteFJ4RkhmUVBJdkJCZ0JKLWEzRWNJYXIwckxn?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Etiopia og Eritrea bryter de diplomatiske båndene",
+    "summary": "Etiopia utviser eritreiske diplomater etter anklager om fiendtlige handlinger knyttet til kamper i Tigray-regionen, hvorpå Eritrea svarte med likelydende utvisninger. Bruddet markerer slutten på fredsavtalen fra 2018 mellom de to nabolandene.",
+    "why_it_matters": "Eskaleringen på Afrikas horn øker risikoen for en ny regional storkrig i et allerede sårbart område.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet og geopolitikk",
+      "effect": "Kollapsen i relasjonene destabiliserer Afrikas horn og kan utløse nye humanitære kriser og flyktningstrømmer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
