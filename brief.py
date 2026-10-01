@@ -359,13 +359,15 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    # Workflowen prøver rundt både sommer- og vintertid.
-    # Tillat én times forsinkelse fra GitHub Actions:
-    # morgenutgaven kl. 07-09, kveldsutgaven kl. 19-21.
-    if not force and now.hour not in (7, 8, 9, 19, 20, 21):
-        print("Ikke utgavetid, hopper over.")
-        return
-    hour = 8 if now.hour in (7, 8, 9) else 20
+    # Workflowen kjører kl. 08:05 og 08:15, samt 20:05 og 20:15 norsk tid.
+    # Den tillater også en liten tidsforskyvning dersom GitHub starter jobben
+    # noen minutter etter planlagt tidspunkt.
+    if not force:
+        minute_ok = now.minute <= 30
+        if now.hour not in (8, 20) or not minute_ok:
+            print("Ikke utgavetid, hopper over.")
+            return
+    hour = 8 if now.hour == 8 else 20
     ed_id = f"{now:%Y-%m-%d}-{hour:02d}"
     editions = json.load(open(EDITIONS, encoding="utf-8")) if os.path.exists(EDITIONS) else []
     if any(e["id"] == ed_id for e in editions) and not force:
