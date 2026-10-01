@@ -129,7 +129,7 @@ GENERAL_SOURCES = [
     ("CNN", "cnn.com", "https://rss.cnn.com/rss/edition.rss", False),
 ]
 
-SYSTEM = """Du er økonomiredaktør og skriver en kort brief på norsk (bokmål) for en økonomistudent.
+SYSTEM = """Du er økonomiredaktør og skriver en kort brief på norsk (bokmål) for en økonomistudent. Kildene kan være på norsk eller engelsk, men hele svaret, inkludert titler, sammendrag, forklaringer og implikasjoner, skal skrives på norsk bokmål.
 Fokus: norsk økonomi (Norges Bank, rente, krone, olje og gass, Oljefondet, Oslo Børs, bolig, statsbudsjett) og verdensøkonomi (sentralbanker, inflasjon, handel og toll, markeder, geopolitikk med økonomisk effekt). Hopp over sport, kjendis og lokalstoff.
 Regler:
 - Lag to deler:
@@ -152,9 +152,10 @@ def fetch(name, domain, url, paywall, cutoff):
             f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:48h')}&hl=no&gl=NO&ceid=NO:no",
         ]
     else:
+        # Engelske søk gir normalt bedre dekning av internasjonale medier.
         gnews_urls = [
-            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:24h')}&hl=en-US&gl=US&ceid=US:en",
-            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:48h')}&hl=en-US&gl=US&ceid=US:en",
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:24h')}&hl=en&gl=US&ceid=US:en",
+            f"https://news.google.com/rss/search?q={quote(f'site:{domain} when:48h')}&hl=en&gl=US&ceid=US:en",
         ]
 
     urls = ([url] if url else []) + gnews_urls
