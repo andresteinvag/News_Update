@@ -1,5 +1,290 @@
 [
  {
+  "id": "2026-10-02-08",
+  "hour": 8,
+  "date": "2026-10-02",
+  "generated": "02.10.2026 08:25",
+  "overview": "Uro i Midtøsten og stigende oljepriser preger de globale finansmarkedene i forkant av viktige amerikanske arbeidsmarkedstall. Samtidig preges norsk økonomi av stabil lav ledighet og fornyet politisk debatt om kutt i drivstoffavgiftene.",
+  "stories": [
+   {
+    "title": "Oljeprishopp og Midtøsten-spenning skaper børsuro før amerikanske jobbtall",
+    "summary": "Økt amerikansk militært nærvær i Midtøsten har sendt oljeprisen markant oppover, noe som tynger børser i Asia og skaper nervøsitet i globale aksjemarkeder. Investorer avventer samtidig den månedlige amerikanske arbeidsmarkedsrapporten, midt i betydelige svingninger i obligasjons- og valutamarkedene.",
+    "why_it_matters": "Høyere oljepriser kan forsinke inflasjonsnedgangen globalt og påvirke sentralbankenes rentekuttplaner, samtidig som det styrker norske petroleumsinntekter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Oljeprisen stiger på frykt for forsyningsforstyrrelser i Midtøsten, noe som isolert sett gir økte eksportinntekter for Norge."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Asiatiske og europeiske aksjemarkeder opplever økt volatilitet og press idet høyere energipriser og renteusikkerhet tynger stemningen."
+     },
+     {
+      "area": "Renter",
+      "effect": "Dersom energiprisene holder seg høye, kan sentralbanker bli tvunget til å holde styringsrentene oppe lenger enn markedet håper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PczBGSjZTdzVELV8xZWlIOUpseDVTWG5nT3Y0cHBqQzYwb0NoQy1QcFpia2FyNFBWSFZZNk5HWjNXdU5CMDZ0RThMUEdQZ0d5OUFvZ3Q0LUF2d2FfRGVfY3ZuQlBmajQxZ2JENnFuOWI1TV9ucmVjYmZhaDIzNEnSAYQBQVVfeXFMT2NyM19zaDZXS1VxMzh5MWM4cmFvcnk0elkxR3kya09UQlFrVGFDS0RMLTJyQWdsb1Y5UlU2TERIdzB6Ykx0eXhHT2pYTU1uZ3JfNzdEdmJLckpTRDRlYXNWcmRlczc5SkozRFRLeUZtdXdkRVZEdDI3ZTFDTHpSTE42bWVh?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xaEpXc3pMdGRXalZlcHdvWThBeklWRlpfRDd4cUZLbXNGS2s0YVF4Sm42YUpqaFNTbVkyWmIyanN6WmxtSG5yME8zTml3Z1N3a0NabmktSy1YYWp0SFlOM2NQZEN6WmFnX096dUREY1pHTFJ0NzlrUW54cw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUEdqaVBBb3FqRzg1RlZpdzlvdmQxc3ZpOHhOMmJvQW5kVzBKZ19XdXg1T080ME9qd201cy0zSWJkSnlSN2trS1BKZ1dpenVDYU5nNjJlYWRxNXl1U0xOTlc2cVYxRFJjblloT3h0Tm1JSkdpSlZDLTZaVFNEWHd5bFo2bjlhLXZ2OVlUM2FpUjltYTlhUGowdEpaWmpFSFNYc2Ywa0VXZWViU1M5VXc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Amazon vil overføre Nvidia-brikker verdt 8 milliarder dollar til investorer",
+    "summary": "Teknologigiganten Amazon forsøker å flytte Nvidia-prosessorer til en verdi av 8 milliarder dollar ut av egne balanser og over til eksterne investorer. Grepet kommer i en periode der storselskaper gjør omfattende kapitalinvesteringer i kunstig intelligens og søker nye finansieringsstrukturer.",
+    "why_it_matters": "Transaksjonen belyser de enorme kapitalkostnadene knyttet til KI-infrastruktur og hvordan tek-kjemper søker å avlaste balansen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Tiltaket kan avlaste Amazons balanse og frigjøre kapital til videre utvikling innen nettsky og infrastruktur."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Investorer følger nøye med på om etterspørselen etter KI-maskinvare begynner å møte kapitaleffektivitetskrav fra eierne."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nike varsler nedbemanning etter kraftig inntektssvikt i Kina",
+    "summary": "Nike opplever et markant fall i etterbørshandelen etter å ha lagt frem skuffende kvartalstall tynget av svakere salg i det kinesiske markedet. Selskapet planlegger nå nedskalering og stillingskutt for å tilpasse seg en forventet inntektsnedgang det kommende året.",
+    "why_it_matters": "Nikes vanskeligheter i Kina illustrerer vedvarende motvind i kinesisk forbruksetterspørsel, som rammer store vestlige merkevarer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Svakere forbrukertillit og tøffere lokal konkurranse i Kina rammer internasjonale merkevarer direkte."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kursfallet i Nike kan smitte over på andre globale forbruks- og sportsartikkelaksjer."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Selskapets planlagte stillingskutt føyer seg inn i en trend der store forbrukerselskaper strammer inn driftskostnadene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/QgRGX4/skuffende-nike-tall-faller-naer-seks-prosent-i-etterhandelen?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVVTdVUzSWdkbk9sYzhPZWE1MkRpTHRxMV9jNU01MGpMajlEQlowM3BZdmJwMXIyLThTUXlOajdNNUpYalljY3BRWnRtajhSX0lBQ2hzSWN3Z1VhSjEza29WdzNQaE44TVBpWVoxNTE2SDJQVGpMOGRjZjZZZjlNU01oWjg?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVURNQnYxSXZNcGJXeFZBUjR3cHZzZXdVXzNBNXFfR3Vidm00eFhrNlNfak9qZ1dhQ2tQU01CeWt6S1AzUXFRMk85SDVIbXNXU0pOU3FWMnEzWDhiVl83OWp0Wk01c0kxTVN6THBRQkJtU1p2OU1Bd2dNZ3ByeHFRYUduSjlXNWlPaHZpaC00ZnA1azU2cTRvU0l6b0lnMm1SZUxKTkNma1NRRVdfTXdzc1RIdTF6d0FaMWc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norsk arbeidsledighet holder seg stabil på 2,0 prosent",
+    "summary": "Nye tall viser at den registrerte arbeidsledigheten i Norge holdt seg uendret på 2,0 prosent i september. Arbeidsmarkedet viser dermed fortsatt betydelig motstandskraft til tross for det høye rentenivået.",
+    "why_it_matters": "Et stramt arbeidsmarked reduserer sannsynligheten for at Norges Bank vil fremskynde rentekutt, ettersom lønnspresset forblir oppe.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Den lave og stabile ledigheten gir Norges Bank lite hastverk med å sette ned styringsrenten."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Sysselsettingen holder seg høy, og det meldes fortsatt om lav ledighet på tvers av de fleste sektorer."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Utsiktene til at rentenivået holdes høyt kan gi moderat støtte til den norske kronen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzJqTDBUT0dkRFEyWWJ0S3JqV1pNUzlGZlpUQ2s5dkpSbjBQYUNuUVp2Qm84UUc3eGRhSC11VEgteEFhWjNIU2s5Skh6NXpSdmEzWVJqNl80dEN2eE8zVF9ERUVER1JOVmJTZEdaU1dzLXhWd2I5al9NSUxpMVpEUTFMNm4wWWxtaWpDOEEzVVJMVk5EU2J1SFlBRmtUcHFXRldTVVF2SWZudw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Frp, Sp og KrF fremmer forslag om kutt i drivstoffavgiftene",
+    "summary": "Fremskrittspartiet, Senterpartiet og Kristelig Folkeparti har gått sammen om et representantforslag på Stortinget om å kutte drivstoffavgiftene ut året. Forslaget utfordrer regjeringspartiene og Høyre om avgiftslettelser til norske bilister.",
+    "why_it_matters": "Endringer i drivstoffavgifter kan gi direkte utslag i konsumprisindeksen og påvirke husholdningenes disponible inntekter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Dersom forslaget får flertall, vil det gi lavere pumpepriser på bensin og diesel for norske husholdninger og pendlere."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Kutt i avgiftene vil isolert sett redusere statens avgiftsinntekter med mindre det kompenseres i statsbudsjettet."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Reduserte drivstoffavgifter vil kunne dempe den målte prisveksten på kort sikt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/frp_-sp-og-krf-vil-ha-kutt-i-drivstoffavgiften-ut-aret-1.18043070",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Trump trapper opp angrepene mot sentralbanksjef Jerome Powell",
+    "summary": "Donald Trump fortsetter sin verbale kampanje mot Federal Reserve og krever at sentralbanksjef Jerome Powell fjernes fra styret og rentekomiteen. Samtidig signaliserer andre Fed-medlemmer at rentebildet forblir krevende og at obligasjonsmarkedet må overvåkes nøye.",
+    "why_it_matters": "Politisk press på sentralbankens uavhengighet kan skape betydelig usikkerhet i dollarmarkedet og i internasjonale statsobligasjoner.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Debatten om sentralbankens uavhengighet i USA kan skape økt risikopremie i rentemarkedene."
+     },
+     {
+      "area": "Renter",
+      "effect": "Uro rundt Feds styring kan gi større svingninger i amerikanske statsrenter, noe som forplanter seg globalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/qypnrz/fortsetter-angrepene-paa-powell?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYnlDY194NEJMQ28xWnRVNDJWcXZnMW1mdzhqazd0MU5sWWN2ZkpYMTAyTnRXM1R6VE1oTUFYUnNJNEM2TXdDemEzdEw4QXJhS0g2SzRJUmR5NFpJNGl4d0EwWXFidXBKNU1sYllZRDBEQ3lUS3VIS1NPRWZaWEV0U2J2c0tOT3dzOEx0aHQzZnZpUllRQ3pBWmkxcFBxNDFOdlM2WmNYVjNVT2daUERiYQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Amerikansk finanstilsyn vurderer å forenkle kryptoregelverk for fond",
+    "summary": "Det amerikanske verdipapirtilsynet arbeider med regelendringer som skal gjøre det enklere for tradisjonelle fond og investeringsrådgivere å eie og forvalte kryptovaluta. Forslaget ses som et nytt steg mot integrering av digitale aktiva i det etablerte finanssystemet.",
+    "why_it_matters": "Enklere adgang for institusjonelle investorer kan øke kapitalflyten inn i kryptovalutamarkedet betydelig.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Tydeligere og mer tilpassede regler kan redusere regulatorisk risiko for institusjonelle forvaltere."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Finansforetak og forvaltere får nye muligheter til å tilby regulerte kryptoprodukter til kunder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWnhXc2UzZlhDcmRhTEtLWWhHNWNSNlREX1FDakR5alZZc1pzUGFobUt6WWI2ZjNJVjB3SmZMWEo0QmoyQkxWZXY1ejZtcXVrS2w5NlNqN01WTlhXREYxSk9TeDdjZEhRLXBRb1VRYWRad9IBd0FVX3lxTFBaQ0lXTmJEZ1VaR0FCUUg5YTRoUUhlMkNsZWRfWWw1aWo1SFZiNEtHdHVvSWs2N1FEZDlRVF9UYTZVUlJFYmpyWVlvYmY0MVUzQ1o2OEJRNHNSZ0xMUWw5MWE0c0dJc0pLQnRmcDBEZDBiYWZoZDlJ?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "USA presser europeiske allierte til å frigi strategiske diesellagre",
+    "summary": "Den amerikanske administrasjonen under Donald Trump legger press på europeiske allierte, særlig Tyskland og Frankrike, om å frigi strategiske dieselreserver for å dempe drivstoffprisene. Trump truer samtidig med amerikansk eksportforbud på diesel dersom prisene ikke stabiliseres før valget.",
+    "why_it_matters": "Utspillet skaper diplomatiske og energipolitiske spenninger mellom USA og Europa og kan få store konsekvenser for europeisk forsyningssikkerhet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Et eventuelt amerikansk eksportforbud eller tvungen tapping av europeiske lagre kan føre til markante forstyrrelser i det internasjonale drivstoffmarkedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Eritrea bryter diplomatiske forbindelser med Etiopia",
+    "summary": "Eritrea har kuttet alle diplomatiske bånd til Etiopia etter at myndighetene i Addis Abeba besluttet å stenge sin ambassade i Asmara. Bruddet følger fornyede spenninger knyttet til Tigray-regionen og påfølgende droneangrep i Etiopias hovedstad.",
+    "why_it_matters": "Konflikten på Afrikas horn risikerer å eskalere på nytt og true den skjøre regionale stabiliteten i et strategisk viktig område.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Diplomatibruddet øker faren for væpnet konflikt og ny ustabilitet i regionen rundt Rødehavet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Omfattende industribrann og evakuering i Porsgrunn",
+    "summary": "Et nærings- og lagerbygg i Porsgrunn sto i full fyr fredag morgen, der flere gassflasker eksploderte og flammene spredte seg videre til en brygge og en lekter. Politiet opprettet en sikkerhetssone på 300 meter og evakuerte naboer på grunn av eksplosjonsfare.",
+    "why_it_matters": "Hendelsen medførte akutt fare for liv og helse samt betydelige materielle ødeleggelser i et lokalt industriområde.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Evakueringer og avsperringer forstyrret nærliggende virksomheter og beboere i Porsgrunn gjennom morgentimene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/vestfoldogtelemark/naeringsbygg-i-porsgrunn-overtent-1.18043019",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOME5YbWxtbDdzNHNoM3Jnd2FtdWdNTFRDSGY4VTd4RmVxMUZOWThPODRzdk54V3dhcnpSM3g2dUxaWlRZNXdZLVZ6NHpiaUJvbk1zeDVKUE1iaHBWRlladzllQWZOcEhBME1WU0NsdTIza2M1N1NPN0VLck05dEtFR2dMSEUtWjlZNG1QYkx5RHVyLWhkaHgteUlOYzlNaXFUSjJCRlh5cFpNS2poc21V?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-01-20",
   "hour": 20,
   "date": "2026-10-01",
