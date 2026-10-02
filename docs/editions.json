@@ -1,5 +1,239 @@
 [
  {
+  "id": "2026-10-02-20",
+  "hour": 20,
+  "date": "2026-10-02",
+  "generated": "02.10.2026 20:25",
+  "overview": "Dagens markedsbilde preges av svært svak amerikansk jobbtekst som løfter forventningene om rentenedgang, samt at G7 og Europa frigjør store olje- og dieselreserver. Samtidig viser inflasjonstall fra eurosonen og oppjusterte utsikter for Wall Street at det er store sprik i den globale økonomien.",
+  "stories": [
+   {
+    "title": "Svak amerikansk jobbvekst i september",
+    "summary": "Den amerikanske økonomien la bare til 29 000 nye jobber i september, noe som var langt under forventningene. Samtidig klatret arbeidsledigheten til 4,2 prosent.",
+    "why_it_matters": "Svakere vekst i verdens største økonomi påvirker globale markeder, renteutsikter og råvarepriser direkte.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Trekker i retning av mindre sjanse for nye rentehevinger og kan fremskynde rentekutt."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Ga et bredt løft på Wall Street ettersom investorer priser inn en mykere pengepolitikk."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Viser en markant nedbremsing i ansettelsestakt og økende ledighet i USA."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpxWlBhS200R0JORVFQSnp6dHJUMXNpUEt3VkVySm1kV0Q4OFNEZDMwbEFVMkNnYUNIZXZjQkwzLW1QbnhSeWxaY003M1VpUEg5bGtaNHNzd0ZHMVFEaTZ5RTBEUFBIUnZVal9Ob3hPdVdCcDJvRVYxTVNDV1Jybmx4d1Q?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/0BE1A6/svakere-jobbvekst-enn-ventet-i-usa-29-000-nye-jobber-i-september?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "G7 frigiør 100 millioner fat olje og diesel",
+    "summary": "G7-landene og EU har etter hardt press fra USA blitt enige om å frigi opptil 100 millioner fat med råolje og diesel fra strategiske reservelagre.",
+    "why_it_matters": "Tiltaket er ment å dempe det høye prispresset på drivstoff og energi i forkant av det amerikanske mellomvalget.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Kan presse olje- og drivstoffprisene ned på kort sikt ved å øke tilbudet i markedet."
+     },
+     {
+      "area": "Geopolitikk og handel",
+      "effect": "Illustrerer hvordan politisk press fra USA påvirker europeiske energibeslutninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHJMRmd5blQxSkhad19VT09zX1JuTGNxVk5BQ3Vjai1XLWQ0eTZhQ0FnN21ERERlcUpWOUp1RV9XbVNBX3ptZXRGU25kdGx1ZnhpaXk2ZzNmbXFjTk5aOFYxTEVwUk9wNFhNbXBwUmotQlVva2RaYVJvVy1JRmZMR2xzRHE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlU2Y05YNVZZZkloZWdrUV94UktTRG52TlUxd0FFdkhaY3VMTGNrU01zSjhqTHNKV3ZidG9KQzNCcWEyTUlFTkNyRXZoSUVGWFViWXJJNG9XZGhQVlFJbUwtYVJUcHdyUU1CdDRjellJUFd4NExMaTBkMXhja3F1WjJlQzN3eHliUGhXYkdHZUc4QVN0VzRmSUZ0V0lacEF2cFlhbFFrc3VyNVpLamhnc0RNbXRqRWM?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Høyeste inflasjon i eurosonen på tre år",
+    "summary": "Konsumprisveksten i eurosonen har steget til 3,8 prosent, det høyeste nivået på tre år.",
+    "why_it_matters": "Høyere inflasjon enn ventet i Europa kan tvinge Den europeiske sentralbanken til å holde rentene oppe lenger enn markedsaktørene har håpet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Minsker sannsynligheten for raske rentekutt fra Den europeiske sentralbanken."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Gir vedvarende press på kjøpekraften til europeiske husholdninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEFTdUt4M2lTRS1OWXFOZUNYQjF4U1VxRlB0eEpoY21IZE1oM2ludkpPa0VkVS0zRjEyY0c4WmlCVWREaWl6N3E0Q0MzUzFXbmtYZ3FIWTAtYUhzTTJRcVA2VEVRX08tc0VjS25JZ0xReGoyb2RSOE0xRzlhcW4zTWtJcU4?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Sterke resultatudsikter for Wall Street",
+    "summary": "Resultatforventningene på Wall Street går mot normalen, drevet av sterke investeringer innen kunstig intelligens og selskaper som trosser renteoppgangen.",
+    "why_it_matters": "Amerikanske aksjemarkeder setter standarden for global risikovilje og påvirker også avkastningen til for eksempel norske investorer og Oljefondet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Driver opp optimismen knyttet til teknologi- og AI-selskaper."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Viser en robusthet i amerikansk næringsliv til tross for tidligere stramme finansielle forhold."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/b85L3q/wall-street-hever-forventningene-musikken-spilles-fortsatt",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tesla-salget faller i tredje kvartal",
+    "summary": "Teslas leveranser falt med 2 prosent i tredje kvartal ettersom amerikanske forbrukere kjøper færre elbiler.",
+    "why_it_matters": "Utviklingen speiler en tøffere konkurransesituasjon og flatere etterspørsel i elbilmarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Skaper usikkerhet rundt verdsettelsen av rene elbilprodusenter i et modnende marked."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Tyder på at den raske veksten i elbiladopsjon møter visse barrierer hos amerikanske bilkjøpere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmY1bHhjQXN2VHNHaHV6eHhxbXJkM05QZERRa1hQLWo3cTk0RTFzLVRwTkpoZWNSR2FyVk8wTk1DVlhCYi1wYnZ5ZVg1b04tS3RpUkdNWGdlTWZTVGlUYzFnOTBjWDVuaDhKRHVuUWxiaVA3T2JzcnZSNGZ2aXVCYU91WVg?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTYzSkI2MFdTdXRYNUUyS2NOUkVPRWx6eHkzNGprNHRjMngwbU9takQ2NHplVXBYTUZjbl81YzhxM2xLT1diV1ZDdWJCazM2dUlJYWM5QVhmMEt1N3YtQXM4T29EMTF4dlFGQ2Nrb0lsZk8wdDl1T2pCY1A2VVpvSG02dw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Rystad Energy henter inn Morgan Stanley for finansiering",
+    "summary": "Analyseselskapet Rystad Energy har engasjert Morgan Stanley for å hente penger og ser etter nye investorer etter å ha brutt bankvilkår.",
+    "why_it_matters": "Saken viser hvordan tøffere finansieringsforhold og markedsendringer også treffer profilerte norske kunnskapsbedrifter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige og finansielle finanser",
+      "effect": "Krever restrukturering og ny kapital for å sikre videre drift og innfri lånebetingelser."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Skaper usikkerhet rundt fremtidig vekst og verdivurdering i det uavhengige analysesegmentet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNjhkdXNhWFRaWlRtV1N0S1lBdXVxNVBYTTFFWVdtYW5vRFBWeXlZaXdkZ3NsN0RiaHpvSHFtZFFIS1VLQ0tUeDNfTGR2TUUyYV9kZzR1RzBkbElEV01rbmN3YV9PdURkRzB5NGVyVHhCSjk2cF83dmZGdVdfNWJLV194dFNxbGVtZkVpYlp1RVBqeWlSc3I3bUI1YXEwN0hzT1ozUTNHdEI4QmZ4eEtoM3dtX2xqZWFhbThmNFpIY0tvb1lJQjFTSG9RM1lZZFpxT3pYQ3Z5c3M5QXc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1d0MzdmdEZwUmwxbXJ3OFExYzhaQ1hvd1V2TVlWd1Z2Qjk4WGhlRExnY1F5UEhGX0hFdldpaFc0Q3ZiYjZseGFsaFI3WkFkR0V3V1lOalJuQ1NGc0N4NEZ2REdRR0lNS3lvanB6eVpMdWRYdV9BcWlIWTBzVERtQlBMLUhrRVBEWXdOV2VienNlWndRcGxRWjJ1MGVneE43Q3NPTVJack9MaVBOUjNKbHZB?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Milliard-satsing på Investinor i ny budsjettlekkasje",
+    "summary": "Regjeringen varsler i en ny budsjettlekkasje en milliardsatsing på det statlige investeringsselskapet Investinor.",
+    "why_it_matters": "Satsingen skal styrke tilgangen på risikokapital for tidligfasebedrifter i Norge.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Øker statlige utlegg til næringsrettet kapitalforvaltning."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Gir bedre vekstvilkår og tilgang på midler for norske gründere og oppstartsbedrifter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUk1ejZoZ2JGaDE2d1JzY0FIaGtWLVNXazhTY3hmbS1LVlNHQjBnOHNvU0hKZ19mSGdwdnExYU5oRUxPaG5zY1FxS2NvM2ZvVWJDZ3RoRHB5U3ZjWUhtcGJBTG91TlF2MVZoSjRTS3A0cGpXTGNVbl9KR0dXaEk4Y3RqZDNVSXF3Y1ItTllrdVpGOGE4R2RLdHk0ZWNCNThobnJLVUxB?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Flydray-pilot hylles som helt etter cockpit-angrep",
+    "summary": "Piloten som kjempet for livet under et dramatisk angrep i cockpiten på et Flydubai-fly, mottar internasjonal hyllest, og saken setter flysikkerheten under lupen.",
+    "why_it_matters": "Hendelsen reiser viktige sikkerhetsspørsmål rundt bemanning og sikkerhetsrutiner på internasjonale flyvninger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet og luftfart",
+      "effect": "Utløser strengere gjennomgang og fokus på sikkerhetsrutiner i kommersiell luftfart."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFdrbWVhOWp4REk0N1VXUm5LRWxRQ3NLUG9pMFhXd0h0aVg0UlQ5SGVQeTVPY0FDUFNYQ1dnTTA2X2pjYjAtR2ZtMUx0aXY3NFJDdlkwb1RsazNSSFpYbU40THcyT0tqMXNEYlhlOWFrMnNtUGE0ak5uY21sd1ZSRXRqdjNrVFBSVHB4V0c3c013bmZIOVhEUThQSmVaNTljUWRBdXk4VEliSkk?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Omfattende studentprotester i Frankrike",
+    "summary": "Hundrevis av skoler har blitt stengt og det har kommet til harde sammenstøt mellom politi og demonstrerende studenter i Frankrike grunnet misnøye med utdanningsstandarder.",
+    "why_it_matters": "Protestene skaper uro og politisk press på den franske regjeringen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og samfunn",
+      "effect": "Forverrer det politiske presset på regjeringen og lammer deler av skolesystemet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-02-08",
   "hour": 8,
   "date": "2026-10-02",
