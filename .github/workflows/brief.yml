@@ -2,8 +2,9 @@ name: Økonomibrief
 
 on:
   schedule:
-    # Kjører både sommer- og vintertid (UTC). brief.py hopper over alt som ikke er kl. 08 eller 20 i Oslo.
-    - cron: "5,15 6,7,18,19 * * *"
+    # GitHub kan forsinke scheduled runs. Kjør derfor hvert 5. minutt rundt
+    # morgen- og kveldstid, mens brief.py kun lager utgaven i riktig tidsvindu.
+    - cron: "*/5 6,7,18,19 * * *"
   workflow_dispatch:
 
 permissions:
