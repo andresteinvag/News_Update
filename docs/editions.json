@@ -1,5 +1,226 @@
 [
  {
+  "id": "2026-10-05-20",
+  "hour": 20,
+  "date": "2026-10-05",
+  "generated": "05.10.2026 20:18",
+  "overview": "Dagens finansmarkeder preges av bekymringer rundt geopolitiske spenninger i Midtøsten og stramme oljelagre, samtidig som sentralbanker og teknologiinvesteringer tiltrekker seg stor oppmerksomhet. Norsk økonomi merker fortsatt effektene av høye renter og politisk debatt om pengebruk.",
+  "stories": [
+   {
+    "title": "Saudi Aramco-sjefen advarer om skremmende slanke oljelagre",
+    "summary": "Saudi Aramcos toppsjef advarer om at verdens oljelagre er svært lave, og at det kan ta opptil to år å fylle opp lagrene igjen. Dette skaper bekymring i energimarkedene for fremtidig tilbudssikkerhet.",
+    "why_it_matters": "Svært knappe globale oljelagre har direkte betydning for oljeutsiktene og inntektene til Norge som stor olje- og gasseksportør.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Kan føre til økt volatilitet i oljeprisen og strammere balanser i det globale energimarkedet fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskaper som er avhengige av drivstoff og transportkostnader kan oppleve økt press på marginene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times (betalingsmur)",
+      "url": "https://ft.com",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN18wRFVzT1VScWNqS1RUNlp3dGZOS1AySGtqMlFyMUZJa1hrb3c5eGhjLTl2MElwRlZuVzZMZWVhX2ZYQW0zeVd4b293T1ZYdWlESE1MdGh5dlJ0ZUsyZTFNWnRmTXM0bHp4cHhCMmx1RGFTQkxmSk9jdFY1N1p1S2hkS3dWd9IBiwFBVV95cUxQLWE2RGNCekRwb2tuUnVaMzBNam9OZWJEU0xBY3JlRkUyMTlxVmx2X085YmZMUWJyZ3hONVVIaUYtUGNubGdGU0I5bUYybUtxQnB6eWhZbmZiSHZPREtyamxFeUo3RjY4TmJmczk5N3p5bHMzTTBuNUkzWkctWm1sZjFaWnEyUEREVnl3?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norsk Hydro rammet av gassmell i Brasil",
+    "summary": "Norsk Hydro opplever uforutsette kostnader knyttet til gassforsyning i Brasil, noe som kan beløpe seg til over én milliard kroner. Dette skaper usikkerhet rundt selskapets kortsiktige kostnadsrammer.",
+    "why_it_matters": "Hydro er en av de største industribedriftene på Oslo Børs, og store kostnadssmeller på anlegg i utlandet kan tynge inntjeningen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kan legge en demper på aksjekursen til Norsk Hydro på Oslo Børs på kortsikt."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Viser sårbarheten i globale verdikjeder og energipriser for kraftkrevende industri."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv (betalingsmur)",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkdfU3Z6RHlZTmQ1ZjBKZXlTalkzX2xiRnc1YUNOQ1I3dlJ3djBQSUNnLUFxNGtWc0xKM0JIN2Q5TnJVclVvcUw0cExyVWwwbDZnTjZoSWxDUzZxbDNvc0lSNWdsR0FTaEE1ZzhHYTVpR1Q3WjMxVlprd3A2em5aaWdzUE96WkV6UnUxdkJJbkN2RXJJeXQ3Xzd2a0llZVlEcGc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kritikk av pengebruk og risiko for dyrere boliglån i Norge",
+    "summary": "Flere økonomer retter kraftig kritikk mot politikernes pengebruk, og advarer om at ekspansiv finanspolitikk kan føre til høyere renteforventninger og dermed dyrere boliglån for folk flest.",
+    "why_it_matters": "Høye renter treffer norske husholdninger hardt og påvirker både det private forbruket og aktiviteten i boligmarkedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Økt sannsynlighet for at Norges Bank må holde renten oppe lenger for å kompensere for offentlig etterspørsel."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Høyere rentekostnader kan dempe prisveksten i boligmarkedet ytterligere i visse regioner."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Redusert kjøpekraft for husholdninger med boliglån."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24 (betalingsmur)",
+      "url": "https://e24.no/norsk-oekonomi/i/Wvnpya/refser-politikernes-pengebruk?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norge først ute med å foreslå midlertidig forbud mot AI-briller",
+    "summary": "Den norske regjeringen foreslår som den første i verden et midlertidig forbud mot bruk av AI-briller på offentlige steder med tanke på personvern. Saken vekker oppsikt internasjonalt blant teknologiselskaper.",
+    "why_it_matters": "Viser hvordan strengere europeisk og norsk regulering av ny teknologi kan påvirke rammebetingelsene for globale aktører.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Kan skape et strengere regulatorisk regime for smartbriller og bærbar teknologi i Norge enn i andre land."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times (betalingsmur)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHRBN1p1UjZZOGZxY0dVTWV4TVdEMXgzVVZWQXJ2ZmpHQm93enFZZVRGU2toSVIyU2ZUc2w1VTk1aEhpeDBDQ2x5V28zRXk4Sk1INFFuWFYycm1LUVRMdUYzbUl4T1NrbHZwamc1OVVJcjJ2MU1WSlliU2FmNVBHOEZmOTI?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdXJpcklrMDhGQ2cwa2kzWEdlZC12R29iYlpIUm03QWE5S1lQaUxSZTdVc1lsS0o1dHJENDVrODR1S0RYU0xzWWgtTFlvUVpuR0tpSnE2ejhnNHppU3A2M202MmxfZjFVVUd2NElYaWpQQnJkWmJiaU5pd1htRlcyMm9vbjNrcjB5?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "USAs tjenestesektor kjøler seg ned mens prispresset vedvarer",
+    "summary": "Nye tall viser at aktiviteten i USAs tjenestesektor bremser opp i september, men at underliggende prispress fremdeles bygger seg opp. Dette gir sentralbanken en krevende balansegang.",
+    "why_it_matters": "Verdensøkonomien påvirkes sterkt av den amerikanske konjunkturutviklingen og Federal Reserves rentebane.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "Indikerer at det fortsatt finnes seiglivet prispress i tjenesteøkonomien."
+     },
+     {
+      "area": "Renter",
+      "effect": "Kan føre til at amerikanske renter holdes på et høyt nivå for å kvele inflasjonstendensene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Nytt tankrederi inn på Oslo Børs midt i utbyttefest",
+    "summary": "Flere nye selskaper søker til børsen for å utnytte det sterke markedet for tankfart, der blant annet Volare har debutert. Selskaper melder om sterke utsikter og høyt inntjeningspotensial.",
+    "why_it_matters": "Oslo Børs er tungt eksponert mot shipping, og utviklingen her gjenspeiler den globale etterspørselen etter fraktkapasitet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Gir økt bredde og investorinteresse for shippingsegmentet på Oslo Børs."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Gode finansieringsmuligheter for maritime foretak som ønsker å hente kapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen (betalingsmur)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSG9GUzFOQVdMb2ZkaHh0TDlGOTk0bTF2TjZ2aUlOd1RPN3AwUXRFTzNxVXEzRWYxYjhxdVRlTzJVbW1acDN3bWV0M094bW54Zkpib05ObFNnZTlZRkZSc2FvYXhUaXNZOGIwVE9BVlpxRWNFZzNUdXVWU1c5d1ltSmY0SERick5tVHZGcDh1RE5WNVdSNzRjTjNUWDh0azFjSTBUOHFjSjJuQUtDYmxmQUlsTUE2UQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24 (betalingsmur)",
+      "url": "https://e24.no/boers-og-finans/i/n9aVMm/gaar-mot-stroemmen-i-utbyttefest-trenger-ikke-ett-til?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Flávio Bolsonaro i tet i første runde av det brasilianske presidentvalget",
+    "summary": "Et overraskende høyrebollg gir et sterkt utgangspunkt for far-right-kandidaten foran den avgjørende runden i Brasil.",
+    "why_it_matters": "Valget kan endre Brasils politiske og økonomiske kurs markant med tanke på internasjonal handel og miljøpolitikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og samfunn",
+      "effect": "Kan skifte landets politiske retning i konservativ retning."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tysklands og Frankrikes ledere krever strengere EU-tiltak mot urettferdig handel",
+    "summary": "Friedrich Merz og Emmanuel Macron har skrevet brev til EU-kommisjonen med krav om tøffere mekanismer for å beskytte europeisk industri mot subsidiert import.",
+    "why_it_matters": "Tiltaket retter seg indirekte mot handelspartnere som Kina og USA, og kan endre handelsdynamikken i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel og industri",
+      "effect": "Kan styrke beskyttelsen av europeisk industri mot utenlandsk konkurranse."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Spanias statsminister utskriver nyvalg midt i boligkrisen",
+    "summary": "Voksende misnøye med høye boligpriser og levekostnader i Spania har ført til at regjeringen fremskynder valget til slutten av november.",
+    "why_it_matters": "Viser hvordan sosioøkonomiske kriser knyttet til boligmarkedet direkte utløser politisk ustabilitet i sør-Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og samfunn",
+      "effect": "Skaper politisk usikkerhet i Spania og kan føre til kursendringer i boligpolitikken."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-05-08",
   "hour": 8,
   "date": "2026-10-05",
