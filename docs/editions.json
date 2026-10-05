@@ -1,5 +1,185 @@
 [
  {
+  "id": "2026-10-05-08",
+  "hour": 8,
+  "date": "2026-10-05",
+  "generated": "05.10.2026 08:22",
+  "overview": "Styringsrenten fortsetter å legge et merkbart press på både husholdninger og markeder, samtidig som internasjonale markeder reagerer på avtakende Fed-frykt og uventede oljeprisfall. Samtidig viser nye tall at den demografiske utviklingen vil presse offentlige finanser i årene som kommer.",
+  "stories": [
+   {
+    "title": "Styringsrentens effekter på inflasjon og husholdninger",
+    "summary": "Norges Bank bruker renten som en slegge for å dempe inflasjonen, men belastningen fordeles skjevt blant forbrukerne. Dette merkes særskilt i boligmarkedet hvor salgene tar vesentlig lengre tid.",
+    "why_it_matters": "Er avgjørende for norske husholdningers kjøpekraft og utviklingen i den norske kronekursen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høye renter opprettholder presset på låntakere."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Rekordmange usolgte boliger og lengre omsetningstid."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Skjev fordeling av rentebelastningen rammer hardt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/31kBM9/styringsrenten-er-en-slegge?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Avtakende Fed-frykt løfter Asia-børsene og oljeprisen ned",
+    "summary": "Bekymringene rundt USAs sentralbank har avtatt, noe som gir oppgang på børsene i Asia. Samtidig har Saudi-Arabia kuttet sin offisielle oljepris til Asia til det laveste nivået på seks år, noe som presser oljeprisen nedover.",
+    "why_it_matters": "Oljeprisfall og internasjonale renteforventninger har direkte betydning for norsk eksport og Oslo Børs.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Positive impulser og kursoppgang i Asia."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Oljeprisen faller etter overraskende priskutt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkgtdXNaeUNtcU5RdXh2dS1vZ1BCRjBpSmRoYkYzeEdyYnA3LXZmR0RrUW5IYVhoN2UyREdsMWgtZzVybk8tdGZRcEVZX21UWDlqRGE5cVJyUW9TQ0cxS2pTME9GTkhsMnlyRjVrVjF1ZHFNZ25aTi1nSlVnOVJENG5EZktnb01uY2NqWWxTZ01CQkhHS1JBZE9QSQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNm5vYzJ0MmtrUHV3cFlLaVByRlRQWDVEOHA1M0trZ3RGUnVHZmtRUmg2SlA3Q0haUnZsMkRHMWk5WGJySjhHV3dJQktnODlGZGJ4eHZOT1U0VGo2dGpJYzY4am90U0JaXzlhZERsWjM4STJpemFaeXA5RXpFWENLUE4tRl9mU25NQ1ZkLTB3d2FGTTlSYTNPT3V6MVpMWWpSTVZDdDFUMGlyaGdYa2RaM2VyQQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Moody's advarer om demografisk vendepunkt innen 2029",
+    "summary": "Vestlige befolkninger ventes å begynne å krympe mot slutten av tiåret, noe som vil legge et voldsomt press på offentlige finanser og tvinge fram krevende politiske beslutninger.",
+    "why_it_matters": "Viser langsiktige strukturelle utfordringer som også vil ramme norske offentlige finanser og velferdsordninger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Krympefaktorer i befolkningen vil øke presset på statens budsjetter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Statsbudsjettlekkasjer varsler mer til forsvar",
+    "summary": "Før fremleggelsen av statsbudsjettet lekker det ut at regjeringen vil prioritere økte midler til forsvaret, samt et nytt toppidrettssenter og en nasjonal klokke.",
+    "why_it_matters": "Gir tidlige indikasjoner på retningen for norsk finanspolitikk i en usikker geopolitisk tid.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere prioritering av forsvarsektoren i statsbudsjettet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/Gxz6BQ/dette-er-lekkasjene-fra-statsbudsjettet?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Frankrikes gjeldsbyrde presser euroen",
+    "summary": "Euroen har falt til et lavpunkt på 17 måneder som følge av økende bekymring rundt regionens finanspolitiske og politiske risikoer, spesielt knyttet til Frankrike.",
+    "why_it_matters": "Påvirker den europeiske økonomiske stabiliteten og valutakursene som Norge handler med.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "Svekket euro kan gi ringvirkninger for valutahandelen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Midtøsten-oljen henter seg inn tross skipsrisiko",
+    "summary": "Eksporten av råolje fra Midtøsten har steget over førkrigsnivåer til tross for vedvarende sikkerhetsrisikoer og hendelser knyttet til tankskip.",
+    "why_it_matters": "Har direkte innvirkning på globale energipriser og stabiliteten i råvaremarkedene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høyere eksportvolum bidrar til å dempe energiprisene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlnRmFJc1NCRTRsSVNmNTRtMnh2dmJiNWdMbnF2YVZRU0g1WXpERld1Qm0xbW5MQzNnTUhYTjFCUWVadVlWbmdwZjJSTUdSUkpGU2FrMzRmRW80RWRDcGpidUNVUHd1aVloWkFKZFRVNllUMEhVczNJNjNSZkR2VmZrU1hIbGRzZmZpeTF1TUNsMFp4ZFVuVE16RjlnYVBmUGhtRG94Z0VOTk13b2Y4ZUhpTElPSTctdlJQTmdCWnNnamhrVkE?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Flávio Bolsonaro tar ledelsen i første runde av presidentvalget i Brasil",
+    "summary": "Det brasilianske presidentvalget går mot en andre valgomgang etter at høyrepopulisten Flávio Bolsonaro overraskende tok ledelsen foran sittende president Lula da Silva i første runde.",
+    "why_it_matters": "Kan få stor politisk og økonomisk betydning for Latin-Amerikas største økonomi.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og samfunn",
+      "effect": "Skaffer usikkerhet for landets videre politiske og økonomiske kurs."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "USA fjerner alle bombefly fra britisk flybase etter sikkerhetstrussel",
+    "summary": "Det amerikanske flyvåpenet har trukket alle sine bombefly ut fra RAF Fairford-basen i Storbritannia i følge med potensielle sikkerhetshendelser.",
+    "why_it_matters": "Illustrerer det spente sikkerhetspolitiske klimaet i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhetspolitikk",
+      "effect": "Endrer den militære beredskapen i allierte områder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGp4WkdsREwtMEJNa255Vk13UFdFMG1aRGY2UTR0U29vQmN2TkFpb1cxT3g0QzVCUWh3NzNqV1VBb3p2YWxrLVZWWE5kQUtXbWtacmJrQjZSLS1sd0tObjhFY0xQSFR2RHlCbk45ZE1xNC0tbzZXMGp2ODBqV0kzazlfdWRqaHBYZDc1U2lB?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-03-08",
   "hour": 8,
   "date": "2026-10-03",
