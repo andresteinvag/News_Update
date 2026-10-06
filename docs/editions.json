@@ -1,5 +1,216 @@
 [
  {
+  "id": "2026-10-06-08",
+  "hour": 8,
+  "date": "2026-10-06",
+  "generated": "06.10.2026 08:18",
+  "overview": "Dagens økonomiske bilde preges av nye grep rundt strømstøtte og budsjettsituasjonen i Norge, samt globale diskusjoner om sentralbankpolitikk, inflasjon og teknologiinvesteringer. Internasjonalt vekker varsler om amerikanske statsobligasjoner og nye energitiltak oppmerksomhet i markedene.",
+  "stories": [
+   {
+    "title": "Regjeringen hever Norgespris på strøm til 45 øre",
+    "summary": "Dagen før statsbudsjettet legges fram, opplyser statsminister Jonas Gahr Støre at Norgesprisen på strøm øker til 45 øre per kilowattime neste år. Endringen møtes med debatt om de faktiske kostnadene for forbrukere og næringsliv.",
+    "why_it_matters": "Betyr direkte mye for norske husholdningers strømutgifter og den bredere inflasjonsutviklingen i landet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Høyere strømkostnader gir økt press på husholdningsbudsjettene."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere energipriser kan bidra til å holde inflasjonen oppe."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Endringen påvirker statens utgifter knyttet til strømstøtteordningene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/0Bngeg/saa-mye-oeker-norgesprisen-neste-aar-vil-stroemmen-koste-45-oere",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTFJTFBDUFBfdlRydmhtR256aHdkRUgtU00xZ2h0ajZoRUVPVTk1SGFOa3ZiUjRNMkJsOXJ3OFotbzlHY2ktWlhHWUFfUmlMMEljNmhHeHVhQjhCYk5BUHpoWmE3U0tWbFNUc1p5Vk1XbjMwUDhIWXNINkdWY3M4VU83cndnVEw4LWZaZkNwQXZUYm8zN3lCZQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWRGT1Y3djNoZ0FfY08tSksxX0RfNFlkNWFCcTcyaDEzQ3dTZ05BSTFpZHJndjlOai1COTZ6d25WaXA0RmthQVRwcWNxNkNickd6YnJOTUdpajBjNUg3MWFhRDMxcF9FOVA5aWYzYmloVGQ4Q0FlQUZndlBTNDIxdEI4WHc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Verdensbanken løfter vekstutsiktene for Øst-Asia og Stillehavet",
+    "summary": "Verdensbanken oppjusterer årets vekstestimat for regionen til 4,5 prosent, men advarer samtidig om at handelsveksten utenom kunstig intelligens fortsatt er svak eller negativ.",
+    "why_it_matters": "Gir innsikt i den globale etterspørselen og hvor sentral teknologisektoren er for den økonomiske veksten.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Utsikter til vekst kan støtte etterspørselen etter visse råvarer."
+     },
+     {
+      "area": "Handel",
+      "effect": "Avhengigheten av KI-relaterte varer skaper sårbarhet i den bredere handelen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ray Dalio advarer om at Kina og Japan kan redusere amerikanske statsobligasjoner",
+    "summary": "Finansprofilen Ray Dalio uttrykker bekymring for at store utenlandske eiere av amerikansk statsgjeld kan komme til å trekke seg tilbake fra markedet for amerikanske statsobligasjoner.",
+    "why_it_matters": "Kan påvirke renteutviklingen og finansieringskostnadene i USA, med ringvirkninger for globale finansmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Lavere etterspørsel etter amerikanske statsobligasjoner kan presse rentene opp."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere lånekostnader kan skape uro i internasjonale aksjemarkeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzY3cld1TEZsNGhYUEJ3X1hpVkxZdmhGeGZaZDFTMHoycWxNeTFYRTAyLUx5emZQNy05VXNrMlhEY1BDNGJ1b2ZVWFRlQVpidTFnbG5RbXpqT2RSUFlUdTFFcXNJY1I5Zm82TlRxbVNmQlBCaVl4OUV5M21BNjdOUk1wWHluZVpPZkR4cEVLX1p2UWFvT1JJQVRMVm1YT1hNMWRWRlVVSVRJNmZMWmQwQg?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Wall Street-banker står bak rekordstor milliardavtale for brikker",
+    "summary": "En gruppe Wall Street-banker legger til rette for en historisk stor finansieringspakke på rundt 60 milliarder dollar rettet mot Broadcom og Anthropic for brikke- og teknologisatsinger.",
+    "why_it_matters": "Viser den enorme kapitaltilgangen som fremdeles kanaliseres inn i infrastruktur for kunstig intelligens.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Sikrer tung finansiell støtte til sentrale aktører innen halvledere og kunstig intelligens."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Styrker investoroptimismen rundt teknologi- og brikkesektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdjU1RlZodzh1WDB5VTBqN0xyR0FBWHlETG9fNzh6cURoREZzS0ZOYXJzMFZoc25TLW5SMjd3aExMaVpsRWRxMUhJdV9zTGtMU2ZNUDV1SGpLMWpDUTI0Qm9Kcm80eWRFMUlheWpOR3ZsdHBPVkdpdnRWR0hoeHplMmR4WVA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kommunesektoren advarer om stram økonomi foran statsbudsjettet",
+    "summary": "Flere norske ordførere melder om et sterkt press på kommuneøkonomien før framleggelsen av statsbudsjettet for 2027, og uttrykker bekymring for den videre driften.",
+    "why_it_matters": "Kommunene leverer velferdstjenester lokalt, og stramme budsjetter kan føre til kutt i offentlige tjenester.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Stramme rammer gir økt behov for prioriteringer og potensielle kutt i lokalt tjenestetilbud."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Kan påvirke sysselsettingen i den lokale offentlige sektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/gd7oG5/flaa-loppa-og-grue-om-2027-kommune-norge-sliter?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljen stiger mens tradere veier geopolitisk uro mot eksporttall",
+    "summary": "Oljeprisene beveger seg oppover ettersom markedsaktørene vurderer potensielle spenninger i Gulfen opp mot sterke eksporttall fra Midtøsten.",
+    "why_it_matters": "Oljeprisen er avgjørende for norsk eksportinntekt, kronekursen og statens inntekter via Oljefondet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høyere priser gir økte inntekter for energiprodusenter."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Sterkere oljepris kan bidra til å støtte den norske kronen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnscVjJXYWtIbVlHbmRTanpNaUszT1Rx?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Dødsfall ved sibirsk forskningsinstitutt utløser russiske avkreftelser",
+    "summary": "Russiske myndigheter arbeider for å dempe rykter om et eventuelt pestutbrudd i Sibir etter at en ansatt ved et lokalt forskningsinstitutt døde av lungebetennelse.",
+    "why_it_matters": "Vekker internasjonal oppmerksomhet knyttet til biosikkerhet og informasjonsflyt rundt potensielle helserisikoer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn og helse",
+      "effect": "Skaper uro og behov for raske avklaringer fra helsemyndighetene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KYi1ONVEyaXNoNGVCV2NhWlMwX1V5VHFoWXRKUldYdHFzZUg3eW4tbVBDb0tYSTI3aWJRcnV4LTJYVUZOcVRZOEs2N3Frc1NvZmhZTUR5Y2Nlem9CYlJxUzBzYXotc00zeTBaMEEzU2VpaDQxQUQ2TmRDMERZNWs?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUVxck1SdlF6ZTlSV0ZpLWdmR3g5WTAtX2tqR3FieHVXdnBILWhYUTNTblU1bjkxbXdEc3lNYlN5d3AtdVR1NjVDRmIyRmt6dWEwQ1dLWjZnVDYwZTZIZkVyT2FCMWlwOUJ0M3VNVF93RHYwZ2tzMDdzd0pkbmg2dnFrc1RzMmFEbi12YWhuVk1pNXhEZkh1TWozaGZHS2c1ZjNBSQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Pentagon trakk bombefly fra britisk base etter dronealarm",
+    "summary": "USA bekrefter at de har flyttet B-1-bombefly bort fra en base i England som følge av trusler om mulige iranske droneangrep.",
+    "why_it_matters": "Belyser den spente sikkerhetssituasjonen og hvordan militære styrker raskt tilpasser seg trusler i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet og geopolitikk",
+      "effect": "Viser økt beredskap og sårbarhet for allierte militærinstallasjoner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlhFVFZMQklTYzhqUHR0d2h0ajItejFkSm1XNXZqREhzZGxYOVY3NzRlV1A4ZzFJcEU0U0hYM0gwbUtmNG5YWE5zVkUxZDlKZXp1bWVfYm1ISFhXbjJ0TDVRcVpJSVR5NXhfb3ktNjNScnl3czQyaVE5eFVfbU1aVjFuQTRwZG9aNGNleUhPTDcweWFBUmc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-05-20",
   "hour": 20,
   "date": "2026-10-05",
