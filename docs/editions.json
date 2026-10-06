@@ -1,5 +1,223 @@
 [
  {
+  "id": "2026-10-06-20",
+  "hour": 20,
+  "date": "2026-10-06",
+  "generated": "06.10.2026 20:15",
+  "overview": "Verdensmarkedene løfter seg med nye rekorder på Wall Street til tross for uro i obligasjonsmarkedet, samtidig som geopolitiske spenninger og handelsunderskudd preger nyhetsbildet. Her hjemme retter statsbudsjettet og boligmarkedet seg mot nye grep og tiltak for å møte fremtidige utfordringer.",
+  "stories": [
+   {
+    "title": "Rekordnoteringer og fallende tiårsrenter på Wall Street",
+    "summary": "USA-børsene fortsetter å stige og noterer seg for nye rekorder, samtidig som tiårsrenten faller. Utviklingen skjer til tross for uro i det generelle obligasjonsmarkedet.",
+    "why_it_matters": "Svingninger i amerikanske renter og børser har store ringvirkninger for globale markeder, inkludert investorstemningen på Oslo Børs.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Positiv"
+     },
+     {
+      "area": "Renter",
+      "effect": "Blandet"
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/qyWX7O/oppgang-paa-wall-street?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzJRLWhVdExFXzdXLURUeDA5RTBfRGlLZnJRS2hyZEN1Z1JMYU9pVUhrdE5EcXhUa2hEaW1SbWItR00tVkItcnlFQVpVMEtxOUNuVmZyOGpFN2hFYThqYkJzOGNlTjFZZ25yd3dvWEQ4TUhuNzR2VFRPbWpNMURRQ2xWX19SN3Z3bk1yV2RMdml2czdnREZSb0k0RWxsUQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CVkNXNkYyc2ZNcGxWSXlXMkFqZnA1ZGlQRTJHUXhZXzhnb0NrVEJ3eXBYQS1wS2xEcExvd2pVUFpndFBLUnd2SFIwY01uOGdzbWc5aURKLWIzVEZWQkJRQ2tGQUNzb1E?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "USA: Handelsunderskuddet stiger til 105,6 milliarder dollar",
+    "summary": "Det amerikanske handelsunderskuddet hoppet med 13,7 prosent i juli og nådde 105,6 milliarder dollar, noe som er det bredeste nivået siden like før fjorårets tollsatser.",
+    "why_it_matters": "Større handelsunderskudd kan påvirke dollar- og valutamarkeder samt handelsrelaterte politiske beslutninger globalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Negativ"
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Usikker"
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOEZvenlnTDlqcUF3eE11Q3gtMDZ4QjBneXBFTllEYkg3a0IxRU5qdWVvZHd1REk1VGRFdWZ1clUxQ1NkWldOU0RrU1hlY1Jtdk9PcmFoTXJOczJTX2Ryb3NVaEltdWJwN09WVnRLcW9yZEVOdXc0YWctZ0tjYUJUS09qZ3lSZG9vU3VBcmdLU3p1U1NObzNqWkJiTHUwdU1wLUZEWlNWVG9sOFZHZVdoSzd3?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Statsbudsjettet: Ruster opp Nav-systemene for å unngå nye skandaler",
+    "summary": "Arbeidsministerens største satsing i det kommende statsbudsjettet rettes mot oppgradering av systemene som årlig håndterer store utbetalinger fra Nav.",
+    "why_it_matters": "Viser hvordan staten forsøker å forebygge administrative systemsvikt som kan få store økonomiske og sosiale konsekvenser.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Blandet"
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/p1pqKX/statsbudsjettet-ruster-opp-for-aa-unngaa-nav-skandale?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Regjeringen henger etter på boligmål og varsler nye budsjettgrep",
+    "summary": "Til tross for at boligministeren hevder han ikke stresser, bevilges det 61 millioner kroner i et forsøk på å få fortgang i de halte boligmålene.",
+    "why_it_matters": "Boligmarkedet og politiske reguleringer er avgjørende for både forbrukere og det generelle presset i norsk økonomi.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Bolig",
+      "effect": "Uten tydelig retning"
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Negativ"
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/KrzWe4/regjeringen-henger-etter-boligmaal-varsler-budsjettgrep?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Paramount og Warner Bros. Discovery fullfører historisk mediefusjon",
+    "summary": "Paramount har sluttført gigantoppkjøpet av Warner Bros. Discovery og skaper dermed en ny tungvekter innen den globale underholdningsbransjen.",
+    "why_it_matters": "Store konsolideringer i mediebransjen endrer konkurransedynamikken og kan føre til betydelige strukturelle endringer for markedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Blandet"
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Positiv"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk5fR0lGRGk1eXdUMkhkMlVWT21yYjRETXN0R1dKcExlMHB4TXQxRW16djcwTlpyemN2blVuOXEzRmVITFBFazRsVl9CT2FTRkxkOXVSRHFyLUpnandRR1hoN1VWZE5nQ2l6U2hUbFRwZnBhaUZ1MnVnVjU5STd5UWM4M3d5NExQbTZlS3dReXMzbE1va1ZtTjVPZkN2VHh2ZThtOVhFTmh1UW8yZHYxT19hOA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1JfZV9HNGxYcnEwVWlieV9Cbk1HRndMQkFFTFBFVFNkWV8yREVROFVidGRBUHMwZ0FxM2pFbTVCdmI0Z0pJMGxNb0JFRlRvekpNb2pmZEhJLUZXejdxVGx4Z0wyclJJcWR0R09PNjdKeHpPbHFzOTdGaHJyeS0tQnktWUtCUlZYOFY1bUd4VlY5akptWGxwOWhqSQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Uber kjøper cateringplattformen EzCater for 2,3 milliarder dollar",
+    "summary": "Uber styrker sin posisjon innen matlevering og utvider Uber Eats-tjenesten gjennom et kontantoppkjøp av cateringselskapet EzCater.",
+    "why_it_matters": "Transaksjonen viser hvordan store teknologiselskaper fortsetter å ekspandere inn i beslektede markeder for å sikre markedsandeler.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Positiv"
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Blandet"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObG5sbnp3QU1VcUZXVnA1ZE5hRndFZl92dlZfN1V3T2ZUVTR2VFZBQThVVmlTNHQ1OUw3THJnRHJlcjJ4YWJCNnVyLURvOTY2Z05TYjFaVFFKaFBNWjZUXzNWM3BfbVhWcHdPdk91aWx2VGtDTS1odzgwVWthcEFWRUI0bDF4M0RabGZRQ05pR3pnaEJWVFFESUdyQVFpUFNabDU0Z1Bic0dwdmpNM0oyVVBR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEFfV3I5d3ZyYXN4NUhNQjZET0tQUVFxcGVnbnd6bWppMjFXZEg3M20yVnRjbk13UnFFeUdWOElCTE5lRkxtTFM5YmZjM2laRWgweFVRVFIwbV8zT2tScnFsODF0M21SZ2pvWXZBX1hUbHZVUGgzRC1FbVFFNzlkR2xkMmk3WG8xTkdpaGo1aWJ1ckdTdV9BZWVvbjJzY2tRMWtkTnRKQQ?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Tidligere tysk etterretningssjef arrestert for anklager om landssvik",
+    "summary": "Tysk politi har pågrepet en tidligere etterretningssjef mistenkt for å ha lekket statshemmeligheter, noe som har vakt stor oppmerksomhet i europeiske sikkerhetsmiljøer.",
+    "why_it_matters": "Saken kaster lys over sårbarheter knyttet til intern sikkerhet og spionasje i europeisk politikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og sikkerhet",
+      "effect": "Negativ"
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kenya bekrefter sitt første tilfelle av ebola etter dødsfall i Nairobi",
+    "summary": "Myndighetene i Kenya har meldt om landets første eboladødsfall knyttet til en person som ankom fra Den demokratiske republikken Kongo.",
+    "why_it_matters": "Smittetilfellet skaper bekymring for spredning av alvorlig sykdom i regionen og krever rask respons fra helsemyndighetene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Helse og samfunn",
+      "effect": "Negativ"
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-06-08",
   "hour": 8,
   "date": "2026-10-06",
