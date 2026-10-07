@@ -2,9 +2,9 @@ name: Økonomibrief
 
 on:
   schedule:
-    # GitHub kan forsinke scheduled runs. Kjør derfor hvert 5. minutt rundt
-    # morgen- og kveldstid, mens brief.py kun lager utgaven i riktig tidsvindu.
-    - cron: "*/5 6,7,18,19 * * *"
+    # To UTC-tidspunkter dekker både norsk sommer- og vintertid.
+    # brief.py har catch-up-vindu og lager maksimalt én utgave per tidspunkt.
+    - cron: "5 6,7,18,19 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,9 @@ permissions:
   pages: write
   id-token: write
 
-concurrency: brief
+concurrency:
+  group: brief
+  cancel-in-progress: false
 
 jobs:
   build:
