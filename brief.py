@@ -137,9 +137,10 @@ Regler:
   2) "ANDRE VIKTIGE NYHETER": 2-3 store globale/norske nyhetssaker som er verdt å kjenne til, selv om de ikke først og fremst handler om økonomi. Hold denne delen kort.
 - Slå sammen dubletter og prioriter faktisk viktige hendelser fremfor mange småsaker.
 - Kilder merket (betalingsmur) gir bare overskrift. For slike saker legges eventuelle funn fra åpne kilder (Reuters, AP, BBC, NRK, CNBC) inn i materialet ditt med merking som "Åpen dekning". Bruk den åpne dekningen når den faktisk beskriver samme sak. Finner du ingenting, skriv kun det overskriften faktisk sier, uten å gjette.
-- For økonomidelen: Gi hver sak 2-4 punkter under "impact" om de er relevante. Ikke tving frem en markedsretning. "Impact" skal fange de viktigste konsekvensene av saken, og kan for eksempel dekke Aksjemarkedet, Renter, Kronekurs, Inflasjon, Bolig, Arbeidsmarked, Energi og råvarer, Offentlige finanser, Næringsliv, Forbrukere, Konkurranse, Handel, Geopolitikk eller Regulering. Effekten kan beskrives som positiv, negativ, blandet, usikker eller uten tydelig retning, men dette er ikke obligatorisk. Ta også med andre viktige følger som hvem som påvirkes, hva som kan endre seg fremover, mulige andreordenseffekter eller hvorfor saken er viktig for Norge. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd. Bruk gjerne flere ulike kilder når de dekker samme sak, og unngå at én enkelt avis står for nesten hele økonomidelen når andre relevante kilder finnes.
+- For økonomidelen: Gi hver sak 2-4 konkrete implikasjoner under "impact" når det finnes relevante konsekvenser. Dette skal IKKE være en ren opp/ned-vurdering. Skriv hvert punkt som en kort, forklarende årsak→virkning-setning: hva som kan endre seg, hvem som påvirkes og hvorfor. Eksempel: "Aksjemarkedet: Vedvarende høye lange renter kan gjøre aksjer relativt mindre attraktive og legge press på verdsettelsen av selskaper med høye forventede fremtidige kontantstrømmer." Et annet eksempel: "Bolig: Høyere finansieringskostnader kan dempe kjøpekraften til førstegangskjøpere og holde boligetterspørselen tilbake." Bruk gjerne Aksjemarkedet, Renter, Kronekurs, Inflasjon, Bolig, Arbeidsmarked, Energi og råvarer, Offentlige finanser, Næringsliv, Forbrukere, Konkurranse, Handel, Geopolitikk eller Regulering som temaer. ALDRI bruk bare "Positiv", "Negativ", "Blandet", "Usikker", "Opp" eller "Ned" som effekt. Unngå også formuleringer som bare sier at noe går opp eller ned uten å forklare mekanismen. Ta med andreordenseffekter, hvem som vinner/taper, hva som kan endre seg fremover eller hvorfor saken er viktig for Norge. Bruk forbehold som "kan" og "trolig"; dette er vurderinger, ikke spådommer, og ikke investeringsråd. Bruk gjerne flere ulike kilder når de dekker samme sak, og unngå at én enkelt avis står for nesten hele økonomidelen når andre relevante kilder finnes.
 - For den generelle delen: ikke lag investeringsvurderinger; forklar kort hva som har skjedd, hvorfor saken er viktig å kjenne til, og eventuelle tydelige følger for mennesker, samfunn, politikk, sikkerhet eller økonomi. Ikke tving frem en økonomisk konsekvens dersom den ikke er relevant. Bruk bare kilder fra den generelle nyhetslisten eller åpne dekningskilder (Reuters, AP, BBC, NRK, CNBC) i denne delen; ikke bruk E24/DN/Finansavisen/FT som kilde til en generell nyhetssak.
 - Skriv i egne ord, aldri lange sitater. Lenk bare til URL-er fra materialet.
+- I "impact.effect" skal hvert punkt være en full forklarende setning på minst omtrent 12 ord. Ikke bruk ettords-vurderinger eller bare retning ("opp", "ned", "positiv", "negativ", "blandet", "usikker").
 - Returner KUN JSON uten markdown-gjerder.
 {"overview": "2 setninger om dagens bilde", "stories": [{"title": "...", "summary": "2-3 setninger", "why_it_matters": "1 setning om betydning for Norge eller verdensøkonomien", "region": "Norge eller Verden", "impact": [{"area": "Aksjemarkedet", "effect": "1 setning"}], "sources": [{"name": "...", "url": "https://...", "paywall": true}]}]}"""
 
@@ -310,7 +311,8 @@ article{border-top:1px solid var(--rule);padding:1.25rem 0}
 h3{font:700 1.25rem/1.3 system-ui,sans-serif;margin:0 0 .4rem}
 p{margin:.4rem 0}
 .why{color:var(--mute)}
-.impact{margin:.7rem 0;padding:0 0 0 1.1rem;font:.95rem/1.5 system-ui,sans-serif}
+.impact-title{font:700 .9rem/1.3 system-ui,sans-serif;margin:.8rem 0 .1rem;color:var(--acc);text-transform:uppercase;letter-spacing:.03em}
+.impact{margin:.2rem 0 .7rem;padding:0 0 0 1.1rem;font:.95rem/1.5 system-ui,sans-serif}
 .impact li{margin:.3rem 0}
 .impact b{color:var(--acc)}
 .src{font:.85rem system-ui,sans-serif}
@@ -334,7 +336,7 @@ def story(s):
         f'<li><b>{esc(i.get("area"))}:</b> {esc(i.get("effect"))}</li>'
         for i in s.get("impact", []) if isinstance(i, dict)
     )
-    impact = f'<ul class="impact">{items}</ul>' if items else ""
+    impact = f'<div class="impact-title">Implikasjoner</div><ul class="impact">{items}</ul>' if items else ""
     links = " ".join(
         f'<a href="{esc(link(x.get("url")))}" rel="noopener">{esc(x.get("name"))}{PW if x.get("paywall") else ""}</a>'
         for x in s.get("sources", [])
@@ -371,15 +373,20 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    # Workflowen kjører kl. 08:05 og 08:15, samt 20:05 og 20:15 norsk tid.
-    # Den tillater også en liten tidsforskyvning dersom GitHub starter jobben
-    # noen minutter etter planlagt tidspunkt.
+    # Planlagte kjøringer kan bli forsinket hos GitHub. Vi tillater derfor
+    # catch-up gjennom formiddagen/kvelden, men lager fortsatt maksimalt én
+    # morgenutgave og én kveldsutgave per dag.
     if not force:
-        minute_ok = now.minute <= 30
-        if now.hour not in (8, 20) or not minute_ok:
+        if 8 <= now.hour < 12:
+            hour = 8
+        elif 20 <= now.hour < 24:
+            hour = 20
+        else:
             print("Ikke utgavetid, hopper over.")
             return
-    hour = 8 if now.hour == 8 else 20
+    else:
+        hour = 8 if now.hour < 14 else 20
+
     ed_id = f"{now:%Y-%m-%d}-{hour:02d}"
     editions = json.load(open(EDITIONS, encoding="utf-8")) if os.path.exists(EDITIONS) else []
     if any(e["id"] == ed_id for e in editions) and not force:
