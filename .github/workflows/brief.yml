@@ -1,6 +1,9 @@
 name: Økonomibrief
 
 on:
+  push:
+    paths:
+      - 'brief.py'
   schedule:
     # To UTC-tidspunkter dekker både norsk sommer- og vintertid.
     # brief.py har catch-up-vindu og lager maksimalt én utgave per tidspunkt.
@@ -35,7 +38,7 @@ jobs:
         run: python brief.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          FORCE: ${{ (github.event_name == 'workflow_dispatch' || github.event_name == 'push') && '1' || '0' }}
       - if: steps.gen.outputs.new == 'true'
         run: |
           git config user.name "brief-bot"
