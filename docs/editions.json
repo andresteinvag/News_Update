@@ -1,5 +1,135 @@
 [
  {
+  "id": "2026-10-08-20",
+  "hour": 20,
+  "date": "2026-10-08",
+  "generated": "08.10.2026 20:17",
+  "overview": "Dagens økonomiske bilde preges av at tollbarrierer bidrar til vedvarende inflasjon i USA, samtidig som politiske utspill skaper markante bevegelser i oljeprisen. Her til lands trekkes det fram at et ekspansivt statsbudsjett kan tvinge Norges Bank til å holde renten oppe lenger.",
+  "stories": [
+   {
+    "title": "Tollavgifter driver prisveksten i USA",
+    "summary": "Forskere ved New York Federal Reserve har funnet ut at innførte tollavgifter la til hele 2,9 prosentpoeng på inflasjonen i 67 varekategorier fram til februar 2026.",
+    "why_it_matters": "Dette viser hvordan proteksjonistisk handelspolitikk direkte rammer amerikanske forbrukere og kompliserer sentralbankens arbeid med å bekjempe prisveksten.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere tollsatser øker importkostnadene for bedrifter, noe som direkte skyves videre over på amerikanske forbrukere og løfter den generelle prisveksten."
+     },
+     {
+      "area": "Renter",
+      "effect": "Vedvarende prispress som følger av politisk bestemte avgifter kan tvinge Federal Reserve til å opprettholde et høyere rentenivå over lengre tid for å kjølne økonomien."
+     },
+     {
+      "area": "Handel",
+      "effect": "Økte handelshindre kan føre til at globale selskaper legger om forsyningskjedene sine for å unngå straffetoll, noe som reduserer den internasjonale handelseffektiviteten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Advarer om at statsbudsjettet holder renten oppe",
+    "summary": "Sjeføkonomer peker på at den nylig vedtatte pengebruken over statsbudsjettet bidrar til å holde det generelle rentenivået oppe i Norge.",
+    "why_it_matters": "Dette påvirker direkte norske låntakere og boligkjøpere som håpet på snarlige kutt i boliglånsrenten.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høy offentlig etterspørsel stimulerer økonomien slik at Norges Bank må holde styringsrenten på et høyt nivå for å motvirke indre pris- og lønnsvekst."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høye lånekostnader reduserer husholdningenes disponible inntekt og demper den private forbruksveksten i detaljhandelen."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Stramme finanspolitiske prioriteringer blir motarbeidet av høy bruk av oljepenger, noe som gir en krevende kronesituasjon for sentralbanken."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/eGGWWM/statsbudsjettet-bidrar-til-aa-holde-renten-oppe?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljeprisen faller etter politiske utspill",
+    "summary": "Oljeprisen falt markant med rundt to dollar som følge av nylige politiske utspill knyttet til energimarkedet.",
+    "why_it_matters": "Svingninger i oljeprisen slår raskt inn på norsk eksportverdi og kan svekke kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Lavere oljepris reduserer inntektsstrømmen tilpetroleumssektoren og svekker lønnsomheten i fremtidige energiprosjekter på norsk sokkel."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Et markant fall i oljeprisen fjerner mye av støtten for den norske kronen, ettersom lavere energipriser gjør norsk valuta mindre attraktiv i valutamarkedet."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Reduserte inntekter fra olje- og gasseksporten kutter det akkumulerte overskuddet som tilføres Statens pensjonsfond utland over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/X996o7/markant-fall-i-oljeprisen-etter-trump-utspill?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Russisk angrep mot sivile busser i Ukraina",
+    "summary": "Minst 33 mennesker ble drept i et russisk angrep som traff to sivile busser i Donetsk-regionen.",
+    "why_it_matters": "Angrepet understreker den pågående og brutale menneskelige tragedien i krigen, med alvorlige sikkerhetspolitiske konsekvenser for Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk og sikkerhet",
+      "effect": "Slike angrep forsterker spenningen mellom Russland og vestlige støttespillere, og øker presset for ytterligere sanksjoner og militær støtte til Ukraina."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-busset-in-eastern-ukraine",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Anne Carson tildelt Nobelprisen i litteratur",
+    "summary": "Den prestisjetunge litteraturprisen for 2026 har gått til den kanadiske poeten og essayisten Anne Carson.",
+    "why_it_matters": "Prisen hedrer forfatterskap som tøyer sjangergrenser, og løfter frem internasjonal samtidslitteratur av høyeste klasse.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Kultur",
+      "effect": "Utmerkelser av denne typen fører til økt globalt salg, oversettelser til flere språk og fornyet akademisk interesse for prisvinnerens forfatterskap."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-08-08",
   "hour": 8,
   "date": "2026-10-08",
