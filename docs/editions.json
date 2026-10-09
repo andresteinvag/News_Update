@@ -1,5 +1,256 @@
 [
  {
+  "id": "2026-10-09-08",
+  "hour": 8,
+  "date": "2026-10-09",
+  "generated": "09.10.2026 08:20",
+  "overview": "Norsk prisvekst falt overraskende til 3,4 prosent i september, noe som gir Norges Bank et pusterom, mens globale markeder preges av AI-skepsis og fallende oljepriser etter signaler om mulige Iran-samtaler.",
+  "stories": [
+   {
+    "title": "SSB: Prisveksten falt til 3,4 prosent i september",
+    "summary": "Konsumprisindeksen viser at den årlige prisveksten sank til 3,4 prosent i september, lavere enn hva analytikere og Norges Bank hadde ventet på forhånd. Samtidig peker drivstoffprisene og dagligvarer seg ut som faktorer som fortsatt trekker opp, og økonomer advarer om seiglivet prisvekst og mulige lønns- og prisspiraler.",
+    "why_it_matters": "Dette er avgjørende for Norges Banks neste rentebeslutning og kronekursens utvikling fremover.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Lavere inflasjon enn ventet kan redusere sannsynligheten for at Norges Bank hever renten ytterligere i denne syklusen."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Avtakende prisvekst kan gradvis gjenopprette husholdningenes kjøpekraft etter en lang periode med høye levekostnader."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En svakere inflasjonsimpuls kan gjøre norske kroner mindre attraktive i valutamarkedet dersom renten forblir uendret."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMEJMcXd5dGpRT2NJZTNQdkZSR25iVlZWV1kzNmZnZFNLME94OElNZWlJSnVrc2RLUW13UG9WZ2lpMTBDTGRRMXZQS0V2ZE12dWg3azZIa3J1ZElSVFk0anpmQlF1WnhFWmJQaWZqSm1KRXhUdEhIZHJOVXg4T1Y0TDlpSE5US0hIMV94OU5wcWNSU0tNUVR6QzNhRFAwWEd6eFVGdU1JbWdWREo0Ym0ybGZHd2xBTm9RT05TMXdn?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/PggR5p/prisveksten-oekte-til-3-4-prosent-i-september?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/d77noO/prisveksten-oekte-til-3-4-prosent-i-september",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Oljeprisen faller etter Trump-kommentarer om Iran",
+    "summary": "Oljeprisene trekker ned etter at Donald Trump har kommet med uttalelser om potensielle samtaler med Iran, noe som reduserer frykten for forsyningsavbrudd i Midtøsten. Samtidig forsøker Kina å gjenoppta drivstoffeksporten etter en kort stans.",
+    "why_it_matters": "Lavere oljepriser rammer direkte de norske statsfinansene og kan svekke kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Redusert geopolitisk risikopremie i markedet fører til lavere oljepriser på kort sikt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere petroleumsinntekter svekker de norske statsfinansene og handlingsrommet over statsbudsjettet."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Lavere oljeinntekter gir færre vekslinger til norske kroner, noe som historisk sett presser valutaen nedover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW0wejJNQmpGTE9heFBmZG8wTWE5a010VFNMSDBqcThNXzBFTjZkbWF3NnpxSWxoVkRJSEhMcDk4VDh5OVp3bzlZNzdiS0pNTnd6aGkwQVZsU0JiOU9wb0k1ckN1V2ZUVl9sTFRuZnVhLXFlaDUwZGIxT2VxNW1RZUwyNlJ3c2ZxRkdONll5RVdtTnlfcDllN0pnLWE4VU1FblRvbHdkTkIwbHNk?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVA1dW9SaE9mMUxsN0xZaVhlcjNBeElpMTFmUWFYcXVfR1pxcEFnRTdtLWdFTzZQWm94UHVKQkJkMW9hTzlSeWlieV93Q3hJQnlPYWEzb1ZlaFlJN3JVeUFvV3ltU2h0R2hyTUJfZ0tYbVlPenFPc1VoZV9EQXZXYktQVzdpRm02MEZVZXZ2N2g0WE0?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Børsfall på Wall Street grunnet økende AI-skepsis og renter",
+    "summary": "Teknologisektoren og Wall Street opplevde bred nedgang som følge av bekymringer rundt enormt AI-forbruk og vedvarende høye lange renter. Analytikere peker på at høye kapitalkostnader gjør fremtidige kontantstrømmer fra vekstselskaper mindre verdt.",
+    "why_it_matters": "Globale teknologiaksjer driver store deler av verdensindeksene og påvirker direkte Oljefondets avkastning.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere lange renter og skeptiske investorer reduserer verdsettelsen av tungt belånte teknologiselskaper."
+     },
+     {
+      "area": "Renter",
+      "effect": "Vedvarende høye obligasjonsrenter gjørrentepapirer mer attraktive sammenlignet med volatile aksjeinvesteringer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Høyere finansieringskostnader kan tvinge AI-selskaper til å kutte i fremtidige investeringsbudsjetter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1o0SzJxdW9xV29tSjR3M01LRnMtbkdJUFBfX01pN2ItVUxNUE5UMk9WcWhVY2pzcFd1QWNnUDRhb2p5RkVhZlBqRUFiZnZjNUJhel9kcm82czlnSXNIUWsxeXhlTk5JS2cwTjFnTVZmdHJzV0E3ZC1Fd1lZcEZKWExGVXRzQW1EbmhoOVJKS3hQTEpQQmJJ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmemlrTzkxS0ZGNW4xVC1Bb0FYNmR0MWNHMnFtYXl6Wmg2UHFSVWwwUEQ0MEI5dmY0VGVtR1RURVc2aHlZRjBnVS0yQzdJaDVqNWVnSGFOZkh6SHdTSTJVUDBjd0tFdFhrbjFHa3ExVzFNN0FvOXFpOTZ2QQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQmlQN3BxVlJ1WjRuZllYS196SElpS242amVCRFJkVlNVcGFsU0RyQkNEbWo1bE42WjN5QTh0c29VcGFvWFJiQkZWUnZfMXFFOVl6VEtCZXU0MjVJTEc3N3M1UGtFSGxjSGNGcTlwTlA2MXFUelZOS0NHUWdKdVHSAYQBQVVfeXFMTU1WdGxpcHo0VmJPNHlwbkJJQmhFX3FYTkhSU2xZbUFhV3F5M0tmdU9OY1BkcDlkdmpIdHFnT3ZGbktVSjBYbHZ3N2VQNkZyOThhZTBpN0pNYld5QzdMUzI2QnZHdWlWYlUtNlNtMkJRcmEyY0ZqNG9INVByelFCaTh5c253?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "SoftBank søker 100 milliarder dollar fra Gulfen til AI-satsing",
+    "summary": "Det japanske konglomeratet SoftBank er i samtale med investorer fra Gulf-statene om å hente inn svimlende 100 milliarder dollar for å finansiere en massiv ekspansjon innen kunstig intelligens. Samtidig opplever enkelte oppstartselskaper tilbakeslag i sine børsnoteringer på grunn av markedsuro.",
+    "why_it_matters": "Dette viser den enorme kapitalkrevende naturen i AI-sektoren og hvordan Midtøsten forsøker å kjøpe seg inn i fremtidsindustrien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Massiv kapitaltilførsel kan fremskynde utviklingen av infrastruktur for kunstig intelligens globalt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Oljerike Golf-stater flytter statlig kapital inn i høyrisiko-teknologi for å sikre fremtidige inntektskilder."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Investeringsviljen kan opprettholde høye verdsettelser i halvleder- og datasentersektoren til tross for gryende skepsis."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEsxSDhNeTJrQnN5Wlg3UnYwNVNnR2Q4MWp5bEYzZl9pdkNwVXBEWUJVWVlZRlJOVjM3OVpKZWNCalVqTlZYT1VnUXBNUVJkNFdTa3d3Q0dHem9yVW1NT2Y2M0IwWUg2aU1qUkRzYnFZUG10RTdwTm9WVEcwcEtBbFhWV3k?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmQ5U1pjWWNZdjQ0aG9aVWpRX1lnbnlBemRhUlNha0JSYjZqNzNtY0tCNDMzUTlkNG5KUjgxeUpqak1KdTF5NjMtVTQ4V1RHZ0M3U2M0WmluZlB4VXJhdVFyYnBDYWx1SmVEdkxXdDRCM1p0X3prYlJWVEE2WGVqZFotSVRfQ251T3dsbnh2OUN6eko5Q3NueFhPaHJ6blRYdllMeVBIWFhhOHB0VEN1d3F3?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "USAs budsjettunderskudd nærmer seg 2000 milliarder dollar",
+    "summary": "Ferske tall viser at det amerikanske statsbudsjettets underskudd har steget kraftig og nærmer seg svimlende to billioner dollar, drevet av høye offentlige utgifter. Utviklingen skaper hodebry for lovgivere og øker bekymringen rundt USAs langsiktige gjeldsbyrde.",
+    "why_it_matters": "Høy amerikansk statsgjeld kan presse opp de globale rentene og påvirke hele det internasjonale finansmarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Økt statlig låneopptak fra USA kan presse opp de globale obligasjonsrentene og øke finansieringskostnadene."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Større underskudd tvinger frem politiske debatter om fremtidige skatteøkninger eller kutt i offentlige velferdsordninger."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Bekymringen rundt USAs gjeldsprofil kan føre til strengere kredittvurderinger og økt finansiell usikkerhet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0lsVFdvWTREYkZIUHdfa1hLS1J5aXJqeTFwMG9nN3JEdGd4RjYwSnhzNVpTTlRCUlBZTkxQeV9QSF9GR05xMzZWQ1JkYUplYTBfZE5qeHRneHRrMjFCN1haanJrbVhacnFQMmh1WGxOWmFQbEVzZ1NuLVdVUHZWNDJJUjNrZHdRUXA2bDdQTDVxZw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nasdaq-sjefen: Tokenisering kan frigi titalls milliarder i fastlåst kapital",
+    "summary": "Børsdirektøren i Nasdaq peker på at tokenisering av tradisjonelle eiendeler og verdipapirer ved hjelp av blokkjedeteknologi har et enormt potensial. Teknologien kan gjøre det enklere å handle og frigi titalls milliarder dollar i kapital som i dag er bundet opp i ineffektive systemer.",
+    "why_it_matters": "Dette kan revolusjonere fremtidens finansinfrastruktur og endre hvordan verdipapirer omsettes globalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Reduserte transaksjonskostnader og raskere avviklingstid kan gjøre kapitalmarkedene mer tilgjengelige for nye aktører."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Utbredt tokenisering krever nye juridiske rammeverk og strengere overvåking for å forhindre finansiell kriminalitet."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Lavere illikviditetsrabatt for unoterte og alternative eiendeler kan øke verdsettelsen av slike investeringer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUtiZDhmeDA3V3hzXzlVLUdXVHB1bWpuTUY4T0E0Q19HTXE4QWZ4Zmp4ZUxWSmhtcUVCVE5tNDE0TWdzOTJ5VlEwTy1PRk5Ganl1RFJGRXY1Y2FjNndPZ3BCc1Ric184TV83MmVvcG9JZWhQaFBPYm9jUkFJajE2RWNSajVlb1ZNQ05PVUloYWViTERoUndvRnQ5eEdiRG9mWjhUVmtR0gGrAUFVX3lxTE56QVZjYWQ1SVNDT1Y2NVVRNGdaenMzcjdzQzNzN05ZZ2paSUxvblQzVXA1aFJxeWZVQi0xd09TMjcxdno4aVFmWUVsaHlMeFY1X0JSVUxiTjJ5a2NQOTZuNHhJSTB0QV9wSkZQaEVPdjlNUDVoai1XT1BoOHFHaWxDVTlSQU9XU3h3bTBrSDJ5cHJ5a3FDUXd2LVU1amdEMVdBajBQcURWVFc4aw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "USAs forsvarsminister bekrefter at henrettelse av skytter vil strømmes live",
+    "summary": "USAs forsvarsminister Pete Hegseth opplyser at den planlagte henrettelsen av Fort Hood-skytteren Nidal Malik Hasan vil skje offentlig ved skytepelotong og bli strømmes direkte. Beslutningen har vakt oppsikt og reist en rekke juridiske og etiske spørsmål.",
+    "why_it_matters": "Dette markerer et historisk og kontroversielt brudd med moderne amerikansk straffepraksis.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Avgjørelsen skaper intens debatt om grensene for statlig straff og offentlig innsyn i henrettelser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFlfYXBjMDRKS0YzTHZFdFBOSGE4bGxpTEt1aXcxeHlSbktpNjVPNUd4QVVOYjlCNUd5NnBBS3hldGlhYXc5ZlJFWWZCa0JqcUQ0dUZETzJTeC1idVU0eDRkNlRBLWtWNmtTSi1RWFFfb2pKVnRrQjBZTnRpZk85dWhxZi1TSXRLVm9BdHhfbVBaOWRVTVIxUTM4a1o?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Proteststorm i New York etter at ICE-agent skjøt mann i bil",
+    "summary": "Det har brutt ut store protester i New York etter at agenter fra det føderale innvandringspolitiet ICE skjøt og skadet en mann som befant seg i en bil sammen med et barn. Byens ordførere har kraftig kritisert hendelsen og krevd stans i aksjonene.",
+    "why_it_matters": "Saken forsterker de spente politiske spenningene rundt innvandringspolitikk og politiets metoder i amerikanske storbyer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Hendelsen øker det politiske presset på føderale myndigheter for å endre retningslinjene for innvandringsraid i urbane strøk."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york?traffic_source=rss",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQ2NpUzBGOTB4TElDUHpFcDdBMmxEWmtsMjdSdTFmVzhMQkY0Z1czb2Q4ZWhuMjhEZHFxRk94a2lvUnhaZ0J2TGJlcUdpMWVJOWM1MGZxam13d0JlSjU4?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-08-20",
   "hour": 20,
   "date": "2026-10-08",
