@@ -1,5 +1,322 @@
 [
  {
+  "id": "2026-10-10-20",
+  "hour": 20,
+  "date": "2026-10-10",
+  "generated": "10.10.2026 20:15",
+  "overview": "Geopolitiske spenninger preger råvaremarkedene etter nye angrep i Midtøsten og amerikanske utspill om russisk drivstoffimport. Samtidig øker oppmerksomheten rundt gjeldsbelastning i både europeiske statskasser og den teknologidrevne vekstsektoren.",
+  "stories": [
+   {
+    "title": "Trump varsler russisk dieselavtale og ber Ukraina stanse raffineriangrep",
+    "summary": "Donald Trump har kunngjort en avtale med Russland om import av diesel til USA og krever samtidig at Ukraina stanser angrepene mot russiske oljeraffinerier. Utspillet har skapt sterke reaksjoner fra Ukrainas president Volodymyr Zelenskyj, som Trump på sin side mener bør skiftes ut. Europeiske allierte og Norges utenriksminister advarer om at en slik avtale undergraver sanksjonsregimet mot Moskva.",
+    "why_it_matters": "Endringer i USAs sanksjonslinje og drivstoffstrømmer kan endre de globale energiprisene og svekke det vestlige alliansesamarbeidet mot Russlands krigføring.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Dersom russisk diesel finner veien til vestlige markeder kan det dempe raffineringsmarginene og legge et nedadgående press på globale drivstoffpriser."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "En oppmyking av USAs linje overfor Russland kan skape dype splittelser i Nato og svekke tilliten mellom Washington og europeiske allierte."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere globale energipriser og svekket oppslutning om sanksjoner kan på sikt redusere Russlands inntektstap, men også påvirke Norges petroleumsinntekter negativt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/trump-angriper-zelenskyj-1.18051512",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/4Obv56/trump-om-ukrainske-oljeangrep-boer-stoppe?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Ny eskalering i Midtøsten: Angrep mot Riyadh lufthavn og tankskip i Hormuzstredet",
+    "summary": "King Khalid internasjonale lufthavn i Riyadh ble rammet av et nytt drone- eller missilangrep som førte til personskader og midlertidig stans i flytrafikken. Samtidig melder Irans revolusjonsgarde at et oljetankskip står i brann i Hormuzstredet etter å ha gått på en sjømine. Angrepene markerer en markant tilspissing av sikkerhetssituasjonen rundt sentrale transport- og oljeknutepunkter i Gulf-regionen.",
+    "why_it_matters": "Hormuzstredet og Saudi-Arabias infrastruktur er avgjørende for verdens oljeforsyning, og forstyrrelser her kan gi umiddelbare hopp i oljeprisen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Økt risiko for skipsfarten i Hormuzstredet kan tvinge rederier til å kreve høyere krigsrisikopremier og presse oljeprisen oppover på kort sikt."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Uro i globale forsyningslinjer kan løfte aksjekursene for norske olje- og tankrederier på Oslo Børs på grunn av økte fraktrater."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Vedvarende forstyrrelser i energitransporten kan forplante seg til drivstoff- og transportkostnader og dermed forsinke sentralbankenes inflasjonsmål."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1l4eGwzQU9YSkdQVHExamFsOU5fT1JNVjNHYmxiTTdOODYxRmJGYnUxX3ZlX1l3cjNpLVgtbHpGLXp0QjBOekFRRmdrclBiclp6S29NNHM1SDgza2gzUjJ2OTA2SGpESnAzT295WGZsN214V1p2NVZybi1nQjR1WFVZQVQ0eFRHWmxzdnplNVJ1RnUtRGFBdmllYXc4bVFWYzlmeV9R0gGrAUFVX3lxTFBpZl9aQXk5OW05Rk9sM2ZKR3pHSHUwRklWdVRHcWg1Ynd4cTZDS25HbENucHBGYzd1Xy1MenA1LUhUd3F2MUl5YVo1RUxOOE5CbjQzVXdnbVJtemthdjcwRTduU0JWQ25wSTRqVHdGOF9mY2FOWTQxNmpJWHlUTmxrbEpXckk2eHlka3hGcGZrZmdKZFIzUFRpR1AyVEJteHVkMzFSaHdCSjlhQQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/iran_-oljetankskip-i-brann-i-hormuzstredet-1.18051514",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Investorer bremser gjeldsfinansiering innen kunstig intelligens",
+    "summary": "Låneopptak knyttet til store satsinger innen kunstig intelligens er i ferd med å avta ettersom investorer blir mer skeptiske til den kraftige gjeldsveksten. Samtidig skaper politiske initiativ i USA om juridisk erstatningsansvar for AI-modeller ytterligere usikkerhet for sektorens forretningsmodeller. Finansmarkedene krever nå i større grad dokumentert lønnsomhet før nye kjempeinvesteringer godkjennes.",
+    "why_it_matters": "Dersom kapitaltilgangen til datasentre og regnekraft strammes til, kan veksttakten i hele den globale teknologisektoren dempes betydelig.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Krav om høyere lønnsomhet kan legge press på høyt verdsatte teknologiselskaper som hittil har lent seg på billig og rikelig gjeldsfinansiering."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskaper som bygger ut infrastruktur for kunstig intelligens må trolig prioritere strengere og utsette de mest kapitalkrevende ekspansjonsplanene."
+     },
+     {
+      "area": "Renter",
+      "effect": "Økte risikopåslag i obligasjonsmarkedet for teknologiselskaper kan gjøre refinansiering av eksisterende lån vesentlig dyrere fremover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Staten tar rekordutbytte i Bane Nor midt i økende vedlikeholdskostnader og togstreik",
+    "summary": "Staten henter ut et historisk høyt utbytte fra Bane Nor til tross for at etterslepet og kostnadene for vedlikehold på jernbanenettet fortsetter å vokse kraftig. Samtidig sitter partene i samtaler etter tre uker med togstreik for å forsøke å finne en løsning på arbeidskonflikten. De store statlige uttakene i en tid med forsinkelser og misnøye skaper sterk debatt om prioriteringene innen samferdsel.",
+    "why_it_matters": "Effektiviteten og påliteligheten i jernbanenettet er avgjørende for norsk produktivitet, dagpendling og næringslivets godstransport.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høye utbytter gir kortsiktige inntekter til statskassen, men kan redusere selskapets egenkapital til nødvendige og langsiktige oppgraderinger av sporkapasiteten."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Vedvarende problemer og streik i jernbanetransporten tvinger vareeiere over på dyrere veitransport og skaper forsinkelser i forsyningskjedene."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Fortsatt etterslep i vedlikeholdet betyr risiko for hyppige innstillinger og redusert mobilitet for tusenvis av daglige togpendlere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/R55Rea/staten-tar-rekordutbytte-i-bane-nor?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/2VvRgv/nye-forhandlinger-i-togstreiken-vi-sitter-i-samtaler?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Aqualis vurderer markedsplassbytte etter nye skatteregler",
+    "summary": "Konsulentselskapet Aqualis vurderer å flytte sin notering fra hovedlisten på Oslo Børs til vekstmarkedsplassen Euronext Growth som følge av endrede skatteregler. Finansdepartementets regeljusteringer åpner for skattemessige tilpasninger som gjør den mindre regulerte listen mer attraktiv for enkelte aktører. Utviklingen kan føre til at flere selskaper revurderer sin noteringsform for å optimalisere rammebetingelsene.",
+    "why_it_matters": "Dersom etablerte selskaper forlater hovedlisten, kan det svekke likviditeten og attraktiviteten til Oslo Børs som kapitalmarkedsarena.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "En overgang til Euronext Growth kan svekke handelslikviditeten i aksjen ettersom visse institusjonelle investorer har mandater som utelukker vekstmarkeder."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Endrede skatteregler kan tvinge myndighetene til å vurdere utilsiktede konsekvenser dersom mange selskaper søker seg bort fra strengere rapporteringskrav."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskaper som flytter til mindre regulerte markedsplasser kan oppnå lavere administrative kostnader, men risikerer samtidig høyere langsiktige kapitalkostnader."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/L3o7n4/aqualis-vil-bytte-markedsplass-etter-jens-grep?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdE5VS3RnMmlmdHNXSzZXaU5GSl9VQWpKam5HRHZ4WUx2RlpZUjNwNkdKejRudWJXUkYta0ZySmlBYUJac0pYbWtWaTlwdDdIdVpvaGkzdGN2YVNDMWJFaWdteDJiblVaUEtnYlJTbGptVWY3dHc5aWRNTzRXNWVZNzBucTB5ZVVVTzlKMnFiX0xhSlpPTmh0SUE3d0xJeGNva2c?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Tysk sentralbanktopp advarer om økt risiko for statsgjeldskrise i Europa",
+    "summary": "En direktør i den tyske Bundesbank advarer om at risikoen for en ny statsgjeldskrise i eurosonen øker i takt med voksende budsjettunderskudd og høye renter. Samtidig har EU kuttet i forslagene til et felles budsjett for å tvinge frem en avtale mellom medlemslandene før årsskiftet. Den finanspolitiske spenningen forsterkes av at renteutgiftene legger beslag på en stadig større andel av de nasjonale inntektene.",
+    "why_it_matters": "Finansiell ustabilitet og økte gjeldsrenter i eurosonen vil umiddelbart påvirke europeiske markeder, kronekursen og Norges viktigste eksportmarked.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Økt frykt for mislighold eller gjeldsuro kan drive opp risikopremiene på statsobligasjoner i søreuropeiske land og presse europeiske renter opp."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Krav om strengere budsjettdisiplin kan tvinge europeiske regjeringer til upopulære kutt i offentlige velferds- og investeringsbudsjetter."
+     },
+     {
+      "area": "Handel",
+      "effect": "Finanspolitisk innstramming i store europeiske økonomier kan svekke importetterspørselen og dermed ramme norsk fastlandseksport negativt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QcFJHVHJnWmlWZVpmOXVwVG1oSl8yczZPUXhrdUpjZWVqVnFOMlp5YnlxNThjcl9EbUh0bzZ2RW1OVWlEYmdMVjhqRWZGLWoybTNCN2JzY2U3QQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGhTYXI5cWdEWWpWQzlKb0NyWWQ5NG5nbmNRVFRmQ29SOEVtMkd5WHQ5bG93VlpCcHFnWXc0OHdmNGdtVjZLVmZqWloyQnp0V0ZtTFMtY3NVYno2WXJlVi13ZUhJZVZNX2w3NUI3LVFRaUhoVkpnUWcxUVFwbjU4SlVZT18?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Bank of Japan og asiatiske sentralbanker under kraftig valutapress",
+    "summary": "Bank of Japan opplever økende forventninger og press om rentehevinger, samtidig som Indias sentralbank må intervenere for å hindre at rupien faller til nye bunnrekorder. Rentedifferansen mot USA holder dollaren sterk og setter asiatiske valutaer under vedvarende press. I tillegg preges regionen av lavere innenlandsk etterspørsel i Kina, der bilsalget stupte med 24 prosent i september.",
+    "why_it_matters": "Pengepolitiske innstramminger i Japan og svingninger i asiatiske valutaer påvirker globale kapitalstrømmer, internasjonal handelsbalanse og råvarepriser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Dersom Bank of Japan tvinges til å heve styringsrenten raskere, kan reversering av globale carry trades skape uro i internasjonale obligasjonsmarkeder."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En sterkere dollar mot asiatiske valutaer forsterker den generelle dollardominansen og kan holde den norske kronen under fortsatt press."
+     },
+     {
+      "area": "Handel",
+      "effect": "Svakere asiatiske valutaer gjør asiatisk eksport mer konkurransedyktig, men øker samtidig importkostnadene for råvarer som handles i dollar."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1l6ZmsxSHZWZkZZZzZQdEJJLTB6OEhtaUtFTDRzeTZGcmk5UTlkUUxhTnJBQlJzc0xWZV84QzhxT0NsZXNqeUhuNzdSYmpFb2VRdnlMekZsQTZsMVQ3OE1yVXlHRjZTTmN2ZmJic2syUVlGaURPVXdoMDh2bWp6SjBlVUhxMzU5RFpOU3JRZG0?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC11cWQ1NWZfWG1tRkVXS094TTFCeGtNV3daVHBib09DWEFKZFF0a28wQlNBWXR4RnlyTUY0djM2TEF4TlZ1VDA5U0RmRnlaQlQ3S2prSTJibWc4LWstc1BnYkRFNHY4aDZxRjV0dWpMWGxoVUUxYU1qU2Iwa29YbnhKaFo?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Ni personer drept i masseskyting i Pennsylvania",
+    "summary": "Ni personer, inkludert to barn og den mistenkte gjerningspersonen, ble drept i en skyteepisode i byen Erie i delstaten Pennsylvania fredag. Delstatens guvernør bekreftet dødstallene lørdag, og politiet etterforsker hendelsesforløpet og motivet bak angrepet. Lokalsamfunnet er i sjokk etter hendelsen, som føyer seg inn i en lang rekke dødelige skyteepisoder i USA.",
+    "why_it_matters": "Skytingen forsterker den pågående nasjonale debatten om våpenlovgivning og offentlig sikkerhet i forkant av politiske valg i USA.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Tragiske voldshendelser som dette kan øke presset på amerikanske lovgivere for å innføre strengere bakgrunnssjekker og restriksjoner på våpensalg."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/ni-drept-etter-masseskyting-i-pennsylvania-1.18051505",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kraftig jordskjelv med styrke 7,7 rammer Panama",
+    "summary": "Et jordskjelv med styrke 7,7 rystet Panama og utløste panikk og skader på infrastruktur og historiske bygninger, deriblant en katedral som kollapset delvis. Myndighetene sendte ut tsunamivarsler langs kysten og iverksatte evakueringer av sårbare områder. Redningsmannskaper arbeider nå på spreng for å kartlegge skadene og bistå berørte innbyggere.",
+    "why_it_matters": "Store naturkatastrofer i Mellom-Amerika truer lokal matsikkerhet og kan ramme viktige regionale transport- og havneforbindelser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Ødeleggelser på transport- og havneinfrastruktur kan skape kortsiktige logistikkutfordringer for varetransporten gjennom den panamanske handelskorridoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1A3ejRlMnQ0WElNVHdzV2xUdWNwRnJsNC1KZzU4R0ZFbXhBc09xX1Nya0JzMDJnTjlkRk1zZE1JWFBJeG5QVXhlRWpzb05SbUR4cFl2dmN0ZkE1N0trVTNoaUx2MUlZSkpNTXlNTzFTZC1qVldDcTVyMGJLZFRtVGtaaFY1amxuTDlRT1JQdmwxaGU0ajcwMDliYUtRbDBRem5YdVM4QVVWeDFPUjV0c0hjUmtkOWxEU2F3Q2cwWQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Navi Pillay tildelt Nobels fredspris for arbeid innen internasjonal rett",
+    "summary": "Den sørafrikanske juristen Navi Pillay er tildelt Nobels fredspris for sitt langvarige arbeid for internasjonale domstoler og menneskerettigheter. Kunngjøringen har fått bred internasjonal omtale, samtidig som Donald Trump offentlig kritiserte avgjørelsen og hevdet han selv fortjente prisen. Tildelingen retter søkelyset mot viktigheten av internasjonale rettsnormer i en turbulent tid.",
+    "why_it_matters": "Prisen løfter betydningen av folkeretten og globale rettsinstitusjoner i en periode der det multilaterale systemet er under sterkt politisk press.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Anerkjennelsen av internasjonale rettsforkjempere kan styrke legitimiteten til globale domstoler i en periode preget av økende geopolitisk polarisering."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUthQnFiV0txRmZlZHV5Qlc3dU1Sb3NkaWpNSjhKaGJuampKa1NTNHl3aE9XdjBHWTg4UmNpVjVWRWhUa0FXNVNYUjJvcHRDR1drSmdXNDhzWGdWWkxLaGhIb3VlWTlSRkFIU1pERzFUdlNTS1dFbk5SRFllYUozWEJIbTBRajRFT3QwcUQ5TWw5cnpxcGVUa1dKOE9NZVhoc2lqVUNWaENiUTF3amQ0TVJSbDBFakdHcVE?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-10-08",
   "hour": 8,
   "date": "2026-10-10",
