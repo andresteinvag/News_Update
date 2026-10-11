@@ -1,5 +1,301 @@
 [
  {
+  "id": "2026-10-11-08",
+  "hour": 8,
+  "date": "2026-10-11",
+  "generated": "11.10.2026 08:18",
+  "overview": "Internasjonale markeder preges av tiltakende bekymring rundt europeisk statsgjeld og råvareforstyrrelser etter orkanuvær i USA, mens en avverget SAS-streik gir lettelse i skandinavisk luftfart. Samtidig skaper teknologigigantenes KI-investeringer og geopolitiske spenninger i Midtøsten og Ukraina nye usikkerhetsmomenter.",
+  "stories": [
+   {
+    "title": "Avverget SAS-streik sikrer flytrafikken etter nattlig meklingsløsning",
+    "summary": "Meklingen mellom NHO Luftfart og Fellesforbundet endte med enighet natt til søndag etter at riksmekleren la frem en skisse to og en halv time på overtid. Løsningen innebærer at en varslet flystreik neste uke er avblåst, og forslaget sendes nå ut til uravstemning blant medlemmene.",
+    "why_it_matters": "En avtale forhindrer omfattende kanselleringer og store inntektstap i skandinavisk luftfart under en sårbar restruktureringsfase.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Unngått streik skjermer flyselskapets kontantstrøm og driftsresultat fra akutte driftsforstyrrelser som ellers ville svekket den finansielle gjenoppbyggingen etter konkursbeskyttelsen."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Reisende slipper usikkerhet og kostbare ombookinger i høsttrafikken, ettersom ruteprogrammet for neste uke vil gå som normalt."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Meklingsløsningen setter en ny lønnsmessig standard for bakke- og kabinpersonale som kan påvirke forhandlingene i konkurrerende nordiske flyselskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/AbEpxn/sas-streik-avverget?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/sas-meklingen-avsluttet-_-ikke-flystreik-neste-uke-1.18051661",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/oKv7oR/sas-streik-avverget",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Økende gjeldsbyrde og høye renter rammer Frankrike og truer Italia",
+    "summary": "Frankrike står overfor kraftig økende lånekostnader og politisk uro etter langvarig budsjettunderskudd, noe som forsterkes av høye europeiske styringsrenter. Samtidig advarer Goldman Sachs om at Italia kan bli det neste landet som opplever markedsuro i obligasjonsmarkedet som følge av voksende budsjettgap.",
+    "why_it_matters": "Finansiell ustabilitet og økende rentedifferanser i kjerne- og periferilandene i eurosonen kan hemme europeisk vekst og svekke verdien på Oljefondets europeiske renteportefølje.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere risikopremier på franske og italienske statsobligasjoner kan tvinge frem strammere finanspolitikk og skape vedvarende press på europeiske lånerenter."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Kraftig økte renteutgifter begrenser det finanspolitiske handlingsrommet for store EU-økonomier til å investere i grønn omstilling og forsvar."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt kredittrisiko blant søreuropeiske stater kan smitte over på europeiske bankaksjer og redusere den generelle risikoviljen på børsene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/8GP2LG/naa-faar-frankrike-regningen?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbzFiYWVmZTFGbUxQeG56SHg1Y192Mk5QUV9GRDdYcjVXZS1rVy1jRXVNSUJQN3ZTZldrdFdUMDgzcDVFVmZVd2hDa05JTWFNQ3FIbWFaZllhcUhJZWVVZEQtWTBNN2pZdUpYVHRaTzU5c08yYlhHUnJXX0MyRjV6QlZnTTNBWmd1UDJzUFA2MWFfVHfSAZgBQVVfeXFMUG9LaUd5VmUtTExpekVpb1BqSUF3czg2S2g5Rkptc2lmZGZoc3puODRQa3lETFFVcm96RU5ONVAzdmFlOEhyczk3dkpzanJZZWJUUFFfY3N5SEVWV0N4WGdsWVNhbzVueVFSQ19GMzZCcTM3bjFJS2xhOEpPNGRMbzVyazhpMnhWSDBlenBEclNVbzBhYXRBYmI?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Orkanen Isaias forstyrrer amerikansk olje- og gassproduksjon",
+    "summary": "Uværet Isaias har krevd minst fire menneskeliv og forårsaket omfattende skader og strømbrudd etter at det traff USAs sørøstkyst. Ekstremværet har tvunget frem nedstengninger og forstyrrelser i olje- og gassinstallasjoner i Mexicogolfen.",
+    "why_it_matters": "Amerikanske produksjonsforstyrrelser kan stramme til den globale energibalansen og påvirke prisene på råolje og gass på kort sikt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Kortsiktig bortfall av amerikansk gass- og oljeproduksjon kan presse opp råvarepriser og gi økte inntekter til alternative eksportører som Norge."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere drivstoff- og energipriser i kjølvannet av forsyningsforstyrrelser kan motvirke det nylige inflasjonsfallet i den amerikanske økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVEweWNRTlVwcVlNdkxiczc0ZWFWVWp4cFR4SUl3ZXlISkItM1pBRFlnOWdoS245TEN3cTRhNU9iOVA4REZ5czBCaVpvTWNwLWdaOFNoY29ZOTlhS2UzSG1YS2s2RUU5UXNPWjBDMDZfSkEwTjdITG94TzJ5QXdZa3Z3SDM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUY3T0ZKRHZlMDZwWmt0cWV3RXF5Ymp2RDJHZU5jbVFTS0NCM1NNTGo3YUtxVFNLMUtzeWNvNDBfem5RX0NjMkpaRWI2QUFBTzFXWFVULV9YeWFtYVdVZGJrc3lmbDdWU1ZjZUQ5aHNfQnRNVWI5cGZoU1g5aGNDaWM3bDNQQ1BFbGZUY2VwbWhrN2licEMwYlZWYl9Cc3Fh?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Russland opphever dieseleksportforbud etter samtaler med Trump",
+    "summary": "Russiske myndigheter har opphevet forbudet mot dieseleksport i det som omtales som en del av en avtale mellom Donald Trump og Vladimir Putin. Trump har samtidig anklaget Ukrainas president Volodymyr Zelenskyj for høye amerikanske dieselpriser og krevd lederskifte i Kyiv.",
+    "why_it_matters": "En gjenopptakelse av russisk drivstoffeksport til verdensmarkedet kan endre raffinerimarginer og svekke den vestlige sanksjonsfronten mot Moskva.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Tilførsel av russiske dieselvolumer kan dempe globale raffinerte drivstoffpriser og lette kostnadstrykket for transportsektoren internasjonalt."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Splittelse mellom USA og Ukraina om energipolitikk kan redusere vestlig samhold og endre forutsetningene for europeisk sikkerhetsarkitektur."
+     },
+     {
+      "area": "Handel",
+      "effect": "Lettelser i råvarerestriksjoner utfordrer etablerte sanksjonsregimer og kan åpne for fornyet strid om håndhevelsen av pristak på russisk olje."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDhlVFZLREFzdExSTEswU3d1N2RuU0lzMXdBaU9sSnI5UXhOcnZNOEhHT0xwN2xlald2VTJfZkFUMGYzbDk2WEJrVndfOWlBT2kxR0prMktwTjlaa1pOdzVTdTJvaXJHS3o0bll5SEJndVU5cUo5Y1NJRVc0Q0loQnFzQlhnN2RaZ1A4Sm50cFR0YmZXVEFCWlZiTUR5UXJvOW9xVkhSMjVEbm1CWWRmM1poNA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa19wcExoU3NoSThnN200Sld1SWRZdFp0RnRvRkd3eEJnaDQ5RjFYU0JLVU5FaUpsem83NlRkWVNiMG52US1WUk9EMm5EWnlKWFB3TXJaZy1YWGlmYWNpbjhieVVtdHVZRzVRNm9mbVFJRHNvcmFGMndJdUFsYUpxQlRPTmNoNFp1VWfSAY8BQVVfeXFMUHZqejcyaG1LMWI3S3dJTXV6bDNTU0cwN0llZG5wSFdoa3EtRGJwWFVpNlk3Z2tsTEpoVWt5RUJpdW10cHZVYkNEZXNDbkROQnFvNlhKNW9oUkgyeWF0cUtTMzBXV01uemUtTFJzM2Z3N1ZSNG10Y19RcmpVUUtxTWFveXlfbXo0VmpfRUxlMUU?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Microsoft-sjef Satya Nadella etterlyser nødbrems for avansert KI",
+    "summary": "Microsofts toppsjef Satya Nadella uttaler at utviklingen av kunstig intelligens krever en menneskestyrt 'nødbrems' for å forhindre tap av kontroll over autonome systemer. Utspillet kommer samtidig som teknologiledere og investorer debatterer regulatoriske rammer og sikkerhetsrisiko knyttet til stadig kraftigere modeller.",
+    "why_it_matters": "Krav om strengere sikkerhetskontroller fra de største teknologiselskapene kan lede til bindende reguleringer som bremser utrullingstakten i den globale KI-økonomien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Myndigheter kan innføre obligatoriske kontrollmekanismer og revisjonskrav som øker etterlevelseskostnadene for teknologiselskaper som utvikler storskala modeller."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Strengere begrensninger og frykt for overinvesteringer kan dempe verdsettelsesmultiplene i den høyt prisede teknologisektoren dersom kommersialiseringen forsinkes."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2tYeVZwTkEwVmNuQnBYVnhKMHNnamZKeEtqeXlyT3AtRVlXbWtMS2wxRktaYWRyUUJfcDV5MktLeFZJRkFBYm9WN2xvT25VY2VsZFNnSzZhNXBoYzZSRzNCaGgwUFBiOFloZ3BwdzhnZzEyZzJKbFk2Q1ZDbW9udEZ5YklCSzNNd256aEN5elc4RlJfZVNrQ1FoVWlBOFBLWDNodUJBWVNVNVJEc2paY1pNQQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nvidia vurderer oppkjøp av KI-oppstartsselskapet Reflection AI",
+    "summary": "Halvledergiganten Nvidia er i samtaler om enten å øke sin investering eller gjennomføre et fullt oppkjøp av det amerikanske oppstartsselskapet Reflection AI. Selskapet fokuserer på åpne modeller og databehandlingskapasitet, og forhandlingene gjenspeiler Nvidias strategi om å sikre dominans gjennom hele KI-verdikjeden.",
+    "why_it_matters": "Nvidias oppkjøpsstrategi befester selskapets markedsposisjon og kan reise nye konkurransepolitiske spørsmål i USA og Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Vertikal integrasjon der dominerende brikkeprodusenter sluker programvareaktører kan begrense åpen konkurranse og tvinge frem strengere gransking fra konkurransemyndigheter."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Oppstartsselskaper innen kunstig intelligens opplever stigende verdsettelser når etablerte giganter kjemper om å sikre seg nøkkelteknologi og ekspertise."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Stortinget kvitter seg med pendlerboliger for 100 millioner kroner",
+    "summary": "Stortingets administrasjon planlegger å selge elleve pendlerboliger i Oslo som det ikke lenger er behov for, med en anslått samlet verdi på rundt 100 millioner kroner. Salget er et ledd i oppryddingen og effektiviseringen av boligporteføljen etter de siste årenes regelendringer for stortingsrepresentantenes goder.",
+    "why_it_matters": "Frislipp av eiendommer i det sentrale Oslo gir staten inntekter og tilfører attraktive enheter til et stramt lokalt boligmarked.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Salgsinntektene tilfaller statskassen og reduserer fremtidige offentlige forvaltnings- og vedlikeholdskostnader knyttet til tomme leiligheter."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Tilførselen av attraktive leiligheter gir marginalt bedre tilbud i sentrale bydeler, men endrer ikke den underliggende strukturelle boligmangelen i Oslo."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/qyvO31/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Minst tolv drept og 300 såret i rakettangrep mot flyplassen i Riyadh",
+    "summary": "Minst tolv personer ble drept og over 300 skadet i et omfattende angrep mot flyplassen i den saudiarabiske hovedstaden Riyadh. Saudiske og amerikanske myndigheter peker på Houthi-bevegelsen i Jemen som ansvarlig for angrepet, som kraftig fordømmes internasjonalt.",
+    "why_it_matters": "Angrepet markerer en alvorlig eskalering i Midtøsten som truer sivil luftfart og regional stabilitet på Den arabiske halvøy.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Direkte treff på saudiarabisk infrastruktur øker faren for kraftige militære gjengjeldelsesangrep og fornyet krigshandling i Jemen-konflikten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGZwcDY1YlloN3oyNzFVMFZTcExnWXZqTzVQNEFkNnBoN2xGR0FEWEVjeUU2OVFEQ21hLUtXRzF2WHVnMzFuVUoxWGQzUFBVTjV2cWNmeFhmWTVvQ19iZ0xxV1c2OXRWMjBFOURBSzc2TWlaQUxENnpCU1ptX0Rna0E4Sl8zNE5aRmpNVkhrclRWUFdIcElCMg?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "USAs justisdepartement gransker TV-kanaler etter Trump-boikott",
+    "summary": "Det amerikanske justisdepartementet har åpnet etterforskning mot store TV-nettverk, inkludert ABC, CBS, CNN, NBC og Fox News, for mulige brudd på konkurranselovgivningen. Granskingen kommer etter at mediene samordnet reaksjoner da Det hvite hus utestengte utvalgte journalister fra fellesdekningen.",
+    "why_it_matters": "Saken reiser alvorlige spørsmål rundt pressefrihet og myndighetenes bruk av antitrust-lover mot uavhengige nyhetsmedier.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Bruk av konkurransetilsyn mot journalistiske samarbeid kan svekke medienes evne til felles press mot politiske innskrenkninger av arbeidsvilkår."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ni personer døde etter skyteepisode i Pennsylvania",
+    "summary": "Åtte personer og den antatte gjerningspersonen er bekreftet døde etter en masseskyting i en bolig i byen Erie i delstaten Pennsylvania. Lokalt politi og delstatsmyndigheter etterforsker hendelsen, mens lokalsamfunnet mottar krisestøtte.",
+    "why_it_matters": "Den dødelige hendelsen føyer seg inn i en lang rekke masseskytinger som forsterker den pågående debatten om våpenkontroll i USA.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Gjentatte masseskytinger påfører lokalsamfunn store beredskaps- og helsekostnader og øker presset for strengere delstatlige våpenreguleringer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-10-20",
   "hour": 20,
   "date": "2026-10-10",
