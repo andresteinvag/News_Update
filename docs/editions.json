@@ -1,5 +1,291 @@
 [
  {
+  "id": "2026-10-12-08",
+  "hour": 8,
+  "date": "2026-10-12",
+  "generated": "12.10.2026 08:23",
+  "overview": "Uken åpner med markante svingninger i råvaremarkedene etter motstridende signaler om geopolitisk risiko i Midtøsten og rykter om en midlertidig energiavtale mellom USA og Russland. Samtidig preges det norske nyhetsbildet av regulatoriske inngrep mot teknologigiganter, utsettelser i skattepolitikken og fortsatte kostnadskutt i telekomsektoren.",
+  "stories": [
+   {
+    "title": "Oljeprisen presses av Trumps utspill om energiavtale med Russland",
+    "summary": "Oljeprisen falt etter at Donald Trump erklærte en påstått energivåpenhvile i Ukraina-krigen og presenterte en ny dieselavtale med Russland. Avtalen møter imidlertid kraftig motstand i Kongressen fra både republikanere og demokrater, som mener grepet bryter med gjeldende sanksjonslovgivning.",
+    "why_it_matters": "Svingninger i råoljeprisen påvirker direkte Norges eksportinntekter, skatteinngangen fra sokkelen og bevegelsene i den norske kronen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Forventninger om økt tilbud av russiske oljeprodukter kan legge et kortsiktig nedadgående press på raffineringsmarginer og globale råoljepriser dersom avtalen realiseres."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere oljepriser kan redusere statens direkte petroleumsinntekter og dermed dempe den samlede kapitaltilførselen til Statens pensjonsfond utland over tid."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Politisk motstand i Washington og manglende avklaring fra partene i Kyiv og Moskva skaper usikkerhet som raskt kan reversere prisfallet dersom konflikten trappes opp igjen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkdVMXVPN1BzRFlhOVdNQkFTU3hkRW1WOUdtNERzSnNDNkhRd29jTXhRZ0xvSUZWQVpCUUd1b29CWEpHYWtmaVFRbXR6bTUtaTlaODhKd0I0YVhub3BjRDJ0Uks1VzhpUzRSbkE4Y2N1X19CR0tpOHEtXzNMY2JOY1pPOHZTU2PSAYwBQVVfeXFMTPIvR2cwNjhmemExeXRWRFFPb28wM0ZpVjVkQjRZYnBDS0QzVDUtME94REtVZFBlYkM5dUNmUzNIWTNhR0lvUTZDZVlfSjAyWW05OHhkRzNQX0ROczVnSTQzeWpSTko1Uzlra2RUNFFXRUV3QVU2T3pSOG42Y3lOaTNqc3plZTJGdmRZcmQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/mK3R1l/senatorer-mot-trumps-avtale-bryter-loven?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Houthi-angrep mot Riyadh og tankskip i Omanbukten skaper ny forsyningsfrykt",
+    "summary": "Flere drone- og missilangrep mot lufthavnen i Riyadh og hendelser mot kommersielle tankskip i Omanbukten har skapt fornyet frykt for forsyningsavbrudd i oljemarkedet. Angrepene krevde menneskeliv og har ført til fordømmelse fra en rekke regionale aktører samt nye reiseråd for området.",
+    "why_it_matters": "Økt krigsrisiko i sentrale transportårer i Midtøsten gir umiddelbare risikopremier i frakt- og energimarkedene som motvirker effekten av svakere global etterspørsel.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Forhøyet geopolitisk usikkerhet i Gulf-regionen kan føre til høyere risikopåslag for råolje og flytende gass dersom viktig infrastruktur trues ytterligere."
+     },
+     {
+      "area": "Handel",
+      "effect": "Økende angrep på sivil sjøfart og flyplasser kan drive opp forsikringspremier på sjøfrakt og forlenge seilingstider for internasjonale rederier."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Dersom fraktratene og drivstoffprisene forblir høye som følge av uroen, kan det gi forsinkede ringvirkninger til globale konsumpriser og forsinke rentekutt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWk1ab2N5dmRGQlBJS0ZLdmpBSWhMNWpGZ3o0ZDQ1NXFOdHdVYVBNMUpXY01naktFbkw2dmFmenhVeDBYZEdBeFVLRF95Sm1jempLdUdoc1JyR1RCQlg3dUdrMW1fVEZTdVdFejdBRTBJVmI1RV90OHNvSV90Y0U3dFZXRThzbWdPT0lPdXl3NU9HVlh6dzZlMm1BMDNRQQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMF95Nm5HV1pQeTVrX1hkaU52bkVfQUNCcjlMMVVUazlFalZpd3dnTVdvOTAxMWdZMk1wU1hfNHkyYXBVY2ZnbnVUa0N2Nm9uOTVTYVQzeGphOExkTWtoRElvUzBqMS1PWkpOQ1VpZy1VN0tUQ2hmYzV5WG1uRVFBb00yb3RjZDZ6andza0lBak9HVXl2QVFZeWk4NXVpc0d4OTVnX2FSY203allXNVlLa1lENGI1bnFLWG1IQVZlS0NyYjZWTUE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZF9DS1hBWldLa0lJMWU3YkJTdkNKZGpCRlhlSnFPMFlMWmRLWUhZYW1ydmJSUGVvOU9NUTA3YWI5SDFKRy1mZ3ZWemRURF9XZVRhUmhBdXRGMnJSVGFYcmdoNHJHYlpveXl2djJFTmhzWjJ1ZU84VzJZc2Q5enVSdm1QTmU?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Datatilsynet ilegger Microsoft-selskap historisk bot på 92 millioner kroner",
+    "summary": "Datatilsynet har ilagt annonsetjenesten Xandr et overtredelsesgebyr på 92 millioner kroner for ulovlig spredning av sensitive personopplysninger. Dette er det høyeste gebyret tilsynet noensinne har ilagt et selskap i Norge, og saken omhandler alvorlige brudd på personvernforordningen.",
+    "why_it_matters": "Avgjørelsen signaliserer en tøffere håndheving av personvernregler overfor store globale teknologiselskaper som opererer i det norske reklamemarkedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Strengere håndheving av GDPR kan tvinge internasjonale annonseteknologiselskaper til å restrukturere datainnsamlingen sin og øke etterlevelseskostnadene betraktelig."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Norske annonsører og mediehus kan bli mer forsiktige med å benytte tredjeparts annonsebørser av frykt for medansvar ved ulovlig datadeling."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/datatilsynet-gir-microsoft-selskap-rekordbot-1.18052159",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/lK93E7/datatilsynet-gir-microsoft-selskap-rekordbot-bruddene-er-svaert-alvorlige",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Finansdepartementet utsetter innstramming i reglene for innbetalt kapital",
+    "summary": "Finansminister Jens Stoltenberg har besluttet å utsette den varslede skatteinnstrammingen for skattemessig innbetalt kapital, som opprinnelig skulle tre i kraft 1. januar neste år. Utsettelsen gir næringslivet og rådgiverbransjen mer tid til å tilpasse seg endringene etter sterk motstand fra næringslivsaktører.",
+    "why_it_matters": "Regelendringen har stor betydning for hvordan norske selskaper kan tilbakebetale kapital til aksjonærer uten at det utløser full utbytteskatt.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Utsatt ikrafttredelse gir investorer og familieeide selskaper handlingsrom til å gjennomføre planlagte kapitaltilpasninger under gjeldende og mer forutsigbare skatteregler."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Utsettelsen kan føre til at staten går glipp av forventede skatteinntekter på kort sikt som følge av utsatt beskatning av kapitalutdelinger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/2Vqp5G/stoltenberg-utsetter-innstramming-av-skatteregler",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Telia kutter 150 stillinger i Norge for å spare én milliard kroner",
+    "summary": "Teleselskapet Telia varsler nedbemanning av 150 ansatte i sin norske virksomhet som ledd i en større spareplan der konsernet sikter mot å kutte én milliard kroner årlig. Kuttene kommer som svar på økt kostnadspress og behov for effektivisering i telekommarkedet.",
+    "why_it_matters": "Nedbemanningen illustrerer at telekom- og teknologisektoren opplever fortsatt press på marginene til tross for stabil underliggende etterspørsel etter datatrafikk.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Nedbemanningen kan føre til økt tilgang på kompetent arbeidskraft innen IKT og telekom i Oslo-regionen, men gir samtidig kortsiktig usikkerhet for ansatte."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Tøffere prioriteringer hos store infrastruktureiere kan redusere oppdragsmengden for eksterne konsulenter og underleverandører i det norske markedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/n9m1vQ/telia-nedbemanner-kutter-150-stillinger-i-norge",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "EU innfører vernetiltak for hybridbiler mot kinesisk konkurranse",
+    "summary": "EU-kommisjonen har inngått en ny avtale om å skjerme den europeiske hybridbilsektoren mot billigere import fra Kina. Tiltaket kommer etter økende bekymring fra europeiske bilprodusenter, der blant annet Volkswagen-sjefen har etterlyst tettere tysk-fransk samarbeid for å demme opp for kinesisk dominans.",
+    "why_it_matters": "Handelshindre og proteksjonisme i bilindustrien endrer handelsstrømmene i Europa og kan påvirke overgangen til lavutslippskjøretøy.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Økte handelshindre på hybrider kan begrense kinesiske bilprodusenters markedsandeler i Europa og utløse gjengjeldelsestiltak fra myndighetene i Beijing."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Redusert konkurranse fra rimelige kinesiske modeller kan bidra til å holde prisene på nye hybridbiler høyere for europeiske forbrukere fremover."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Europeiske bilprodusenter får et midlertidig pusterom til å omstille produksjonslinjene sine, men risikerer svakere incitamenter til rask innovasjon på sikt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREYtQU45cmhRUFFGWkV6VU9qTlNDM2pYdHhFeHEwZ3o1bDZvZXJ2SXRHN0lJREc5dEw0SWZ0Wm12NW1xblpRcTRxZUVXTmtHUm5qczVmdklnLXVTVVhNNzdWV0d3XzdGYXJQSHZkd2tVUzVRN1BxTmtCZ0pvMXVUdm0tVy0?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVppc1dTZWRhMXNialAxUklxU3BnTWdFcTl2UjhZenROZTdraUlzMUNFRDZkLWRhazd4Ym5kSnVNNFBIUjQ4YXA4amoxMjdLWWZoRVVxeTBYR2ZFSE1XMm9EUE9zN2t4bEt0YWs5NVowWmRSOGZhLVVpQWFZbDIyVWNaY0U?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norske banker kritiseres for å holde igjen på innskuddsrenten",
+    "summary": "Flere norske banker møter kraftig kritikk etter å ha økt renten på boliglån vesentlig mer enn innskuddsrenten til vanlige bankkunder. Forskjellen i rentejusteringene har bidratt til å styrke bankenes rentemarginer på bekostning av sparernes avkastning.",
+    "why_it_matters": "Rentemarginene til bankene avgjør fordelingen av rentebyrden mellom husholdninger med gjeld og husholdninger med netto finansformue.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Husholdninger med bankinnskudd opplever svakere realavkastning på sparepengene sine når innskuddsrentene ikke heves i takt med markedsrenten."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Økt oppmerksomhet rundt renteforskjellene kan motivere kunder til å flytte midler til mindre nisjebanker som tilbyr mer konkurransedyktige sparevilkår."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/privatoekonomi/i/OgnV1b/reagerer-paa-rentegrep-de-gir-kundene-fingeren?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Nord-Korea gjennomførte nye ballistiske missiltester mot Japanhavet",
+    "summary": "Nord-Korea avfyrte natt til mandag flere ballistiske missiler mot Japanhavet, ifølge militære kilder i Sør-Korea og Japan. Oppskytingen tolkes som en direkte maktdemonstrasjon etter at Sør-Korea nylig gjennomførte en vellykket test av et hypersonisk missil.",
+    "why_it_matters": "Opptrappingen av våpentester forsterker det spente sikkerhetsklimaet på Koreahalvøya og øker faren for misforståelser mellom regionale stormakter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Hyppige rakettester kan tvinge Sør-Korea, Japan og USA til ytterligere militær samordning og forsvarsinvesteringer i regionen over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tysklands arbeidsminister går av etter regjeringsgnisninger",
+    "summary": "Arbeidsminister og leder i det sosialdemokratiske partiet Bärbel Bas har trukket seg fra sine verv som følge av økende spenninger i den tyske regjeringskoalisjonen. Avgangen skjer etter langvarig uenighet om sosial- og arbeidslivspolitikken overfor forbundskansler Friedrich Merz' parti CDU.",
+    "why_it_matters": "Statsrådsavgangen skaper ny parlamentarisk usikkerhet i Europas største økonomi i en tid med behov for krevende strukturreformer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Turbulens i Berlin kan svekke regjeringens evne til å samle seg om langsiktige budsjettforlik og bremse viktige reformer i tysk arbeidsliv."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/german-social-democrats-leader-and-labor-minister-bärbel-bas-resigns-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Amerikansk dommer stopper Trumps skattefinansierte reklamekampanjer",
+    "summary": "En føderal dommer i New York har pålagt Trump-administrasjonen umiddelbart å stanse TV-reklamer finansiert med skattebetalernes penger. Kjennelsen fastslår at kampanjene, som Det hvite hus omtalte som positiv promotering av landet, utgjør ulovlig politisk pengebruk over offentlige budsjetter.",
+    "why_it_matters": "Avgjørelsen markerer en viktig rettslig grense for hvordan føderale midler kan disponeres av den amerikanske presidentadministrasjonen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Domstolens inngripen kan innskrenke den utøvende makts handlingsrom til å benytte statlige informasjonsmidler i forkant av viktige politiske valg."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZmZ4U3JfSk9QT0JlZ1dvbXBsaTl4bl93M1JRQ2laTnhLVURlanhGVFdNb1h4Z0tsLW1hdVZZX0ZWN0hseGhiTERjYi1feGZTLUVrNEZ4Mk1CZmZWTWkyNUVmeHJiQUR2Yi13TDlCTdIBdEFVX3lxTE1HQlRwMGhPd3NzZW1qOTRDUXd1ZU5vNU5vcTVqSXZZbHFNcnpKSVBNaVA3VDdXczJzTTBQYUZBYUwzT19wV3o3cUhHbVRQZ29tRC1pTGxBaE9uLTQzeHI5dWVYaEFYTTFtVmt1Yk9mZDBHRThx?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-11-20",
   "hour": 20,
   "date": "2026-10-11",
