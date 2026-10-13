@@ -1,5 +1,250 @@
 [
  {
+  "id": "2026-10-13-08",
+  "hour": 8,
+  "date": "2026-10-13",
+  "generated": "13.10.2026 08:22",
+  "overview": "Det internasjonale pengefondet (IMF) advarer mot kraftig renteoppgang og voksende gjeldsrisiko i statsobligasjonsmarkedet, samtidig som asiatiske teknologibørser opplever markant fall. I Norge retter oppmerksomheten seg mot partnerskap innen forsvarsenergi samt inntektsoppgang i finanssektoren.",
+  "stories": [
+   {
+    "title": "IMF advarer mot ukontrollert rentehopp i statsobligasjonsmarkedet",
+    "summary": "Pengefondet hever anslaget for global vekst til 3,1 prosent drevet av kunstig intelligens, men advarer om at motstandskraften er nær bristepunktet. IMF peker på at økende statsgjeld og gjenstridig inflasjon kan utløse et brått og uordnet hopp i lange renter.",
+    "why_it_matters": "Et uordnet rentehopp globalt kan ramme lånekostnader for både stater og bedrifter samt presse norske boliglånsrenter oppover.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere globale obligasjonsrenter kan smitte over på norske swaprenter og forsinke fremtidige rentekutt fra Norges Bank."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Vedvarende høye lange renter kan gjøre obligasjoner relativt mer attraktive og legge press på verdsettelsen av vekstselskaper."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Økende renteutgifter på statsgjeld kan tvinge internasjonale myndigheter til innstramminger og strammere finanspolitiske rammer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEs1UWFnbVlNS3AxU1pYMDlCNmFRNXJyczB5UzRXZzdYLS04aExzMFdEcmNFU05rNTVxRklwMGd3ODRsQlVZbDltRzkwRTdHNVIyQUluLVdxUkxEb29hUnl2c0I5djJjbGVXS0JaUW1vMU5nWHBMM3VxZGpneUQ0VVVHZ1VzeHNQNHZwTzBWeGdIVmg5RW1OTVg2aDBwamM2dmVXbjVKakFpdmRfWExNQklR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Bredt fall for asiatiske halvleder- og teknologiselskaper",
+    "summary": "Teknologitunge aksjer i Sør-Korea og Japan falt kraftig etter usikkerhet knyttet til kinesisk konkurranse og svingninger i AI-markedet. Bekymringer rundt etterspørsel og kommentarer fra selskaper som Broadcom trakk halvlederprodusenter ned mot tomåneders bunnnivå.",
+    "why_it_matters": "Verdensmarkedet for teknologi og halvledere er avgjørende for globale forsyningskjeder og investeringsporteføljer, inkludert Oljefondet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Svekket risikovilje i asiatisk teknologi kan forplante seg til europeiske børser og dempe sentimentet på Oslo Børs."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Intensivert kinesisk konkurranse i minnebrikker kan tvinge etablerte produsenter til lavere marginer og reduserte investeringsbudsjetter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/31Pv30/kraftig-tekfall-i-asia?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nel inngår strategisk samarbeid med Rheinmetall",
+    "summary": "Det norske hydrogenselskapet Nel har inngått et partnerskap med den tyske forsvarsgiganten Rheinmetall for å produsere syntetisk drivstoff. Prosjektet tar sikte på å levere drivstoff til bruk i europeisk forsvar i krigs- og krisesituasjoner.",
+    "why_it_matters": "Avtalen knytter norsk fornybarteknologi direkte til den europeiske opprustningen og styrker satsingen på energiuavhengighet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Samarbeidet kan åpne langsiktige offentlige forsvarskontrakter for grønne teknologiselskaper som søker stabile inntektsstrømmer."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Økt etterspørsel etter syntetiske drivstoffer kan akselerere utbyggingen av storskala elektrolysører i europeisk forsvarssektor."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/MA9R9r/nel-varsler-rheinmetall-samarbeid",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/kvmXwa/nel-varsler-rheinmetall-samarbeid?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Sterkt kvartal for ABG Sundal Collier",
+    "summary": "Meglerhuset ABG Sundal Collier melder om inntektsvekst og omsatte for 594 millioner kroner i tredje kvartal. Resultatene kommer samtidig som en ny toppsjef er på vei inn for å lede selskapet.",
+    "why_it_matters": "Meglerhusenes inntjening gir en tidlig indikasjon på aktiviteten i det nordiske kapitalmarkedet og oppkjøpsmarkedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere meglerhusinntekter signaliserer tiltagende transaksjonsvolum og børsnoteringer etter en lengre tørkeperiode i kapitalmarkedet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bedret tilgang på rådgivningskapasitet og kapitalinnhenting kan gjøre det enklere for mellomstore bedrifter å finansiere vekst."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0pJSWtIQloyT1ZEYk9EUjhIZ0lRTnVFYVJ2LUxwYzgta1NaaEFfRTJGU2ZlODBMVGtaZEp0MWN2QVB2ejQwbUQ5MzhTSDlIQzhTUzh6aDhoUjFkd1BxXzIyeUFjcF9fT2hMOTNRYWl2d0Y1eHJjMlloUU5EbHNVRV9JMWtIZ2pkM3NaaW1jNWwxbXptWEEwaFZ0VmloU2I0Q2gwOC14Y3VRdERIajVUSVFiTkxLLUV6c1lNN0RfNlhtMlhPZ0JlVw?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/PgO9B7/inntektshopp-for-abg",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Verdensbanken og IMF advarer mot AI-drevet disrupsjon i arbeidsmarkedet",
+    "summary": "IMFs toppsjef Kristalina Georgieva beskriver inntoget av kunstig intelligens som en saktegående tsunami for det globale arbeidsmarkedet. Verdensbankens råd ber nå om krisetiltak for å beskytte arbeidsplasser, særlig for unge arbeidstakere på vei inn i yrkeslivet.",
+    "why_it_matters": "Strukturelle endringer i arbeidsmarkedet påvirker sysselsetting, skatteinntekter og produktivitetsvekst i både rike og fattige land.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Rask automatisering kan redusere etterspørselen etter nyutdannede og skape behov for omfattende omskoleringsprogrammer."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Stigende overgangsledighet kan øke trygdeutgiftene og kreve betydelig større statlige bevilgninger til arbeidsmarkedstiltak."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Character.AI slår seg konkurs og selger eiendeler",
+    "summary": "AI-oppstartsselskapet Character.AI har søkt om konkursbeskyttelse og inngått en avtale om å selge utvalgte eiendeler for 20 millioner dollar. Saken understreker de ekstreme drifts- og beregningskostnadene som kreves for å holde generative modeller gående uten stabil inntekt.",
+    "why_it_matters": "Konkursen viser at kapitaldisiplinen strammes til innen kunstig intelligens etter en lang periode med massiv spekulasjon.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Strammere kapitalkrav kan føre til at mindre AI-selskaper presses ut og markedet konsentreres hos teknologigigantene."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt konkursrisiko blant ulønnsomme AI-aktører kan dempe verdsettelsen av tidligfase venture-fond og risikokapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "To amerikanske økonomer tildelt Nobels minnepris i økonomi",
+    "summary": "To amerikanske økonomer er tildelt Nobels minnepris i økonomisk vitenskap for sin forskning på hvordan samfunn og institusjoner best kan håndtere økonomiske sjokk.",
+    "why_it_matters": "Prisen hedrer teoretiske verktøy som hjelper sentralbanker og myndigheter med å utforme krisehåndtering og stabilisere økonomier.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Forskningen kan gi nye retningslinjer for hvordan finanstilsyn og sentralbanker utformer beredskapsordninger under internasjonale kriser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxIN3FQeEQ2NmZOTVRueTY3MlM3N0ExVTlRMlpzaGIxeEhiLWUwdldDRkRpRzRlMGFpMEhJZkxadkZkWmQwVk9OelRlX2FpZmhnWjZZdVFfQ0FVaUk5Yk1xdDVFU0F0aUFrOVRoOEZwalJJVEtEVEdOU1I2NWtQN3h1SjBSNTJNckJtc0d2T1dMQQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Dødsfall og stengte attraksjoner etter berg-og-dal-bane-ulykke i USA",
+    "summary": "En person mistet livet etter et fall fra berg-og-dal-banen Goliath i fornøyelsesparken Six Flags Over Georgia. Parken har stengt ni attraksjoner midlertidig mens hendelsen etterforskes av lokale myndigheter.",
+    "why_it_matters": "Saken reiser alvorlige spørsmål rundt sikkerhetsrutiner og drift ved store internasjonale fornøyelsesparker.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Ulykken kan utløse skjerpede statlige sikkerhetskrav og strengere tekniske inspeksjoner for fornøyelsesparker over hele USA."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhBNGpZX2xJNWNMNFpOZm9SeHM0ZDBWWWlwNGZIT3VkZ3c0TDF3cnhMT0tZNC1UbURkNUZVZTdWMVBkbm9HNjlEdXNlN1I3bjVrd3ZjWktRNGZhQWVldnJMY1lkTHlIdjZ5OGp5Qk5NX3JuWl9EN2lLekVvOUVZMUtqX2NDcTduRWs1N0pJMzF0Y1pM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZNVQ1YXVIU0kwclhyMmlET0dOZTlsS29iVFlMM2c0djBFbmtEM3NXOElVVExoME5EV2QwY2tLWmk3NmJkTTU5aDlveXItODlTdTZNb1FMSHdXRDB3Wjl6Q0R5TFhiNVdIOFZ2ZU1lak82anMzRS1kVGppM0k?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Omtalt sabotasje mot kjøleanlegg i franske supermarkeder",
+    "summary": "Flere hundre franske supermarkeder ble rammet av et koordinert cyberangrep som slo ut kjølesystemene og førte til at store mengder frysevarer ble ødelagt. Hendelsen etterforskes og omtales som en direkte trussel mot matvaresikkerheten.",
+    "why_it_matters": "Cyberangrep mot fysisk infrastruktur og matforsyning demonstrerer sårbarheten i moderne logistikkjeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Varehandelen tvinges trolig til å investere kraftig i cybersikkerhet for industriell programvare for å unngå fremtidig matsvinn."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-12-20",
   "hour": 20,
   "date": "2026-10-12",
