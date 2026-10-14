@@ -1,5 +1,306 @@
 [
  {
+  "id": "2026-10-14-08",
+  "hour": 8,
+  "date": "2026-10-14",
+  "generated": "14.10.2026 08:32",
+  "overview": "Globale markeder preges av tiltakende spenninger i Midtøsten og vedvarende inflasjonspress som utfordrer renteutsiktene i både USA og Europa. Samtidig skaper rekordhøy kinesisk eksport og flaskehalser i teknologisektoren usikkerhet rundt den økonomiske vekstdynamikken.",
+  "stories": [
+   {
+    "title": "Angrep mot Saudi Aramco og spenninger i Hormuzstredet løfter oljeprisen",
+    "summary": "Mistenkte houthi-angrep har truffet Saudi Aramcos hovedkvarter samtidig som Iran tar i bruk nye metoder for å ramme skipstrafikken i Hormuzstredet. Hendelsene har ført til et umiddelbart prishopp på råolje i de internasjonale råvaremarkedene.",
+    "why_it_matters": "Eskalering i Persiabukten truer globale forsyningslinjer og kan gi vedvarende høye energipriser, noe som direkte påvirker Norges petroleumsinntekter og global inflasjon.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Økt geopolitisk risiko i Hormuzstredet kan skape frykt for forstyrrelser i oljeforsyningen og presse råoljeprisene oppover på kort sikt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere priser på olje og gass gir økte skatteinntekter til den norske staten og høyere kapitaloverføringer til Oljefondet."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En markant oppgang i petroleumsprisene kan isolert sett styrke den norske kronen mot store valutaer som dollar og euro."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWlJvcU95eUR0QzVMRjJzX25MNl9HWm8tNU5HNUx1R3EtOVI5U0NvRjhEdTZ2VzJtc2FPQUwzVmU3dWY2ck9ZSjhFUXd0OVRmazY1SGpWMWgtZjk0MnhlRFotQmZrMzhGY3RWUnVTVlJfOHBRVHJwNThrbDl3T0tXTnVSbXg?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0hPaGRDOW9haXRKcUJ3WVU5dVdwSjB2ZzNMZTVWd0lRYV9ZUjRNRTI4VjVXeERGeW1XVU1GanZidjZneXhKeFh1dWM0OUJ6ZGltVXFXdHJNVk52MDN5M3NvRnhUUWN6aEFiSldFUWxfeHNPYmQ2R21JMGlhaUNaWEFNckc0T0ItSFpYcHA3MmM4UUdnTVd0VFg0NWhtbm91MllPWllha0pqdVBjZlRldDgxaG5PclVud0xtNQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kinas handelsoverskudd nærmer seg 1000 milliarder dollar",
+    "summary": "Kinesiske eksporttall for september viser en kraftig oppgang som bringer landets handelsoverskudd mot historiske 1000 milliarder dollar. Samtidig viser ferske tall at kinesiske produsentpriser påvirkes av svingninger i oljeprisen.",
+    "why_it_matters": "En massiv kinesisk eksportflom kan forsterke handelsspenninger med USA og Europa samt gi økt press på vestlige industribedrifter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Det enorme eksportvolumet kan utløse nye proteksjonistiske mottiltak og tollbarrierer fra vestlige handelspartnere for å beskytte hjemlig industri."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Økt tilbud av rimelige kinesiske industrivarer kan svekke marginene til konkurrerende europeiske produsenter innen teknologi og bearbeidede varer."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Global industriell priskonkurranse skjerpes når kinesiske selskaper pøser ut varer i internasjonale markeder for å kompensere for svak innenlandsk etterspørsel."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXg0RnM4TVlLaHEwQjBYdU16ZGhJaXpFeVVXYk9FLVg1RFp4cVlvWWNWa2xlRlhacndGbHpYeF9QMWs5Zy0ydnV6Ni1kV2dIUS1Ca0NEYVNpdHlQMk1EdFBOc2hxTVlJLXZXX2RKbVplTG5NY1B2NEl2UXRFaFROckZjUGdVZW1vcWpYUmdJR21JOTJrQkhIT3E5Y25CM1VCMDNwOWcxbVdsZw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWVSSF96T3R5Ry1QeGlWQmFMV0dyLW9EYjNyek03QkZTOXlheVVvNW0xNVNSZ1F5RW84OERGS0RlLVhvdE9ON3d4eHQ5S3UtWml5Y3pTS0NaX00xSGV0UkVpS3YxY3ZidU80dHIzZVdrcmphYnhNcldOY0VvUlJNWWQ3eFNrb3pnNVdhQV9HY1FYZlVFUmVlb0diVmhZam1GaHVxcUxyRWhQajdnVkhlVk1iTEE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMV9JZWk0QzZyVjE4b09SYW9fMFhhNHN1MnhMNzRaQ21ZTU05SFNaT1BLS0pIZHVxdm84TENjRnNQOVQ4V3JkQ2VJM1pMSUtScG16RnZZakZaZnh3TFhHeXZzN0cyeVdXM25RcWhxSTgxRUhwZk54Vnh4cXdzNnNnTy1SaEplMDRRbm5oLWZpcGF2QlJqLXNnYllDNjlIM3ZtLWJaVklB?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "ASML advarer om kapasitetsmangel på avanserte databrikker",
+    "summary": "Nederlandske ASML hever salgsutsiktene for året på grunn av sterk etterspørsel drevet av kunstig intelligens, men advarer om at selskapet ikke vil klare å dekke kundenes behov i 2027 og 2028. Dette understreker dype fysiske flaskehalser i den globale halvlederforsyningskjeden.",
+    "why_it_matters": "Mangel på litografimaskiner begrenser utrullingen av avansert maskinvare globalt, noe som har direkte betydning for teknologiselskaper over hele verden.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Kapasitetsbegrensninger hos ASML kan forsinke investeringsplaner og utbygging av datasentre for ledende internasjonale teknologiselskaper."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Forventninger om langvarig utstyrsknapphet kan skape urolige kursbevegelser og revurderinger av inntjeningspotensialet innen global halvledersektor."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Brikkeprodusenter må kjempe hardere om tildeling av nye maskiner, noe som kan gi stordriftsfordeler til de største aktørene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcm1heDMtc0U2WVhvVjlZaGNmT1RWS1h1M25veGtJRkNBSE9Id1hvYlhsYkpMX1NKUHdrNU5EWkxkVDMzWjVkdnpoWHBDNFF5MGJLRk1VbW1NdnlhWUh3OFFYc25rSkFDekw0STlDNEtNN2diRVZ4M2N0WVdoc0k5cVpabm5Hc2ZYcDN3cXBGb3BhcHMtcHNvV1lSQ3JDSm1FaXZONXdjSTVOeEZOUHd3SA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnlQVjByQ3hRYjljZktIR2k1Sk4xRHdkVjdxSldteU1zWl8yd2VIY1pUd25PQkgtZWZoZGdRN29rY0ZWN3BabVR3MjA5NzV3UG8zZHpXUjRqTTAwZW5vWmlieDQ2YmJhZnM3VGVLOXBoYnlyNXBFcWN6ZGdueUFfTDYzbmdidFJnbEI5RkVmLXFaWUNVWnItVUN0ZXR6NUVBOUhzaEZ4a0RFbWVvb0JBZTIzOTZob3ZmTC1fZ2NQMlNhMVEtRm1fQXZxN3BldFF3SG4xTFE3TzVOOWZXYVE?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Forventninger om akselererende inflasjon og rentehevinger i USA og Europa",
+    "summary": "Amerikanske konsumpriser er ventet å stige med 3,6 prosent på årsbasis, noe som har fått Fed-topper til å antyde muligheten for ytterligere renteøkninger. I Europa uttaler Pierre Wunsch at Den europeiske sentralbanken trolig også må heve styringsrenten igjen for å temme prisveksten.",
+    "why_it_matters": "Dersom de store sentralbankene holder rentene høye lenger eller hever videre, begrenses Norges Banks handlingsrom for fremtidige rentekutt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Forventninger om ytterligere renteinnstramminger i USA og eurosonen kan presse internasjonale markedsrenter opp og utsette ventede rentekutt i Norge."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere renteforventninger legger press på aksjeprisingen ettersom diskonteringsrenten på fremtidig inntjening stiger, særlig for vekstselskaper."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Vedvarende høye lånerenter påvirker husholdningenes disponible inntekt negativt og kan dempe det private forbruket fremover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSW1RS05MdnMwMjY4RW1VR0dhSkw0dUpSdkp6NFBFcllqMTdmcVpqZkZhbEx3ZWZSMnR3UVYzbTZVUEZkUVFOUWxMWFpzZDZ0SkxZOTBnYVVJNWFMTGZkd3IxaFBobG1JV2tmSm8yQTVqNm5rSDhwMEpPbVBQejFWM0VzR2ZOMmJ6YU5RR0RyeHF4LUZBb3ZfQkJpczVKd01yRFBpcXV1UWh3ZC11ajM4VjdjdHZxaFlfMFpTRmxEOTV0RWNG?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnh4TUVZUzBJUURSUlZJUDRsdjN5N0s5WXQ3TDMwVFVibGNZZW9wQTFFaWdaZXpzMDJTQmluMlpjLUdDMTVEamdIdlNPVzhGSTV5V3hxRGplWDhKZXh2bGJWMnIzd0tIMTBCd1lHOTRpVGRHdmFLRnFqYTFTa0F6cG9GZlNBN0NneHZlRVl2c3N5aGx2MjBWRWg5a2RVcnQtMWl4ZDJzQUtxakRWR0F3NGV4T3I?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Trump varsler leting etter olje og mineraler på Grønland",
+    "summary": "Donald Trump har uttalt at det skal igangsettes massiv leting etter olje, gass og mineraler på Grønland. Samtidig signaliserer han en mer kritisk gjennomgang av fornybarprosjekter som havvindutbyggeren Ørsteds tillatelser.",
+    "why_it_matters": "En industriell opptrapping i Arktis kan endre ressursforvaltningen og den geopolitiske balansen i Norges nærområder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fremtidig tilgang på arktiske mineraler og petroleum kan endre det globale tilbudsbildet for strategiske råvarer på lang sikt."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt amerikansk fokus på ressursutvinning på Grønland kan skape politisk friksjon mellom Washington, København og grønlandske myndigheter."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Endret politisk støtte til fornybar energi til fordel for fossile ressurser kan skape regulatorisk usikkerhet for internasjonale kraftselskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXAwYWFZMS12UWs5MXF5SVpmYk9hR1Bka01FNFNTdVE3bUFYbi1qdXZjbVNDaDVfMWQ0ZGhZNERJYUhYVHFLR0ZiYl9Eby1sUG84VTNqVmViTXJmaWVBbEVQeVZHZzRfVGxNd0xBOWJ6c3RzVW1FY3NpUEtLaHdBTzNDWmhUS3Utb3B4ajFjVUxUcGFHdmotT0NwMU5kS2lmSVNYTGd5a0NWdw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT09sZ3V0NG5zZDlSbkZpSS1sQlVNSGYtUlYyZ0JxbFdmcVhsY1I4TTBTenJ4TlRyVkY5R1pWTWdQWWR1NnROVm9fZ2x6eXlVNXk2RHM5Q3NhNVZoSmpoQ0t4WnlYTlh4WHZ5aVJObkRSdGM1bjBja1lWaWM2ZVJfeGN0eXRIcElaS3BFNVY4MDlrUQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN3A5V2JZNWFCcWFLeFJURVlxVWY4ZWU3dkJYSXhmRlVfcFM5TWpDNm1UNHFyWnJrSENFa2J0dGtVQmVmX3ZWTjhabTZTWmVFQU5hYzhEaG5CS00tUEZ1cjVHbXgxWlJIS3JGd2h5WWRiNUNJQzluZGpIaFV1dHkzcGhKTkFXMWdPNkYw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Bank of America ilagt milliardbot for svikt i hvitvaskingskontroll",
+    "summary": "Amerikanske tilsynsmyndigheter har ilagt Bank of America et forelegg på 1,2 milliarder dollar på grunn av mangler i bankens rutiner mot hvitvasking. Boten er en av de største på området i nyere tid og setter søkelys på risikostyringen i storbankene.",
+    "why_it_matters": "Strengere håndheving av hvitvaskingsregler i USA øker etterlevelseskostnadene og regulatorisk risiko for det globale banksystemet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Finansinstitusjoner må påregne økte kostnader til compliance og overvåking etter at myndighetene strammer inn praksisen mot hvitvasking."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Betydelige bøter kan svekke finanssektorens kortsiktige lønnsomhet og føre til mer forsiktig kapitaldistribusjon til aksjonærene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlJJamJoME9oMkdvTjhMOWFtRS1DUDYwOWQwcU9DX2YxaHRFM0ZfUU5jN1JMVlFOVy1UdjVLQUlBSElzRXFkeWRkWGNuNHRDX1IwanZDU3NfejJFcEpSYXZOMnBIczZFLXBLQnNHU0hDRzlFdWJ0R1Jobl95SlJBOEE5YVI?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Russiske missiler rammet boligblokk og kraftverk i Kyiv",
+    "summary": "Minst to personer er bekreftet omkommet og 21 såret etter at russiske ballistiske missiler traff et boligbygg og kritisk energiinfrastruktur i den ukrainske hovedstaden. Ukrainas president Volodymyr Zelenskyj uttalte at angrepet kom uten forvarsel fra vestlige partnere.",
+    "why_it_matters": "De fornyede angrepene mot ukrainsk energiinfrastruktur før vinteren forverrer den humanitære krisen og truer landets kraftforsyning.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Ødeleggelse av ukrainsk kraftinfrastruktur øker Ukrainas behov for akutt militær luftvernstøtte og vestlig sivil gjenoppbyggingshjelp."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/russisk-missilangrep-mot-boligblokk-i-kyiv-_-ingen-forvarsel-1.18054222",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnpPaVk2bUo4Wmx6QTRTbFpvaDIzeW1xejVKdlFfSkI1T0hlT1Zoc0xKbENlS2lpdXB4WXp3RzhPZGpFTjN3ajUzYWdQR1d0V3I3QS1MeE9uTi1nWTF3RDdrd212a3kyc2tkczhlOUVsOFpkNlhzYW9aNmtLUm5YLWhNR05fajJyb1hhVkh3MnlnakdvcEdIcjdvMXQ0MmFmUnpDblZ4UnRseG9vTVJfT0hSZ0ZfclE0dF9IcWNn?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Pave Leo XIV operert for lungekreft",
+    "summary": "Vatikanet opplyser at pave Leo XIV har gjennomgått en vellykket operasjon der en del av den høyre lungen ble fjernet, etter å ha blitt diagnostisert med lungekreft. Paven er nå under oppfølging og rekonvalesens etter inngrepet.",
+    "why_it_matters": "Helsen til den katolske kirkens øverste leder følges tett globalt og kan få betydning for kirkens lederskap og stabilitet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Pavens helsetilstand skaper usikkerhet rundt Den katolske kirkes fremtidige ledelse og aktiviteter blant over en milliard troende."
+     }
+    ],
+    "sources": [
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVV2ZHJselJuYmhnZ21lbG9LOXo1N0JhRFdKT0U1aVA2blJjRXlzcFFCanQwd2V4Um9FT3A0SGpReXY3ckp0T21RZHVFVDBUWTRXTW9fZXluQ3FDYm55WC1kVDBhalNUa3NBZUNzZXFwZDBkcnJwNnQ2ZU9RbnRJamhqYk5GbWM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DSEtpX0o3YkdpVjFEZ0FUNjlldUM1SzdlSXR6SWFIa0ozemFwVDNRYnhEZ3BXeVRzbl9waEdscFZlcVROdGEtSV85LVZYaF9uQnk1VC1QLXdBSVVIWTdQUkdLUU9YS3dGY2JPX3hSc3kyeWgzOGZXeFFxcw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kina og Nord-Korea åpner lenge utsatt grensebro",
+    "summary": "Kina og Nord-Korea skal formelt åpne den nye Yalu-elven-broen torsdag, melder statlige medier. Prosjektet har stått ferdig i mange år uten å bli tatt i bruk på grunn av grenserestriksjoner og politiske spenninger.",
+    "why_it_matters": "En operativ broforbindelse letter logistikken mellom landene og kan styrke det bilaterale samkvemmet i regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Åpningen av grenseinfrastrukturen kan tilrettelegge for tettere formell og uformell vareflyt mellom Beijing og regimet i Pyongyang."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm8xalU1ZEpZdnJVNG5DS0NzZFdlTkExWUtNelV0OVo0LS1xMnZ5WFVLY2FMLWFOUFhmZnNXa25LdGtPakRseVZuNlhYcGZCYXRvMVdQYnd0VzR4Y0FiWG9RVG9ST3RTclZaVHMyVWVfQlFSYU9yZnpWclVXUFdqQjItTGlsWDM5R2h5TklCMDlEUQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-13-20",
   "hour": 20,
   "date": "2026-10-13",
