@@ -1,5 +1,169 @@
 [
  {
+  "id": "2026-10-15-20",
+  "hour": 20,
+  "date": "2026-10-15",
+  "generated": "15.10.2026 20:27",
+  "overview": "Dagens markeder preges av tiltakende bekymringer rundt inflasjon og statsgjeld, samtidig som geopolitiske spenninger og energimarkeder skaper uro. Samtidig debatteres fremtidige retningslinjer for Oljefondets investeringer her hjemme.",
+  "stories": [
+   {
+    "title": "Høyere engrosprisvekst i USA øker presset på Fed",
+    "summary": "Tall for produsentprisindeksen viser at engrosprisene i USA hoppet kraftig i september. Dette øker bekymringen for at det underliggende inflasjonspresset vedvarer.",
+    "why_it_matters": "Høyere prisvekst kan tvinge den amerikanske sentralbanken til å opprettholde eller øke rentenivået, noe som smitter over på globale finansmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende inflasjonspress kan tvinge sentralbanken til å heve renten ytterligere for å kjøle ned økonomien."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere renteutsikter svekker verdsettelsen av vekst- og teknologiaksjer ettersom fremtidig kontantstrøm diskonteres strengere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Oljefondet kan åpne for investeringer i atomvåpen",
+    "summary": "Det åpnes i den politiske debatten for at Statens pensjonsfond utland kan få endret sine mandater til å tillate investeringer i selskaper knyttet til atomvåpen.",
+    "why_it_matters": "En slik endring vil markere et betydelig skifte i fondets etiske retningslinjer og vekke debatt internasjonalt.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Utvidede investeringsmuligheter kan endre fondets avkastningsprofil og tiltrekke seg kritikk fra etiske investorer."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Norske myndigheter risikerer å bli oppfattet som mindre konsekvente i sin globale nedrustningsprofil."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://www.aftenposten.no/norge/i/g5E3Jg/aapner-for-at-oljefondet-kan-investere-i-atomvaapen",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Ukraina gjenopptar angrep på russiske raffinerier",
+    "summary": "Etter at en uformell energivåpenhvile brøt sammen, har Ukraina gjenopptatt droneangrepene mot russiske oljeanlegg.",
+    "why_it_matters": "Dette skaper ny usikkerhet i de globale energimarkedene og kan føre til svingninger i oljeprisen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Angrep mot infrastruktur kan redusere den globale oljetilførselen og løfte prisene midlertidig."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Høyere energipriser kan øke driftskostnadene for energaintensive industrier globalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXgyc1lCaTdGckwxWmZoeElnSW41dFBORjlia2JwbUhFZHBPa0hITXhVZUp5VG9JNXBhdFpxUDM3X19ld3JBSWJFUUpsYWpWTnZOWEJzRk5wTm83QVpqTk95S1lDMHlVYWZvaXNyNUlrWXFCeHpBdUN3VFVnSUJlNUc3V2R4VERqQ2ZxYjQ2UkhrZ0Y2eDY3Q05ybFNGZmVROUJnVUIyQVdJVmYzM2N5WkdBVDdYcmpIYVRVUlVldFF1c3l4Vmc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norske banker kutter sparerenten for kundene",
+    "summary": "Flere av landets største banker gir nå dårligere rente på kundenes sparepenger, noe som øker bankenes egne marginer.",
+    "why_it_matters": "Dette svekker avkastningen til private <i>husholdninger</i> i en tid med stramere privatøkonomi.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Lavere sparerente reduserer den disponible inntekten for vanlige lønnstakere med oppspilte midler."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bankene sikrer seg sterkere lønnsomhet og bedre netto renteinntekter på bekostning av kundene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/lKeX0M/daarligere-sparerente-du-faar-mindre-igjen-bankene-tjener-mer?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Teknologisektoren rammes av dypere børsuro",
+    "summary": "Oslo Børs og store internasjonale børser opplever press som følge av fornyet usikkerhet rundt kunstig intelligens og teknologiinvesteringer.",
+    "why_it_matters": "Uroen viser at markedet stiller strengere krav til lønnsomheten i fremtidsrettede teknologiselskaper.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere usikkerhet rundt AI-investeringer fører til at investorer trekker kapital ut av volatile vekstselskaper."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskaper som er avhengige av finansiering i dataklynge- og teknologisektoren opplever økt lånekostnad."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Trump avlyser direktesending av militær henrettelse",
+    "summary": "Den amerikanske administrasjonen har snudd og vil likevel ikke tillate at henrettelsen av Fort Hood-skytteren blir vist direkte på TV.",
+    "why_it_matters": "Saken har vakt oppsikt og debatt om etikk rundt dødsstraff og offentlig eksponering av henrettelser i USA.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Beslutningen demper den politiske og etiske stormen knyttet til å kommersialisere eller kringkaste statlige henrettelser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tidligere DUP-leder dømt til fengsel for overgrep",
+    "summary": "Jeffrey Donaldson er dømt til 15 års fengsel for alvorlige overgrep mot barn etter en omfattende rettssak i Nord-Irland.",
+    "why_it_matters": "Dommen markerer et dramatisk fall for en av landets mest kjente og innflytelsesrike politikere.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Saken har rystet det politiske landskapet i Nord-Irland og satt søkelys på tilliten til folkevalgte ledere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-15-08",
   "hour": 8,
   "date": "2026-10-15",
