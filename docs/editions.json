@@ -1,5 +1,298 @@
 [
  {
+  "id": "2026-10-15-08",
+  "hour": 8,
+  "date": "2026-10-15",
+  "generated": "15.10.2026 08:32",
+  "overview": "Globale aksjemarkeder preges av et markant nedsalg innen teknologisektoren etter fornyet inflasjonsfrykt på Wall Street og fallende børser i Asia. Samtidig varsler et nytt utvalg endringer for Oljefondets etiske rammeverk, mens ukrainske trusler om nye raffinangrep skaper spenning i energimarkedene.",
+  "stories": [
+   {
+    "title": "Bredt teknologifall i Asia etter fornyet inflasjonsuro på Wall Street",
+    "summary": "Teknologitunge børser opplevde bratte fall over hele Asia, med særlig hard medfart i Seoul og Tokyo hvor investorer kvittet seg med kunstig intelligens-eksponering. Nedsalget kommer i kjølvannet av en svak dag på Wall Street, utløst av frykt for gjenstridig inflasjon og mindre rom for fremtidige rentekutt. Fallet reflekterer økende nervøsitet for om verdsettelsene i teknologisektoren har løpt foran realitetene.",
+    "why_it_matters": "En kraftig korreksjon i globale vekst- og teknologiaksjer kan raskt forplante seg til Oslo Børs og redusere markedsverdien på Oljefondets omfattende aksjeportefølje.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere renteforventninger og frykt for overprising kan føre til vedvarende multipelkontraksjon for vekstselskaper med høyt verdsatte fremtidige kontantstrømmer."
+     },
+     {
+      "area": "Renter",
+      "effect": "Vedvarende inflasjonsbekymringer i USA kan tvinge sentralbankene til å holde styringsrentene høyere lenger enn det investorene tidligere har priset inn."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Et markant fall i de globale børsene vil kunne redusere Oljefondets verdi og dermed innskrenke det langsiktige handlingsrommet i statsbudsjettet over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/ylKa4a/boersras-i-asia?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG13bm9YTWdTNm9UVGtRbjc3ZmFpOG5lcWdydXhLVGNVaEVBZ01hRjFOR2oxd0hVNl9sRG1RS1Fyd0M0Q290WEV1b1d0b2hGbmhyZDViZ25QN1hQd1lydFh4QzBXNTVKWWVIaXNVWE5fS3FSYXJ6UDhiVm93X29ES3RRZ2ZxWWJQQktkMkYwZkpzY0RhUVF5NjFSaFN6Zw?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1ZmX19fclBFd1I3bEdCWVk5NEpfRmJGWE1VbjhDRThlVUFFeFBqYzYzTXpTR2wzeHNUcWtNN1VFV2ltaC1WNnc1S1ZsOFMxalVER01yS0otb2VjbTQ1cHJjZERsa05rMHNabDVyenp5MUlLNmpZQzdERzVzbElnTlgtQ0ljV1hsOGJNTEMwNEFPUmMtSXdjUzE3b0REWmR0ZDNfQzh0RU5UalY1dWg3b1pwVQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Gjedrem-utvalget foreslår å frata Etikkrådet rett til utelukkelse av selskaper",
+    "summary": "Det regjeringsoppnevnte Gjedrem-utvalget foreslår vesentlige endringer i organiseringen av Oljefondets etiske rammeverk. Selv om Etikkrådet beholdes som en uavhengig vaktbikkje, foreslås det at rådet mister retten til direkte å anbefale hvilke selskaper som skal utelukkes fra fondet. Denne beslutningsmyndigheten og innstillingen legges i stedet fullt og helt til Norges Bank.",
+    "why_it_matters": "Endringen kan strømlinjeforme forvaltningen av Norges nasjonalformue og gi sentralbanken mer direkte kontroll over håndteringen av krevende geopolitiske og etiske dilemmaer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "En samling av beslutningsmyndigheten hos Norges Bank kan gi en mer enhetlig og finansiell vurdering av risiko ved selskapseksklusjoner fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Internasjonale storselskaper vil måtte forholde seg til Norges Bank som en mer direkte motpart ved vurdering av kontroversielle forretningsmodeller."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/n9O1aJ/ny-rapport-slik-vil-de-endre-oljefondets-etikkraad",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/64yO73/pensjonsfondets-etiske-rammeverk-maa-staa-seg",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "TSMC leverer rekordresultater midt i global børsuro",
+    "summary": "Verdens største kontraktsprodusent av mikrobrikker, taiwanske TSMC, la frem kvartalstall som slo analytikernes forventninger med god margin. Selskapet opplever massiv pågang etter avanserte prosessorer rettet mot datasentre og applikasjoner for kunstig intelligens. Resultatene står i skarp kontrast til den pågående kursnedgangen for halvlederaksjer på de asiatiske børsene.",
+    "why_it_matters": "TSMCs sterke inntjening bekrefter at den fundamentale etterspørselen etter maskinvare innen kunstig intelligens forblir intakt til tross for finansiell markedsstøy.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Fortsatt høye investeringer i avanserte silisiumbrikker kan sikre leverandørkjeden stabil inntjening selv om det kortsiktige sentimentet i aksjemarkedet svinger."
+     },
+     {
+      "area": "Handel",
+      "effect": "Konsentrasjonen av avansert brikkeproduksjon i Taiwan gjør den globale verdikjeden sårbar for geopolitisk uro og mulige eksportrestriksjoner mellom stormaktene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnZQMElNRlc2aGFEd21EQTBjRS1fLTFZR0hHZG9MTzJTMFBsR25pMDhCSHRmcDRhR3JkQWtYOV91cjlVd3BEcEtlVUNPQ21yRVNRRXJ4MFdXZldkdjk3OWJHLU9JcFBSYUx5Q1FjMlVTMlhqaUlKamFnX2VIVVNMZmxMTENDZ2YtbnVxanpfRnhKUzY5RnFkcHVnVm1uMVZyTy15OWt3ZmdTc1F4Mk4yaw?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREFocWpwazREcEdmNWRraExjNU9KMjlUbEo0aVFZcU1DeC1uN2s1U1A5OHlFV2dKQkRBSFNJd1NrcFRBRWhKWXlpbFZqRGhzTTlPaHdBVkdySzAyX0NEclQ3WEFkLUd5YTV6cFdoVkF2YjN6aF9Sc0hrakEzQWhOMkswUmpqa3A0UGZlRlFlVm9GSUp5blBhSFNtckFqdl9YR1g1M0NUMlNneHp5YWVYbm9pY2xlZw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Inntektsbyks for Anthropic i forkant av planlagt børsnotering",
+    "summary": "AI-utvikleren Anthropic rapporterer om en kvartalsvis inntektsvekst på nær 50 prosent til nesten 17 milliarder dollar. Selskapet, som står bak språkmodellen Claude, posisjonerer seg nå offensivt inn mot en ventet børsnotering. Samtidig peker analytikere på at de sterke tallene kanskje ikke er nok til å motvirke det generelle nedsalget i AI-sektoren.",
+    "why_it_matters": "Anthropics veksttall gir markedet en pekepinn på den faktiske inntektsgenereringen bak den pågående generasjonsbølgen innen kunstig intelligens.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Intensivert kommersialisering fra Anthropic øker presset på rivaler som OpenAI og Google om å forsvare sine markedsandeler innen bedriftsmarkedet."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "En vellykket fremtidig børsnotering av Anthropic kan sette en ny verdsettelsesstandard for hele økosystemet av oppstartsselskaper innen kunstig intelligens."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2M4WXNsVVl6WXU3NlpOdDVOSGdxTW9rT2RGWnRSRTNpMmM2WXlRMEIzLXlFbzNIdk1jOFBOWUJ0UXhraF9rMWRmZ3p5MTVyYVZhdlNTdjRETXdKR3NxZ1hENlE5WlJRNU1yYmxuR3k3bm90OEh1M2JQSnFUenFtdE5vdVZWb1B2R2xqbkJnTjBfVFRmNWFPZlFlVEo?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEcxNXE3QWZYcDNJMEtaQW9MWV9mSXlLcTQ2ZUZoSndtOGE0dEdsaWlrRjRXajZDTnlWRW1FaDNseFQ2WGJSUjFQeWRmUkN1UGp5dVBFVE0tUUtuMF9tdDJ5S1dEMEtkZzdTQ3d3azZTVWtnUzVmOGpmYzhZRVRvWWZzOWpZRm1XSWRmang5dzN4ZGdvZWstLUpEbnhpRnF1d2g2czhHVVUzOVFMNkpR?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Ukraina varsler nye angrep på russiske oljeraffinerier",
+    "summary": "President Volodymyr Zelenskyj opplyser at Ukraina planlegger å gjenoppta målrettede angrep mot russiske oljeraffinerier for å svekke motstanderens krigsfinansiering. Oljemarkedet følger utviklingen tett, selv om råoljeprisene kortsiktig har trukket seg noe tilbake på grunn av usikkerhet om det globale tilbudet. Trusselen om bortfall av russisk raffineringskapasitet kan imidlertid skape fornyet spenning i drivstoffmarkedene.",
+    "why_it_matters": "Nye forstyrrelser i russisk raffineringskapasitet kan presse opp europeiske drivstoffmarginer og påvirke råoljeprisene som norsk eksportøkonomi er avhengig av.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Målrettede droneangrep mot russisk prosessanlegg kan redusere det globale tilbudet av raffinerte produkter som diesel og dermed presse prisene oppover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Europeiske og norske raffinerier kan oppleve økte marginer dersom russisk eksport av foredlede oljeprodukter svekkes av ukrainske angrep."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUV5S3BIM2tRdGp3U2RVSXlpd2pMSmFiUEtrMnNBbXBwR1FQU3dmc2RhMkplb2tlT0tBdGVSeEZtUmQ1Nm9NWS1HazlJSnlOb2NlRDNnUkQ4am1wZzlNa2tMYUUtXzZISjY0T2dLdkV0Rnl5UGs1WlQ0b1pPeERsem03NHd2UmM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Milliardnederlag for Vår Energi i Høyesterett",
+    "summary": "Oljeselskapet Vår Energi har tapt en omfattende rettsstrid i Norges Høyesterett, noe som medfører et milliardtap for operatøren. Saken har vært fulgt med stor interesse i petroleumsnæringen på grunn av de store økonomiske verdiene som sto på spill. Dommen markerer et endelig punktum i den langvarige tvisten.",
+    "why_it_matters": "Rettsavgjørelsen påfører en av de største aktørene på norsk sokkel en betydelig finansiell belastning og kan avklare rettslig presedens for bransjen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Det finansielle tapet kan svekke Vår Energis kortsiktige frie kontantstrøm og potensielt legge press på selskapets utbyttekapasitet overfor aksjonærene."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Avhengig av den skattemessige behandlingen av tapet kan statens petroleumsskatteinntekter fra selskapet bli påvirket i de kommende skatteoppgjørene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2M4VkNqbE0zb1pTQWI4N0lad2g4b1RzeDI3WGFHRFJKX2JaNjZrdnFXbmVQNTJRX3dQZlVPVmI2NHF1bGNtN2FYZ1RaVGFGeGxRQk1XVXdOZmxuVTB3YzdLYWN2WWFscVAwenlNSDBoZzROcHhDcEZBa3lXU2pPcy1DcEtyb1l4R09Kd2tTT0I4VGZyY3o1ZVJn?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Svak vekst i britisk økonomi før ny statsbudsjettfremleggelse",
+    "summary": "Storbritannias bruttonasjonalprodukt vokste med 0,1 prosent i august, noe som var marginalt over forventningene i markedet. Samlet sett viste tremånedersveksten en oppgang på 0,7 prosent i perioden frem til august. Nøkkeltallene gir finansministeren et krevende bakteppe før regjeringens første helhetlige budsjett skal legges frem.",
+    "why_it_matters": "Storbritannia er en av Norges viktigste handelspartnere og en avgjørende kjøper av norsk naturgass, slik at britisk vekst påvirker norsk eksportetterspørsel.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Moderat økonomisk ekspansjon i Storbritannia kan bidra til å opprettholde stabil etterspørsel etter norsk industri- og gasseksport fremover."
+     },
+     {
+      "area": "Renter",
+      "effect": "Svak, men positiv vekst gjør at Bank of England trolig må balansere forsiktige rentekutt mot faren for seiglivet inflasjon i tjenestesektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Brasil forkorter normalarbeidsuken til 40 timer",
+    "summary": "Kongressen i Brasil har vedtatt en grunnlovsendring som reduserer den maksimale ukentlige arbeidstiden fra 44 til 40 timer, samt forbyr sekstdagers arbeidsuker for inntil 30 millioner arbeidere. Reformen regnes som en stor politisk seier for president Luiz Inacio Lula da Silva kort tid før andre valgrunde mot Flavio Bolsonaro. Næringslivet frykter økte lønnskostnader, mens fagbevegelsen feirer reformen som et historisk velferdsløft.",
+    "why_it_matters": "Lovendringen påvirker titalls millioner brasilianske arbeidstakere direkte og kan endre maktbalansen foran presidentvalget i Latin-Amerikas største land.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "En lovfestet forkortelse av arbeidstiden kan heve bedriftenes timekostnader og tvinge frem økte investeringer i produktivitet eller automatisering."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ukraina melder om begrensninger på Starlink og dronekapasitet",
+    "summary": "Ukrainske myndigheter opplyser at de opplever fartsbegrensninger og forstyrrelser på satellittnettverket Starlink, noe som vanskeliggjør kontrollen over droner i felt. Elon Musk har antydet at amerikanske myndigheter kan stå bak innstrammingene på systemet. Ukrainske ledere har bedt om at fulle hastigheter gjenopprettes umiddelbart for å sikre kommunikasjonen ved frontlinjen.",
+    "why_it_matters": "Satellittforbindelsen er kritisk infrastruktur for Ukrainas forsvarsevne, og struping av signalene påvirker direkte operasjonene på slagmarken.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Operasjonelle restriksjoner på kommersiell satellitteknologi viser hvordan private selskaper og politiske føringer kan påvirke utfallet i moderne krigføring."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Houthi-opprørere angriper Saudi Aramcos hovedkvarter",
+    "summary": "Iransk-støttede Houthi-opprørere har gjennomført et angrep rettet mot hovedkvarteret til det statlige saudiske oljeselskapet Saudi Aramco. Angrepet eskalerer den allerede spente situasjonen på Den arabiske halvøy og skaper bekymring for stabiliteten rundt kritisk energiinfrastruktur. Hendelsen føyer seg inn i rekken av konfrontasjoner knyttet til den pågående regionale konflikten.",
+    "why_it_matters": "Angrep mot hjertet av saudiarabisk petroleumsindustri øker den geopolitiske risikopremien i Midtøsten og truer sikkerheten for den globale energiforsyningen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Eskalerende angrep mot produksjons- og administrasjonsfasiliteter i Saudi-Arabia kan øke usikkerheten rundt oljeforsendelser og presse transportkostnadene opp."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-14-20",
   "hour": 20,
   "date": "2026-10-14",
