@@ -1,5 +1,237 @@
 [
  {
+  "id": "2026-10-16-08",
+  "hour": 8,
+  "date": "2026-10-16",
+  "generated": "16.10.2026 08:30",
+  "overview": "Internasjonale markeder preges av uro rundt kunstig intelligens og sentralbankenes rentebaner, samtidig som nye geopolitiske spenninger påvirker råvare- og aksjemarkeder. Her er dagens viktigste økonomiske og nyhetsmessige oppdateringer for økonomistudenter.",
+  "stories": [
+   {
+    "title": "Aksjetrøbbel for Indonesia: Kan havne på kriseliste",
+    "summary": "Indonesiske aksjer faller markant etter at MSCI har vurdert en nedgradering av landet til standalone-status. Det skaper frykt for at landet kan havne på kriseliste sammen med nasjoner som Zimbabwe og Ukraina.",
+    "why_it_matters": "Betyr store kapitalutstrømninger fra fremvoksende markeder og økt nervøsitet blant internasjonale investorer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Indonesiske aksjer faller kraftig ettersom institusjonelle investorer må omstrukturere sine porteføljer i tråd med en eventuell MSCI-nedgradering."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Lokale selskaper og banker kan få betydelig høyere lånekostnader når internasjonal kapital trekker seg ut av landet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/8GvOj1/aksjetroebbel-for-indonesia-kan-havne-paa-kriseliste?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZDclBEV0w3ZFJ3bE8tckwwTE1YTXBXTG1GdGNfN2Vkb1BsaXFoZVo1QUF4YUhzanBOM05HNmR6X1gyalBGR05HQk5NM1VhY0VGbUhqb0dIN2txQklscWtMaVd3MVE3QTdISTRVbDZXdEpXa25EUHpZejdrZ1ozdFlOOTBBT2VfT3VFcmh5UmpjRWFoelZTUEZKOTl5UEhrc1dpWVQ3ZUpMd1NmVE8ybA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlLTzFiTkdjMTVDek5sZkw4S2VkaGFSbXdPVnIyakFoLWhSQnhoWTNBbUhNMFg1R3JWY0EwN2hVbUJXZjA2Q0RPU0lDMHFtVzA4RzFhdFQtZkhxdm1Nby1Cb3dfakM2algzd3lvUG1OZnNOVldsNHIxTFd5Tl8zZnZjbWNqTnRETXd6X3ptblltUmxGRlo5Wm1kMVo4b0N3SWljYVdVOUNjUzBDZlg5Z29xTVlxX29MU1E?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Trump kritiserer Ukrainas angrep på russiske raffinerier",
+    "summary": "USAs president Donald Trump har karakterisert Ukrainas gjenopptatte angrep på russiske oljeraffinerier som en skandale. Uttalelsen kommer etter at energivåpenhvilen har kollidert med harde realiteter på bakken.",
+    "why_it_matters": "Påvirker direkte de globale energimarkedene, oljeprisen og inflasjonsutsiktene i vestlige økonomier.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fornyede angrep på russisk oljeinfrastruktur kan stramme inn det globale oljetilbudet og presse prisene oppover."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Endret amerikansk politisk retorikk kan legge diplomatisk press på Ukraina og endre maktbalansen i energiforsyningen til Europa."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3TGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJneVBiMkhSTlFJa05tbFRMbzZlcmNjcEhtVzdfTWh5cWIyZ1BOUlRadXZNQ3BKam5PQVRwcjVCZDJYV01sV0Vja1I2R05PeDNPS0dEelRLSlFvenpXRjE0WFRUTjhjWENDMTlnRmpGaWk2VXFUb0YwWXl3bkFBU1A3RDRqRUpDc2tCbGxVell6Q0VR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Federal Reserve-medlem Warsh ordknapp om rentebane",
+    "summary": "Fed-medlem Kevin Warsh unngår å gi klare signaler om renten for oktobermøtet, samtidig som han roser nylige globale innstramminger. Markedsforventningene til en rentepause har styrket seg.",
+    "why_it_matters": "Den amerikanske sentralbankens pengepolitikk styrer de globale finansieringskostnadene og kapitalstrømmene til fremvoksende markeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Redusert sannsynlighet for aggressive renteøkninger på kort sikt kan bidra til å stabilisere lange statsobligasjonsrenter."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Lavere usikkerhet rundt Fed sin rentebane gir investorene mer forutsigbarhet, noe som kan redusere volatiliteten i teknologiaksjer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThqQ25PaWtHbG1VbkprR2Q4dXNOa3F1VDBDcVItS0dtRnBXQlVRS19VMFJ3YXdVVHlHWlFnZURQa3U4czRYQVJubmp2dXlGOHdneVU4cWp2YlVVdHlPNlh5dEo4V3k4Ri1KVHNaRmdLaDk1WDNYcVhEU1JxUzNsaDJPcGVuS0xsLUFJVG1yUjNUa24wRkdjVQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Investorer søker tilflukt i amerikanske statsobligasjoner",
+    "summary": "Amerikanske statsobligasjoner opplever et kraftig rally ettersom investorer forsøker å skjerme seg mot turbulens i sektoren for kunstig intelligens. Samtidig faller statsrentene markant.",
+    "why_it_matters": "Viser hvordan svingninger og overvurderinger i teknologisektoren raskt kan utløse bredere flukt til sikre havner i finansmarkedene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Kraftig etterspørsel etter sikre obligasjoner fører til lavere rente på amerikansk statsgjeld, noe som kan redusere lånekostnadene i bredere skala."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kapitalflyttingen fra høyrisiko teknologiaksjer til rentepapirer kan legge midlertidig press på verdsettelsen av vekstorienterte selskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZIdlVlSTZMaGFlYXh5U3ZoRUJRTXJGaEs3RHB3RVkwYXI5TVhDTGtCUTFHVWx0YVBKZFRGeE82d1dpRkM5Z2xlUTFROHVIemwtelBQc2E1UVhoaEMwampBcS02MEcwNkJ4aHd1dUpMbTZqZ01pcnhJMTh3cml3LV9BNTFFczJJOEItVVFINVEyR0dyRU9VXzdtWHQ1NW9aU2hv?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Debatt om Oljefondets etiske retningslinjer og dialog",
+    "summary": "Gjedrem-utvalget foreslår at Statens pensjonsfond utland skal prioritere aktiv dialog fremfor direkte utestenging av selskaper, noe som møter både støtte og kritikk for mulige etiske dilemmaer.",
+    "why_it_matters": "Endringer i forvaltningsmandatet kan påvirke hvordan verdens største statlige eier påbyr selskapsstyring og påvirker globale markedsstandarder.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "En dreining mot mer dialog kan endre fondets avkastningsprofil og risikobilde knyttet til kontroversielle selskaper."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Politiske retningslinjer for Oljefondet kan sette en ny standard for ansvarlige investeringer internasjonalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/8G9jgG/noen-helt-aapenbare-dilemmaer?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Bankenes innskuddsrenter og tøffere konkurranse",
+    "summary": "Norske banker møter kritikk for å skylde på konkurransen når de justerer opp innskuddsrentene, der aktørene beskyldes for å opprettholde brede marginer.",
+    "why_it_matters": "Konkurransen om bankkundenes midler påvirker direkte privatpersoners sparing og bankenes samlede rentemarginer i det norske markedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Hardere kamp om innskuddene kan gi bedre sparerente for vanlige bankkunder, selv om lånekostnadene forblir høye."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bankenes evne til å forsvare sine rentemarginer påvirker deres lønnsomhet og fremtidige utbyttekapasitet på Oslo Børs."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/R5E5RJ/bankene-skylder-paa-konkurranse-helt-komiske-ali?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Skolemassakre i Oregon ryster USA",
+    "summary": "Fire personer, inkludert tre barn og en lærer, ble drept i en skoleskyting i Bend i Oregon før gjerningspersonen ble skutt av et medlem av lokalsamfunnet.",
+    "why_it_matters": "Saken reiser på nytt intense diskusjoner om våpenlovgivning, sikkerhet i skolesystemet og den sosiale situasjonen i USA.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn og sikkerhet",
+      "effect": "Tragedien forsterker den polariserte nasjonale debatten om våpenkontroll og beredskap i amerikanske utdanningsinstitusjoner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekRoc2pvTkxGcUI3czBCVS14V3VlVHZDQTR3c2ZOY1FjbVNXS05JUzJrQzl3S2c2WTdsQ09ndHlWSTlMTWR2bjIzMXhFc2NERUVXYnlQMzI2XzNWdG93WTVDRUpuRWZGU2pfd1FLUkVIWm9Kb1FnZ1Y1aUFoMGxfcTVzOW9qRTFBUHhpbzRadXRPQWc1Vm5SZ0swUlhNcTNBdDNyX0dR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tog- og buskollisjon i Kanaltunnelen",
+    "summary": "19 personer ble skadet da en minibuss kolliderte med et godstog på fransk side av inngangen til Kanaltunnelen.",
+    "why_it_matters": "Hendelsen skaper forstyrrelser i en av Europas mest kritiske transportårer for både gods og reisende.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Infrastruktur og transport",
+      "effect": "Ulykken fører til forsinkelser og midlertidige logistikkproblemer for den internasjonale trafikken mellom Storbritannia og Kontinentet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-15-20",
   "hour": 20,
   "date": "2026-10-15",
