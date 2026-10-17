@@ -1,5 +1,230 @@
 [
  {
+  "id": "2026-10-17-20",
+  "hour": 20,
+  "date": "2026-10-17",
+  "generated": "17.10.2026 20:21",
+  "overview": "Dagens markedsbilde preges av økende uro knyttet til AI-finansiering, geopolitiske spenninger i Midtøsten og nye politiske vendinger rundt internasjonale sanksjoner. Sentrale økonomiske indikatorer viser samtidig motstandskraft, men også økende sårbarheter i offentlige finanser.",
+  "stories": [
+   {
+    "title": "USAs rentekostnader når historisk milepæl på 1 billion dollar",
+    "summary": "De totale rentekostnadene knyttet til USAs statsgjeld har passert en billion dollar, noe som øker risikoen for en ukontrollert gjeldsspiral. Utviklingen legger et voksende press på føderale budsjetter og skaper bekymring i globale obligasjonsmarkeder.",
+    "why_it_matters": "Høye amerikanske lånekostnader kan smitte over på globale rentenivåer og påvirke vilkårene for internasjonal kapitalinhenting.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Galopperende renteutgifter tvinger frem harde prioriteringer i det amerikanske statsbudsjettet og kan redusere handlingsrommet for fremtidige finanspolitiske tiltak."
+     },
+     {
+      "area": "Renter",
+      "effect": "Større lånebehov fra amerikanske myndigheter kan presse de lange rentene oppover globalt, noe som øker kapitalkostnaden for både bedrifter og stater."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere avkastning på sikre statsobligasjoner kan gjøre aksjer mindre attraktive og legge en demper på prisingen av vekstutsatte selskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlGeXhGVXJxNnQ3LXhqM0h3UkZxeHUtNGxMRFU2dXh3b0ZOTTFZQ2lfMWJMX3ZlUVZRaTRpRTkyUFVqMGZRaW5JYUNpNEF0YWlta1YtMkp0OE9mSFNCRHJWckdHZzktZHRQY3p2dFRjUV96M1BYOEhCT05OWms5YlFPNGxNOFpqXzZRZXhZd1NBdDdCVmZYUXl1VVFSVEZFUldIcC1lRTBwSkx0NklQRTVR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Åpen dekning",
+      "url": "https://news.google.com/",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "AI-lån under press: Frykt for smitteeffekter i markedet",
+    "summary": "Svakheter begynner å vise seg i lånefinansieringen knyttet til kunstig intelligens, hvor selskaper som CoreWeave trekkes frem som risikofaktorer. Investorer følger nøye med på om verdsettelsene i teknologisektoren har løsrevet seg fra den faktiske inntjeningen.",
+    "why_it_matters": "En oppbremsing i AI-investeringene kan ramme bredt i teknologitunge børser og påvirke global vekstoptimisme.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Korreksjoner i høyt verdsette teknologiselskaper kan spre seg til resten av aksjemarkedet og ramme investorer med høy risikoeksponering."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Strammere kredittvilkår kan gjøre det betydelig dyrere for oppstartsselskaper innen kunstig intelligens å hente nødvendig vekstkapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1ZwVmdzNVhGMmhfZnBhbUkxMUNmbmJ5c3Rmb28yMWVrelJhbmhIR2NwMC15cm9xc1Mxd3JBU3VGa183TjBoS1ZWN3pEQkNyQXFzdzBOWFpPTmktUWJnMmpaVGJSdWljdUVKZzNHMkw2X3ZrSmxxdmlxWXRVdW5mVEpJaTBWTTJTNGFPVUxhTzdGSUU?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljefyring og geopolitikk: Tankskip i brann etter mineeksplosjon",
+    "summary": "Flere oljetankere har blitt truffet av miner i det strategisk viktige Hormuzstredet, noe som umiddelbart har sendt rystelser gjennom energimarkedene. Hendelsen øker frykten for forsyningsforstyrrelser i Midtøsten.",
+    "why_it_matters": "Norge som stor energinasjon påvirkes direkte av endringer i oljepriser og geopolitisk risiko til sjøs.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Faren for stengte skipshandelsårer kan sende oljeprisen bratt oppover på kort sikt og øke fraktkostnadene for tankrederiene."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt militær spenning i Hormuzstredet kan tvinge frem dyrere omdirigeringer av oljelaster og skape ny usikkerhet rundt den globale energisikkerheten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFE3eV9tUnZRRlBkal9QTGJhY0pYZy16NmRJTEtCVFZGY1h3OEJVaWpMNklEVkhZbzBvdWdsY1ZKVm9VTmdFUnJOZVkwQVlJTFBnNXU4cThaZnZGZ05Rc0pUTlNEUnpnWXN2WkFk7U3Npb2dsMVl1Qi1SekhWRlFSbFVDSGFYOEFEbUYxSVVkYlZPOUpqOHZxOVBDUGV4d3pKaWp0MDA5U0lZNG9LdnJB?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnZocnVXR211RDB0SlZtQ0t3WXItR2cwckJPY2dJX3FpNUVaa1B2Nk9QSnM3TGgxYWZ4LWJkQjJsa09qUjRtVmx4eGpxbzBrWUhqWEZKWThia29MelgxY0ZMcWNQYkR5M2RaZ3BfMnlfNkxnY2dfakZmTG8xT3l1dlg4d2RIMGdSbjRoR1RBQmNzZkNvcE1xUDZJU0Q?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Trump fjerner Russland-sanksjoner med henvisning til nasjonale interesser",
+    "summary": "USAs president Donald Trump har signert en ordre som unntar Russland fra visse sanksjoner som opprinnelig ble pålagt gjennom nytt lovverk. Beslutningen har vakt sterke reaksjoner i Kongressen, men møter foreløpig lite motstand i form av raske mottiltak.",
+    "why_it_matters": "Endringer i sanksjonspolitikken mot Russland kan endre betingelsene for internasjonal handel og energiforsyning til Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Opphevelse av straffetiltak kan svekke den vestlige enigheten mot Russland og endre det strategiske maktforholdet i europeisk sikkerhetspolitikk."
+     },
+     {
+      "area": "Handel",
+      "effect": "Lempede sanksjoner kan åpne for at visse råvarestrømmer gradvis normaliseres, selv om politisk usikkerhet vil vedvare for internasjonale selskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "MDG krever Temu-gebyr i kommende budsjettforhandlinger",
+    "summary": "Når Arbeiderpartiet skal forhandle om statsbudsjettet for neste år, vil Miljøpartiet De Grønne kreve innføring av et eget gebyr på varer fra netthandelsgiganter som Temu. Forslaget retter seg mot den voksende strømmen av billigimport og dens miljø- og konkurransemessige konsekvenser.",
+    "why_it_matters": "Dette kan endre rammevilkårene for internasjonal netthandel og gi bedre konkurransevilkår for tradisjonell norsk detaljhandel.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Innføring av gebyrer på billigimport vil gjøre det dyrere for norske forbrukere å handle direkte fra utenlandske lavprisplattformer."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Lokale og etablerte norske detaljhandelsaktører kan styrke sin konkurransekraft når prisforskjellen til utenlandske giganter reduseres."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Nye avgifter på netthandel kan tilføre statskassen ekstra inntekter, samtidig som det krever økte ressurser til toll- og kontrollarbeid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/KrbLjG/krever-temu-gebyr?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nordic Mining advarer om at selskapet renner tom for kontanter",
+    "summary": "Nordic Mining arbeider iherdig med å unngå konkurs eller et tvungent salg, og ledelsen bekrefter at situasjonen er svært krevende. Selskapet opplyser at de står i fare for å gå tomme for likviditet på veldig kort sikt.",
+    "why_it_matters": "Saken illustrerer de høye finansielle risikoene knyttet til store norske kapitalintensive industri- og gruveprosjekter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Aksjonærene risikerer å tape hele sin investering dersom selskapet ikke lykkes med å hente ny kapital eller finne en industriell kjøper."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "En eventuell konkurs vil kunne ramme lokale arbeidsplasser og underleverandører som er knyttet direkte til gruveprosjektets fremdrift."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Voldsomme demonstrasjoner og sammenstøt med politi i Frankrike",
+    "summary": "Tusenvis av demonstranter har tatt til gatene i Paris og andre franske byer for å protestere mot høye levekostnader, kutt i offentlige tjenester og forholdene i skolesystemet. Demonstrasjonene har ført til harde sammenstøt med politiet og bruk av tåregass.",
+    "why_it_matters": "UROEN viser den dype sosiale og økonomiske misnøyen blant store deler av befolkningen i store europeiske land.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "De vedvarende protestene skaper store forstyrrelser i hverdagen og øker det politiske presset på den franske regjeringen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Pave Leo utskrevet fra sykehus etter lungekreftoperasjon",
+    "summary": "Paven har blitt utskrevet fra sykehuset etter å ha gjennomgått en vellykket operasjon for å fjerne en svulst i lungen tidligere i uken. Legene melder om en fortsatt positiv utvikling i helsetilstanden hans.",
+    "why_it_matters": "Paves helsetilstand har stor symbolsk og organisatorisk betydning for millioner av katolikker verden over.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "At paven er friskmeldt nok til å vende tilbake til Vatikanet, beroliger det globale katolske samfunnet og gjenoppretter den daglige ledelsen i kirken."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-17-08",
   "hour": 8,
   "date": "2026-10-17",
@@ -7251,204 +7476,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-01-08",
-  "hour": 8,
-  "date": "2026-10-01",
-  "generated": "01.10.2026 08:19",
-  "overview": "Dagens markedsbilde preges av positive takter i Asia og på Wall Street, til tross for en brutal måned i rentemarkedet. Her hjemme leverer selskaper kvartalstall og det knytter seg spenning til tilstanden i norsk næringsliv.",
-  "stories": [
-   {
-    "title": "Stolt-Nielsen leverer kvartalstall",
-    "summary": "Stolt-Nielsen la frem et resultat på 92 millioner dollar for kvartalet, samtidig som rederiet melder om utsikter til et svakere fjerde kvartal. Resultatene er samlet sett på linje med fjoråret.",
-    "why_it_matters": "Selskapet er en sentral aktør innen frakt og logistikk, og gir en pekepinn på den globale handelsaktiviteten.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Aksjen kan påvirkes av det svake utsiktene for fjerde kvartal."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Indikerer en avflatning i visse transport- og logistikkmarkeder."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/5pmPWz/stolt-nielsen-tjente-92-millioner-dollar?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/eGWW7a/stolt-nielsen-tjente-92-millioner-dollar",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Forvaltere ser kjøpsmuligheter etter kursfall",
-    "summary": "Etter kraftige kursfall i sektorer som laks, konsum og eiendom, velger flere forvaltere å kjøpe seg opp i de kuttrammede aksjene i håp om en snarlig rekyl.",
-    "why_it_matters": "Gir innsikt i hvordan profesjonelle investorer posisjonerer seg i det norske markedet etter tøffe perioder for enkeltsektorer.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Kan bidra til økt kjøpsinteresse og stabilisering i utsatte sektorer."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Svekket utvikling i konsumaksjer kan gjenspeile tøffere tider for detaljhandelen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Blandet utvikling i Asia etter tøff rentemåned",
-    "summary": "Børsene i Tokyo og Seoul stiger torsdag, noe som gir en viss opptur etter en brutal måned preget av uro i det globale rentemarkedet.",
-    "why_it_matters": "Utviklingen i Asia påvirker risikosentimentet i globale markeder og slår inn på internasjonale børser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Gir en etterlengtet, om enn blandet, oppgang i regionen."
-     },
-     {
-      "area": "Renter",
-      "effect": "Høyt trykk i rentemarkedet skaper fortsatt usikkerhet for investorer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0wyMHlJWFdMUG1XODdYaFAtVnZSQ0RET3N4UGdlNnI5NmEzOG01LXlLb0FDR0hja2V4MGhaTGFGYU43MzFrNVVBWFlQakpkLVRDaEdqeWNkdzJIUFNzLWtqR0l3NWxuR1lzcXVGdnh2SXJaUFpJdGU3Ti1ieE54M1h1dTIwS3oyQ0FkejNLb2I5dlYxWmgyM0tsa0lxWm9SWXpSUFZJd2QwamFWWmEtMWFn?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSmhBSU0xeVRJdDI5aFFucG05dnlGNmF1ZUNTWEZoN3RLOXF3elZkbmRXLWtzX210enNiRDgtdnUxaU5heHY3QzlHa2o0a0pqZ2UycnNZYTNrV0FmUXVWTDlGYnRmTWxvWUJ6c0M2d3ZJYWVsTm53aWcwdlBoSUowYzhvdHVpZFlxMjlMRHl5UkgtRTRJRE51aA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Emisjonskø og analyser på Oslo Børs",
-    "summary": "Flere selskaper står i kø for å hente inn frisk kapital gjennom emisjoner på Oslo Børs, samtidig som meglere og analytikere kommer med nye anbefalinger.",
-    "why_it_matters": "Aktiviteten på primærmarkedet viser selskapenes behov for kapital og appetitten blant investorene i det norske markedet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Emisjonskøen kan legge press på eksisterende aksjonærer gjennom utvanning."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Sikrer nødvendig finansiering for selskaper i en krevende markedssituasjon."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdS1sYjdzZ09KbjU3QnQ0SlVTMnRiVWFwVTBhb19xbU9hTTRidFl2RmhmNzVHTjZEdGR3bXgtNWFiQnhEajNMdGRoZU95Ql9na3VLYjA1QzVjajlOYnNjTG9DeUVCNXdtMnhsSERkT1VtQ2JiNEt2c1pZdVVKckVFLV8tWQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Haaland har saksøkt Norwegian",
-    "summary": "Fotballstjernen Erling Braut Haaland og hans team har gått til søksmål mot flyselskapet Norwegian med anklager om at selskapet har utnyttet stjernen kommersielt.",
-    "why_it_matters": "Saken kaster lys over grensene for kommersiell utnyttelse av profilerte idrettsfolk uten direkte avtaler.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Kan skape juridisk presedens for bruk av merkevarer knyttet til kjente personer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/pB01W1/erling-braut-haaland-har-gaatt-til-sak-mot-norwegian-etter-vm?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/sport/erling-braut-haaland-saksoker-norwegian-1.18041636",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Nordic Mining-sjef går av på dagen",
-    "summary": "Otto Søberg tar over midlertidig som sjef for Nordic Mining etter at den tidligere toppsjefen har sluttet med umiddelbar virkning i det pressede selskapet.",
-    "why_it_matters": "Utskiftninger i ledelsen skaper ekstra usikkerhet rundt et selskap som allerede står overfor store krevende prosesser.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Kan føre til økt kursvolatilitet på kort sikt."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Krever rask stabilisering i ledelsen for å opprettholde fremdrift i prosjektene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/6qrwj3/nordic-mining-sjefen-slutter-paa-dagen?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Høyeste dødstall i trafikken på ti år",
-    "summary": "Statens vegvesen melder at 95 personer har omkommet i trafikken så langt i år, noe som er det høyeste nivået på et tiår.",
-    "why_it_matters": "En tragisk utvikling som rammer hardt og setter fokus på trafikksikkerhet og forebyggende tiltak.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Samfunn",
-      "effect": "Utløser debatt om trafikksikkerhetstiltak og økt kontroll."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/stor-oslo/ulykker-pa-veiene_-hoyeste-dodstall-pa-ti-ar-1.18041736",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Sveitsiske breer mister rekordmye is",
-    "summary": "Nye målinger viser at de sveitsiske breene har tapt over fem prosent av sitt isvolum i løpet av året, preget av kraftige hetebølger.",
-    "why_it_matters": "Illustrerer det raske tempoet i klimaendringene og de synlige konsekvensene for globale vannressurser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Miljø og klima",
-      "effect": "Forsterker bekymringen rundt langsiktig smelting og havnivåstigning."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
