@@ -1,5 +1,279 @@
 [
  {
+  "id": "2026-10-17-08",
+  "hour": 8,
+  "date": "2026-10-17",
+  "generated": "17.10.2026 08:27",
+  "overview": "Globale markeder preges av kraftig budsjettunderskudd og høye statsrenter i USA, kombinert med fallende kurser innen teknologisektoren. Samtidig skaper Donald Trumps unntak fra nye sanksjoner mot russisk energi og avslutningen av den norske togstreiken viktige bevegelser nasjonalt og internasjonalt.",
+  "stories": [
+   {
+    "title": "USAs budsjettunderskudd når nesten 2 billioner dollar i 2026",
+    "summary": "Det amerikanske finansdepartementet melder om et budsjettunderskudd på 1,99 billioner dollar for budsjettåret 2026, en økning på 12 prosent fra året før drevet av økende offentlige utgifter. Samtidig holder rentene på tiårige amerikanske statsobligasjoner seg rundt fem prosent, noe som skaper betydelig press på finansieringskostnadene for både staten og næringslivet.",
+    "why_it_matters": "Enorm statlig låneetterspørsel i USA holder de globale markedsrentene høye, noe som direkte fordyrer kapital og lån også for norske aktører.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende høyt tilbud av amerikansk statsgjeld kan presse opp lange globale markedsrenter, noe som også gir høyere langsiktige lånekostnader her hjemme."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere renteutgifter for den amerikanske staten kan etter hvert tvinge fram budsjettkutt eller skatteøkninger som demper den samlede etterspørselen i verdens største økonomi."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Når sikre statspapirer gir over fem prosent avkastning, kan risikopremien i aksjemarkedet falle og gjøre aksjeinvesteringer generelt mindre attraktive."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTRBcUpxckhaTHhfUjBfa2FhR0hMc2JuUTZYUkI3akFuU1dYQWFQRFZtNG1WQVlXYmx2OXptdVJhRGFCWXNvRElLdlg3S0FyenZiUmNWbFNPNXlSZmRoZ1ltX0pVQUFFaVZDdGFId2x5MFQwTUR1X3FfamoxNmJHaEdjYV9rak1uaGFtV0ZYTjhsMnBtcmgyYzZoamhTaE9CRFVOaXVDTzI2WnQtT01pRFpB?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Trump fjerner nye energisanksjoner og toll mot Russland",
+    "summary": "President Donald Trump har utstedt en presidentordre der han opphever flere sanksjoner og tollsatser mot russisk energisektor som nylig ble vedtatt i den såkalte Graham Act. Trump begrunner grepet med hensynet til nasjonale interesser og et ønske om å dempe globale energipriser, til tross for motstand i Kongressen.",
+    "why_it_matters": "Endringer i vestlige sanksjoner mot russisk olje og gass påvirker energiprisene direkte, noe som har stor innvirkning på norsk eksport og statsinntekter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Reduserte handelsbarrierer for russisk energi kan gi økt tilbud i markedet og legge et nedadgående press på de internasjonale olje- og gassprisene."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Eventuelle lavere olje- og gasspriser kan redusere statens inntekter fra petroleumsvirksomheten og begrense den løpende kapitaltilførselen til Statens pensjonsfond utland."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Unntakene kan skape økt politisk friksjon mellom USA og allierte i Europa, som fremdeles forsøker å fase ut russiske råvarer fullstendig."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/AbWabz/trump-opphever-russland-sanksjoner",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Togstreiken i Norge er over: Normal drift ventes utover dagen",
+    "summary": "Partene i den norske togstreiken har kommet til enighet, og togoperatørene varsler gradvis normalisering av togtrafikken fra ettermiddagen. Streiken har rammet pendlere og næringstransport i flere dager, og partene melder at partene har funnet en løsning.",
+    "why_it_matters": "En rask løsning på transportkonflikter reduserer forsinkelseskostnader for norsk næringsliv og normaliserer arbeidspendlingen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Gjenåpningen av togtrafikken normaliserer vareflyten for gods og reduserer kostbare forsinkelser for industribedrifter og logistikkaktører."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Pendlere unngår ytterligere fravær og tidsbruk, noe som kan gjenopprette normal produktivitet i de berørte arbeidsregionene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXMtblc0TzF3Sm1PMmZ4SXZTYzFZMGR0aVlJOXhqTnlmLWlhZnBVYkZuaHRvZGZ0U2ZkcmJOSnF4R3A3T2d6OUN4TWtUNFhHUmNzMVBpbG9uQlJnNFFkQjRmXzV6c2RIOEtzS1JQWTk5QTg4aFpGRHhGWHhHZFlqN3lPRHBDTzktYlZEc1FJeVpSVGZCcllKSVloZDdoZXZTR0JfR2R3T2NSZw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem1JUVY2S0xsQV9sWmZtdzJnSE5BU1dGNXJFUU01OGk0ekhfeEphNHZmUC1vYmQ2TFYxeUJ3a0RtcERBc0xmWUc2S3pZSDA3ME9Qdko5M0RmdXhFN1d2Y0g1dUlzaTVYTUhwWGZpVFFGb1lQN1dPRG9DejJoTnZQaE5Ga29YcWhxM1N0U1Mwdw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Bredt fall på Wall Street etter kreditturo i teknologisektoren",
+    "summary": "De ledende amerikanske børsindeksene opplevde markante kursfall etter at frykt for strammere kredittvilkår og usikkerhet rundt gjeldsfinansiering spredte seg i teknologisektoren. Samtidig understreker ledere som Nvidias toppsjef at uroen i KI-markedet er forbigående, men investorer viser økt risikoaversjon etter kraftig kursoppgang.",
+    "why_it_matters": "Svakere teknologibørser i USA smitter vanligvis over på Oslo Børs og påvirker avkastningen i Oljefondets massive aksjeportefølje.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Press på høyt prisede teknologiaksjer kan skape korreksjoner i vekstselskaper og føre til at investorer flytter kapital over i mer defensive sektorer."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Et bredt fall i globale aksjekurser kan svekke avkastningen til Oljefondet og på sikt redusere handlingsrommet i statsbudsjettet via handlingsregelen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnczZlp0MnBZZGtOaWZKRHpNdl9IdGlvNE5OMHZrOTRiMzF4TGhtU2w5azk2QlhpdF9zWkJFX0ctUXhVWjNGeUgwNHlxZkZYb1FMVVZxTkJfc3ZjT0VIQmFGbUtYSy0zUzZvdE9zY0NzdTBZTjhOUWNBeWNnQ1pCRERETUpib2hUZ3JaMjhPOUV1OHMxc1o0SDB0NjdIQU5yV29zWEhGMA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXBpcEpXNEdyTTRkb0VfcDRmVEdGM0NTbEY5ZXlBc2N2STdjLXBtWGtTVnZYbHlkNFlFVVBnWFdxUlgzNzR2bFlWQjJ2Q3lQYXo4NXFfSEN3bmJPME5BMDdvcjBtSWJqSmRaM2txNVg0MHZzOXg2M2MyWVV3U1BzZjRBY25lWG8xb1JZalBGV0EwdV85RTI1cnlQd0U?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Storbritannias regjering åpner for toll på kinesiske elbiler",
+    "summary": "Den britiske regjeringen holder døren åpen for å innføre toll på kinesiskproduserte elbiler som ledd i deltakelse i EUs industripakke «Made in Europe». Frankrike har droppet sin motstand mot britisk deltakelse, mens myndighetene i Beijing advarer mot det de kaller diskriminerende handelstiltak.",
+    "why_it_matters": "Nye tollbarrierer i Europa forsterker den globale proteksjonistiske trenden og kan påvirke handelsmønstre og bilpriser også i Norge.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Innføring av tollbarrierer kan føre til kinesiske mottiltak mot europeiske varer og svekke den generelle frihandelen i det europeiske markedet."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Avgifter på rimelige kinesiske elbiler kan beskytte europeiske bilprodusenter, men samtidig gi europeiske forbrukere færre rimelige alternativer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Anthropic tilbyr tosifret rente til Blackstone for mikrobrikkefinansiering",
+    "summary": "Det ledende KI-selskapet Anthropic har ifølge kilder tilbudt investeringskjempen Blackstone tosifret avkastning for å sikre finansiering av kostbare datasentre og prosessorer. Selskapet ekspanderer kraftig og inngikk nylig sin første leieavtale for et datasenter i Canada, noe som understreker de enorme kapitalbehovene innen kunstig intelligens.",
+    "why_it_matters": "Kapitalkostnadene for å bygge ut neste generasjons teknologi stiger kraftig, noe som setter nye krav til lønnsomhet i hele teknologisektoren.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Behovet for å tilby tosifret rente viser at teknologiselskaper må akseptere vesentlig dyrere gjeldsfinansiering enn under lavrenteårene."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høye finansieringskostnader kan tære på de fremtidige marginene til teknologiselskapene og tvinge fram mer edruelige verdsettelser i sektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYmFpNlpUSHlsQlNoUVJMUVlfMXN1MjlOcElmRzVOT3RlbC1haEJNY3hsSXFpeUNrZDFHQ3FCeVZITjJaRV9BcUZsQlZ4MFlieEVjVTN2UEYxSDB5MUlPM1NrUWx6NjVOQ1NzMXpBMGo4bWRjdTMxc0t2UWRyQjFhOHlFWWE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyRDdMUmlLNHlsNWhYbVRfTFE1WkJIODRiQmxfOHpzM09lYS1Na0JGNG5YdXlIV09fUVZDWkpRRDFIcUlXb2VYaHhZTjM5Q1AwMnRZZjFkSjRKTTM3RHdUaDhEaEdUWnZTZmVrTUtNaHdTWnM3NVJ3WnFma1VTb09hcURCME10UmFMWXdabmxwNXk1ZUZ6emFoYmRCanEzM3FR?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Avskogingen i Amazonas faller til det laveste nivået siden 1988",
+    "summary": "Nye offisielle data fra brasilianske myndigheter viser at avskogingen i Amazonas har falt til sitt laveste registrerte nivå på nesten 40 år. Totalt ble 3335 kvadratkilometer skog ryddet i tolvmånedersperioden fram til juli, noe som regnes som en stor seier for president Lulas miljøpolitikk foran det kommende valget.",
+    "why_it_matters": "En markant nedgang i avskogingen har stor global betydning for klimakampen og styrker Norges regnskogsamarbeid med Brasil.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Dokumentert nedgang i avskogingen utløser trolig nye norske milliardutbetalinger gjennom det statlige Amazonas-fondet i tråd med bilaterale klimaavtaler."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Fem dager i Det hvite hus: Trumps pressesekretær ferdig i rollen",
+    "summary": "Katie Zacharia er ferdig som pressesekretær i Det hvite hus etter kun fem dager og én enkelt pressebrifing i rollen. Avgangen skaper fornyet oppmerksomhet rundt hyppige utskiftninger og intern uro i Trumps administrasjon kort tid før det amerikanske mellomvalget.",
+    "why_it_matters": "Politisk ustabilitet og høyt personellgjennomtrekk i Washington kan svekke administrasjonens evne til å styre politiske prosesser og skape usikkerhet internasjonalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Uro og hyppige utskiftninger i Det hvite hus kan skape uklarhet om USAs politiske prioriteringer og svekke alliertes tillit til administrasjonens stabilitet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmJZbnZfYVpOSDh1T3QwNXhWSTZjdDJmRUJ1c2lHaEM5aG9nNVl6UnNTSmN0UjUxNFIwck5JMkVVQlVZX3FQM1BrVFpFYU9fa2ZFLTRNR0d0QlVhb3padzdwOEFJSlRlVTllSjJlbktaSGUzNmpDYmxKRkxlbFYzTGY0VHRESS1FeUVJU096eERqS3dKRm94ODVzazRlNDcyVDNlTWp5eHlabFZtQ1FRdm9GZUU?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Fire drept i skoleskyting i Oregon: Griper inn og hyller heltemot",
+    "summary": "En 16 år gammel tidligere elev skjøt og drepte tre barn og en lærer ved en barneskole i Oregon før han ble skutt og stanset av en bevæpnet forelder og ansatte. Amerikansk politi fremhever at den raske inngripenen fra lærere og forbipasserende avverget en enda større tragedie.",
+    "why_it_matters": "Hendelsen gjenoppliver en fastlåst debatt om våpenlover og sikkerhetstiltak i USA kort tid før viktige valg.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Den dødelige skyteepisoden kan forsterke det politiske presset for strengere våpenkontroll i delstatene, selv om føderale innstramminger forblir politisk blokkert."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlcwLW12UDlEZm1YNlAzTHVxTUJ0Zmh3OFZnZ0h5bmpmSUZzalllbG9XREtXYTZQUjNkYUNzWXpRTTFXWExjLV9vb1VpTVZCX1pBTFdZNGhoeE9lb0lGdTY1a0kwdldpNFE2c3VvUEx2b0JpTTBhc096THIwbWJGdVc2U0diMnhSNlgxZFVhR3pDeGxLc2J6US1tWG1MUElueFNxdGFvUTE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-16-20",
   "hour": 20,
   "date": "2026-10-16",
@@ -7176,190 +7450,6 @@
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-rdf",
       "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-09-30-20",
-  "hour": 20,
-  "date": "2026-09-30",
-  "generated": "30.09.2026 21:48",
-  "overview": "Dagen preges av positive inflasjonstall fra USA som styrker håpet om lavere renter, samtidig som norske politikere vekker oppsikt med nye vedtak om gruveavfall i Førdefjorden. internasjonalt merkes det spenninger knyttet til sikkerhet og forsvar.",
-  "stories": [
-   {
-    "title": "Fersk rapport: Amerikansk inflasjon lavere enn ventet",
-    "summary": "Nye tall viser at prisveksten i USA avtar raskere enn det markedsanalytikerne på forhånd hadde lagt til grunn. Dette kan gi den amerikanske sentralbanken mer handlingsrom til å senke renten fremover.",
-    "why_it_matters": "Lavere amerikansk inflasjon påvirker globale finansmarkeder, renteforventninger og dermed også kronekursen og rentene her hjemme i Norge.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Gir økte forventninger om at sentralbankene internasjonalt kan fremskynde rentekutt."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Kan virke positivt på globale børser ettersom lavere inflasjon demper frykten for ytterligere innstramminger."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Kan føre til bevegelser i valutamarkedet avhengig av hvordan Norges Bank vurderer situasjonen opp mot utlandet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVRxOURrUXVGMTQyOEstMnJSWEhkRFlaSkFfLWNPbHh0cVo4djI1YVlWdnBydG83bzlLS3c1WFNxR0lPS054VUhiX3dQejg2bS14MExLRVFnNWQwQS1WSjkzNDZXWjl5bVh0b0VCRjZHMllPeDd0b01UMk5TY2JKdDg3bWY2MURvLTRSRVhoVFRwYkRubGE3OFAwRQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Regjeringen gir grønt lys til tømming av gruveavfall i Førdefjorden",
-    "summary": "Klima- og miljødepartementet har gitt Nordic Mining tillatelse til å deponere gruveavfall i Førdefjorden de neste tre årene. Beslutningen har vakt kraftige reaksjoner fra miljøbevegelsen som mener vedtaket bryter med tidligere rettspraksis.",
-    "why_it_matters": "Saken berører balansen mellom næringsinteresser i gruvesektoren og strenge miljøkrav i norsk forvaltning.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Gir så langt en avklaring for Nordic Mining etter en periode med usikkerhet rundt driften."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Kan påvirke rammebetingelsene for fremtidige mineralprosjekter i Norge."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/vestland/regjeringen-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-fremover-1.18041420",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Nordic Mining-sjefen slutter på dagen",
-    "summary": "I kjølvannet av de siste ukenes utvikling har toppsjefen i Nordic Mining valgt å fratre sin stilling med umiddelbar virkning. Otto Søberg tar midlertidig over lederansvaret i det pressede selskapet.",
-    "why_it_matters": "Lederskifter i krevende faser skaper ekstra usikkerhet rundt selskapets videre drift og prosjektgjennomføring på børsen.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Kan føre til økt volatilitet og usikkerhet blant aksjonærene i det tyngede selskapet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/6qrwj3/nordic-mining-sjefen-slutter-paa-dagen?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2ZzZXYtZHlpU0RfYk9MZDBxUW9NcFpxSE5FaktTWTVEU3NyMUNYT09mUncxUDA2ZjlEMlc4UUs4VEtzbll2WTRtT3prdVVQOVhLYWRxVHZPSmdOaVpQZ1FjMk5hY1Y1N2lqT2llYmx4QWpmYlRMSndTR3NzY1hFZW9zWTc5SC1lRnhvSW1GOA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "El Niño kan utløse nytt prissjokk i Norge",
-    "summary": "Analyser peker på at værfenomenet El Niño kan få ubehagelige konsekvenser for inflasjonen og prisnivået her til lands. Endringer i råvarepriser og matproduksjon internasjonalt kan smitte over på norske importvarer.",
-    "why_it_matters": "Potensielle prissjokk på sentrale innsatsfaktorer kan gjøre det vanskeligere for Norges Bank å nå inflasjonsmålet raskt.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Kan føre til høyere priser på mat og importerte varer i butikkene."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Gir en oppadrisiko for den importerte prisveksten fremover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazJkdzlpVG9JY1R6YVRnWU9hcnp6OUVSZVRQQVExb3JIWDFPOHhESGgtOW5jTTdhWjhMX0pTZGZ4VG9SYVVRd3NjN1d1RmppTWp5ZW1yd0NCYm5BRDNrUWpYQ2ZRb0kza21BTXhwZ3I0dHhxU3hNcUk1aEVnWklkb3Vod3dpMm1wdzJIUmVoWG5JSjVo?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norges kriselager mister 100.000 sardinbokser",
-    "summary": "King Oscar har sagt opp en eldre beredskapsavtale med staten, noe som betyr at kriselageret reduseres med et betydelig antall hermetikkbokser. Myndighetene er ordknappe om detaljene rundt det gjenværende nasjonale beredskapslageret.",
-    "why_it_matters": "Saken retter søkelyset mot robustheten i den private og offentlige forsyningsberedskapen i en urolig tid.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Tvinger frem en vurdering av hvordan staten skal sikre fremtidige matvarelagre."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/hav-og-sjoemat/i/ArA3qx/norges-kriselager-mister-100-000-sardinbokser?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "NHO og Høyre kritiserer Frps skatteplan",
-    "summary": "Forslagene i Frps alternative skatteopplegg blir møtt med sterk kritikk fra både næringslivsorganisasjonen NHO og opposisjonspartiet Høyre, som mener linjen er for defensiv for fremtidig verdiskaping.",
-    "why_it_matters": "Debatten staker ut kursen for den økonomiske politikken og skattenivået inn mot kommende politiske slag.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Kan skape usikkerhet rundt de langsiktige rammevilkårene for private bedrifter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0dUVTRXOWZMa0xZOFA4bEZmNGRQUl9XbVk0N2pVSHk1TGNIanRYM1pvMWhyRTlXZXpjc1Zub2kyZ05pSG9tOEhLOWc3bTJEQlgyclZIT0xKQUkzWWdnVmhTaldIXzdxQVFlZGNmVmVuQV9rS3ZIbmxuOFZNbUpmMlRZLUx1LVQyYjRwQVlyTUZxekhINnNCd1N0cTNqaDg?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Storbritannia peker på Iran etter hendelse ved flybase",
-    "summary": "Britiske myndigheter melder om sterke indikasjoner på at Iran var involvert i den nylige alvorlige hendelsen ved RAF Fairford flybase.",
-    "why_it_matters": "Hendelsen øker de geopolitiske spenningene mellom vestlige land og Iran.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk og sikkerhet",
-      "effect": "Kan føre til økt diplomatisk spenning og strengere sikkerhetstiltak rundt militære installasjoner i Europa."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske styrker trekker seg ut av Irak",
-    "summary": "Etter over to tiår med militær tilstedeværelse forlater amerikanske styrker Irak, noe som etterlater landet i en svært usikker regional situasjon.",
-    "why_it_matters": "Markerer slutten på en lang og kostbar militæræra i Midtøsten med uvisse konsekvenser for maktbalansen i regionen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Endrer maktforholdene i Midtøsten og åpner for økt innflytelse fra regionale aktører."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The New York Times",
-      "url": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
-      "paywall": true
      }
     ]
    }
