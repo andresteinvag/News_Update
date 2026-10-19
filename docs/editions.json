@@ -1,5 +1,201 @@
 [
  {
+  "id": "2026-10-19-20",
+  "hour": 20,
+  "date": "2026-10-19",
+  "generated": "19.10.2026 20:28",
+  "overview": "Mandagen preges av kraftige markedsbevegelser i teknologisektoren og geopolitiske rystelser i Midtøsten og Frankrike. Samtidig viser nye tall sterkere vekst enn ventet iKina drevet av kunstig intelligens.",
+  "stories": [
+   {
+    "title": "Sterkeste krone på mer enn tre år",
+    "summary": "Den norske kronen har styrket seg betraktelig og nådd det sterkeste nivået på over tre år mot euro og andre viktige valutaer. Analytikere vurderer om denne positive utviklingen kan vedvare fremover.",
+    "why_it_matters": "En sterkere krone reduserer importert prisvekst og kjøpekraften til norske forbrukere, samtidig som den svekker konkurransekraften til tradisjonell norsk eksportindustri.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "En sterkere valuta gjør utenlandske varer og tjenester billigere for norske forbrukere, noe som kan dempe den generelle prisveksten."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Lavere marginer for eksportbedrifter som selger sine varer i utenlandsk valuta, ettersom hver euro gir færre norske kroner tilbake."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Importert inflasjon kan avta ettersom kostnadene ved å hente inn varer og tjenester utenfra reduseres i takt med krones styrking."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/Vgrg11/sterkeste-krone-paa-mer-enn-tre-aar?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Et budsjett for skattelettelser og omfordeling",
+    "summary": "Regjeringen har lagt frem sitt forslag til statsbudsjett hvor inntektsskatten kuttes, samtidig som andre ordninger strammes inn for å finansiere endringene. Forslaget skaper debatt om omfordelingseffektene i samfunnet.",
+    "why_it_matters": "Statsbudsjettet setter rammene for norsk økonomisk aktivitet, rentenivå og husholdningenes disponible inntekter i det kommende året.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere skatteinntekter fra visse kilder krever innstramminger andre steder for å holde budsjettet i balanse uten å øke oljepengebruken."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Lavere inntektsskatt kan øke den disponible inntekten for lønnstakere, noe som gir rom for økt privat forbruk og aktivitet i tjenestesektoren."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Endringer i skatteregler og velferdsordninger kan påvirke insentivene til å stå i arbeid for utsatte grupper i samfunnet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/KrKrp4/et-budsjett-for-skattelettelser-og-omfordeling?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kina slår anordning med sterk vekst drevet av AI og eksport",
+    "summary": "Kinas økonomi vokste raskere enn ventet i tredje kvartal, støttet av en sterk oppgang i industriproduksjonen og høy etterspørsel etter elektronikk. Imidlertid skjuler eksportboomen dypere strukturelle problemer i hjemmemarkedet.",
+    "why_it_matters": "Kina er verdens nest største økonomi, og svingninger der påvirker globale råvarepriser, forsyningskjeder og etterspørselen etter norske eksportvarer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høyere industriaktivitet i Kina kan øke den globale etterspørselen etter metaller, olje og andre råvarer som er viktige for verdenshandelen."
+     },
+     {
+      "area": "Handel",
+      "effect": "Sterk kinesisk eksport kan føre til økt handelspolitisk motvind og tollsatsdiskusjoner fra vestlige handelspartnere som frykter overproduksjon."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Bedre makrotall enn fryktet kan løfte sentimentet i globale aksjemarkeder, selv om vedvarende innenlandske problemer skaper usikkerhet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/china/china-export-boom-masks-deep-economic-problems-at-home-6f3b01a1",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Houthi-angrep tvinger fram utsettelse av prestisjetung saudiarabisk toppmøte",
+    "summary": "Saudi-Arabia velger å utsette sin store Davos i ørkenen-konferanse til 2027 etter nylige houthi-angrep mot militærleirer og infrastruktur. Angrepene krevde en rekke menneskeliv og øker den regionale usikkerheten i Midtøsten.",
+    "why_it_matters": "Geopolitisk uro og angrep på energiproduserende nasjoner i regionen kan raskt føre til urolige energimarkeder og høyere oljepriser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt militær spenning i Midtøsten skaper frykt for at transportlinjer og oljeinfrastruktur kan bli rammet i en større konflikt."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Usikkerhet rundt stabiliteten i regionen kan løfte oljeprisene midlertidig ettersom investorer krever en risikopremie for fremtidige leveranser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01aUDFyR0hVZ3ZyLTRLNFpxbGJ4SlBTM0ZyMEpfRFRsZU9UOFZlR0l5TnY2WVBwVmd2TTNVT21pc3FBdVlrd04zRndnNmZoWDFKRUJjWFB0RG5qcllhY2U4bEhVakg5ZHNTQWxRVnE2RjlydXFCb3hmMk5VamV1cmpOYXI5elB4el9NV2ZES1FHdw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Amerikanske boligbyggere mer pessimistiske på 14 år",
+    "summary": "Tilliten blant amerikanske boligbyggere har falt til det laveste nivået på fjorten år som følge av svakere salg og høye finansieringskostnader. Utviklingen forsterker signalene om en avkjøling i den bredere amerikanske økonomien.",
+    "why_it_matters": "En svakere amerikansk boligsektor kan smitte over på det generelle forbruket og påvirke den globale økonomiske veksten.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende høye lånekostnader fortsetter å tynge boligmarkedet, noe som kan tvinge sentralbanken til å vurdere rentenedgang raskere enn tidligere antatt."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Lavere aktivitet i boligmarkedet reduserer husholdningenes formuesvekst, noe som igjen kan dempe det private forbruket i USA."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm16bDBJYnhqdUtXNHBGZVhOS2RQVnctVkpGQ1lzNmhXdi1PTVA1cWF2MzZTN1Q5NEhicmRSTVVkaFgzQnh3SzZNei1BbEtFb3pianVRTXE1cGhwWDMwX0dYWm0tZlhOVWZ1TkQzLXNUbEVNMHBRc0xld0lRbnZoNDNLS3NnYnNBZG5WRDUycEFnZ0xUbDJOQVJ3TGdrNkhCaDZ3SVZ1Y1I5LUE2amRLaDBPaDZTUQ?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Voldelige opptøyer og portforbud ryster flere franske byer",
+    "summary": "Frankrike opplever omfattende opptøyer, plundring og hærverk som har ført til at myndighetene har innført portforbud i en rekke byer, deriblant Paris, Lyon og Nice. Situasjonen har skapt dyp politisk uro og press på landets ledelse.",
+    "why_it_matters": "Sikkerhetssituasjonen og den sosiale uroen i et av EU's ledende land kan få ringvirkninger for europeisk stabilitet og politisk retning.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn og sikkerhet",
+      "effect": "Uroen utfordrer myndighetenes kontroll og fører til økte kostnader for opprydding samt styrket politiberedskap i store deler av landet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/portforbud-i-franske-byer-1.18059042",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kenya-pastor dømt for drap på nærmere 200 barn",
+    "summary": "En kenyansk domstol har funnet den selvutnevnte pastoren Paul Mackenzie og rundt 30 andre skyldige i drapene på nesten 200 barn og en voksen. Sekten ble avslørt etter at tilhengere ble beordret til å sulte seg i hjel.",
+    "why_it_matters": "Saken har vakt enorme reaksjoner internasjonalt og setter søkelyset på kontrollen med radikale religiøse bevegelser og sviktende offentlig beskyttelse.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Mennesker og samfunn",
+      "effect": "Dommen markerer en av de mest tragiske massesakene knyttet til ekstrem sekterisme og tvinger fram strengere myndighetskontroll med trossamfunn."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://www.aftenposten.no/verden/i/0VJjJg/pastor-doemt-for-drap-paa-190-barn-i-kenya",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-19-08",
   "hour": 8,
   "date": "2026-10-19",
@@ -7305,217 +7501,6 @@
      {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-03-08",
-  "hour": 8,
-  "date": "2026-10-03",
-  "generated": "03.10.2026 08:27",
-  "overview": "Dagens markedsbilde preges av høye rentenivåer og økt fokus på kunstig intelligens, sikkerhet og forsyningskjeder i global handel. Samtidig ruster sentralbanker og myndigheter seg for geopolitiske og økonomiske skift.",
-  "stories": [
-   {
-    "title": "USA avviser å gjenåpne etterforskning av tidligere sentralbanksjef Powell",
-    "summary": "Det amerikanske justisdepartementet har slått fast at de ikke vil gjenåpne noen kriminell etterforskning mot tidligere Fed-sjef Jerome Powell. Saken har skapt uro rundt sentralbankens uavhengighet.",
-    "why_it_matters": "Er med på å opprettholde tilliten til at sentralbanker skjermes fra direkte politisk innblanding, noe som er avgjørende for markedsstabiliteten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Reduserer usikkerheten knyttet til USAs pengepolitikk og sentralbankens uavhengighet."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Positivt for markedsstabiliteten at institusjonell stabilitet opprettholdes."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0RkeTlWVnBINlhBOWJtQWxVN2ZsUHR1cVA3VWlxd0ZMTk9BZnVRbDAxajVMLXBmRDZkaTh0clFOLU9lTnRBb1VnYlJQajFOTUhlT3Nnd1lpZS1uZVJsWXpQeDFTNzBFZnpWM3plQ2M2WEFoTHFYOU96Z2JJVVUtdnNiMWQzMGVPajM5T3VTZDl1d1JsbkVwUjYzc1UwSEpiVFZiMG5HdVA3YVdU0gGyAUFVX3lxTFBjblhuWUVQYXkwMnhMMXpESzJuMXQwZGs3eGI4Z2FfQzFzcmv0NEI0ZWJ1YWhRbEpMdXF2bmVZeG5HajBIazJfLTc3UUJFcklzTmVqVll6aXhIQ3lJYjRSaDc0LUVES0VVZ0ZERkpCZHhsUEhwTmVsbk5rZHk4R1pKS19BNFdLeTJkcEt5WDdnaGhQeGNma0w1RnRzZW5UVUo2c1M1TFRwTmJGN3d0RzlQUkE?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/b857gg/usa-gjenaapner-ikke-powell-etterforskning?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHBfUThiNC1hdTVnWmJZakZaeHZKTENVazV6THFUVFZZdk82V200S3RwQXQ4NlV5QU9RbzZRNXJRQ1NRY19tc084clB4Z2Z1RGZmZXgxOFp0VzNsSU9zWm5yanhUdC1ndVFaa2tjMjFhWnllMmtVOGVzN0kxdk9ya1d1c1U?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Wall Street holder seg høyt tross høye renter og svake jobbtall",
-    "summary": "Til tross for at rentenivået ligger på nivåer som sist ble sett i 2007, fortsetter Wall Street å vise motstandskraft. Analytikere peker på at resultatforventningene opprettholdes.",
-    "why_it_matters": "Påvirker global risikovilje, kapitalflyt og verdsettelsen av også på Oslo Børs.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høye renter i USA legger press på globale lånekostnader."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Viser overraskende styrke til tross for stramme finansielle forhold."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Mykere jobbtall demper sannsynligheten for ytterligere renteøkninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUlmSEs3ZzlUVnJjWVUyWmJ0SGQ5cWdPRExQblFJeW8tQWloaERvS2VfMjNsNk13dE1QWFEydGt3ZFpGSmQ1MkdkX2p3cDhCLUxzRHlfeTRPQVVXWjc0RWlUOGhqUHI0MkNxZWV4SEItMVZRTnRpNmhoQTNKYmgtSkQ1MlF2cGhLMjVXb0Eycm5zVXRLcFM1NVBEMTNrSW1TalE?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSi1uLVptdnlIcU56aU9RbmZTYzdTVHRPaElmbWVJUk1mRzltQ1VBeWtzdlZDVFpSLS12aFhnQ0NCSURrYmN1VmJlXzdqZVFDX29US05JOWFFR1RpMDZ0QTFHY2NMM3ZCRjBQNU1YOGNYZzFWVDBwclA2N3lSdndMWlFuQ3pSRzZlS3NDZU1zbXhEYVFqcThCY3hWcV9SNUlKREpxaVRGSkNUU0Z6blNRRUpjZGFZcENXeXc?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Vietnam opplever sterk vekst og nærmer seg ti prosent",
-    "summary": "Vietnams økonomi opplever et kraftig byks med en vekst som nærmer seg ti prosent, samtidig som landet opprettholder et solid handelsoverskudd.",
-    "why_it_matters": "Illustrerer de skiftende mønstrene i global produksjon og forsyningskjeder i Asia.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Styrket handelsoverskudd og posisjon som sentralt produksjonsnav i Asia."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Trekker til seg økte investeringer på bekostning av andre regioner."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDJKTTlKSGptaGtiNzUxTEZPVndUVlBfMW82bFE5TGJrd3BMRVJ5Y25DcEgwdDc0dVlXNWpyalZkSThMZC13cl84bE5YYnNYa1dZaWhVRFA0dlVlb2YwcGxPZkprTEltZmp6SlFBQkFIQU5nTFE0NXVtT1YxcDVyVTlYME5EMXRKTldhRGN3NjlqNE5yMldVY05vTFhfSXlueWpBcjdqVFJZbFFHd2Z3WA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kina krever kobberforsikringer for Anglo-Teck-fusjon",
-    "summary": "Ifølge kilder krever kinesiske myndigheter spesifikke forpliktelser om kobberforsyning for å godkjenne en potensiell sammenslåing mellom gruvegigantene Anglo og Teck.",
-    "why_it_matters": "Viser hvordan råvareavhengighet og geopolitikk brukes som brekkstang i godkjennelsen av globale megadealer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Kan påvirke globale priser og tilgang på kritiske industrimetaller."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Demonstrerer Kinas markedsmakt over globale forsyningskjeder for metaller."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Åpen dekning Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "AI-hjelp til sparing vekker uro i det finansielle systemet",
-    "summary": "Analytikere advarer mot at automatiserte kunstig intelligens-verktøy som flytter kundenes sparepenger automatisk til bankene med høyest rente, kan skape ustabilitet i pengemarkedet.",
-    "why_it_matters": "Kan føre til raskere og mer uforutsigbare uttak fra tradisjonelle banker, noe som utfordrer bankenes likviditetsstyring.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Gir enklere og raskere tilgang til best mulig innskuddsrente."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Kan tvinge fram nye krav til bankenes likviditetsbuffer og automatiserte tjenester."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/rrk25e/ai-hjelp-til-best-rente-et-problem-for-det-finansielle-systemet?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/JroBgb/ai-hjelp-til-best-rente-et-problem-for-det-finansielle-systemet",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Fortum kjøper Fjordkraft-eier og kan tvinge ut småaksjonærer",
-    "summary": "Det finske energiselskapet Fortum har slukt eieren av Fjordkraft, noe som kan åpne for tvangsutløsning av de resterende småaksjonærene.",
-    "why_it_matters": "Endrer eierstrukturen i det nordiske kraft- og strømsalgsmarkedet ytterligere.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Styrker store aktørers dominans i det nordiske sluttbrukermarkedet for strøm."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Kan redusere antall uavhengige tilbydere for forbrukere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORWFVUU5TVWV6M29OZ3FnZlIwZ2dqQlFoWmpwVlhPXzBNRFhKZVVoUThsSWplcE5rQWwzUzBkWUxnWlIxWkd3dXhlQzFwaUJwd2h3U3JuMEJZQU44djJjdnhCNGFTZVF0dzhvSV9aYUNJVkh3bFh3djFjTkUzYlNBUVdCR2czY1U5Nl9WTzdUV0pSS3FXWkVPUzdPakU3WGFkajUyS2RjeG9KYjdrNkM3dlhYdEVPelB5eDBj?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "G7 vil frigi oljereserver etter pristrussel",
-    "summary": "G7-landene planlegger å frigi millioner av fat olje og diesel for å demme opp for mulige prissjokk og unngå strengere eksportrestriksjoner.",
-    "why_it_matters": "Et sentralt tiltak for å stabilisere globale energipriser og forsyningslinjer i urolige tider.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og forsyning",
-      "effect": "Demper presset på internasjonale drivstoffpriser midlertidig."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Nord-Korea avfyrt ballistisk missil mot havet",
-    "summary": "Nord-Korea har avfyrt et ballistisk missil ut mot sjøen, noe som skaper økte spenninger på den koreanske halvøya etter nylige diplomatiske ordskifter.",
-    "why_it_matters": "Forsterker den sikkerhetspolitiske ustabiliteten i en region som er avgjørende for verdenshandelen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Øker den regionale spenningen og usikkerheten i Øst-Asia."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
       "paywall": false
      }
     ]
