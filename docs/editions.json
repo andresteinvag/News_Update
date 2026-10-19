@@ -1,5 +1,299 @@
 [
  {
+  "id": "2026-10-19-08",
+  "hour": 8,
+  "date": "2026-10-19",
+  "generated": "19.10.2026 08:37",
+  "overview": "Uken åpner med overraskende solid kinesisk vekst på 4,5 prosent drevet av eksportsektoren, samtidig som politisk oppvask og gateopptøyer i Frankrike legger press på eurokursen. I Norge preges nyhetsbildet av sterk inntjening for oppdrettsgiganten Mowi, infrastrukturoverskridelser hos Avinor og et varslet strategisk linjeskift fra EU om olje- og gassutvinning i Arktis.",
+  "stories": [
+   {
+    "title": "Kinas økonomi vokste med 4,5 prosent i tredje kvartal drevet av eksportboom",
+    "summary": "Kinesisk bruttonasjonalprodukt økte med 4,5 prosent i tredje kvartal, noe som overgikk forventningene og bringer myndighetenes årlige vekstmål innen rekkevidde. Oppgangen ble primært drevet av sterk industrieksport innen teknologi og kunstig intelligens, mens det innenlandske forbruket og boligmarkedet fortsetter å halte.",
+    "why_it_matters": "Som verdens nest største økonomi og en nøkkelkonsument av råvarer har Kinas aktivitetsnivå direkte innvirkning på globale industrimarkeder og norsk eksport.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Høy kinesisk eksportaktivitet kan forsterke handelsspenninger med USA og Europa dersom overskuddskapasitet dumper priser i vestlige markeder."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fortsatt industriell fremgang i Kina kan gi drahjelp til den globale olje- og metalleterspørselen og dermed støtte prisene på internasjonale råvarebørser."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Svak innenlandsk kinesisk etterspørsel kan tvinge internasjonale forbruksvareselskaper til å nedjustere sine vekstforventninger i det asiatiske markedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPelFIVGVwcy1oY2RvRVlaQTl5REpEc1hfS0ZUb1lTeWN0M2tBbTctTWo4NzVXeWthQVNab2p1eUFYQ2xtejBoc1ktQlZFQXh1U3hOSWdNdlBzTzNvcThPMFVyNnIzSTgyQ3lXbW8taGQtTV92Vl9uUGZOWjc1cGp6NTJBTDNpcWpEUnRCMjhXcVRYNkVXSFNwaHF3UGFGU0NqZTZWZzJXc0FyX3BnUkxhVWVSNzI?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGVKTFBJR0drUjlPSjZvYjZUeDBaOVlDQkdsSWRLbGJ3ZGxfTEs0MmR6bFVkNXZDczVIcGV2WnlfWFZnSk9rTk9OVENhQVoyd3I3YThXdlFtenZKbWozZGFIWXktSVQ5T2hlNnh4amxMWkNVbjZQM1BGUmJHTDlRRjVVa2Q?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "EU demper motstanden mot petroleumsvirksomhet i Arktis",
+    "summary": "EU går bort fra sitt tidligere krav om et midlertidig globalt forbud mot leting og utvinning av olje og gass i arktiske strøk, ifølge et utkast til unionens nye Arktis-strategi. Endringen begrunnes med et økt behov for europeisk energisikkerhet og diversifisering av forsyninger.",
+    "why_it_matters": "Dette reduserer den politiske og regulatoriske risikoen for norsk sokkel og sikrer langsiktig legitimitet for norsk gasseksport til Europa.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Et mer pragmatisk EU-standpunkt kan stimulere til økt lete- og utbyggingsaktivitet i Barentshavet blant norske og internasjonale energiselskaper."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Norsk leverandørindustri kan oppleve forlenget investeringshorisont og økt oppdragsmengde knyttet til infrastruktur og feltutbygging i nordområdene."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Forlenget levetid for arktiske gassfelt kan sikre vedvarende høye skatteinntekter fra petroleumssektoren og styrke innskuddene til Oljefondet på sikt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/eu-demper-motstanden-mot-olje-og-gass-fra-arktis-1.18058153",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Voldsomme opptøyer i Frankrike svekker euroen og skaper politisk krise",
+    "summary": "President Emmanuel Macron avviste innenriksminister Laurent Nuñez' avskjedssøknad etter omfattende opptøyer og gatekamper utløst av levekostnadskrisen og misnøye med offentlige tjenester. Den politiske ustabiliteten har sendt sjokkbølger gjennom europeiske markeder og tynget euroen mot dollar.",
+    "why_it_matters": "Politisk uro i eurosonens nest største økonomi kan øke landrisikopremien i europeiske statsobligasjoner og komplisere finanspolitikken i EU.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "En svakere euro mot dollar kan gi indirekte bevegelser for den norske kronen i valutamarkedet dersom risikoaversjonen sprer seg til europeiske valutaer."
+     },
+     {
+      "area": "Renter",
+      "effect": "Økende spenninger og budsjettusikkerhet i Frankrike kan drive opp rentedifferansen mellom franske og tyske statsobligasjoner og fordyre statsgjeldsopptak."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Europeiske aksjeindekser kan oppleve økt volatilitet og kursfall innen forbrukerrelaterte og nasjonalt eksponerte franske selskaper på børsene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGwwZHd2R1h3Q1BiZkdpNVVzRFpXZTJEd19TT2tyelhtb21VX0ZOSzN2RVpURkdHMWl5REpraUVJTVRjeFlSQmU4T3V4XzhWV2g0bU1fd0Q0cmhRMFRFbVg5Snhld1owT2IwbmR2d0RwNGNpWEVGWHhYaDRzN3N1UWJwNjhuTXoyc3hsLXIybEt0VEl4VlJOS2JUZTB5TnV2OVFWU2NLYjRiWU5kYnA4?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/macron-nekter-innenriksministeren-a-ga-av-1.18058212",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUJEUklCM1l6MEtSSXYyZUhwWnZZdDhucGtUTnRTWGRNVUc3NW80MGhucEU5a1NqWmNGdUEwX0ZXUnhEZTU2X3FoVURjci1PQlBrTnBIVF93WWxhdHd0ZU54YkstZnZPaTB5TnVDLTB0QkMxZnpwVWU2UF9Qc3Npem9kaFU?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Mowi leverer over tre milliarder kroner i operasjonelt driftsresultat",
+    "summary": "Oppdrettsgiganten Mowi melder om et operasjonelt driftsresultat på over tre milliarder kroner etter å ha slaktet 186.000 tonn laks i kvartalet. Tallene bekrefter at selskapet opprettholder sterk lønnsomhet til tross for svingende biologiske forhold og råvarekostnader.",
+    "why_it_matters": "Sjømat er Norges viktigste fastlandseksportnæring, og Mowi fungerer som en ledende temperaturmåler for lønnsomheten i hele havbrukssektoren.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Det solide operasjonelle resultatet kan gi løft til sjømatsektoren på Oslo Børs og støtte forventningene om solide utbytteutbetalinger fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Høy slakteaktivitet og gode marginer kan gi økt investeringsvilje i ny teknologi, fôr og bærekraftige løsninger langs kysten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/xlzr6V/mowi-dro-inn-tre-mrd?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljetanker rammet av sjømine i Hormuzstredet",
+    "summary": "En oljetanker har gått på en mine i det strategisk viktige Hormuzstredet, ifølge iranske myndigheter. Hendelsen føyer seg inn i en rekke sikkerhetsutfordringer i Midtøsten og har umiddelbart skapt fornyet bekymring for forsyningslinjene for råolje.",
+    "why_it_matters": "Omtrent en femtedel av verdens sjøbårne oljeforbruk passerer stredet, og enhver forstyrrelse her slår rett ut i internasjonale frakt- og energipriser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Forhøyet geopolitisk risikopremie i Persiabukten kan presse råoljeprisene oppover dersom rederier velger å omdirigere skip eller stanse seilinger."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere forsikringspremier og dyrere oljefrakt kan gi økte transportkostnader globalt som forsinker inflasjonsnedgangen for sluttforbrukere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGYzbW1DV1Vvb1BpQm54dDAwM1dYM091cmFpMkE5U0xJemYyd3BPVm1qNjBsZVhzcE9rOXMzY3RSd2RHc3NHdTd1WUNKRkFycW1kS1VYWElZOUtJRkpFNGpOTXlDQTJQUmY1bzh3TDFxRG9EM0pZd24zMHNJZXdYR2I2bzgzRDFCUGVnbEM5LWtkTVNGcUhfNHZfamI2SmM?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Avinor varsler milliardsprekk for nye flyplasser i Nord-Norge",
+    "summary": "Utbyggingene av de nye lufthavnene i Bodø og Mo i Rana blir betydelig dyrere enn tidligere budsjettert, ifølge Avinor. Kostnadssprekken kan tvinge det statlige lufthavnselskapet til å øke luftfartsavgiftene for å dekke inn de økte investeringsutgiftene.",
+    "why_it_matters": "Samferdselsinfrastruktur i distriktene er avgjørende for næringsliv og befolkning, og økte avgifter rammer et allerede presset innenlandsk flymarked.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Økte lufthavnavgifter kan veltes over i billettprisene og gjøre det mer kostbart for reisende og pendlere i distrikts-Norge."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Større overskridelser kan utløse krav om direkte kapitaloverføringer eller økte subsidier over statsbudsjettet for å sikre Avinors soliditet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/kvbGWL/avinor-varsler-milliardsprekk-i-nord?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Mangel på kraft bremser grønn omstilling i smelteverksindustrien",
+    "summary": "Smelteverket Finnfjord AS sikter mot å bli verdens første utslippsfrie produsent av ferrosilisium, men planene hemmes av lang ventetid for tilknytning til strømnettet. Tilgang på tilstrekkelige kraftmengder har blitt en kritisk flaskehals for industrisatsinger i Nord-Norge.",
+    "why_it_matters": "Norges ambisjoner om industriell avkarbonisering trues av forsinkelser i nettkapasiteten, noe som kan svekke landets grønne konkurransekraft.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Begrenset overføringskapasitet og lange køer for nettilknytning kan bremse etableringen av ny grønn prosessindustri og skremme bort private investorer."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Flaskehalsene kan tvinge politiske myndigheter og NVE til å prioritere hardere hvilke industrivirksomheter som skal tildeles tilgjengelig kraft først."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/tromsogfinnmark/finnfjord-as-vil-bli-forst-i-verden_-men-forst-ma-de-sta-i-stromko-1.18054865",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tilbudssjokk truer med å forsterke den globale matvareinflasjonen",
+    "summary": "Nye forsyningsforstyrrelser og ekstremvær fører til at den globale matvareinflasjonen er ventet å tilta igjen fremover, ifølge analyser gjengitt av Reuters. Økende priser på råvarer og gjødsel kan nulle ut deler av den nylige nedgangen i den samlede prisveksten.",
+    "why_it_matters": "Høyere matpriser rammer husholdningenes disponible inntekt direkte og kan forsinke forventede rentekutt fra globale sentralbanker.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "Fornyet oppgang i matvareprisene kan holde kjerneinflasjonen oppe og tvinge sentralbankene til å opprettholde et restriktivt rentenivå lengre enn planlagt."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Økte utgifter til basisvarer kan redusere husholdningenes kjøpekraft og dempe etterspørselen etter andre varer og tjenester i økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUVRkb2hsTDU1SE9pWjNla2I5RTYxUFJQZndkWkVIQ05EbzhUOWlfbGp5X2J2SHA0bTJpMGptenRDdXdWZ3E2VkthVVdBY2YxTFQ0SjhPc2xadGJWRFR2dENBZ1luZ1lEOUlsVTFxYnJxYmJ4ck9kZmtaQlg1bzFjemN5Rk1WdFhSb0tpT2c2OVVGd2lRenlBVnRud2E5S2ZsMlRucENKZ0hpLWJBd1dCX0R5VG10YkU?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Fire soldater omkom i eksplosiv brann på kanadisk militærbase",
+    "summary": "Fire kanadiske soldater mistet livet og 19 personer ble kritisk skadet etter at en hurtigvoksende gressbrann rammet militærbasen CFB Wainwright i Alberta. Myndighetene betegner hendelsen som en av de verste fredstidsulykkene for landets forsvar.",
+    "why_it_matters": "Tragedien rammer det kanadiske forsvaret hardt og fører til full gransking av sikkerhetsrutiner og øvelsesaktiviteter under tørkeforhold.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Ulykken kan føre til umiddelbar stans i store feltøvelser og innskjerping av kanadiske forsvarsrutiner under krevende klimatiske forhold."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Regjeringen vil innføre 16-års aldersgrense for Roblox, Snapchat og TikTok",
+    "summary": "Den norske regjeringen foreslår å sette en 16-års aldersgrense ikke bare for tradisjonelle sosiale medier, men også for spill- og meldingstjenester som Roblox, TikTok og Snapchat. Målet er å beskytte barn og unge mot skadelig innhold og uønsket påvirkning.",
+    "why_it_matters": "Forslaget representerer et markant inngrep i unges digitale hverdag og vil kreve nye tekniske løsninger for aldersverifisering i Norge.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Innstrammingen kan endre barns digitale vaner fundamentalt og tvinge teknologiselskaper til å innføre strengere mekanismer for alderskontroll."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/d7Q4yJ/nrk-regjeringen-vil-gi-roblox-tiktok-og-snapchat-16-aars-aldersgrense",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHhsS2lld2c2T3VHSXFGeXpSNFdiVnJxVTh4bTE3a2hnOV8tSXNWcU5DcEZuV3ZNeUpmV01TYU5QT01fZnFqdEFDMEVrX2RZbko0ZDVaNllZTWZPY3lrQ2FBellDY0g5cE1Qak01ZnNEVFpMQ1VxWFBTVHE1TUVCWTlPSWNtbmNxZDBCZS1sUGkycTFEVDA2NXRCWnpLNmRyaldDcTNwUHVycDZiV0E?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Opphetet TV-debatt mellom Lula og Bolsonaro før presidentvalget i Brasil",
+    "summary": "Brasils president Luiz Inácio Lula da Silva og utfordrer Jair Bolsonaro barket sammen i en intens debatt foran den avgjørende valgrunden 25. oktober. Kandidatene rettet harde angrep mot hverandre om korrupsjon, økonomisk styring og internasjonale allianser.",
+    "why_it_matters": "Valget avgjør den politiske retningen for Latin-Amerikas største nasjon og har stor betydning for global miljø- og klimapolitikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Den polariserte innspurten kan skape politisk uro i Brasil og få vesentlige konsekvenser for forvaltningen av Amazonas-regnskogen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-18-20",
   "hour": 20,
   "date": "2026-10-18",
@@ -7222,240 +7516,6 @@
      {
       "name": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-02-20",
-  "hour": 20,
-  "date": "2026-10-02",
-  "generated": "02.10.2026 20:25",
-  "overview": "Dagens markedsbilde preges av svært svak amerikansk jobbtekst som løfter forventningene om rentenedgang, samt at G7 og Europa frigjør store olje- og dieselreserver. Samtidig viser inflasjonstall fra eurosonen og oppjusterte utsikter for Wall Street at det er store sprik i den globale økonomien.",
-  "stories": [
-   {
-    "title": "Svak amerikansk jobbvekst i september",
-    "summary": "Den amerikanske økonomien la bare til 29 000 nye jobber i september, noe som var langt under forventningene. Samtidig klatret arbeidsledigheten til 4,2 prosent.",
-    "why_it_matters": "Svakere vekst i verdens største økonomi påvirker globale markeder, renteutsikter og råvarepriser direkte.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Trekker i retning av mindre sjanse for nye rentehevinger og kan fremskynde rentekutt."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Ga et bredt løft på Wall Street ettersom investorer priser inn en mykere pengepolitikk."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Viser en markant nedbremsing i ansettelsestakt og økende ledighet i USA."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpxWlBhS200R0JORVFQSnp6dHJUMXNpUEt3VkVySm1kV0Q4OFNEZDMwbEFVMkNnYUNIZXZjQkwzLW1QbnhSeWxaY003M1VpUEg5bGtaNHNzd0ZHMVFEaTZ5RTBEUFBIUnZVal9Ob3hPdVdCcDJvRVYxTVNDV1Jybmx4d1Q?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/0BE1A6/svakere-jobbvekst-enn-ventet-i-usa-29-000-nye-jobber-i-september?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "G7 frigiør 100 millioner fat olje og diesel",
-    "summary": "G7-landene og EU har etter hardt press fra USA blitt enige om å frigi opptil 100 millioner fat med råolje og diesel fra strategiske reservelagre.",
-    "why_it_matters": "Tiltaket er ment å dempe det høye prispresset på drivstoff og energi i forkant av det amerikanske mellomvalget.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Kan presse olje- og drivstoffprisene ned på kort sikt ved å øke tilbudet i markedet."
-     },
-     {
-      "area": "Geopolitikk og handel",
-      "effect": "Illustrerer hvordan politisk press fra USA påvirker europeiske energibeslutninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHJMRmd5blQxSkhad19VT09zX1JuTGNxVk5BQ3Vjai1XLWQ0eTZhQ0FnN21ERERlcUpWOUp1RV9XbVNBX3ptZXRGU25kdGx1ZnhpaXk2ZzNmbXFjTk5aOFYxTEVwUk9wNFhNbXBwUmotQlVva2RaYVJvVy1JRmZMR2xzRHE?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlU2Y05YNVZZZkloZWdrUV94UktTRG52TlUxd0FFdkhaY3VMTGNrU01zSjhqTHNKV3ZidG9KQzNCcWEyTUlFTkNyRXZoSUVGWFViWXJJNG9XZGhQVlFJbUwtYVJUcHdyUU1CdDRjellJUFd4NExMaTBkMXhja3F1WjJlQzN3eHliUGhXYkdHZUc4QVN0VzRmSUZ0V0lacEF2cFlhbFFrc3VyNVpLamhnc0RNbXRqRWM?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Høyeste inflasjon i eurosonen på tre år",
-    "summary": "Konsumprisveksten i eurosonen har steget til 3,8 prosent, det høyeste nivået på tre år.",
-    "why_it_matters": "Høyere inflasjon enn ventet i Europa kan tvinge Den europeiske sentralbanken til å holde rentene oppe lenger enn markedsaktørene har håpet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Minsker sannsynligheten for raske rentekutt fra Den europeiske sentralbanken."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Gir vedvarende press på kjøpekraften til europeiske husholdninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEFTdUt4M2lTRS1OWXFOZUNYQjF4U1VxRlB0eEpoY21IZE1oM2ludkpPa0VkVS0zRjEyY0c4WmlCVWREaWl6N3E0Q0MzUzFXbmtYZ3FIWTAtYUhzTTJRcVA2VEVRX08tc0VjS25JZ0xReGoyb2RSOE0xRzlhcW4zTWtJcU4?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Sterke resultatudsikter for Wall Street",
-    "summary": "Resultatforventningene på Wall Street går mot normalen, drevet av sterke investeringer innen kunstig intelligens og selskaper som trosser renteoppgangen.",
-    "why_it_matters": "Amerikanske aksjemarkeder setter standarden for global risikovilje og påvirker også avkastningen til for eksempel norske investorer og Oljefondet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Driver opp optimismen knyttet til teknologi- og AI-selskaper."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Viser en robusthet i amerikansk næringsliv til tross for tidligere stramme finansielle forhold."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/b85L3q/wall-street-hever-forventningene-musikken-spilles-fortsatt",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tesla-salget faller i tredje kvartal",
-    "summary": "Teslas leveranser falt med 2 prosent i tredje kvartal ettersom amerikanske forbrukere kjøper færre elbiler.",
-    "why_it_matters": "Utviklingen speiler en tøffere konkurransesituasjon og flatere etterspørsel i elbilmarkedet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Skaper usikkerhet rundt verdsettelsen av rene elbilprodusenter i et modnende marked."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Tyder på at den raske veksten i elbiladopsjon møter visse barrierer hos amerikanske bilkjøpere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmY1bHhjQXN2VHNHaHV6eHhxbXJkM05QZERRa1hQLWo3cTk0RTFzLVRwTkpoZWNSR2FyVk8wTk1DVlhCYi1wYnZ5ZVg1b04tS3RpUkdNWGdlTWZTVGlUYzFnOTBjWDVuaDhKRHVuUWxiaVA3T2JzcnZSNGZ2aXVCYU91WVg?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTYzSkI2MFdTdXRYNUUyS2NOUkVPRWx6eHkzNGprNHRjMngwbU9takQ2NHplVXBYTUZjbl81YzhxM2xLT1diV1ZDdWJCazM2dUlJYWM5QVhmMEt1N3YtQXM4T29EMTF4dlFGQ2Nrb0lsZk8wdDl1T2pCY1A2VVpvSG02dw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Rystad Energy henter inn Morgan Stanley for finansiering",
-    "summary": "Analyseselskapet Rystad Energy har engasjert Morgan Stanley for å hente penger og ser etter nye investorer etter å ha brutt bankvilkår.",
-    "why_it_matters": "Saken viser hvordan tøffere finansieringsforhold og markedsendringer også treffer profilerte norske kunnskapsbedrifter.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige og finansielle finanser",
-      "effect": "Krever restrukturering og ny kapital for å sikre videre drift og innfri lånebetingelser."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Skaper usikkerhet rundt fremtidig vekst og verdivurdering i det uavhengige analysesegmentet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNjhkdXNhWFRaWlRtV1N0S1lBdXVxNVBYTTFFWVdtYW5vRFBWeXlZaXdkZ3NsN0RiaHpvSHFtZFFIS1VLQ0tUeDNfTGR2TUUyYV9kZzR1RzBkbElEV01rbmN3YV9PdURkRzB5NGVyVHhCSjk2cF83dmZGdVdfNWJLV194dFNxbGVtZkVpYlp1RVBqeWlSc3I3bUI1YXEwN0hzT1ozUTNHdEI4QmZ4eEtoM3dtX2xqZWFhbThmNFpIY0tvb1lJQjFTSG9RM1lZZFpxT3pYQ3Z5c3M5QXc?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1d0MzdmdEZwUmwxbXJ3OFExYzhaQ1hvd1V2TVlWd1Z2Qjk4WGhlRExnY1F5UEhGX0hFdldpaFc0Q3ZiYjZseGFsaFI3WkFkR0V3V1lOalJuQ1NGc0N4NEZ2REdRR0lNS3lvanB6eVpMdWRYdV9BcWlIWTBzVERtQlBMLUhrRVBEWXdOV2VienNlWndRcGxRWjJ1MGVneE43Q3NPTVJack9MaVBOUjNKbHZB?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Milliard-satsing på Investinor i ny budsjettlekkasje",
-    "summary": "Regjeringen varsler i en ny budsjettlekkasje en milliardsatsing på det statlige investeringsselskapet Investinor.",
-    "why_it_matters": "Satsingen skal styrke tilgangen på risikokapital for tidligfasebedrifter i Norge.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Øker statlige utlegg til næringsrettet kapitalforvaltning."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Gir bedre vekstvilkår og tilgang på midler for norske gründere og oppstartsbedrifter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUk1ejZoZ2JGaDE2d1JzY0FIaGtWLVNXazhTY3hmbS1LVlNHQjBnOHNvU0hKZ19mSGdwdnExYU5oRUxPaG5zY1FxS2NvM2ZvVWJDZ3RoRHB5U3ZjWUhtcGJBTG91TlF2MVZoSjRTS3A0cGpXTGNVbl9KR0dXaEk4Y3RqZDNVSXF3Y1ItTllrdVpGOGE4R2RLdHk0ZWNCNThobnJLVUxB?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Flydray-pilot hylles som helt etter cockpit-angrep",
-    "summary": "Piloten som kjempet for livet under et dramatisk angrep i cockpiten på et Flydubai-fly, mottar internasjonal hyllest, og saken setter flysikkerheten under lupen.",
-    "why_it_matters": "Hendelsen reiser viktige sikkerhetsspørsmål rundt bemanning og sikkerhetsrutiner på internasjonale flyvninger.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Sikkerhet og luftfart",
-      "effect": "Utløser strengere gjennomgang og fokus på sikkerhetsrutiner i kommersiell luftfart."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFdrbWVhOWp4REk0N1VXUm5LRWxRQ3NLUG9pMFhXd0h0aVg0UlQ5SGVQeTVPY0FDUFNYQ1dnTTA2X2pjYjAtR2ZtMUx0aXY3NFJDdlkwb1RsazNSSFpYbU40THcyT0tqMXNEYlhlOWFrMnNtUGE0ak5uY21sd1ZSRXRqdjNrVFBSVHB4V0c3c013bmZIOVhEUThQSmVaNTljUWRBdXk4VEliSkk?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Omfattende studentprotester i Frankrike",
-    "summary": "Hundrevis av skoler har blitt stengt og det har kommet til harde sammenstøt mellom politi og demonstrerende studenter i Frankrike grunnet misnøye med utdanningsstandarder.",
-    "why_it_matters": "Protestene skaper uro og politisk press på den franske regjeringen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Politikk og samfunn",
-      "effect": "Forverrer det politiske presset på regjeringen og lammer deler av skolesystemet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
