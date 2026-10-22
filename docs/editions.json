@@ -1,5 +1,217 @@
 [
  {
+  "id": "2026-10-22-20",
+  "hour": 20,
+  "date": "2026-10-22",
+  "generated": "22.10.2026 20:27",
+  "overview": "Dagens markeder preges av bred nedgang i teknologiaksjer og økende bekymring for høye renter, mens oljeprisen klatrer til sitt høyeste nivå siden mai. Internasjonale børser svekkes av korreksjon i kunstig intelligens-sektoren og geopolitiske spenninger i Midtøsten.",
+  "stories": [
+   {
+    "title": "Moderna-aksjen stuper etter mulig lekkasje",
+    "summary": "Data om resultater fra en vaksine kan ha blitt lekket, noe som skaper uro blant investorene. Saken har ført til et kraftig fall for aksjen på børsen.",
+    "why_it_matters": "Illustrerer hvor sårbare bioteknologiselskaper er for informasjonslekkasjer og regulatoriske utfordringer knyttet til kliniske data.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Uventede lekkasjer av sensitive medisinske data kan umiddelbart utløse kraftige kursfall og redusere investlernes tillit til berørte selskaper."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Potensielle forsinkelser i vaksineutviklingen kan utsette lanseringen av nye helsetjenester og medisiner for pasienter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/MAraAJ/moderna-aksjen-stuper-etter-mulig-lekkasje?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGF1R0FYdlVEamdsa29mMjBOQ2tQVXk0LWlfRmxOSXhSMTRqQnNXUDVJZVgwQ21KUGFwTVJqajFQT0w5WlZES2ZaLVQxOG85SjhDLUhtM2hJbU5jWWt2dnc2YWhPejRuc0FMOUw3TjdRU3Y2bGlYNVA2ZEQtWFpHcmJYTnpiVi1MdTJIWFpNRGRxQmlEVUFWNnRTLThDbXgwalZQaWx0NmlXV1BCazI0TG5tVDU?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Blackstone kutter eiendomsverdier",
+    "summary": "Blackstone kutter verdien på sine eiendommer ettersom vedvarende høye renter fortsetter å tynge avkastningen. Dette viser at det høye rentenivået nå gir dypere effekter i det kommersielle eiendomsmarkedet.",
+    "why_it_matters": "Viser hvordan stramme finansieringsvilkår og høye renter sprer seg til det fysiske eiendomsmarkedet globalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende høye kapitalkostnader tvinger fram nedskrivninger av verdier i kapitalintensive sektorer som kommersiell eiendom."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Lavere eiendomsverdier kan legge press på investorenes forventninger til fremtidig kontantstrøm i børsnoterte eiendomsselskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RuWW4yUE5ReldySFFLNDVxbG5YdVhESTlscFF0dFJUNmtxRHlCMUNaMlA2NFBJMGhrLWJDSGQ1SGNtVzVYSjFMTk1NOW1DbUp5cEhUV0p1N2NoYmdJWDZNcnpBN3pUdXBuaHZKZ2ZLbWV1TlN4QjVuaklZV29kR043V1g?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "USAs arbeidsmarked viser historisk lav ledighet",
+    "summary": "De ukentlige ledighetstallene i USA har falt til nivåer man ikke har sett siden 1960-tallet. Den lave oppsigelsestrenden fortsetter til tross for usikkerhet i andre deler av økonomien.",
+    "why_it_matters": "Et sterkt amerikansk arbeidsmarked opprettholder det generelle forbruket, men kan også tvinge sentralbanken til å holde rentene oppe lenger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Eksepsjonell jobbsikkerhet og lav arbeidsledighet kan styrke arbeidstakernes forhandlingsposisjon og gi vedvarende press på lønnsveksten."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Vedvarende stramme arbeidsmarkeder kan opprettholde det innenlandske prispresset og forsinke sentralbankens rentekutt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Frankrikes gjeldskrise forsterker frykten for europeiske aksjer",
+    "summary": "Uroen rundt Frankrikes statsgjeld tiltar ettersom utenlandske investorer ser etter en utvei. Dette forsterker bekymringen for europeisk økonomisk stabilitet og rammer kontinentets markeder.",
+    "why_it_matters": "Økt uro i store europeiske økonomier kan spre seg til resten av EU og svekke tilliten til eurosonens felles finanser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Manglende kontroll over statsgjelden kan øke landets lånekostnader og kreve upopulære kutt i offentlige budsjetter."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Generell europeisk usikkerhet og svekket risikoaptit i markedet kan gjøre det krevende for mindre valutaer som den norske kronen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/Og2m1O/europa-kommer-litt-til-kort?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Britisk storbank kutter 5.000 jobber for å satse på kunstig intelligens",
+    "summary": "En stor britisk bank kutter tusenvis av stillinger som ledd i en omfattende satsing på automatisering og kunstig intelligens. Konsernsjefen peker på storskala AI-bruk som en driver for effektivisering.",
+    "why_it_matters": "Viser hvordan tradisjonelle næringer som finanssektoren aktivt omstrukturerer arbeidsstyrken for å hente ut gevinster fra ny teknologi.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Utstrakt bruk av kunstig intelligens kan føre til strukturelle endringer og færre rutinejobber innen tradisjonell administrasjon og kundeservice."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Betydelige investeringer i automasjon kan styrke bankens langsiktige lønnsomhet gjennom lavere faste driftskostnader per transaksjon."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/JrAdB6/britisk-storbank-kutter-5-000-jobber-satser-paa-ai?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Globalt børsfall preget av tech-nedgang og AI-frykt",
+    "summary": "Teknologiaksjer faller på Wall Street etter at investorer har blitt mer kravstore til inntjeningen fra kunstig intelligens. Samtidig klatrer oljeprisen til sitt høyeste nivå siden mai.",
+    "why_it_matters": "Høye forventninger til teknologisektoren har drevet markedene lenge, og korreksjoner her slår raskt inn i globale porteføljer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere avkastningskrav fra investorene kan tvinge teknologiselskaper til å dokumentere raskere og sikrere inntekter fra sine AI-investeringer."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Stigende oljepriser kan øke energikostnadene for globale industribedrifter og forsterke det generelle inflasjonspresset i økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Iran melder om skadde tankskip i Hormuzstredet",
+    "summary": "Iranske myndigheter opplyser at flere tankskip har blitt skadet i Hormuzstredet, noe som skaper frykt for eskalering i regionen. USA avviser påstandene og mener meldingene er et forsøk på å presse opp oljeprisen.",
+    "why_it_matters": "Hormuzstredet er en av verdens viktigste flaskehalser for oljetransport, og enhver trussel mot skipsfarten der kan gi umiddelbare utslag i globale energipriser og sikkerhetspolitikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Økende spenning i Hormuzstredet kan tvinge frem økt militær tilstedeværelse og skape langvarig usikkerhet rundt forsyningslinjene for energi til verdensmarkedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kritiske sårbarheter funnet i programmeringsspråket PHP",
+    "summary": "Utviklerne bak programmeringsspråket PHP har avdekket kritiske sårbarheter som potensielt kan ramme millioner av nettsider verden over. Det pågår nå en intens innsats for å oppdatere systemer før hackere kan utnytte feilene.",
+    "why_it_matters": "En stor del av verdens nettsider er bygget på PHP, og sikkerhetsbrister av denne typen kan føre til omfattende dataangrep og nedetid for kritiske digitale tjenester.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Digital sikkerhet",
+      "effect": "Avdekkingen krever umiddelbare og kostbare oppdateringer på tvers av globale servere for å forhindre utstrakt misbruk fra ondsinnede aktører."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-22-08",
   "hour": 8,
   "date": "2026-10-22",
@@ -7480,216 +7692,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-07-20",
-  "hour": 20,
-  "date": "2026-10-07",
-  "generated": "07.10.2026 20:18",
-  "overview": "Dagens markedsbilde preges av tiltakende inflasjonsfrykt i USA, stigende oljepriser på grunn av uro knyttet til Hormuzstredet, og høyt trykk rundt det norske statsbudsjettet. Samtidig opplever europeiske obligasjonsmarkeder betydelig volatilitet.",
-  "stories": [
-   {
-    "title": "Inflasjonsfrykt på Amerikanske Forventninger",
-    "summary": "En fersk undersøkelse fra Federal Reserve viser at den mediane inflasjonsforventningen for de neste tolv månedene har steget til 3,9 prosent, det høyeste nivået siden mai 2023.",
-    "why_it_matters": "Økte inflasjonsforventninger i USA kan tvinge frem ytterligere rentehevinger fra Fed, noe som vil styrke dollaren og smitte over på globale finansmarkeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende inflasjonsfrykt kan tvinge Federal Reserve til å holde rentene på et høyt nivå over lengre tid for å kjøle ned økonomien."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Høyere amerikanske renter kan styrke dollaren ytterligere og legge vedvarende press på en allerede svak norsk krone."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere diskonteringsrenter kan redusere nåverdien av fremtidige kontantstrømmer og dermed tynge verdsettelsen av globale vekstaksjer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-level-since-may-2023.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Oljeprisen Løftes av Midtøsten-Uro og Fraktkostnader",
-    "summary": "Geopolitisk eskalering rundt Hormuzstredet gjør at tankskip unngår området, noe som sender oljefraktratene til historiske høyder og løfter oljeprisene.",
-    "why_it_matters": "Høyere olje- og gasspriser gir umiddelbart økte inntekter for norsk statsøkonomi og energisektor, samtidig som det truer den globale energiforsyningen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Unngåelse av Hormuzstredet presser fraktratene opp og bidrar til at oljeprisen stiger, noe som direkte øker eksportinntektene for norske energiselskaper."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Større inntekter fra olje- og gasseksport kan styrke det norske oljefondet og gi staten økt handlingsrom i fremtidige statsbudsjetter."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Dersom energiprisene holder seg høye over tid, kan det forsterke de globale inflasjonspressene og forsinke sentralbankenes rentekutt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU1c5TENzWUZWMEhGREp6ZC1FUkpXRlg5WldkUkN4RmJ1YVJpc0xnZ2dXOG1xZmotQUR5dnVuSlV6OWRNYnhRT2FTVlpvaGNDTXcwQ0tCckM5RzlOVzMtcjExcjlEaENjQmJQT0pnN1QzQVFsb1FNQ3B4SEdNMWpmTjdsQklodG9PeE1VdUJjQUJWTFFfVGtlMjRTSkZwZ0pkbjhiMDROaE0?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTi16ZUZUQUVzV2NCOVNPTnBHZ0VqdFlrdmo3TXhyZ29mNGUxZThqSkpBNWx2UXpjQTZ5ZGpqNUJaVVBROVh3Zk5aNU9oaE8wb0ViakJmVFRfTlY1dFVfbFloV2F4S29WdW9LZFFPUV84MGc3U1JsdzNEX3RSc2M1ZHExT1BJVzRJcUx4dGt3S2F5M1lRZkdxb1AyMlQ3Sk9OWXkyVVd5M2ZTNVJYekxycA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Indias Sentralbank Hever Renten",
-    "summary": "Reserve Bank of India har hevet renten for første gang siden 2023 som følge av tiltakende inflasjonspress i landet.",
-    "why_it_matters": "Dette viser en global trend der gryende inflasjon kan tvinge sentralbanker i store vekstmarkeder til å stramme inn pengepolitikken igjen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere renter i India øker lånekostnadene for indiske husholdninger og bedrifter, noe som kan dempe den økonomiske veksten i landet."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Økte finansieringskostnader kan redusere investeringslysten hos selskaper som opererer i det indiske markedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Debatt og Kritikk Rundt det Norske Statsbudsjettet",
-    "summary": "Det nye norske statsbudsjettet møter sterk politisk motstand, der opposisjonen anklager regjeringen for skattebløff og for å lette skatten mest for de som har mest fra før.",
-    "why_it_matters": "Statsbudsjettet legger rammene for norsk økonomisk aktivitet, kjøpekraft og fordelingspolitikk i en tid med stramme marginer for folk flest.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Skatteendringer i budsjettet kan påvirke husholdningenes disponible inntekter og dermed styre den private etterspørselen i norsk vare- og tjenestesektor."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Politiske kompromisser i Stortinget kan endre oljepengebruken og rammen for offentlige investeringer i infrastruktur."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWJaaVVsZEl0UC0yQV9WaHFJa2NLSXpVazhIZXhuZ1FCQlVVWi1BY2NnVTYzTVA3blNLbGRSRnpuTHI2Z3hwellLMVppQlQ1WXo2UnNOWmdKdzkzTkhkbm5xQUp4T1I5eHUzd0l0VGdoYmRXbXBPLWU2V0UxemxxcDUyT19GQkI3dXBmbk1FSlVvTXRNWDBZSVhwM2VlM3RGS2hDOUVPTExxUQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/vlgjXL/naa-er-det-de-som-har-nest-mest-fra-foer-sin-tur?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Frankrike Vurderer Kortsiktig Gjeld etter Obligasjonsuro",
-    "summary": "Etter betydelig uro i det franske obligasjonsmarkedet vurderer myndighetene å utstede mer kortsiktig gjeldsfinansiering for å roe ned investorene.",
-    "why_it_matters": "Frankrikes finansielle utfordringer kan smitte over på hele det europeiske rentemarkedet og svekke tilliten til eurosonens statsgjeld.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere statsgjeld og uro i Frankrike kan presse opp rentene på europeiske statsobligasjoner generelt."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Franske myndigheter kan bli tvunget til å betale høyere rentekostnader på statsgjelden sin, noe som begrenser handlingsrommet på statsbudsjettet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWk1SE5sT0ljcEstZ21OdGdjeXZIMDg0b2ZPOXZoTThhV1ZmQjN6bjlJMW9rUF95bjdvNWlQdDVjMEtRYWtWNWNaWURpcGUyb2dIV19Hc0YwNWgtakt2YkpQOER2dGJ5NllnSTA2ajVqU2JyVkh5a016N1lXdm80dFRyUFhCb0xFR044M3JoUnA4XzVuSVBNNktZbWNkcm9qQVM2ZHNFaVBCMi02WVNKdTdQWkY?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Betydelig Gjeldsvekst og KI-Investeringar i Banksektoren",
-    "summary": "Internasjonale finansinstitusjoner som HSBC planlegger store nedbemanninger for å satse tungt på kunstig intelligens, samtidig som Det internasjonale pengefondet advarer om at KI driver opp både inflasjon og offentlig gjeld.",
-    "why_it_matters": "Teknologisk omstilling i banksektoren kan endre konkurranseforholdene og redusere kostnadene, men krever enorme kapitalinvesteringer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Utstrakt bruk av kunstig intelligens og KI-agenter kan føre til kutt i administrative stillinger innen tradisjonell bank- og formuesforvaltning."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Banker som lykkes med effektivisering gjennom KI kan oppnå bedre marginer og tilby mer konkurransedyktige priser til kundene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemI1djlTdHByYmUwNnVIUjNid0dxZjgtajdWYy1kOUxQZ3V6a2plWlU1dzY4OWxuUkl0b0NKTVc3Y1cyTjctenlfNHlGRmkzMTg0R3paM3lqYWRUT3lESmc2WURJakZ1QUVLSGsxemI3c2dwZ2N1Q0hvbzh5TXE1d1hsdHo?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Minst 24 Drept i Omfattende Russiske Angrep mot Ukraina",
-    "summary": "Russiske styrker har gjennomført en rekke voldsomme angrep mot flere ukrainske byer, noe som har krevd minst 24 menneskeliv og ført til hard internasjonal fordømmelse.",
-    "why_it_matters": "Angrepene understreker at krigen i Ukraina fortsetter med uforminsket styrke, noe som opprettholder den alvorlige sikkerhetspolitiske spenningen i Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Den vedvarende og forsterkede militære offensiven forsterker behovet for ytterligere vestlig sanksjonering og støtte til Ukraina."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEpiTm1uV05KNEE1M3BTZnhnZHBEaFBNN0k0RkxiNUdmVnoxT1hHNkdjS181Y2lIUlUxMUd1YUhFVF85alRTLW0yOTczQTdIczhTT05sWUtwS2NYSVgxaUc4bFRCZmJTc1lDM3M0bnJkSmF3R3FTUGs4bXFueGpOLXRaMDdnalZpazNITDY1SmpGdzhsLUpPWWRCY1MxeENNSDBlT1FzWGtSVWF6VnltdWVEQTZaQnk3djJoaGhWNlNCR1E2bXVaQW83UE54RE9NV2tBTjRhaw?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tysk Politisk Bekymring for Økt Ekstremisme",
-    "summary": "Tysklands politiske ledelse varsler hard kamp mot ekstremisme etter at ytre høyre- og ytre venstre-partier har gjort betydelige fremgang i nylige valg.",
-    "why_it_matters": "Politisk polarisering i Europas største økonomi kan svekke den politiske stabiliteten og påvirke EUs felles beslutningstaking.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Politikk",
-      "effect": "Fremgang for ytterfløyene kan gjøre det vanskeligere å danne stabile regjeringskoalisjoner og gjennomføre nødvendige strukturelle reformer i Tyskland."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
       "paywall": false
      }
     ]
