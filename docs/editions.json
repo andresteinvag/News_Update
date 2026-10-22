@@ -1,5 +1,308 @@
 [
  {
+  "id": "2026-10-22-08",
+  "hour": 8,
+  "date": "2026-10-22",
+  "generated": "22.10.2026 08:33",
+  "overview": "Geopolitisk uro i Midtøsten løfter oljeprisen og presser rentene oppover, mens børsene i Asia og Kina faller markant videre inn i et bjørnemarked. Samtidig preges selskapsbildet av blandede kvartalstall, der Yara presses av høye gasspriser mens teknologiselskaper som Nordic Semiconductor og Tesla leverer solid vekst.",
+  "stories": [
+   {
+    "title": "Oljeprisen stiger etter diplomatisk evakuering og eskalering i Midtøsten",
+    "summary": "Oljeprisen klatrer etter at USA har trukket diplomater ut av Saudi-Arabia i forkant av mulige angrep mot Iran, samtidig som den iranske revolusjonsgarden hevder å ha truffet sju fartøyer i regionen. Frykten for en bredere militær eskalering og forstyrrelser i råoljeforsyningen har ført til at gullprisen faller over én prosent som følge av forventninger om vedvarende høye renter. Analytikere peker på at et strammere energimarked kan forsinke sentralbankenes rentekutt.",
+    "why_it_matters": "Høyere globale oljepriser kan forsterke det internasjonale inflasjonspresset og styrke norske petroleumsinntekter på kort sikt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Frykt for forstyrrelser i oljeforsyningen fra Persiabukta kan drive råoljeprisene videre oppover og skape økt volatilitet for europeiske raffinerier."
+     },
+     {
+      "area": "Renter",
+      "effect": "Dersom vedvarende høye oljepriser gir ny næring til inflasjonen, kan store sentralbanker bli tvunget til å holde styringsrentene oppe lenger enn markedet priser inn."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "En oppgang i petroleumsprisene vil kunne gi økte skatteinntekter fra sokkelen og dermed styrke overføringene til Statens pensjonsfond utland."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWk9teHlrWEtxamRqWU8weEZmX19xaTMybUxoODc2LVU5QUsxTFNzZ1gxYXJCaGlrRU1kQjliZWZZT1BDMGpOSHBpSXdOdWMtN1ZLcE9jQS1hSmdmUEZXSFY3bDhnZkhFY2tkVFdJRHhIUjhnZlVQOWFwVi1hZV9WZ1dNX1FUUTFLRV91SUF0NkNuS0U?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Yara rammes av høye gasspriser og svakere etterspørsel",
+    "summary": "Yara International melder om et svakere resultat før skatt i tredje kvartal enn på samme tid i fjor. Gjødselprodusenten varsler en kraftig økning i gasskostnadene fremover og rapporterer at utsatt etterspørsel i markedet har tynget lønnsomheten. Resultatsvikten understreker utfordringene europeisk prosessindustri står overfor når energiprisene svinger.",
+    "why_it_matters": "Yaras sårbarhet for europeiske gasspriser belyser marginpresset i kraftkrevende norsk industri og kan påvirke aksjonæravkastningen på Oslo Børs.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Høyere råvare- og energikostnader kan redusere driftsmarginene til europeiske industribedrifter og tvinge frem ytterligere produksjonskutt eller prisjusteringer."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Skuffende kvartalstall og dystrere kostnadsutsikter kan legge negativt press på Yara-aksjen og dempe risikoviljen for selskaper innen kjemisk sektor."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb2lDV2FQMUJnX08zVTFXNnJsRG1SVTNSdjFPMm5zX3Flb2tpQndjXzQxTkN1TEI1ZW9RaEdtVlBzMHZNWEF5NWZTNXRHeU9mVG5HWXFhOHo0YmMwcGxmX2N0Z1dTVUNOZFBhWDRlbkh5OTBWMXRCRFNDc2FHeG9GcXFmb3JKVjJ1S3cycXZRUWJDZ0tXQVJiem9qUmRla2JvMVJxbnU3ZHZYNUVVZkNwUGpSY2Q2bmFTSE1tcG84b29xZEZTYWVMdEJ2V21JOGdLXzc4UjJmUW4zWU9l?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/9kA0eM/sterkere-fra-yara?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kinesiske og asiatiske aksjemarkeder faller inn i bjørnemarked",
+    "summary": "Kinesiske aksjer har falt inn i bjørnemarkedsterreng etter en ti uker lang nedgang i CSI 300-indeksen som følge av sviktende optimisme rundt kunstig intelligens og manglende stimulanser. Kursfallet forsterkes av bred nedgang i Asia, der børser i Tokyo og Seoul leder an fallet, samtidig som Alibaba opplever sitt kraftigste fall på to måneder. Markedsanalytikere mener myndighetenes nåværende støttekjøp ikke er tilstrekkelige til å stabilisere aksjemarkedet.",
+    "why_it_matters": "En vedvarende nedkjøling i Kina og asiatiske børser kan svekke den globale industrietterspørselen og ramme verdsettelsen av internasjonale aksjeporteføljer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Det dype fallet i kinesiske indekser kan spre frykt for lavere vekst til vestlige markeder og føre til kapitalflukt mot sikrere rentepapirer."
+     },
+     {
+      "area": "Handel",
+      "effect": "Svakere forbrukertillit og økonomisk motvind i Kina kan dempe etterspørselen etter vestlige eksportvarer og råvarer fra fremvoksende økonomier."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkp5bjg3WHRYdlFYTFc2b1VRRmVpd09Oa0Y1SkxUR2xnUTFyTXAyMG9zcUFnN2pIbU1WQVJBdmVqNG0xZDk1UWM0N1M3djhNaWVwbXVBamhRS3dMMWtPRlhQbGFXWk9BTXVXcnppTVB6ZWl3eTRzM3BqclJ0MlE3MEJVSXhWTUlnYm1aVGVGa01kcmljSXFBX1NTWC1Hd1k5X3hwcGtyRjdtblFhVG9RdmlmVQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUExJMFZtcmo1cjZOcGhIa1BMZE13TFZ0VEo1YnBxRk1ILWtOd2JwUHc1bVNXeDBnVGZ3bjdOU0NWa1ljYlBOVlFLcG1sb28tQTM4MG1FZGdJX05KQ2dxU3lxU0ZEZkxmR0NJSHBJTnZYNC1VR3piYVB2Mm0yWHZhbFRwdXJEUDNoNk9iT1plNXRpUGpudEFIdGtiWE1wNllxaktBZXNsUFRMWFh3X0E?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Sterke kvartalstall og inntektsvekst for Nordic Semiconductor",
+    "summary": "Nordic Semiconductor leverte kraftig inntektsvekst og et betydelig styrket resultat før skatt i tredje kvartal. Det norske halvlederselskapet slo analytikernes forventninger og ga samtidig positive signaler gjennom en høy fremtidsguiding. Tallene indikerer at etterspørselen etter selskapets trådløse komponenter er i ferd med å hente seg markant inn igjen etter en lengre periode med lagertrekk.",
+    "why_it_matters": "Gode resultater fra Nordic Semiconductor bekrefter en potensiell snuoperasjon i halvledersektoren, som er en nøkkelindikator for global elektronikkproduksjon.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Sterke leveranser og offensiv guiding kan tiltrekke institusjonelle investorer og løfte verdsettelsen av norske teknologiselskaper på Oslo Børs."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Økt salgsvolum av brikker kan stimulere leverandørkjeder innen tingenes internett og bidra til høyere investeringstakt i norsk teknologisektor."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJSbmUzQXVEUEpGZXc5OEtCYVVfcThFVTQzQVpqUW1GeEIwN0tob0dhNU5MT3FjUE9uemxaWGZVVkhtUmc3WXlkaVZwYjRHWVp1Nmd4Y2NQMEpSOTdVZzRWMlVtUmNaYmdjcGR6Vmx6NXcxVktpV1Bxdm5YT2FXaHk4ZTMwWlRoMEJMSEdUdzJ0RXlqS1QwWU8yejItdVZJVW1XQTlaRHAtMHVqb3pCYzl2NTNnV0xDa0didTZ6THBfRzVGclFlTQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/oKQwwW/sterkere-fra-nordic-semiconductor?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkVtcnRWbzhJWHExZFNjRjVOOVVVcDNEcndyMXZFTjI1cWhvbDNNM0U3MW5vU1Y0OVVGYzFUMjQxZm83LTBKYUtodnJRd0h6dWJyU1RkTWJ2TlBqV3pxdmtKSy1UMjE4aklLcXdGX29hWDRGSVZsWmFHY1NXdUdYd1FHdGNrOXRYd3lLdl91MTNLSkVKdkY3VGJ4RGxYc0M2OWN2RmllLVNIZlpsQVVlMWVR?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "DeepSeek henter 15 milliarder dollar i opptrappet AI-kappløp",
+    "summary": "Det kinesiske kunstig intelligens-selskapet DeepSeek er i ferd med å hente 15 milliarder dollar for å utfordre ledende amerikanske teknologilaboratorier. Kapitalinnhentingen skjer i en fase der investorer debatterer om AI-sektoren er overopphetet, mens rentemarkedene i USA påvirkes av investorer som søker trygge havner. Satsingen viser at konkurransen om avansert maskinlæring og datakraft forblir intens til tross for regulatorisk motvind.",
+    "why_it_matters": "Milliardinvesteringer i kinesisk kunstig intelligens forsterker den teknologiske maktkampen mellom USA og Kina med store ringvirkninger for globale forsyningskjeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Økt tilgang på kapital for kinesiske AI-utfordrere kan presse prisene på avanserte modeller og utfordre de etablerte amerikanske teknologigigantene."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Intensivert konkurranse og debatt om mulige verdivurderingsbobler kan skape økt svingning i prisingen av globale teknologifond og halvlederprodusenter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kritisk PHP-sårbarhet avdekket med AI utløser millioner av nettangrep",
+    "summary": "Cloudflare rapporterer om millioner av utnyttelsesforsøk etter at en kritisk sikkerhetsfeil ble avdekket i kodespråket PHP, som driver en stor andel av verdens nettsteder. Sårbarheten ble identifisert ved hjelp av kunstig intelligens, og selskaper som Google, OpenAI og Amazon har iverksatt hastetiltak for å tette sikkerhetshullene. Amazon advarer om at nye svakheter funnet med AI nå blir bredt utnyttet i organiserte angrep.",
+    "why_it_matters": "Sårbarheter i sentral internettinfrastruktur truer driftsstabiliteten for digital handel og næringsliv på global basis.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Omfattende angrepsbølger mot kritisk infrastruktur kan fremskynde strengere krav fra myndigheter om revisjon og sikring av digital programvare."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bedrifter over hele verden kan bli nødt til å øke budsjettene for cybersikkerhet for å forsvare sine webløsninger mot automatiserte angrep."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWlTVjlfV0ZBcl9tcjZ3b0VhTGd1UFNkNEVNY244akVyV2RxZTBNOG53LVB0bkJzdF9jWVZsOEN3LTBtNkoyWXBfbWdPS3c5dmZyLXdqTVEzQW5Bd0Y4U3JjX1ZQOG5RdTdOVXZ4c29WcndYdUdsN1VzU2lYYkdlUTZkY28?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Tesla slår forventningene og ser mot sammenslåing med SpaceX",
+    "summary": "Tesla rapporterer om en kraftig oppgang i det månedlige elbilsalget i Europa og legger frem kvartalstall som slår forventningene i markedet. Samtidig rettes oppmerksomheten mot administrerende direktør Elon Musk, som vurderer og søker å forankre en historisk fusjonsplan mellom Tesla og SpaceX. De positive leveransetallene har bidratt til et lettelsesrally for aksjen etter en periode preget av uro rundt teknologisektoren.",
+    "why_it_matters": "Teslas salgsutvikling og selskapsstruktur fungerer som en global temperaturmåler for overgangen til elbiler og investorers appetitt på storskala industrisatsinger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Bedre inntjening og nye vekstutsikter kan gjenreise tilliten til elbilprodusenter og løfte risikoviljen blant amerikanske vekstaksjeinvestorer."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Salgsveksten i Europa viser at etablerte elbilaktører fortsatt kan forsvare sine markedsandeler i møte med økende konkurranse fra kinesiske merker."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/2Ve6nB/tesla-slaar-skuffer-forventningene-gigantfusjon-i-soekelyset?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1ZWUzRWaGZaaWE3WEhkM3ZwSXpfWUQxZWFWVW9FOUhMR2RPejcxbUsxcmNUNC1pTlZuVDlYYVlJWVZnV1o3TEE5eE15VjJJQVd1RGYySWt3VkpCVnFsajVzcFp2MWh5Y3p2ZkV6RWRlWDFMclRIUWxqVm5jWVdJZkpTcW55c0EwMFFtWUsySQ?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Omfattende vannbrudd setter Kirkenes sykehus i rød beredskap",
+    "summary": "Et stort brudd på en hovedvannledning i Sør-Varanger har ført til at rundt 6000 innbyggere og sykehuset for Øst-Finnmark står uten vannforsyning. Kirkenes sykehus har innført rød beredskap, og akuttpasienter må transporteres til andre sykehus i regionen. Kommunen opplyser at lekkasjen er lokalisert og at det pågår intensivt arbeid for å gjenopprette forsyningen.",
+    "why_it_matters": "Hendelsen synliggjør sårbarheten i samfunnskritisk infrastruktur i distriktene og utfordringene ved lange avstander innen helseberedskap.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Kritiske feil i eldre rørnett kan tvinge distriktskommuner til å øke investeringene i lokal vann- og avløpsinfrastruktur betraktelig."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/tromsogfinnmark/enormt-vannbrudd-i-sor-varanger-1.18061410",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-1.18061316",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Minst 15 såret i russisk missilangrep mot Kyiv",
+    "summary": "Russland avfyrte ballistiske missiler mot Kyiv natt til torsdag, noe som førte til at minst 15 personer ble såret. To bydeler på østsiden av elven Dnipro ble rammet av ødeleggelser, ifølge ordfører Vitalij Klitsjko. Angrepet skjer samtidig som diplomatiske forsøk på å gjenoppta fredssamtaler viser lite tegn til snarlig gjennombrudd.",
+    "why_it_matters": "Fortsatte angrep mot ukrainske byer opprettholder det humanitære lidelsestrykket og understreker den fastlåste sikkerhetssituasjonen i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Eskalerende missilangrep mot sivile sentra kan øke presset på vestlige land om å levere mer luftvern og materiell til Ukrainas forsvar."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/15-saret-i-missilangrep-mot-kyiv-1.18061314",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "USA evakuerer diplomater fra Saudi-Arabia etter økt Houthi-trussel",
+    "summary": "Det amerikanske utenriksdepartementet har beordret utreise for deler av sitt diplomatiske personell i Saudi-Arabia på grunn av fare for opptrappede angrep. Bakgrunnen er frykt for eskalering fra Houthi-militsen i Jemen samt nylige angrep mot en flyplass i landet som krevde ett menneskeliv. Evakueringen vitner om skjerpet regional sikkerhetsrisiko og tiltakende spenninger på tvers av Den arabiske halvøy.",
+    "why_it_matters": "Den tilspissede sikkerhetssituasjonen for vestlige representasjoner i Gulfen illustrerer den høye faren for en bredere regional konflikt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt militær trussel mot Saudi-Arabia kan svekke den regionale stabiliteten og tvinge frem mer omfattende amerikanske forsvarsinnsatser i Gulfen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkdGRlFLaE1FOXc3dGM0UHhMVnpzcjF6SkR4TzJRTWtuTm0wZmpGVFJMeEZydGx5VndhUGo3dzN2ZHJCOHdnVVVGVE9LNFNfVlgyTzlmRHJadlRuTk10OFdaZ1otTlB2OEhHWTJvUlQ3Sk5QYUI4Tk9HRjhfMVFmWXBUM0JSXzllODBTNTRqOEk5U00?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-21-20",
   "hour": 20,
   "date": "2026-10-21",
@@ -7387,222 +7690,6 @@
      {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-07-08",
-  "hour": 8,
-  "date": "2026-10-07",
-  "generated": "07.10.2026 10:04",
-  "overview": "Statsbudsjettet for 2027 og store globale AI-diskusjoner preger nyhetsbildet i dag. Regjeringen foreslår brede skattelettelser og historisk høy oljepengebruk samtidig som internasjonale aktører advarer mot inflasjonspress og markedsbobler.",
-  "stories": [
-   {
-    "title": "Statsbudsjettet 2027: Foreslår 6,4 milliarder i skattelettelser og økt oljepengebruk",
-    "summary": "Regjeringen har lagt frem statsbudsjettet for 2027 med en oljepengebruk på 608,4 milliarder kroner. Samtidig varsles det brede skattelettelser på 6,4 milliarder kroner i inntektsskatten og kutt i drivstoffavgiftene.",
-    "why_it_matters": "Det høye bruken av oljepenger kan fyre opp under innenlandsk etterspørsel og påvirke Norges Banks rentebane fremover.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Den høye oljepengebruken kan øke presset på statsfinansene og redusere handlingsrommet dersom den økonomiske veksten avtar."
-     },
-     {
-      "area": "Renter",
-      "effect": "En ekspansiv finanspolitikk kan opprettholde det inflatoriske presset i økonomien, noe som kan føre til at Norges Bank utsetter rentenedsettelser."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Lavere inntektsskatt og reduserte drivstoffavgifter kan styrke kjøpekraften for folk flest på kort sikt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/R5rrg2/regjeringen-vil-bruke-608-4-milliarder-oljekroner-neste-aar?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491",
-      "paywall": false
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2NjamlUYVFySGFRRzhKYjVaTkJPODdwTERDd1VoTUhlNno1dTg4ZG5KRVpiZGV4eGdGLVA2T1RpMDhSXzV4cUhHeFNfX2Q4Q01zZ0o2bnYteUluMFdreVFwbVJ5aXBnT3ZSTFhISDg4S0xMcEd4aE5rVEtfVDFuWk1WMTRtYlA0YzlJWHlseFIzUVhCOGc1cjcwUGdrdE4tc09JNVdFWldkQTFqbUpBMzZMUXNPTzRsTFh1a0phNkRIcExq?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "IMF og sentralbanktopper advarer om at AI-boom kan drive opp inflasjon og renter",
-    "summary": "IMF-sjef Kristalina Georgieva advarer om at kunstig intelligens løfter veksthåpene, men samtidig presser opp både inflasjon og renter. Flere investorer og analytikere peker på at teknologisektoren kan nærme seg en boble.",
-    "why_it_matters": "Globale teknologitrender og kapitalstrømmer påvirker risikoviljen i internasjonale markeder og danner rammen for avkastningen i Oljefondet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere lange renter og strengere prising av teknologiselskaper kan gjøre aksjer mindre attraktive og øke risikoen for en korreksjon i markeder med tung vekstdrivende eksponering."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Massive investeringer i kraftkrevende teknologi og infrastruktur kan opprettholde prispresset i globale råvare- og energimarkeder."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFJrVExQM3Jtd3FWbGwzcVFyRDVCcHozUmhJNjhHNXptTjcyUmdxd1pBTjZTaUhMNFdBV0FJM3d4NG9VSlkyR0xiTHRGZVhTbDhOWFdwRmhzd0xHMGFrdzJaWHAybU5wU0R2b1dodVk5d0J5NUt0eG1kaTFxaTdyc0RqVmZfaHRRVWtUVWRKZWtnMXRZYXRDSWgtdDRxZDVwOUFwODFR?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Høye geopolitiske spenninger i Midtøsten sender fraktkostnader i været",
-    "summary": "Gjentatte konflikter og sikkerhetstrusler i og rundt Hormuzstredet fører til skyhøye kostnader for tankskipsfarten. Skipskapteiner oppgis å motta store beløp for å krysse utsatte farvann.",
-    "why_it_matters": "Som en stor energi- og shippingnasjon er Norge direkte eksponert for uro i internasjonale fraktruter og energimarkeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Høyere fraktratser og forsyningsrisiko kan drive opp olje- og gassprisene, noe som påvirker inntektene til norske energiprodusenter."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Økte transportkostnader kan forplante seg gjennom globale verdikjeder og forsterke det generelle kostnadspresset for internasjonale selskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFJlMDNQMUZSMXlnWk43YVI5eGI4bEc5LW5kNDBjMC1UOERsaDFzbFRpeWxaUU85Tm01YjF0c1dINnhDY0E0aGdaM3ZnQ19hT1owZWNzeFhSdmZCdjRTS2xaOFdPZG44Ujd4WFZQMFN0VFhnajRtTjJmX3R5ZGJkTFg5Zks?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "SpareBank 1-bankene selger Kredinor til utenlandske aktører",
-    "summary": "SpareBank 1-alliansen velger å avhende inkassoselskapet Kredinor til utenlandske finanskjemper, noe som markerer et større eierskifte i norsk finansinfrastruktur.",
-    "why_it_matters": "Transaksjonen illustrerer hvordan utenlandsk kapital i større grad kjøper opp etablerte norske finans- og inkassotjenester.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Konkurranse",
-      "effect": "Utenlandsk eierskap i det norske inkassomarkedet kan endre dynamikken for gjeldsinndriving og selskapsfinansiering for norske bedrifter og forbrukere."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bankene som selger seg ut frigjør kapital som kan kanaliseres tilbake til kjernevirksomhet som utlån til person- og bedriftsmarkedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2pXV2lZdjl5Y2xjTWcxMV9Bb0NBZlNvQzljQllmR2hRWldMeHRLVUJGUTdUVFYtM09DdGdsU2NkdTkzck95TUVYQU9HRkhyaHVIcGJGcTBqOGFjS0hEdlJPQkcxYmVwRy1kd3gtVFBrSjU4V3JHVWFTQ184OTkyd2plTkxLRFZiLVNkVnhwZm5XX2h5OTNyWXY5eGtNMTRXMElYVw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "India hever rentene for første gang siden 2023 for å stagge prisvekst",
-    "summary": "Den indiske sentralbanken har overrasket markedet med å stramme inn pengepolitikken på grunn av tiltakende inflasjonsrisiko, og flere analytikere venter nye renteøkninger.",
-    "why_it_matters": "En global trend med strammere pengepolitikk i sentrale vekstøkonomier kan dempe den globale økonomiske aktiviteten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere renter i fremvoksende markeder kan føre til kapitalflyt ut av risikoutsatte valutaer og styrke presset på globale finansieringskostnader."
-     },
-     {
-      "area": "Handel",
-      "effect": "Dempede vekstutsikter i store konsummarkeder som India kan redusere etterspørselen etter internasjonale industri- og energiråvarer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Regjeringen varsler fossilforbud for deler av industrien i klimakutt-grep",
-    "summary": "Norske myndigheter innfører strengere krav og forbyr deler av industrien å fyre med fossil olje og gass som ledd i arbeidet med å nå utslippsmål.",
-    "why_it_matters": "Strengere reguleringer krever store investeringer i grønn omstilling for norske industribedrifter.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Bedrifter som rammes må raskt omstille sine energikilder, noe som kan gi økte investeringskostnader på kort sikt, men redusere eksponeringen for fremtidige CO2-avgifter."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Utfasingen av fossil energibruk i landfast industri vil frigjøre gass for eksport og øke etterspørselen etter elektrisitet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/energi-og-klima/i/jvQ1RL/varsler-fossilforbud?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/mKPwOq/varsler-fossilforbud",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Tysk tidligere etterretningssjef pågrepet for mistanke om spionasje",
-    "summary": "Tysklands tidligere sjef for den ytre etterretningstjenesten er arrestert siktet for spionasje og forsøk på landsforræderi.",
-    "why_it_matters": "Saken kaster lys over sårbarheter i europeisk sikkerhet i en tid med økende geopolitisk spenning.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Sikkerhet",
-      "effect": "Hendelsen skaper uro internt i vestlige sikkerhetsstrukturer og kan føre til strengere kontrollprosedyrer for statlig hemmelig informasjon."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSE1QSWgzLVNrRy1fbFdqc0FwdkctYmcyZ2UxcmxxdWdyRENwM3VKSFpqbnpxVUdpcHJISDlpVV96eDdSV3pyZ0UzZUtRZzR1UEhIQlNhaDdjRVVNWUJrN3dyRDAyMTZjcl9rbWx2QW54ZkV4V1lRNXU5bFJURmlhTG42RkxHODJPWmpOWi1hOWVMVDY1N1phMVJrZWtUSDNOcS0zWWdvZlBBNU1YOFNwWmdYaGMzcFg4ODd2c1dB?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Israel markerer treårsdagen for terrorangrepene 7. oktober",
-    "summary": "Familier, overlevende og ledere markerer treårsdagen for Hamas-angrepene i 2023 med minnesmerker og markeringer over hele Israel.",
-    "why_it_matters": "Markeringen minner om den langvarige humanitære og sikkerhetsmessige krisen som fremdeles preger Midtøsten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Den vedvarende ustabile situasjonen i regionen opprettholder høy beredskap internasjonalt og påvirker den politiske stabiliteten i Midtøsten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1Q5cEcyV0lpVzVqZC1pXzM3N0Y4LWFvbUFHTF93WU4tX3VUTFAtN2kzOURsMlUxTFNtWExqeTZ5N2w2OGJXZGJlaVkxSlYwQXJmdWdta3dZYVdsSGt4aVhxOUN1VkpxaHIzSUxYY2IxZHRMZ1RtQ051b0VDdC1tSHZJTzUxZ3hl?oc=5",
       "paywall": false
      }
     ]
