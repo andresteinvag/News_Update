@@ -1,5 +1,289 @@
 [
  {
+  "id": "2026-10-23-08",
+  "hour": 8,
+  "date": "2026-10-23",
+  "generated": "23.10.2026 08:32",
+  "overview": "Globale aksjemarkeder preges av markant teknologiuro og frykt for overinvesteringer i kunstig intelligens, noe som har sendt Wall Street ned og presset kredittpåslagene opp. På hjemmebane har en rekke norske tungvektere som Tomra, Hydro og Gjensidige lagt frem kvartalstall, samtidig som den norske kronen opplever en etterlengtet styrking.",
+  "stories": [
+   {
+    "title": "Teknologiras på Wall Street etter fornyet KI-usikkerhet",
+    "summary": "Teknologiindeksen Nasdaq falt kraftig med over 2,5 prosent torsdag, drevet av økende skepsis til den massive pengebruken innen kunstig intelligens. Uroen har forplantet seg internasjonalt ved at pensjonskjempen Calpers reduserer sine posisjoner i Big Tech, samtidig som brikkeprodusenten SK Hynix har stanset planene om en amerikansk børsnotering.",
+    "why_it_matters": "Svakere markedsstemning i amerikansk teknologisektor kan spre seg raskt til europeiske og nordiske børser og dempe risikoviljen blant internasjonale investorer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere usikkerhet rundt fremtidig inntjening på store KI-investeringer kan tvinge frem en bred multippelekspansjon i revers for vekstaksjer."
+     },
+     {
+      "area": "Renter",
+      "effect": "Flukten mot tryggere havner som statsobligasjoner kan bidra til å presse lange markedsrenter ned dersom risikoflukten vedvarer over lengre tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/kraftig-borsfall-i-usa-_-nasdaq-ned-2_6-prosent-1.18062326",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOU5nOV8zclhVRzgtNUd4RF80R2MycXplT3U3SVZpVndUek5xZ25PdVRsS3Yyb2JfREJDZUtMY1U2eTFLRjhDQlU3S3hSRWVLOXdCcWZseWJSak82TWgzYmFGeUJUYWJvZHBfcE4tRXRKX2gtMkgtWS15a3hqdW5WMVdVZ3FIeGs0cnNyZThjaUtfdFhld2J4SHpEM1U0bklY0gGmAUFVX3lxTE02Nmh0T2xBZUxZSUI4dmdGeHN1eFBKZzl4elhVa1FUci1oNXR5T0RsZVlIMjR4TllMZFFxZG9BNlNyc3RGa1A0b1pIaU10VnA0NktOT2xGRG1TM2o3VVluNDRMMGxVeEZYVUdlOGVvclYtZU1RLVlteExmN3hRQy1UU05sUzFMSFllaG1iZm9uS1NkMTBTN2ZWWTQzQTNqZ1VxSmFtNWc?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0xETHRnbVdab1RJSlI5NGFLRXdZdF9jV2dVcjlnV3FzTkl2MFkwRlhQVkFYcFZPOXhjM1RTckp5VHZNblBuWmJGRGZVRmtUVVlwcWNuc3dERFlkQjk1N19kYW1wcWl0dXYtWHRfQnNLcWxqY3FZLW84ck52eS1paFdycXc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Trump tar i bruk forsvarslov for amerikansk oljeproduksjon",
+    "summary": "Donald Trump benytter den tradisjonsrike Defense Production Act fra den kalde krigen for å stimulere innenlandsk oljeproduksjon og raffinerikapasitet i USA. Formålet er å sikre rikelig tilgang på energi og trygge forsyningslinjene i en urolig geopolitisk situasjon.",
+    "why_it_matters": "Tiltaket kan øke det globale oljetilbudet på sikt og dermed legge et nedadgående press på petroleumsprisene som norsk økonomi er svært avhengig av.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Økt amerikansk utvinning og raffineringskapasitet kan dempe globale oljepriser dersom tilbudssiden øker raskere enn etterspørselen i markedet."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere globale oljepriser kan på sikt svekke Norges statlige inntekter fra petroleumssektoren og redusere overføringene til Oljefondet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRWszSkFOZEpkbWJ0ekJkVEFNaWlEWkN4Vm1oa3ZJLVl2V3R0elRNMGR3dmF5VEI0TDc4a2pGWFhMOEMyT01fRTJTVENBa0ZHSUc5OVEybmhURzNCYnRGeTJsNGlFRFR0QVpVb0JhTmhKX2vSAXhBVV95cUxQQmZpdVFYR1BvQVNmZWpOdV9tek91QTAyYkxCRFcxclJ4SlF5SGtyM0Q1VWsyWEpTZF80WTNzNk4tWHhQWXRfZG5tMmM1Njc5czEtbGRwemdyX3o1TG9lQjFmMGtsYVN6UENpMWNkRTlqbXZrSGZCVkM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWdkek5waXZLMGNHNTk1dHAyQWw0eGI3VnpLdDRfZFFwYU03T05oVFhYUVFYZG84ejFobDlZZWxlYmxwangxQUNtN2NNTlBOY3Njd3FMNVRpUjJVUHFKMnRaNWxuT1B0Z24xWTFxWlNSSnJldmlzTkJoZXBHRUtZM1dzWXU2Q3VYd3R5SzZzQW9CbG5Rd1d6TWZLYVRETDJ6UDFXaTdYamphU0VHR3UtOQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Volvo Cars varsler underskudd og nedbemanning",
+    "summary": "Den svenske bilprodusenten Volvo Cars snudde til tap i tredje kvartal og har varslet omfattende nedbemanning for å redusere faste kostnader. Om lag 2 000 ansatte mister jobben i Sverige som følge av svakere etterspørsel og marginpress i bilmarkedet.",
+    "why_it_matters": "Utviklingen speiler en dypere krise i europeisk bilindustri som rammer sysselsetting og underleverandører i hele Norden.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Kutt i produksjonsplaner og kostnader hos store industrilokomotiver forplanter seg raskt som inntektsfall hos nordiske underleverandører."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Omfattende industrioppsigelser i Sverige kan øke arbeidsledigheten lokalt og dempe den samlede lønnsveksten i den skandinaviske produksjonssektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjE0Qml6Mkw5WkFyRXlUcjZ3QTE3LWtGVF9kckI3cExBa0dsaHM2S1dyY1IzZnk0aFlYOGc4M1RoYzd0TVQ0aVNWM1I1RmVCRTNDcURBeHluNDFOOEJaMXVaOUo5ZGN0U0RoTFNuUmJHSjVSdFQzcHdCbHdyNHU1cUFaU290VVhzbV9HbVJjeDJrNGV1TGJOdmNzaHdmR29H?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWVhQXBsMkNhZWUtd0NiYWdsZ0pNeXNvT3Fqb0hFMldIdHp0YWZnV3pRSGZORlF4NFB2RHlTdi1CZzZrR3BpZkNJNnhlWmNZcmRFSlVyb0dua0RUU0xva2VFZUNMWGdwYWxaNFNLXzhiT1UxN185QlZHMkNMUDl5eXc1eGtBMVpHV0VOQkNxaUNDNEZi?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norsk krone styrker seg på det økonomer kaller en «perfekt cocktail»",
+    "summary": "Den norske kronen har lagt bak seg en periode med markant styrking mot sentrale valutaer som euro og dollar. Sjefstrateger peker på en gunstig kombinasjon av renteforskjeller, solid råvarestøtte og økt risikoappetitt som årsak til kursløftet.",
+    "why_it_matters": "En sterkere krone demper importert inflasjon, noe som direkte kan lette presset på Norges Bank om å holde styringsrenten høy over lang tid.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "En styrket valutakurs reduserer innkjøpsprisen på utenlandske konsumvarer og bidrar dermed til å trekke prisveksten i Norge raskere ned."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Nordmenns kjøpekraft i utlandet og ved bestilling av feriereiser forbedres merkbart når kronen gjenvinner tapt terreng mot euro og dollar."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/jvJloA/kronen-perfekt-cocktail?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/p12rbE/e24-nyhetene-kronen-perfekt-cocktail",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Tomra slo forventningene med solid kvartalsresultat",
+    "summary": "Pante- og gjenvinningsselskapet Tomra la fredag morgen frem et resultat før skatt på 35 millioner euro for tredje kvartal. Tallene kom inn klart sterkere enn analytikerne på forhånd hadde sett for seg.",
+    "why_it_matters": "Tomra er et viktig industribarometer på Oslo Børs og viser at sirkulærøkonomiske løsninger opprettholder god vekst til tross for usikre industrikonjunkturer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Resultater som overgår konsensusforventningene kan gi positiv kursreaksjon og løfte verdsettelsen av miljøteknologiselskaper på Oslo Børs."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Fortsatt solid etterspørsel etter pantesystemer signaliserer at regulatoriske miljøkrav i Europa opprettholder investeringsviljen blant internasjonale dagligvarekjeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/eGx959/tomra-slo-forventningene-tjente-35-millioner-euro-foer-skatt-i-tredje-kvartal?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBUNktFU1YyOG5pZGRsNU1JQVdTTVBLT3A3S0V2d0xfTUh1eUJ2ZGttSWZUQ19CRUkwZXFsbHZDdW02WGFROERPZXN6RndLcEtkR1A3VjRkNmJzRDVwTVBmTERsM3ZRTHM1REN6Q2REQmRhTW9NM1ZBSW93?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norsk Hydro leverer markant resultatvekst fra fjoråret",
+    "summary": "Aluminiumsgiganten Norsk Hydro rapporterer om et betydelig sterkere finansielt resultat i tredje kvartal enn på samme tid i fjor. Selv om tallene var marginalt under de mest optimistiske estimatene, viser konsernet solid drift og god kostnadskontroll.",
+    "why_it_matters": "Hydro er en av Norges største industribedrifter og kraftforbrukere, og inntjeningen reflekterer globale råvarepriser og europeisk industrihelse.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Solid inntjeningsvekst underbygger selskapets utbyttekapasitet, selv om markedsforventningene var stilt marginalt høyere i forkant av rapporten."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Resultatutviklingen vitner om stabilisering i globale aluminiumspriser og etterspørsel etter grønnere metallproduksjon på det europeiske kontinentet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/rM2nGR/sterkere-fra-norsk-hydro?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWRKSzhNWlpyTng0aXEtSERqbTgtR3ZGQWdraFl1QUZKdEs3ODlrR1FaR1pvbVBpdVlXQjhmMDhGTGdRRXppX241MWQ0WS01UW02bm5wU3RiTlZuSEFQSXVjSWZlY2VJckU2Qm1JV1dMLUIxaWF4NTBTLUJ6ZjJPWUlOTWF2dFRCUUNCWHZrNkhCMHZIYXRfVjhfemdtUnpteFVTbUVjRTk5b2lpUFZ4R0VpYlA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Gjensidige opprettholder solid overskudd tross storbrann",
+    "summary": "Forsikringsselskapet Gjensidige tjente rett over 2,7 milliarder kroner før skatt i tredje kvartal. Resultatet preges imidlertid av en tapsføring på 100 millioner kroner som følge av den omfattende industri- og lagerbrannen i Krokstadelva i juli.",
+    "why_it_matters": "Finanstallene belyser hvordan økende skadeutbetalinger som følge av enkelthendelser påvirker norske finansforetaks lønnsomhet og premiefastsettelse.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Gjentatte store skadeutbetalinger i forsikringsbransjen kan føre til videre oppjustering av forsikringspremier for både bedrifts- og privatkunder."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Sterk underliggende lønnsomhet i kjernevirksomheten gjør at selskapet tåler uforutsette engangssmeller uten å måtte svekke sin soliditetskapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/eGx37M/gjensidige-oekte-overskuddet-i-tredje-kvartal-tjente-2-78-milliarder-foer-skatt?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0hYQXdJbl9sWWE1ejl1N0lqYTJIdGpIN3JfTS1fMXBEWS1WVVpia05OMlloNEluZThUWWZsb3h3MXItWENWendjMy13RjZjNEtVVXQ2ZE0tLThBa0VfX0lUZkZFTWJZS0d2aXZfZ1lOTF9xdy03VHdLLVdqWUE4akRJVXdVNzRwYXdmSFNPRjJxUjdHUzhsQnd3ZWxwS2Jm?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Kraftig jordskjelv rammer Tibet: Minst 16 omkomne",
+    "summary": "Et jordskjelv med en styrke på 7,0 har rystet den nordlige delen av Tibet-regionen i Kina. Minst 16 mennesker er bekreftet omkommet, over 60 er skadet, og redningsmannskaper jobber nå på spreng i ruinene av hundrevis av ødelagte bygninger.",
+    "why_it_matters": "Naturkatastrofen forårsaker store humanitære lidelser og setter det lokale veinettet og infrastrukturen i et sårbart høyfjellsområde ut av spill.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Infrastruktur",
+      "effect": "Omfattende skader på boliger og fjellveier krever omfattende statlig gjenoppbygging og kan forsinke transport i regionen i uker fremover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Musk gjenåpner full Starlink-tilgang for Ukraina etter politisk press",
+    "summary": "Tilgangen til det satellittbaserte internettet Starlink i Ukraina fungerer igjen som normalt etter meldinger om at Elon Musk hadde begrenset kapasiteten. Ifølge rapporter skal endringen ha kommet raskt etter direkte kontakt mellom Donald Trump og Musk.",
+    "why_it_matters": "Starlink er kritisk infrastruktur for det ukrainske forsvarets kommunikasjons- og droneoperasjoner langs frontlinjen mot Russland.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Ukrainas militære forsvarsevne opprettholdes på kort sikt, men hendelsen belyser risikoen ved å være avhengig av private teknologiselskaper i krig."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Rekordvarm sommer krevde over 50 000 liv i europeiske storbyer",
+    "summary": "En ny analyse viser at årets ekstreme sommervarme førte til over 50 000 overdødelighetsdødsfall i urbane strøk over hele Europa. Byer i Sør- og Sentral-Europa ble hardest rammet på grunn av såkalte urbane varmeøyer.",
+    "why_it_matters": "Rapporten understreker de alvorlige helsemessige og samfunnsøkonomiske konsekvensene av tiltagende klimaendringer for europeiske samfunn.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Europeiske storbyer tvinges til å akselerere kostbare investeringer i klimatilpasning og grøntarealer for å beskytte befolkningen mot fremtidige hetebølger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wQkxxRlBsMnNUaUt1VjhOOG1Dd0JtcUt6MGswNmFaNVBiYm5BVElyd3JmdXA2a0dPVXd4VXlER21JMVRETWY1eTdLYnlON19BWmllSEhrbXZILTh2T2ZTQWFEWWRyWERFVm1fek50XzhIOGZ1ZU9N?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbG51dGFXbVpKTmtmU1V4aEdyLVllZThic1ZLcDdIODlxYU4yckFmRWlQUkZIVXRuX05hemh4VW5aUWlmSmRQMlM5b2tGUmUtWFFSd2I5cm9ubXNkRVQxaXZmMjdtbTI1VWdHTXpLSmsyODhYUmJMQTFTUUhlcDFYTDNXeExNNXloTmQ3eWJGbktsVGFiNUFLcnJVQ2JjTFhnS0E5X0RpVWhfaHdGanNrOWdFaWZpQWVrQUd3ZkZSdw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-22-20",
   "hour": 20,
   "date": "2026-10-22",
@@ -7477,221 +7761,6 @@
      {
       "name": "The Guardian",
       "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-08-08",
-  "hour": 8,
-  "date": "2026-10-08",
-  "generated": "08.10.2026 08:21",
-  "overview": "Verdensmarkeder preges av tiltakende inflasjonsfrykt og sterk etterspørsel etter teknologi- og KI-relaterte investeringer, mens norske politikere og markeder retter søkelyset mot fremtidige budsjettutfordringer og statlige rammebetingelser.",
-  "stories": [
-   {
-    "title": "Inflasjonsfrykten tiltar i USA ifølge fersk Fed-undersøkelse",
-    "summary": "Forbrukernes forventninger til inflasjonen på ett meters sikt har steget til 3,9 prosent, noe som er det høyeste nivået siden mai 2023.",
-    "why_it_matters": "Høyere inflasjonsforventninger kan tvinge den amerikanske sentralbanken til å holde rentene oppe lenger, noe som direkte påvirker globale finansieringer og kronekursen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende inflasjonsfrykt kan føre til at amerikanske styringsrenter forblir høye for å kjøle ned økonomien, noe som øker lånekostnadene globalt."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere avkastning på trygge statsobligasjoner kan redusere investorers appetitt på risikoaktiva og tynge verdsettelsen av vekst- og teknologiselskaper."
-     },
-     {
-      "area": "Kronekursen",
-      "effect": "Hvis renteforskjellen mellom USA og Norge presses, kan det skape ytterligere volatilitet og svekke kjøpekraften til den norske kroneimporten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Samsung-resultatene skyter i været drevet av enorm KI-etterspørsel",
-    "summary": "Tekgiganten Samsung melder om en mangedobling av overskuddet til rundt 80 milliarder dollar på grunn av skyhøy etterspørsel etter avanserte KI-brikker.",
-    "why_it_matters": "Utviklingen illustrerer den enorme kapitalflyten inn i kunstig intelligens, som driver globale forsyningskjeder og investeringssykluser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Selskaper som leverer infrastruktur til kunstig intelligens opplever historiske inntektsvekster, noe som omformer strategiske prioriteringer i hele teknologiandelen."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "De sterke resultatene kan løfte investorenes tillit til halvledersektoren og kompensere for bredere makroøkonomisk uro i Asia og Europa."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Massiv utvidelse av datasentre og produksjonskapasitet legger et betydelig press på globale kraftnett og forsyningen av kritiske råvarer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQkdBN3lQTkJTdW4yZWNHenpWcERwUUViQl9qUUVqemJFb28yN3dEUnhMSVBoaHNKbGRaX0sxaFdMS3cyR282WmkwU21BN3FsZ3dLWGdJVnhsSnd3c1hFYVlNRVB5WFNQUHQyYWRLNGdwdmFHR2lHMkQ1c0tSX3AyUFBzcm8?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTlUTm1fc3RuU0tKTXQ2U1VJOVVSOUVkNkF5Z0VmQ3pxWFppaG84NXVYRHkwWm0zVmRhNkZqbWxtTS1teDFSalNUNEFRd0RfazR1NG9GV3F4ekdkeElDTVdfT0UyQW9Ca3VUNlFHVmF1elVhVnZfUEV0Wi1CSGl6U1hGcHY3NWV3Yk5tQTFRUEgweEVVdmg3NmlhclU1Vlh5YUhVWWFqM3NOaU1RQTNV?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Statkraft-sjefen på topp med over ni millioner i lønn",
-    "summary": "Statkrafts toppsjef tjente over ni millioner kroner i fjor inkludert bonus, noe som plasserer sjefen helt i teten for statlig eide foretak.",
-    "why_it_matters": "Saken reiser på nytt debatten rundt lederlønninger og incentivstrukturer i selskaper med statlig eierskap.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Debatten om godtgjørelser i statseide selskaper kan presse politikere til å stramme inn retningslinjene for lederlønninger i offentlig sektor."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Strenge rammevilkår for lederlønninger i statsforetak kan gjøre det mer krevende å rekruttere og beholde toppkompetanse i konkurranse med det private markedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/eG7lgR/statkraft-sjefen-tjente-mest?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/Wgv4pr/statkraft-sjefen-tjente-mest",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Advarer mot skjevfordeling i skattesystemet etter statsbudsjettet",
-    "summary": "Kritikere peker på at det fremlegget til statsbudsjett som nylig ble lagt frem, opprettholder et skatteregime som favoriserer aksjeinvesteringer fremfor annen verdiskaping.",
-    "why_it_matters": "Dette påvirker kapitalallokeringen i norsk næringsliv og avgjør hvilke investeringsformer som lønner seg for private eiere.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Fordelene knyttet til aksjeinvesteringer kan vri privat kapital vekk fra alternative, mindre skattegunstige oppstarter og eiendeler."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Skattereglene kan påvirke statens samlede skatteproveny fra formuende investorer og endre dynamikken for utenlandske eierandeler på Oslo Børs."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0FFUjJma3JzVURRNXE5UmNIbmFPSXo5ZnhMNlUtU1NlYkd3ckxvMmtDZ1pMYTFNdUxDMVZ6eG9sTVU3WnNkeURwZmVLcFExcEZSUnVSZjU0aWJYdjY1RFprZXhvbUEzRDBYLWxfbV_LMEp1Y1BkaHRzSXNFenRRQjJqQ0VLVU5LaXBIdTlyQ1I4SjlpVlB0M2VzTGsyZFU5SnpxZzdHOHkxcHpUWHMzM2hYY0hESzVldmtvcDlMekVQMUhoNjdWS0V2cGE4S1JhRXl4NTBB?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Advarer om at «haikjeften» nærmer seg i norsk økonomi",
-    "summary": "Finansdepartementets anslag viser at det fra 2028 vil oppstå en markant underdekning på statsbudsjettene, noe politikere allerede må ta høyde for.",
-    "why_it_matters": "Den såkalte haikjeften beskriver gapet mellom økende offentlige utgifter til eldreomsorg og helse, og fremtidige skatteinntekter, noe som krever krevende prioriteringer.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Manglende budsjettbalanse kan tvinge frem fremtidige kutt i velferdsordninger eller økte skatter for å opprettholde det offentlige tjenestetilbudet."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Husholdningene kan oppleve at velferdsgoder som tidligere var offentlig finansiert, i større grad må dekkes av private midler."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/Pgp7kR/haikjeften-naermer-seg-ligger-i-bakhodet-paa-alle-politikerne?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Klondike-stemning for bilselgere før nye avgifter rammer elbiler",
-    "summary": "Bilforhandlere opplever et massivt salgsrushet fordi nesten alle nye elbiler står for tur til å bli dyrere for andre år på rad.",
-    "why_it_matters": "Dette viser hvordan avgiftsendringer skaper kortsiktige svingninger i forbrukernes kjøpemønster og bilbransjens omsetning.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Fremskyndede bilkjøp for å unngå avgifter kan tappe husholdningenes sparepenger midlertidig og øke privat gjeldsbelastning."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bilforhandlere opplever en unaturlig salgstopp som trolig vil bli etterfulgt av en markant nedgang når de nye avgiftene trer i kraft."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/QgMX24/bilselgerne-jubler-det-er-klondike?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/BMx79Q/bilselgerne-jubler-det-er-klondike",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Minst 28 drept i omfattende russiske angrep mot Ukraina",
-    "summary": "Ukraina rammes av nye, kraftige russiske angrep som EU-kommisjonens president betegner som en bevisst terrorstrategi mot sivilbefolkningen.",
-    "why_it_matters": "Det vedvarende høye konfliktnivået forsterker den geopolitiske ustabiliteten i Europa og opprettholder presset på vestlige sikkerhetsstrukturer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk og sikkerhet",
-      "effect": "De intense angrepene tvinger frem diskusjoner om ytterligere militær støtte og skjerpede sanksjoner mot Russland fra europeiske ledere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdHpjWklTaTM2N2JVT0pQNWlzbjU0LVF6QjdJdHozWF9fWUpQS3lwWGJ6WGRRSEJzd0RPbmtyelNiMWtIUkU4aGN0VGtXRWJRMm5sRHdQdE5wdUoweF9EcklpOTlOWTAxSUtTa2NZQVBsSXR6Zi1fdHFOVlhLOXM5Y21XeTFuRVBfVHFSZzdDQThTUXlleTVZUlJFNndVdFlWZ1JteUxrRk5RdzlpMTV0ZkJ2VjBkVS1oTkJ0SUZuenNPMUFocm5ld1g1UE5VeFhXNzE2YWhNUDg?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Storbritannia og Tyskland innleder tette sikkerhetssamtaler i Berlin",
-    "summary": "Storbritannias statsminister besøker Berlin for å styrke det bilaterale samarbeidet og møte økende hybride trusler fra Russland.",
-    "why_it_matters": "Europeiske land søker tettere forsvarspartnerskap for å håndtere et mer krevende sikkerhetspolitisk landskap utenfor tradisjonelle EU-strukturer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk og sikkerhet",
-      "effect": "Tettere forsvarssamarbeid mellom europeiske stormakter kan endre maktbalansen og styrke kontinentets samlede evne til å avskrekke hybride angrep."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
