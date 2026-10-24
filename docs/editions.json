@@ -1,5 +1,236 @@
 [
  {
+  "id": "2026-10-24-20",
+  "hour": 20,
+  "date": "2026-10-24",
+  "generated": "24.10.2026 20:23",
+  "overview": "Helgens internasjonale bilde preges av tiltagende spenninger i det globale kredittmarkedet og skjerpede proteksjonistiske signaler mellom stormaktene USA og Kina. Samtidig skaper omfattende uroligheter i Europa og vedvarende geopolitisk risiko fornyet usikkerhet om den økonomiske stabiliteten.",
+  "stories": [
+   {
+    "title": "Politisk uro presser franske statspapirer og konvergerer renter mot næringslivet",
+    "summary": "Avkastningen på franske statsobligasjoner nærmer seg rentenivået på solide foretaksobligasjoner i et historisk uvanlig skifte. Samtidig ryster store demonstrasjoner og sammenstøt landet, noe som øker markedets bekymring for politisk handlingslammelse og sviktende budsjettdisiplin.",
+    "why_it_matters": "En vedvarende svekkelse av tilliten til fransk statsgjeld kan presse opp lånekostnadene i hele eurosonen og forplante seg til europeiske finansmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere risikopremier på fransk statsgjeld kan presse opp lånekostnadene for europeiske stater og skape smitteeffekter i det europeiske obligasjonsmarkedet."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Tiltagende politisk polarisering kan svekke regjeringens evne til å gjennomføre nødvendige budsjettkutt og dermed forverre Frankrikes statsgjeld over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUEwtYnR3b0xGWTl5V29OaTd1c0RiaHBQZkpfMzNsVUpGNllFYVpHMzRsN2toZ09mVDJMR2F5NDMyNDhEbUJvcWNvXzIyLW5DYS0xMmx0bTBIU2NRc2M0RUFiTDNLbm42djN0RC1EOGQzcC1kX0Ziei1GYmdGbGdXY0R3Yzc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/zlBKA4/frankrike-demonstrasjoner-charlotte-demonstrerer-for-moren-sin?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kina ber USA stanse utvidelse av restriksjoner på utenlandsinvesteringer",
+    "summary": "Kinesiske myndigheter oppfordrer Washington til å avstå fra ytterligere innstramminger i reglene for amerikanske investeringer i kinesisk høyteknologi. Striden omfatter særlig kapitalflyt og kompetanseoverføring innen halvledere, kunstig intelligens og kvanteteknologi.",
+    "why_it_matters": "Ytterligere frakobling mellom verdens to ledende økonomier truer globale forsyningskjeder og hemmer internasjonale teknologiske investeringer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Skjerpede restriksjoner på grensekryssende kapitalflyt kan akselerere den teknologiske splittelsen og tvinge internasjonale selskaper til å restrukturere sine leverandørkjeder."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Begrensningene kan redusere tilgangen på risikokapital for vekstselskaper innen kunstig intelligens og skape regulatorisk usikkerhet for vestlige investorer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kraftig verdifall på risikabel gjeld skaper uro i kredittmarkedet",
+    "summary": "Kredittmarkedet opplever et markant nedsalg i de mest risikoutsatte obligasjonslånene, noe som har utløst bekymring blant internasjonale investorer. Nedsalget reflekterer økende frykt for refinansieringsproblemer og voksende kredittap i sårbare virksomheter.",
+    "why_it_matters": "Turbulens i markedet for høyrisikogjeld fungerer ofte som et tidlig varsel om strammere kredittpraksis og lavere likviditet i verdensøkonomien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økende kredittspreader kan begrense tilgangen på refinansiering for gjeldstunge selskaper og tvinge frem smertefulle restruktureringer i selskapssektoren."
+     },
+     {
+      "area": "Renter",
+      "effect": "Vedvarende uro i høyrentemarkedet kan føre til at bankene strammer inn sin generelle utlånspraksis overfor bedrifter og husholdninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdkV3gxaDZHd2ZxRDVhaFlBdWtLNFJ3Y0c5MXZiWktESnRPNmJlTWczMVdRZ29JaUVHa0R2Mmdabm5NdXhyLWlYam5xaU54Ty1UdHphaVotVkx5RGo1a1hYUkpsS1IxSlhsd3ZJcGxkWEh0Q016YkJHS1J1Sk4xS1pub0tnTjlCbDdrWU5sTi14dXNrZDVOLTdkUnFxQkdvQ2Y5TFROY3JFcGVQbWtjYTlnUQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Virke og fagbevegelsen krever hastemøte om nettgiganten Temu",
+    "summary": "Handel og Kontor Norge og hovedorganisasjonen Virke trapper opp lobbykampen og krever et snarlig møte med den norske regjeringen for å demme opp for kinesiske Temu. Næringsaktørene frykter at utenlandske nettgiganter utkonkurrerer norske aktører ved å omgå miljøkrav, produktsikkerhet og merverdiavgift.",
+    "why_it_matters": "Manglende likebehandling av importvarer truer marginene og sysselsettingen i den etablerte norske detaljhandelen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Dersom myndighetene strammer inn håndhevingen av toll- og avgiftsregler for lavverdipakker, kan det jevne ut konkurransevilkårene for tradisjonelle norske butikker."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Strengere kontroll og eventuelle ekstragebyrer på utenlandsk netthandel kan gjøre rimelige forbruksvarer dyrere for norske husholdninger på kort sikt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/Jr84GP/trapper-opp-lobbykampen-mot-temu?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Råvarehandlere styrer mot nok et år med rekordprofitt i metallmarkedet",
+    "summary": "Globale råvaretradere melder om eksepsjonelt høye overskudd takket være store prissvingninger og sterk etterspørsel etter industrimetaller. Den grønne energiomstillingen og forsvarsinvesteringer holder etterspørselen etter nøkkelmetaller vedvarende høy.",
+    "why_it_matters": "Prisdannelsen og handelsmarginene i metallmarkedet påvirker innsatskostnadene for kraftsektoren og industrien over hele verden.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høye metallpriser og volatile markeder kan øke investeringskostnadene for utbygging av fornybar infrastruktur og elektriske transportsystemer fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Store råvarehandlere styrker sin finansielle stilling, noe som gir dem økt oppkjøpskraft og større innflytelse over kritiske forsyningslinjer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWhlM2IwdDUtNzVQUTRTQzgwMGo0VnBWSWZUNTBmQmZaWUZ6NXpTeEt3ODh1cV84QW1rSDVYTUlYUDBOczMzNzlaNW1XUEVNWlZqcGRvdDNUM0xQRmlLSmd5R1diVDl1TVZ3NXl2X3RkcE1FS093dDBBQnRNdWZuMlgtZ3Ezc2RNZHhpVkJORGwyTzI1NTZqbklTX0Q2U0R5dkhtZk1tUjVnWlZWem1KMkMxc0Q?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Geopolitisk eskalering truer energiforsyning og petrokjemisk industri",
+    "summary": "Amerikanske marinestyrker forbereder seg på mulig eskalering i Midtøsten, samtidig som et ukrainsk angrep har rammet et petrokjemisk produksjonsanlegg i Toljatti i Russland. Hendelsene øker frykten for nye forstyrrelser i transport og bearbeiding av olje og gass.",
+    "why_it_matters": "Vedvarende angrep og geopolitisk usikkerhet holder risikopremien på olje og gass oppe, noe som påvirker Norges eksportinntekter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Frykt for avbrudd i forsyningen fra viktige produsentland kan legge en oppadgående risikopremie på råolje og raffinerte petroleumsprodukter."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere olje- og gasspriser kan styrke inntektene til Oljefondet og statskassen, men kan samtidig bidra til å holde den globale inflasjonen oppe."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOUxveWNyQjdJTWRlS2FqTWxnQnp2TFB0WHplWjBCTTlpZ3VEUzFqNmtDbDA1ZVZtUktmUUpQMEprNDlKcm1nUkRtOVEybFZ3eGc2MjBTWVM1NVRUZFU2VExzNXpTdi1QRlpORUZIZTlsRUg2aG1WLVloenozUkJuM1ZuWnF1cTBONjhreTRhUGJlSnNTa0YxT1ZXM1NURjNCbFlwZTNhNFIwWmFwS29TbkJkUWkwSURndHZMckROUDM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbk5KU2hjdmVEazQxY2ZxVmx1Z191N2RJZW1GVkRtR1ZYcVd2Z3kwdFVZYmU0QVVNMGNfSEx0cExmbzFOakJGV3JHdUVNemdzM2ZKdWEzMTh3cE0zSVBrR25JRUFnUEdQTndROFFjRjVxczVIWXlBdkFaUWl5NXNDQUJ4aGdOc3dvdWdxLVE0bk94Vm5qVnFlTjdEVDVyMXdkQ3l3OWNrRl9MZw?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Hundretusener i gatene i Frankrike i protest mot regjeringen",
+    "summary": "Over 400 000 mennesker har deltatt i landsomfattende demonstrasjoner i Frankrike mot myndighetenes skolepolitikk og politiets metoder. I Paris brøt det ut voldelige sammenstøt der politiet tok i bruk vannkanoner og tåregass for å oppløse folkemengdene.",
+    "why_it_matters": "Protestbølgen illustrerer en dyp tillitskrise mellom befolkningen og president Macron, noe som svekker landets politiske stabilitet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Vedvarende masseprotester kan lamme offentlig transport og turistattraksjoner, samtidig som tilliten mellom befolkningen og politimyndighetene svekkes ytterligere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kim Jong-un åpner ny grensebro mellom Nord-Korea og Kina",
+    "summary": "Nord-Koreas leder Kim Jong-un har krysset den nybygde broen over Yalu-elven for å markere åpningen av en ny transportforbindelse til Kina. Seremonien fremhever et ønske om å styrke den bilaterale handelen og bekrefte det strategiske partnerskapet mellom nabolandene.",
+    "why_it_matters": "Den nye infrastrukturen knytter Nord-Korea tettere til Kina og påvirker maktbalansen og sanksjonsregimet i regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt grensehandel og tettere diplomatiske bånd til Kina kan redusere virkningen av internasjonale sanksjoner mot det nordkoreanske regimet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Stormen «Boelo» utløser farevarsler i Sør-Norge og Nord-Europa",
+    "summary": "Et kraftig lavtrykk fører med seg vindkast av storm styrke, store nedbørsmengder og fare for jordskred over store deler av Sør-Norge og Storbritannia. Meteorologene har sendt ut omfattende farevarsler, men venter foreløpig ikke skader i samme omfang som tidligere ekstremvær.",
+    "why_it_matters": "Uværet skaper store utfordringer for samferdsel og forsyningssikkerhet i de hardest rammede områdene.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Kraftige vindkast og store nedbørsmengder kan føre til innstilte togavganger og lokale strømbrudd for tusenvis av berørte innbyggere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-24-08",
   "hour": 8,
   "date": "2026-10-24",
@@ -7652,228 +7883,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-09-20",
-  "hour": 20,
-  "date": "2026-10-09",
-  "generated": "09.10.2026 20:17",
-  "overview": "Dagens markedsbilde preges av geopolitiske spenninger, sentralbankuro i USA og nye teknologisatsinger som utfordrer etablerte industrier. Samtidig skaper systemkritiske feil i telenettet store ringvirkninger for norsk infrastruktur.",
-  "stories": [
-   {
-    "title": "Telenor-nedetid lammet store deler av landet",
-    "summary": "En alvorlig feil i Telenors kjernenett rammet torsdag hele landet og skapte store problemer for blant annet legevaktene og den generelle samfunnssikkerheten. Nkom varsler oppfølging etter at lignende feil tidligere har resultert i millionbøter.",
-    "why_it_matters": "Saken viser sårbarheten i kritisk norsk digital infrastruktur og kan føre til strengere regulatoriske krav og økte kostnader for teleselskapene.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Fornyede og strengere krav fra Nasjonal kommunikasjonsmyndighet kan tvinge teleselskapene til å øke investeringene i robusthet."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Omdømmetap og potensielle sanksjoner kan ramme Telenors finansielle stilling og investorenes tillit på kort sikt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/sorlandet/nkom-advarte-for-to-ar-siden---ga-bot-pa-50-millioner-1.18050260",
-      "paywall": false
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlJyaWhldWplbUUtN2JIQk1qSnItdVo4Ui1VX3Z1RjQxVWtTOVNBd3M0aVJ3WE1CeWEyTzZmMF9EWWR4REVCa0Y1TGJoYmVzcnB6Vks5U1ZzMTNYZ3dWRTZZOV9zRFJuVWhYM2tMUHF3RzFOa052UXBKcDFBWlc2Mm5BVkdrdC1kVGJJQW9JdHhsVGN2dm9uUHRiWGsyU0UwSmliUDczdGtiNWlCS0Qwd0R3ZGhQVlp0bmNqWEVWY3dKRTdOQ216VnZZdXA5MEV6ZnBzSERfUXJMdw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "SpaceX utfordrer tele- og satellitmarkt med Starlink-planer",
-    "summary": "SpaceX satser tungt på å bruke Starlink-satellitter som direkte mobiloperatører, noe som sendte sjokkbølger gjennom aksjemarkedet og svekket obligasjonene til etablerte giganter som Verizon og AT&T.",
-    "why_it_matters": "Trusselen fra ny satellitteknologi kan redusere tradisjonelle teleoperatørers markedsandeler og tvinge fram omfattende strukturelle endringer i bransjen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Økt konkurransepress fra romfartsbasert teknologi kan redusere verdsettelsen og inntjeningsforventningene for tradisjonelle telekom-selskaper."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Nye markedsaktører kan overflødiggjøre eldre infrastruktur og tvinge frem samarbeid eller kostnadskutt hos etablerte aktører."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/Wggm7g/mobiloperatoer-fall-etter-musk-nyhet?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2s3TzZwUUdmSC02b0R6RlFoYkIxcWxHV0l5SXRHOWFWSFNjQXhTMlRVOW8zbjd4N1pWOUhWbG1iY29lRUNpOXdGYUtudUdKVDI3c2JDdnY2aGN4TFR5bzAwckg0c3JLRGRhcjM3cUdmR3hHT0h4TEpsRUZwOU1vNFBzbF9XMjhDQU5WU0F6ODRhSWRuamdJUEYyY3pEWTNzWjh1b21LMVdFQ2FwZmt2WQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Det hvite hus gransker Fed-guvernør Lisa Cook",
-    "summary": "Trump-administrasjonen har opprettet en komité for å etterforske Federal Reserve-guvernør Lisa Cook, i det som oppfattes som et nytt forsøk på å presse den uavhengige sentralbanken.",
-    "why_it_matters": "Politiske inngrep mot sentralbankens uavhengighet kan skape usikkerhet rundt fremtidig pengepolitikk og svekke tilliten til amerikanske finansmarkeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Politisk press på sentralbanken kan skape usikkerhet rundt fremtidig rentebane og føre til høyere risikopremier i obligasjonsmarkedet."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Svekket institusjonell uavhengighet i USA kan redusere tilliten til dollaren som global reservevaluta over tid."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGtmQnZ3SG93alMwVHRUNzZ3cTVOTkduYklEaWF5ZENaeDFkQ0hNdnZ5c2t4MUtaN3l1amRJZG5SZzFFZjVfN2VkSDFvTlJwYjJJVlZBUkhYZDNGNElVT0JzdFMtQkxUcjhGQUxhbk85UHVwWjNJRkE2YzhYY1NOb3Zjc0FDSVpqM3dTTU90MmxiTnhUbDNTY1hIZDQ1RTQ2UGJMSThreDFLNHo2UWhz?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjFBN0hzaFotYnFvNUpWbkE3TzNkemdXSG9aZVd1Y3VMM2hCQnc1UUZSRkhwSlg3ODVWTFFyUE5tenpkM1dGVXJWQ2U3S0dyN2JFU1UwN2F6RndPaUQ5Q2pRU1FiYjFsSnFQY0ktR29XOWhSY3BzeGprNE5SUk4wWEt0cTk?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "EU og Kina inngår avtale om redusert eksport av hybridbiler",
-    "summary": "EU og Kina har kommet til en foreløpig forståelse som reduserer Kinas eksport av elektriske og hybride kjøretøy til det europeiske markedet med inntil 50 prosent for å unngå en full handelskonflikt.",
-    "why_it_matters": "Avtalen demper umiddelbar handelskrigsrisiko, men kan samtidig føre til høyere bilpriser for europeiske forbrukere og endret konkurransedynamikk i bilindustrien.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Redusert import av rimelige kinesiske biler kan beskytte europeiske bilprodusenter, men potensielt bremse det grønne skiftet i transportsektoren."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Mindre konkurranse fra lavprisalternativer kan opprettholde eller øke prisnivået på elektriske kjøretøy i Europa."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFkxRUNzbndIZnJudlpUZmRzdjlPTndBd1cwUzJ5a1pwclM3LWg1U0wwTWd5Z0lkc3NYekstSHpJaEFYcHc3dUZBM3Q4NDJzUUJOQ0FnM2FkYlJ2NUdHU2xZWEx6NThOT0h0dkZVaGtCWDVRb0JqT2g1YmdNeTRZa2JpSHZFdGRYXzN5bUlfN1lxTnpVazdkZ0l6QmRTYnBFbUtXZHhoV0o0WWFmbUE2V3lHNU9USzRwV2FObTRFRURTc2Rv?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWRDaXNvdGlIY0JHdjAySzBVckZTelVyd25XWUY1NHo3ck1VS0tQZV85MDBKc2pCbmdYVzR6T2xVcHBSaXlLcVR6c1Q3UTNSVEctd1M2V0oxYTVNeG9TYkJaQmxxa05kMU13OWJyMGRCWFQ0NkczQXFVbGtYdUNYQTVaZTg?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Oslo Børs løftes av olje og tank",
-    "summary": "Oslo Børs opplevde en positiv handelsdag støttet av sterke olje- og tankaksjer, til tross for at mer defensive tungvektere som DNB og Telenor trakk i annerledes retning.",
-    "why_it_matters": "Høy aktivitet og sterke rater innen shipping og energi fortsetter å understøtte inntjeningen for sentrale selskaper på Oslo Børs og styrker norske eksportinntekter.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høye rater og solid inntjening i tank- og energisektoren opprettholder investorinteressen for Oslo Børs til tross for motvind i andre sektorer."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Stabile volumer og høye transportkostnader for olje gir betydelige kontantstrømmer for norske rederier og energiselskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFBJOFk1VTdqTDYxNzNQRmJzM0JPZlktOFFKUUdRbV9VNU52U0Z6T0xMTTRlblU3M3k4OXFEYk44RjM4eGhCRlcxNVA2RHFEVGVJNEZkY2ZDRHExUDlZSkRDOEptTE9vOVFvUzdxNTlPRlFBaUQwajNhWkNmaWd4TlU5YjdDY08zYXpDVTNpdjkzVWxYY0FMSlY4V2FXT0VfekxrVUNKeVB6ci1jOXlwMg?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske gjeldsproblemer blinker rødt",
-    "summary": "Nye studier viser at amerikanske husholdningers evne til å betjene gjeld har svekket seg betydelig, og misligholdsratene nærmer seg nivåer som sist ble sett under finanskrisen.",
-    "why_it_matters": "Økt gjeldsstress blant amerikanske forbrukere kan ramme den private konsumveksten og skape ringvirkninger for det globale finansmarkedet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Høyere rentebyrde og strammere lånevilkår reduserer husholdningenes disponible inntekt og demper det bredere forbruket i økonomien."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Svakere finansiell helse hos forbrukerne kan tvinge frem økt jobbsøkelys og redusere bedriftenes marginer gjennom lavere salg."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "USA innfører sanksjoner mot ICC etter Nobels fredspris",
-    "summary": "Trump-administrasjonen har iverksatt omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC), bare timer etter at den tidligere dommeren Navi Pillay ble tildelt Nobels fredspris.",
-    "why_it_matters": "Saken markerer en ytterligere eskalering i konflikten mellom USA og internasjonale rettsorganer, noe som skaper sterke reaksjoner blant allierte i Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Sanksjonene svekker det multilaterale samarbeidet og øker den diplomatiske spenningen mellom USA og europeiske støttespillere av domstolen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Orkanen Isaias styrker seg på vei mot USAs gulfkyst",
-    "summary": "Isaias har nådd hurricane-styrke og beveger seg mot den nordlige gulfkysten i USA, noe som har utløst evakueringer og beredskapstiltak fra nasjonalgarden.",
-    "why_it_matters": "Ekstremvær kan føre til alvorlige ødeleggelser på infrastruktur og midlertidig ramme energiproduksjonen i regionen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Infrastruktur",
-      "effect": "Kraftige vindkast og flomfare truer lokal bebyggelse og kan forårsake langvarige strømbrudd i de berørte områdene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlTM0pnaG9JM2k2Z19LSllNREhMckxuUE15MnZZdHZMYVUyendPbnBOejU3bS1RWXdJZXFPZllWb2hOMGdHS2ZPMTFqMTdGRFM4Yll1blQ2M2xMWC1YLTR4OVhsTVdyTUxkdm5CN1RUTXltMUpMdlhuLVoxcUVyTDFqejZyeTdvRHY5WGFMLURMTWRBZ1poYUl1VVI3VTMwajI0UzgwTzBKaU45eTVianM3eHhKSWtGVWc?oc=5",
       "paywall": false
      }
     ]
