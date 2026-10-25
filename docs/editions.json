@@ -1,5 +1,230 @@
 [
  {
+  "id": "2026-10-25-20",
+  "hour": 20,
+  "date": "2026-10-25",
+  "generated": "25.10.2026 20:22",
+  "overview": "Verdensøkonomien preges av økende uro knyttet til politisk og sosial ustabilitet i Europa samt politiske spenninger i Latin-Amerika. Samtidig følger markedene nøye med på sentralbankenes neste trekk i møte med budsjettkriser og inflasjonspress.",
+  "stories": [
+   {
+    "title": "Uroen i Frankrike preger markedet og skaper bekymring for europeisk gjeld",
+    "summary": "Massive protester og sosial uro i Frankrike har satt regjeringens budsjettplaner under et enormt press. Eksperter frykter at situasjonen kan kaste hele eurosonen ut i en ny type gjeldskrise.",
+    "why_it_matters": "Fransk politisk ustabilitet har potensial til å smitte over på europeiske finansmarkeder og svekke tilliten til eurosonens offentlige finanser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Økt frykt for fransk statsgjeld kan presse opp rentene på statsobligasjoner i landet, noe som igjen løfter finansieringskostnadene for hele regionen."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Vedvarende uro og potensielle politiske kriser kan skape usikkerhet blant investorer, noe som legger en demper på verdisettingen av europeiske aksjer."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Stigende protestbølger kan tvinge myndighetene til kostbare innrømmelser, noe som svekker budsjettbalansen og øker statsgjelden."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/MAelWR/spent-paa-om-det-finnes-en-kriseplan",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjNNOFloeFZzN1FINU5NLTl2aGxVRUNZd2FtRi1DZ0d6Mjdaa0QxcmJoOVVVY2M5TnQ4eGx4RnpDX3dBNzZ4OExtZ00yWW5uelZQcXNEeWN0R09iTkdvMlBtVVB6bFBmazZPSjZrTTVNelhRMmc3endKMnJidlpuaG92SndGbUxuaUFtdE9helVfY3pXOEI1WjVLMW5xTmdkc0RCN09JTkpicldKOUJRM1dSNWl2RnJRc2t5M1ljbzFYQ2lkRHRTZTF1Y3kxWVhyZ3kycWRkbEdIUQ",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS01TdlhiYkc2bDFENWoxV09ic0lHUDJ5S1FZV0w3TXBieUNzQlZlNnNHMkZ4OTF1eVlFSUxmdzJXWFVSUFZtLVpRb3FpRG0wT3YyT3BkeDhNNDV5WmZYZExMT19GZDVKRHRPRHdNMTQ3SWx6bERBbTlYWjNKODNHWlNHZjk4a3RDempFM05qSXdiSTRFRjF4TEhTNF9rVVJESmJFeVEyRmdGMFlGUmZuV2dhNlNFeExtY3lKRHlxZlhUMmxFdDhNZzdhM0JTYXlQdnl5dW0xX0FPT1dOZnNR",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Luksusgigantene opplever kraftig verdifall som følge av svakere etterspørsel fra Kina",
+    "summary": "De store internasjonale luksusvarekonsernene har til sammen tapt om lag 250 milliarder euro i markedsverdi. Årsaken er at forbrukernes kjøpekraft og etterspørsel i Kina har dalt markant.",
+    "why_it_matters": "Redusert etterspørsel i verdens nest største økonomi rammer europeiske eksportører hardt og viser sårbarheten i globale luksusmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Betydelig inntektsbortfall i Kina svekker de forventede fremtidige kontantstrømmene for luksusprodusentene, noe som direkte presser ned aksjekursene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskapene må trolig legge om sine strategier, redusere kostnader og søke vekst i andre markeder for å kompensere for det svake kinesiske salget."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Endrede kjøpemønstre blant velstående forbrukere i Asia kan på sikt tvinge fram priskutt eller endrede produktkolleksjoner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1VZTTVsZDlFTU5aaW5tcU1ubjF1Z2pNVVR0TURlQWVndnpQajBTRzh0TU5ubW1qNnBUd3FGd3JfSWVXdHF0STl3dlVjWGRWUFdyc2hTZlo2OXp3TFl6MnFGOFJjZjNEQUVBVTVTTlRrQXlRMGxIVXR6UUV4LUlXdWZXRlJ4R3ZxZXY4Y0psOV9Nb3FYTVBoQkYzMUlFTmNJWHc",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnJtREJDUGc4d2g3QmVpRUgtb0RnYlhUZndUbnk2M0ZJNzg3VFp1TlFyOWpnbUE2c3U1OXJtanlWaEZ2cWZ4YkFmOUluR1FJbkJKUlNHLUdrSGFJVlFNSVNHcGp4RUk2b2tXRFo0T1dvTlA3MnBPTy1SbkNwbVpCcU5zSWI",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "JetBlue-kreditorer henter inn rådgivere mens aksjer og obligasjoner stuper",
+    "summary": "Kreditorne til det amerikanske flyselskapet JetBlue har engasjert eksterne restruktureringsrådgivere. Selskapet opplever kraftig fall i både aksjekurs og obligasjonsverdier.",
+    "why_it_matters": "Dette illustrerer den økende gjeldsbelastningen og de tøffe finansielle vilkårene for selskaper i luftfartssektoren.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Stupende aksje- og obligasjonskurser gjenspeiler investorers frykt for en snarlig restrukturering eller konkursbeskyttelse."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Høye finansieringskostnader og krevende gjeldsforhandlinger kan tvinge selskapet til å kutte i rutenettverk og driftskostnader."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGNXMUZPOXJzRVEySm1hY2trdEJ5MGhJWlN0eUlPLU11WEZSTlJ5WG16TFdLQjg2aU43bDZRakRBYXJTb2hKZ3pyQmRBNFBfLUx0Mlh5UDZDN1JjWHF0alUyamwyVEt2bExqZjN0VW81NjYtNnlwLUpyTTZSdHRHWU9GNFVCTHhHSnNjZTRVcHhTTnFiQ1MwZk54MnRpUzVnSDlXZG1Dc0RUMkpEb2lPY2JNcnpIZFk",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTV9lQlVsZ0dsNG8wRlVmTW9mbVJ2QmpXQmdVREwxYlljY3FBR2NSTmljaXdBYmFBMVY0VHhLVHREa0RmQjBwdEtDQVhiTnV3X2tJdEdCS2hsOUVDS0g4RUo5S2ZJY1RCSnFMWElBbEVIckM5eFhxcG9HNnJ2bG1vckFxa0duRG5VejV3RGRaUms2NWvSAZgBQVVfeXFMUFlMbGJmSGEzQy04RkpkVnJMa19ObWE2bThOdjdHcVg2YlVzSi1pODVuZVZZeGVIQUcxNkxGdkNnVjIxR1BUMTU1VDNyZC0yWVlWQTU3NFRTRFpwaU82M01rc1pwSWpDa0FWU1puaFdnUFI4a084WmpscUF2eVBteU93N2VTTGI1ckQ4b1hVQWZhZjhXWUl2VmE",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Advarer mot farene ved en voksende global gjeldskrise",
+    "summary": "Nye analyser peker på at verdensøkonomien beveger seg stadig nærmere en potensiell global gjeldskrise, drevet av høy statsgjeld i flere nøkkelnasjoner.",
+    "why_it_matters": "Høy statsgjeld internasjonalt kan begrense sentralbankenes handlingsrom og øke risikoen forfinansielle sjokk som også rammer Norge.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Statsfinansene under press internasjonalt kan føre til strengere lånebetingelser og økte kapitalkostnader for både stater og bedrifter."
+     },
+     {
+      "area": "Renter",
+      "effect": "Behovet for å betjene økende gjeldsbyrder kan tvinge frem en lengre periode med strukturelt høyere renter i globale markeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/w3o48d/fare-for-en-global-gjeldskrise",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Konkurransen i det norske bankmarkedet er fortsatt sterk",
+    "summary": "Ferske vurderinger av det norske bankmarkedet viser at konkurransen mellom aktørene holder seg sterk, noe som påvirker både utlånsrenter og betingelser for forbrukere.",
+    "why_it_matters": "Sterk konkurranse er viktig for effektiv kapitalallokering og gunstige lånebetingelser for norske bedrifter og husholdninger i en krevende økonomisk tid.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Hard kamp om kundene gjør at lånekunder kan oppnå bedre vilkår på boliglån og spareprodukter til tross for et generelt høyt rentenivå."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bankene må opprettholde effektive utlånsprosesser og konkurransedyktige priser for å beholde bedriftskundene sine."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHMwMGtxS0VvRE5EbE92TnctanZwWHFES2ZydFJJR21rQmFhUndFTVgtdDBoVDhncjBrX3BzM0s4YTNvSDhaUzlORWxCSEZhc3NwSmp3WTFFY1JxaUl0QzdTcEdEck5KS1AxYzVYOW40RC10X3hrbEY3YWROMWk4SGlzZGRhbWhaYnlHVWEtclZsTEF0RDQ4Q19QXzM1TW1pUldDeXV3WklqYVUwSzhDdXNfamdheGJP",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Konsulentbruk i store samferdselsprosjekter møter kritikk",
+    "summary": "Debatten om offentlig pengebruk spisses til etter at store summer har gått til eksterne konsulenter i samferdselsprosjekter som Fornebubanen.",
+    "why_it_matters": "Saken kaster lys over effektiviteten i offentlige investeringer og hvordan skattebetalernes penger forvaltes i store infrastrukturprosjekter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høy konsulentbruk kan bidra til budsjettsprekk og redusere den samfunnsøkonomiske lønnsomheten i store offentlige infrastrukturprosjekter."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Sterk etterspørsel etter spesialiserte tjenester opprettholder høye priser og lønnsnivåer i konsulentbransjen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaVpWSmpNczNObW8xcjdTOXJHT3RUOTFCZ1BQUnBrWGY3RUw1dE1yNmxidlZCc2JXeW1uYXhITnZFMkVMeDZTeV93VFhRYjh6S1hzUXdGUU4ySHl2OGQxX2p1Znhac1YzWDk4TmNmMHdMTHR3aW1WbnZURi1yaW1fNjBXTFF1RFRWRW83RkxrajB4Q1pCN1UzWmxvQUNsX00tOGJ4ZUtIaXRqSlBoOTR0OHhkLXZTdE1hWW9sTzg3aWJCQUxNdXhJNHIxQVY5c1Y3SzFzdUltNTdubmM",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Venezuelas opposisjonsleder María Corina Machado vender tilbake",
+    "summary": "María Corina Machado har returnert til Venezuela etter flere måneder i eksil, noe som utfordrer det sittende regimet og setter gang i nye politiske diskusjoner i landet.",
+    "why_it_matters": "Hjemkomsten kan skape økt politisk press for demokratiske reformer og påvirke den geopolitiske situasjonen i regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Kan forsterke det politiske presset mot regimet og endre maktbalansen i den interne opposisjonskampen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "E6 stengt på Østlandet etter omfattende oversvømmelser",
+    "summary": "Flere oversvømmelser har ført til at E6 mellom Lillehammer og Biri er stengt i begge retninger, og veien forblir stengt på grunn av vedvarende vannmengder.",
+    "why_it_matters": "Stengningen rammer en av landets viktigste ferdselsårer for både persontransport og godstrafikk tungt.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Infrastruktur",
+      "effect": "Skaper store omveier og forsinkelser for næringstransporten mellom Østlandet og Trøndelag."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/e6-stengt-mellom-lillehammer-og-biri-1.18064402",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDR4RUM5eXJiN0ZmUHBBd0hQR1NlemEyczBkMzBCMjlNR3NxZG1IMmM4THNnaEE0YWV5cC1CaThVU0Z5V3RsVXluNnBHTkN0eFJCU2VOVnhBZ0ViMkY4enVJZUxWZExCOU9NT3c3ZEJRNmZ2OVl1b2pkRVEwVEcxMl9nMHg2cUE4X2w4dnpLY0JyN2ozVzFvQlBEbw",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-25-08",
   "hour": 8,
   "date": "2026-10-25",
@@ -7519,323 +7744,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-10-20",
-  "hour": 20,
-  "date": "2026-10-10",
-  "generated": "10.10.2026 20:15",
-  "overview": "Geopolitiske spenninger preger råvaremarkedene etter nye angrep i Midtøsten og amerikanske utspill om russisk drivstoffimport. Samtidig øker oppmerksomheten rundt gjeldsbelastning i både europeiske statskasser og den teknologidrevne vekstsektoren.",
-  "stories": [
-   {
-    "title": "Trump varsler russisk dieselavtale og ber Ukraina stanse raffineriangrep",
-    "summary": "Donald Trump har kunngjort en avtale med Russland om import av diesel til USA og krever samtidig at Ukraina stanser angrepene mot russiske oljeraffinerier. Utspillet har skapt sterke reaksjoner fra Ukrainas president Volodymyr Zelenskyj, som Trump på sin side mener bør skiftes ut. Europeiske allierte og Norges utenriksminister advarer om at en slik avtale undergraver sanksjonsregimet mot Moskva.",
-    "why_it_matters": "Endringer i USAs sanksjonslinje og drivstoffstrømmer kan endre de globale energiprisene og svekke det vestlige alliansesamarbeidet mot Russlands krigføring.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Dersom russisk diesel finner veien til vestlige markeder kan det dempe raffineringsmarginene og legge et nedadgående press på globale drivstoffpriser."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "En oppmyking av USAs linje overfor Russland kan skape dype splittelser i Nato og svekke tilliten mellom Washington og europeiske allierte."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Lavere globale energipriser og svekket oppslutning om sanksjoner kan på sikt redusere Russlands inntektstap, men også påvirke Norges petroleumsinntekter negativt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/trump-angriper-zelenskyj-1.18051512",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/4Obv56/trump-om-ukrainske-oljeangrep-boer-stoppe?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Ny eskalering i Midtøsten: Angrep mot Riyadh lufthavn og tankskip i Hormuzstredet",
-    "summary": "King Khalid internasjonale lufthavn i Riyadh ble rammet av et nytt drone- eller missilangrep som førte til personskader og midlertidig stans i flytrafikken. Samtidig melder Irans revolusjonsgarde at et oljetankskip står i brann i Hormuzstredet etter å ha gått på en sjømine. Angrepene markerer en markant tilspissing av sikkerhetssituasjonen rundt sentrale transport- og oljeknutepunkter i Gulf-regionen.",
-    "why_it_matters": "Hormuzstredet og Saudi-Arabias infrastruktur er avgjørende for verdens oljeforsyning, og forstyrrelser her kan gi umiddelbare hopp i oljeprisen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Økt risiko for skipsfarten i Hormuzstredet kan tvinge rederier til å kreve høyere krigsrisikopremier og presse oljeprisen oppover på kort sikt."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Uro i globale forsyningslinjer kan løfte aksjekursene for norske olje- og tankrederier på Oslo Børs på grunn av økte fraktrater."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Vedvarende forstyrrelser i energitransporten kan forplante seg til drivstoff- og transportkostnader og dermed forsinke sentralbankenes inflasjonsmål."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9hVGtMSXpTVDJ3c05vRW9SQ2lRLTg3cUlOeWxDc2w4amF5V2N2Ul9YazdxcHJGNDRwd3hlQi15a2ZGWWZoZnc1dlA5UkY3cU9PclVCNkh6SVkzQ25waEVRRlN2TVdES3lKV1VuVXN6QnJycWxtdkNOdUIwMTdTRE9fbko3Umt5d0huNVY1dW9ZcFpLSF9yczRGRHJfSWZhM1AtTkVzbVR4TlRUdzhIb19JN3o?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1l4eGwzQU9YSkdQVHExamFsOU5fT1JNVjNHYmxiTTdOODYxRmJGYnUxX3ZlX1l3cjNpLVgtbHpGLXp0QjBOekFRRmdrclBiclp6S29NNHM1SDgza2gzUjJ2OTA2SGpESnAzT295WGZsN214V1p2NVZybi1nQjR1WFVZQVQ0eFRHWmxzdnplNVJ1RnUtRGFBdmllYXc4bVFWYzlmeV9R0gGrAUFVX3lxTFBpZl9aQXk5OW05Rk9sM2ZKR3pHSHUwRklWdVRHcWg1Ynd4cTZDS25HbENucHBGYzd1Xy1MenA1LUhUd3F2MUl5YVo1RUxOOE5CbjQzVXdnbVJtemthdjcwRTduU0JWQ25wSTRqVHdGOF9mY2FOWTQxNmpJWHlUTmxrbEpXckk2eHlka3hGcGZrZmdKZFIzUFRpR1AyVEJteHVkMzFSaHdCSjlhQQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/iran_-oljetankskip-i-brann-i-hormuzstredet-1.18051514",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Investorer bremser gjeldsfinansiering innen kunstig intelligens",
-    "summary": "Låneopptak knyttet til store satsinger innen kunstig intelligens er i ferd med å avta ettersom investorer blir mer skeptiske til den kraftige gjeldsveksten. Samtidig skaper politiske initiativ i USA om juridisk erstatningsansvar for AI-modeller ytterligere usikkerhet for sektorens forretningsmodeller. Finansmarkedene krever nå i større grad dokumentert lønnsomhet før nye kjempeinvesteringer godkjennes.",
-    "why_it_matters": "Dersom kapitaltilgangen til datasentre og regnekraft strammes til, kan veksttakten i hele den globale teknologisektoren dempes betydelig.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Krav om høyere lønnsomhet kan legge press på høyt verdsatte teknologiselskaper som hittil har lent seg på billig og rikelig gjeldsfinansiering."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Selskaper som bygger ut infrastruktur for kunstig intelligens må trolig prioritere strengere og utsette de mest kapitalkrevende ekspansjonsplanene."
-     },
-     {
-      "area": "Renter",
-      "effect": "Økte risikopåslag i obligasjonsmarkedet for teknologiselskaper kan gjøre refinansiering av eksisterende lån vesentlig dyrere fremover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmdMU0RnR2ZKMjcyckU0andTM3BtOV92NTQxZndtVjVva0JsUzRSRkR4a0JaRUZUTVlGNTBxa3k4N1pfU2kyRlQ3aGFrbHhpVTNlRVd5d213RThxbUV1OThHRFJVLXdNMWgtWE9waGs4UXBPRFRfVlQ4V3FiVmd2RVVzcDM?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlEwdWh3UlBnVFNxWEtNemNtUzI4eXppbzRTV1E5eTFkVmMyYXAxcVdXd2ZXLUtIcHhpWkRNUlFuQUd5TjE0T21MY2E4UG9xOG0wbDBDemFoMXRpQVRrYWJjU0hVN0N0eTFCd0Rnc21CbTF2NURqWllxZzF6RmZXZkExX1JxZVk5cGczRG16dktMRE5sTk1vTDQ1YVdDTWI5TnR5Mm93UndTWDBZZDM1aTlHdWdoZw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Staten tar rekordutbytte i Bane Nor midt i økende vedlikeholdskostnader og togstreik",
-    "summary": "Staten henter ut et historisk høyt utbytte fra Bane Nor til tross for at etterslepet og kostnadene for vedlikehold på jernbanenettet fortsetter å vokse kraftig. Samtidig sitter partene i samtaler etter tre uker med togstreik for å forsøke å finne en løsning på arbeidskonflikten. De store statlige uttakene i en tid med forsinkelser og misnøye skaper sterk debatt om prioriteringene innen samferdsel.",
-    "why_it_matters": "Effektiviteten og påliteligheten i jernbanenettet er avgjørende for norsk produktivitet, dagpendling og næringslivets godstransport.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Høye utbytter gir kortsiktige inntekter til statskassen, men kan redusere selskapets egenkapital til nødvendige og langsiktige oppgraderinger av sporkapasiteten."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Vedvarende problemer og streik i jernbanetransporten tvinger vareeiere over på dyrere veitransport og skaper forsinkelser i forsyningskjedene."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Fortsatt etterslep i vedlikeholdet betyr risiko for hyppige innstillinger og redusert mobilitet for tusenvis av daglige togpendlere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/R55Rea/staten-tar-rekordutbytte-i-bane-nor?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/2VvRgv/nye-forhandlinger-i-togstreiken-vi-sitter-i-samtaler?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Aqualis vurderer markedsplassbytte etter nye skatteregler",
-    "summary": "Konsulentselskapet Aqualis vurderer å flytte sin notering fra hovedlisten på Oslo Børs til vekstmarkedsplassen Euronext Growth som følge av endrede skatteregler. Finansdepartementets regeljusteringer åpner for skattemessige tilpasninger som gjør den mindre regulerte listen mer attraktiv for enkelte aktører. Utviklingen kan føre til at flere selskaper revurderer sin noteringsform for å optimalisere rammebetingelsene.",
-    "why_it_matters": "Dersom etablerte selskaper forlater hovedlisten, kan det svekke likviditeten og attraktiviteten til Oslo Børs som kapitalmarkedsarena.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "En overgang til Euronext Growth kan svekke handelslikviditeten i aksjen ettersom visse institusjonelle investorer har mandater som utelukker vekstmarkeder."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Endrede skatteregler kan tvinge myndighetene til å vurdere utilsiktede konsekvenser dersom mange selskaper søker seg bort fra strengere rapporteringskrav."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Selskaper som flytter til mindre regulerte markedsplasser kan oppnå lavere administrative kostnader, men risikerer samtidig høyere langsiktige kapitalkostnader."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/L3o7n4/aqualis-vil-bytte-markedsplass-etter-jens-grep?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdE5VS3RnMmlmdHNXSzZXaU5GSl9VQWpKam5HRHZ4WUx2RlpZUjNwNkdKejRudWJXUkYta0ZySmlBYUJac0pYbWtWaTlwdDdIdVpvaGkzdGN2YVNDMWJFaWdteDJiblVaUEtnYlJTbGptVWY3dHc5aWRNTzRXNWVZNzBucTB5ZVVVTzlKMnFiX0xhSlpPTmh0SUE3d0xJeGNva2c?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Tysk sentralbanktopp advarer om økt risiko for statsgjeldskrise i Europa",
-    "summary": "En direktør i den tyske Bundesbank advarer om at risikoen for en ny statsgjeldskrise i eurosonen øker i takt med voksende budsjettunderskudd og høye renter. Samtidig har EU kuttet i forslagene til et felles budsjett for å tvinge frem en avtale mellom medlemslandene før årsskiftet. Den finanspolitiske spenningen forsterkes av at renteutgiftene legger beslag på en stadig større andel av de nasjonale inntektene.",
-    "why_it_matters": "Finansiell ustabilitet og økte gjeldsrenter i eurosonen vil umiddelbart påvirke europeiske markeder, kronekursen og Norges viktigste eksportmarked.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Økt frykt for mislighold eller gjeldsuro kan drive opp risikopremiene på statsobligasjoner i søreuropeiske land og presse europeiske renter opp."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Krav om strengere budsjettdisiplin kan tvinge europeiske regjeringer til upopulære kutt i offentlige velferds- og investeringsbudsjetter."
-     },
-     {
-      "area": "Handel",
-      "effect": "Finanspolitisk innstramming i store europeiske økonomier kan svekke importetterspørselen og dermed ramme norsk fastlandseksport negativt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QcFJHVHJnWmlWZVpmOXVwVG1oSl8yczZPUXhrdUpjZWVqVnFOMlp5YnlxNThjcl9EbUh0bzZ2RW1OVWlEYmdMVjhqRWZGLWoybTNCN2JzY2U3QQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGhTYXI5cWdEWWpWQzlKb0NyWWQ5NG5nbmNRVFRmQ29SOEVtMkd5WHQ5bG93VlpCcHFnWXc0OHdmNGdtVjZLVmZqWloyQnp0V0ZtTFMtY3NVYno2WXJlVi13ZUhJZVZNX2w3NUI3LVFRaUhoVkpnUWcxUVFwbjU4SlVZT18?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Bank of Japan og asiatiske sentralbanker under kraftig valutapress",
-    "summary": "Bank of Japan opplever økende forventninger og press om rentehevinger, samtidig som Indias sentralbank må intervenere for å hindre at rupien faller til nye bunnrekorder. Rentedifferansen mot USA holder dollaren sterk og setter asiatiske valutaer under vedvarende press. I tillegg preges regionen av lavere innenlandsk etterspørsel i Kina, der bilsalget stupte med 24 prosent i september.",
-    "why_it_matters": "Pengepolitiske innstramminger i Japan og svingninger i asiatiske valutaer påvirker globale kapitalstrømmer, internasjonal handelsbalanse og råvarepriser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Dersom Bank of Japan tvinges til å heve styringsrenten raskere, kan reversering av globale carry trades skape uro i internasjonale obligasjonsmarkeder."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "En sterkere dollar mot asiatiske valutaer forsterker den generelle dollardominansen og kan holde den norske kronen under fortsatt press."
-     },
-     {
-      "area": "Handel",
-      "effect": "Svakere asiatiske valutaer gjør asiatisk eksport mer konkurransedyktig, men øker samtidig importkostnadene for råvarer som handles i dollar."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1l6ZmsxSHZWZkZZZzZQdEJJLTB6OEhtaUtFTDRzeTZGcmk5UTlkUUxhTnJBQlJzc0xWZV84QzhxT0NsZXNqeUhuNzdSYmpFb2VRdnlMekZsQTZsMVQ3OE1yVXlHRjZTTmN2ZmJic2syUVlGaURPVXdoMDh2bWp6SjBlVUhxMzU5RFpOU3JRZG0?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC11cWQ1NWZfWG1tRkVXS094TTFCeGtNV3daVHBib09DWEFKZFF0a28wQlNBWXR4RnlyTUY0djM2TEF4TlZ1VDA5U0RmRnlaQlQ3S2prSTJibWc4LWstc1BnYkRFNHY4aDZxRjV0dWpMWGxoVUUxYU1qU2Iwa29YbnhKaFo?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gtd3Z0REN3OUVUT1ZneTRMSVBCdkZXOWgwNncyeWVxRzgzMWl6Z0tIS2p6bUdQMXB4TnhRS2QtZFBKTG9EempaS2xlY3psVy1wcmg1dU84VjJjZHdROHZGQTVTcXN6SnhGRDUzYmQ2VmNzM01tcVRnYTFUcDFja0luOE5yek13aEJOeFVmNWVkUE1yYlNYb2lINWQ2N256T0hNMW11aUFCcS1C?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Ni personer drept i masseskyting i Pennsylvania",
-    "summary": "Ni personer, inkludert to barn og den mistenkte gjerningspersonen, ble drept i en skyteepisode i byen Erie i delstaten Pennsylvania fredag. Delstatens guvernør bekreftet dødstallene lørdag, og politiet etterforsker hendelsesforløpet og motivet bak angrepet. Lokalsamfunnet er i sjokk etter hendelsen, som føyer seg inn i en lang rekke dødelige skyteepisoder i USA.",
-    "why_it_matters": "Skytingen forsterker den pågående nasjonale debatten om våpenlovgivning og offentlig sikkerhet i forkant av politiske valg i USA.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Tragiske voldshendelser som dette kan øke presset på amerikanske lovgivere for å innføre strengere bakgrunnssjekker og restriksjoner på våpensalg."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDlfNkVpRUN6UE1fSVJzM3htbVFTcThFOHl4clZ1UFd1XzFwTGNRYW8wdGswdnFwSnViSlV5RVZjbkZUYlMzX0RXaEI4ZzY0TWR4eE9GWTRTOU50NDVacTdWZUliN0pDYkJCcHVPc2FKbTZKNkhoNXM3YVUzeEtwWEZENTByOWpSRUlGTnlDcmt4dDJXRmlPT3QyZlpSQ3c?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/ni-drept-etter-masseskyting-i-pennsylvania-1.18051505",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Kraftig jordskjelv med styrke 7,7 rammer Panama",
-    "summary": "Et jordskjelv med styrke 7,7 rystet Panama og utløste panikk og skader på infrastruktur og historiske bygninger, deriblant en katedral som kollapset delvis. Myndighetene sendte ut tsunamivarsler langs kysten og iverksatte evakueringer av sårbare områder. Redningsmannskaper arbeider nå på spreng for å kartlegge skadene og bistå berørte innbyggere.",
-    "why_it_matters": "Store naturkatastrofer i Mellom-Amerika truer lokal matsikkerhet og kan ramme viktige regionale transport- og havneforbindelser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Ødeleggelser på transport- og havneinfrastruktur kan skape kortsiktige logistikkutfordringer for varetransporten gjennom den panamanske handelskorridoren."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1A3ejRlMnQ0WElNVHdzV2xUdWNwRnJsNC1KZzU4R0ZFbXhBc09xX1Nya0JzMDJnTjlkRk1zZE1JWFBJeG5QVXhlRWpzb05SbUR4cFl2dmN0ZkE1N0trVTNoaUx2MUlZSkpNTXlNTzFTZC1qVldDcTVyMGJLZFRtVGtaaFY1amxuTDlRT1JQdmwxaGU0ajcwMDliYUtRbDBRem5YdVM4QVVWeDFPUjV0c0hjUmtkOWxEU2F3Q2cwWQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Navi Pillay tildelt Nobels fredspris for arbeid innen internasjonal rett",
-    "summary": "Den sørafrikanske juristen Navi Pillay er tildelt Nobels fredspris for sitt langvarige arbeid for internasjonale domstoler og menneskerettigheter. Kunngjøringen har fått bred internasjonal omtale, samtidig som Donald Trump offentlig kritiserte avgjørelsen og hevdet han selv fortjente prisen. Tildelingen retter søkelyset mot viktigheten av internasjonale rettsnormer i en turbulent tid.",
-    "why_it_matters": "Prisen løfter betydningen av folkeretten og globale rettsinstitusjoner i en periode der det multilaterale systemet er under sterkt politisk press.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Anerkjennelsen av internasjonale rettsforkjempere kan styrke legitimiteten til globale domstoler i en periode preget av økende geopolitisk polarisering."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1JaUVE4ck5QdnpKRUpKbVJWWVRDbnUxNzBCbmZXNWt1SmZJaVZzZEMwd2tWNUJSUG1WOEdLaEdxUWRwVTBXc291WTdWTlRaTWV5VVVmQV9aLV9PVy1uV3NGT1A0OS0zc2JNTUpsclJvWG11UjRKRW1jeTFYaXp0WkR5Zw?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUthQnFiV0txRmZlZHV5Qlc3dU1Sb3NkaWpNSjhKaGJuampKa1NTNHl3aE9XdjBHWTg4UmNpVjVWRWhUa0FXNVNYUjJvcHRDR1drSmdXNDhzWGdWWkxLaGhIb3VlWTlSRkFIU1pERzFUdlNTS1dFbk5SRFllYUozWEJIbTBRajRFT3QwcUQ5TWw5cnpxcGVUa1dKOE9NZVhoc2lqVUNWaENiUTF3amQ0TVJSbDBFakdHcVE?oc=5",
       "paywall": false
      }
     ]
