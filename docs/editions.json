@@ -1,5 +1,253 @@
 [
  {
+  "id": "2026-10-25-08",
+  "hour": 8,
+  "date": "2026-10-25",
+  "generated": "25.10.2026 08:33",
+  "overview": "Trusselen om økte tollsatser driver industrigiganter som Audi til storsatsinger i USA, samtidig som offshoresektoren rystes av et dramatisk riggforlis utenfor kysten av Gabon. I Norge preges debatten av strukturelle kostnadsdrivere i boligmarkedet og politisk uenighet om kraftkrevende datasentre og sårbar teknologisk infrastruktur.",
+  "stories": [
+   {
+    "title": "Borr Drilling-rigg har sunket utenfor Gabon – fem personer savnet",
+    "summary": "En oppjekkbar borerigg tilhørende det Oslo Børs-noterte selskapet Borr Drilling sank utenfor kysten av Gabon lørdag kveld. Av et mannskap på 115 personer er fem personer bekreftet savnet, og det pågår redningsaksjoner i havområdet. Hendelsen representerer en alvorlig industriulykke for det internasjonale riggmarkedet.",
+    "why_it_matters": "Ulykken kan få direkte operasjonelle og finansielle konsekvenser for Borr Drilling samt påvirke risikopremier og inspeksjonskrav i offshoresektoren.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Børskursen til Borr Drilling kan oppleve kortsiktig salgspress og økt volatilitet som følge av usikkerhet rundt forsikringsdekning og fremtidig kontraktsgjennomføring."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Strengere sikkerhetsrevisjoner og tilsyn fra oljeselskaper offshore kan forsinke planlagte borekampanjer og øke de administrative driftskostnadene for riggoperatører."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Bortfall av riggkapasitet i Vest-Afrika kan kortsiktig stramme til det regionale markedet for oppjekkbare rigger og forskyve oppstarten av nye leteprosjekter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0syTVctQjBVNERoUW43ei1PUjIxVmJ0aENNdDFtaEwzQXZBZF9IaGNpdU1fX3VNQVZaVE96c3pURGhiSDdZVHFnU01TZF9uelpTRnFkcVZxQ0hzUG8zS05CMHFpRTg3NXc0SE5zSWdWbnNqLUM5Rm1Qd0g3bDJkNzZpQW45RDg2VTJNek1vcEptWUtJRlhkUW5jRXRLUjBZT2d0cHhVTi1TNDRCYnYw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/jv5QBe/borr-drilling-rigg-har-sunket-fem-savnet",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/xlogpB/borr-drilling-rigg-har-sunket-fem-savnet?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Audi investerer 4 milliarder dollar i ny elbilfabrikk i USA",
+    "summary": "Den tyske bilprodusenten Audi har bekreftet planer om å bygge sin aller første amerikanske fabrikk i delstaten Georgia med en ramme på fire milliarder dollar. Kunngjøringen ble først løftet frem av Donald Trump under et velgermøte og kobles til presset fra ventede tollbarrierer. Produksjonen ved anlegget er ventet å starte tidlig i neste tiår.",
+    "why_it_matters": "Satsingen illustrerer hvordan trusler om proteksjonisme og handelshindre tvinger europeiske industrilokomotiver til å flytte investeringer direkte inn i det amerikanske markedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Trusler om høye importtoller akselererer etableringen av lokale produksjonskjeder i USA på bekostning av europeisk eksportindustri."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Europeiske bilprodusenter må binde opp betydelig investeringskapital i kostbare utenlandsanlegg samtidig som de møter marginpress fra asiatiske konkurrenter."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Flytting av industrikapasitet til USA kan over tid svekke industrisysselsettingen i Tyskland og endre dynamikken i den transatlantiske verdikjeden."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMjVNYUd1c2U4ZkhFcV96ZUJEejIzc0w5T1pfVjhfVHRHN0hLTEx2U09wV1ZJLWtnZ1h4bnJVc0FoY1A4Nk1fMFhvUF9sX0o2V19IMk9kYjlTRjBaaTdFa09hS0JEeDZVc2FZX3RNenPSAXZBVV95cUxQZ1JjVjZMRUxGdzhjTlNnQVNGT2dLTHNVSXV4UXRmUGhjZFFNbEVQckZQaVBkVHNZbzVyaEtEYVBvREdBSTZFakdFYXNtaXB4Wmg4Vzd6WFlYYVNkeEp4OV8yTlRpTS1wSVZlUlFNWERyTVVNeEVR?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5}, {",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Obos: Treg saksbehandling gjør nye boliger en halv million kroner dyrere",
+    "summary": "Boligbyggeren Obos har beregnet at lang saksbehandlingstid i kommunene fordyrer nye boliger med opptil en halv million kroner per enhet. De akkumulerte rente- og kapitalkostnadene som påløper i venteperioden veltes direkte over på sluttkjøperne. Dette forverrer tilbudskrisen i sentrale pressområder ytterligere.",
+    "why_it_matters": "Byråkratiske forsinkelser reduserer boligbyggingen i Norge og bidrar til vedvarende høyt prispress for boligkjøpere.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Bolig",
+      "effect": "Ekstra rentekostnader i planleggingsfasen presser inngangsprisene opp og gjør det vanskeligere for førstegangskjøpere å komme seg inn i markedet."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Tydeliggjøring av de samfunnsøkonomiske kostnadene kan tvinge frem krav om forenklinger og strengere tidsfrister i kommunal plan- og byggesaksbehandling."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høye nybyggpriser demper kjøpekraften til husholdningene og tvinger flere inn i et allerede stramt og kostbart leiemarked."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/stor-oslo/boliger-blir-dyrere-pa-grunn-av-treg-saksbehandling_-ifolge-obos-1.18058561",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Konsulentgiganter bruker milliarder på AI uten målbar gevinst",
+    "summary": "De ledende revisjons- og rådgivningsselskapene EY, Deloitte og KPMG investerer milliardbeløp i kunstig intelligens for å automatisere tjenestene sine. Samtidig erkjenner toppsjefene i selskapene at de foreløpig ikke kan dokumentere hvor mye tid eller penger teknologien faktisk har spart dem for. Innsatsen handler i stor grad om posisjonering fremfor kortsiktig avkastning.",
+    "why_it_matters": "Utviklingen synliggjør spriket mellom massive kapitalinvesteringer i kunstig intelligens og mangelen på målbar produktivitetsvekst i tjenestesektoren.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Høye løpende lisens- og utviklingskostnader uten tilsvarende effektiviseringsgevinst kan legge press på driftsmarginene i profesjonelle tjenesteytende selskaper."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Behovet for manuell kontroll og kvalitetssikring forblir høyt, noe som forsinker eventuelle bemanningskutt blant yngre saksbehandlere og analytikere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/1ooBnQ/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/p1aWp6/svir-av-milliarder-paa-ai-slik-bruker-de-teknologien",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Politisk strid om kraftkrevende datasenterutbygging i Norge",
+    "summary": "Partiene KrF, SV og Rødt krever nå full stans i utbyggingen av nye store datasentre på norsk jord på grunn av massivt kraftforbruk. Fremskrittspartiet ønsker imidlertid å avvente regjeringens signaler før de tar stilling til eventuelle begrensninger. Spørsmålet om prioritering av fornybar kraft skaper en stadig dypere politisk skillelinje.",
+    "why_it_matters": "Tilgang på rimelig fornybar energi er en av Norges viktigste konkurransefordeler, og politiske reguleringer vil påvirke fremtidig industrietablering.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Et eventuelt forbud mot nye datasentre kan frigjøre betydelig nettkapasitet og dempe fremtidig prispress på strøm for eksisterende fastlandsindustri."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Regulatorisk usikkerhet og politisk motstand kan skremme internasjonale teknologiselskaper fra å plassere langsiktige milliardinvesteringer i Norge."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "En oppbremsing i utbyggingene kan redusere forventede lokale skatteinntekter og næringsutvikling i distriktskommuner som har tilrettelagt for datasenterklynger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/qyMAkg/feigt-av-frp?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/77ad0K/feigt-av-frp",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sikkerhetspolitisk uro rundt Forsvarets avhengighet av Starlink",
+    "summary": "Forsvarets omfattende bruk av satellittsystemet Starlink vekker skarp politisk debatt i Norge, der representanter fra blant annet MDG krever full gjennomgang av utbyggingen. Det advares mot nasjonal sårbarhet ved å basere kritisk militær kommunikasjon på en infrastruktur kontrollert av ett enkelt privat amerikansk selskap. Diskusjonen aktualiserer behovet for europeiske og statlige alternativer.",
+    "why_it_matters": "Avhengighet av private utenlandske satellittnettverk reiser fundamentale spørsmål om nasjonal forsyningssikkerhet og fremtidige forsvarsbudsjetter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Krav om statlig eierskap eller felleseuropeiske satellittalternativer kan kreve store ekstrabevilgninger over statsbudsjettet til militær infrastruktur de neste årene."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Sikkerhetsmyndighetene kan komme til å stramme inn reglene for offentlige anskaffelser av utenlandsk kommersiell kommunikasjonsteknologi i forsvarssektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM3BGdC11b1JSR2M0NlBVcXJjZmh1cXh0dUhYcFN1c2s4eEUzQWZSQlBWNlRPckR2VkFSSndXY2dxQWdvLWJkRWJaME9kUlVhbkZiUEJKeFFrcFEwVVJMaWZWZTdsRVpXejJySVluWVhFZVh6c1Z2QkpWREg4NlZ4MVJFcGxrLTBJSHNOX0hHQTd0R1Jsckh2aU1udFNHQ2RLSmc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHNGcEFSLVE5UktlTnVXeC0yb0VOM0R0YWlmUnpKZVV6b3JmbnAzTVhCTTV3ZVVsYVZHNkdWN3ZKY0NYb2FRdVdER2xYTzBjMGYwZk5QMnVIUDcxUWtYVm9tTDFDajc1aDNhSy1tSWFqUzc3SjFmN2ZaeXJSNGpjVmVvcWJQX1NIUlQ5ZE1XbmstSVhlZkNnbjNRTWxZdzFpMnYtRzFBWExINW5jdi1fZUk5R1hqVHFCMUUzSFhWRzZUbEda?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Omfattende demonstrasjoner og sammenstøt i Frankrike",
+    "summary": "Over 400 000 mennesker har deltatt i massive demonstrasjoner over hele Frankrike, hvor voldelige sammenstøt i Paris resulterte i nærmere 1 000 pågripelser. Protestene reflekterer dyp sosial uro og misnøye med landets politiske ledelse, og bevegelsen har også skapt sympatimarkeringer i flere andre europeiske storbyer.",
+    "why_it_matters": "Vedvarende sosial uro i Frankrike svekker president Macrons styringskraft og skaper politisk usikkerhet i hele EU-området.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk og samfunn",
+      "effect": "Omfattende gatesammenstøt og streiker kan lamme fransk reformarbeid og forsterke den politiske polariseringen foran kommende valg."
+     }
+    ],
+    "sources": [
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTE1cDZCMklaV21ZZDl1bXVYcEJpNnMtclN1dm93MnZnRVlaczRrNTFvODFEX0psNlJoS1FzeTdIZGVibUstVlZjU3FwdnQ2QloyZmN3cVA2ZWxPY2ZjVmFBRU1fNERVQVVzSkJhc1JXa2dQZDZSZGswdjg4bC0yQlpBYlMtYUEx?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Skjebnevalg i Brasil: Polariserte masser mobiliserer foran andre valgomgang",
+    "summary": "Over en million tilhengere av president Luiz Inácio Lula da Silva har marsjert i gatene like før et knallhardt og polarisert presidentoppgjør mot den høyreorienterte fløyen. Nesten 159 millioner velgere avgjør landets politiske retning etter en valgkamp preget av dyp splittelse og hard retorikk.",
+    "why_it_matters": "Valget i Latin-Amerikas største nasjon har avgjørende betydning for regional stabilitet, internasjonal handel og bevaring av regnskogen i Amazonas.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Valgutfallet vil direkte avgjøre Brasils internasjonale miljøforpliktelser og forme maktbalansen mellom demokratiske og populistiske allianser i regionen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRERzY2I1ckluNjVKR2FvZ3Zoa3VNSU5RenBBcHpOQXZaeG5Semc2aFkxVVNRVXNRLXBnMGp2NE5xT3M1V2dMV1JYUVE1ejlGem1DWkt5Tmh4dGZZam8yWG5vM2tzM2NTRmxDaXBoSmVNbTVlSGp6M3AyUmM2UlhzYXpyZm1keXlG?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-24-20",
   "hour": 20,
   "date": "2026-10-24",
@@ -7588,301 +7836,6 @@
      {
       "name": "Euronews",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUthQnFiV0txRmZlZHV5Qlc3dU1Sb3NkaWpNSjhKaGJuampKa1NTNHl3aE9XdjBHWTg4UmNpVjVWRWhUa0FXNVNYUjJvcHRDR1drSmdXNDhzWGdWWkxLaGhIb3VlWTlSRkFIU1pERzFUdlNTS1dFbk5SRFllYUozWEJIbTBRajRFT3QwcUQ5TWw5cnpxcGVUa1dKOE9NZVhoc2lqVUNWaENiUTF3amQ0TVJSbDBFakdHcVE?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-10-08",
-  "hour": 8,
-  "date": "2026-10-10",
-  "generated": "10.10.2026 08:18",
-  "overview": "Uken preges av geopolitisk og energimessig uro etter at Donald Trump kunngjorde en kontroversiell dieselavtale med Russland, samtidig som orkanen Isaias rammer oljeproduksjonen i Mexicogolfen. Samtidig skaper økende mislighold av amerikansk forbruksgjeld og satellittkonkurranse i telesektoren betydelige ringvirkninger i finansmarkedene.",
-  "stories": [
-   {
-    "title": "Trump varsler dieselavtale med Russland for å dempe drivstoffpriser",
-    "summary": "Donald Trump opplyser at han har inngått en avtale med Vladimir Putin om å tillate russisk dieseleksport til verdensmarkedet og USA. Formålet skal være å presse ned globale drivstoffpriser, men avtalen møter skarp kritikk fra Ukrainas president Volodymyr Zelenskyj, som kaller tiltaket en direkte finansiering av Russlands krigføring. Reaksjonene har skapt usikkerhet blant europeiske allierte om fremtiden til det internasjonale sanksjonsregimet.",
-    "why_it_matters": "En svekkelse av energisanksjonene mot Russland kan endre de globale raffineringsmarginene og redusere Europas energiomstillingstakt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Et økt tilbud av russisk diesel i markedet kan presse ned raffineringsmarginene og redusere prisene på drivstoff for globale forbrukere og transportnæringen."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Ensidige energiinitiativer fra USA kan svekke samholdet i vestlige sanksjonsallianser og skape diplomatisk splid mellom Washington og europeiske allierte."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Europeiske raffinerier som har investert tungt i omstilling for å erstatte russiske petroleumsprodukter, kan møte tøffere marginpress og lavere inntjening."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/d77x3B/trump-russland-skal-levere-diesel-til-usa-og-verdensmarkedet?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVEpfQUt4N0dsSkdPd0R3NnBQYnpPY01HdDBXbDU3MkRhVnF4RElJZldwd1NmTFdGSzQwSm4wbWRRZ2dOVUI1VmdVQ2QzWVUycjk4Y1dGU01mbGp0WTlSMXVRZm96blV6R040cUhmcUZoMHdMZGJfY1RuMkEzQk41bmRuNnE?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWVqVnNJdVl6QnI3QmppeUxKWlJXZXF0UHFjUDFrYVdJMTdOQnQ1ZTRreldUSl8tQ3llajdPaDVUT2dSWUFFdnhiZFJBVk5NeGZ6aXR1VGt1YUU1MzA3VEFVODBWOGVHSnoweFQxLWFPcC1lZEphNFZzdklJQUZVd2x6WXJhQmtxbEVZUUZSN3NCTkNyTHFfVkY2bFVoTWhncnFianJ5ZS1HVTZ0enNiNUtidHR6X1BqZlVkZWxxZjd3UQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tollvesenet slår alarm om ukontrollert pakkeimport fra kinesiske Temu",
-    "summary": "Over 1,1 millioner pakker ble sendt fra Kina til norske forbrukere i løpet av en enkelt måned, primært drevet av lavprisplattformen Temu. Norske tollere advarer nå om at etaten mangler kapasitet og kontrollsystemer til å håndtere det massive volumet. Situasjonen skaper bekymring rundt ulovlig import, produktsikkerhet og unndragelse av avgifter.",
-    "why_it_matters": "Det voldsomme importvolumet utfordrer like konkurransevilkår for norsk varehandel og truer statens avgiftsgrunnlag.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Norske detaljister taper markedsandeler og marginer til subsidierte utenlandske aktører som opererer uten samme regulatoriske kostnadsbyrde."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Manglende kontrollmekanismer ved grensen kan føre til tapte merverdiavgiftsinntekter for staten dersom toll- og deklarasjonsregler omgås i stort omfang."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Tollvesenets varsko vil trolig øke det politiske presset for strengere kontrollkrav og endrede importregler for lavverdisendinger fra tredjeland."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/9kvK9d/slaar-temu-alarm-vi-har-ikke-kontroll?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/zl0wRq/slaar-temu-alarm-vi-har-ikke-kontroll",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "SpaceX utløser verdifall på 60 milliarder dollar i amerikansk telekom",
-    "summary": "Amerikanske telekomselskaper opplevde et samlet verdifall på 60 milliarder dollar på Wall Street etter nyheten om at Elon Musks SpaceX kjøper trådløst frekvensspektrum. Oppkjøpet signaliserer at Starlink planlegger å trappe opp konkurransen direkte mot etablerte mobil- og bredbåndsoperatører. Investorer frykter at satellittbaserte tjenester vil undergrave tradisjonell infrastruktur og presse operatørenes abonnementspriser.",
-    "why_it_matters": "Inntoget av rombasert teleinfrastruktur utfordrer tradisjonelle forretningsmodeller og skaper usikkerhet rundt kapitalkrevende 5G-investeringer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Telekomaksjer rammes av reprising ettersom investorer krever høyere risikopremie for selskaper med store gjeldsbyrder og truet fremtidig kontantstrøm."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Direkte konkurranse fra satellittaktører kan presse prisene på mobildata nedover og tvinge etablerte teleselskaper til å kutte i marginene sine."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Telekomselskaper kan bli nødt til å revurdere eller nedskrive store investeringer i bakkebasert fiber- og 5G-infrastruktur dersom rombaserte alternativer vinner terreng."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXdFZG5WakJCQXlib2tWcFNubHVYOVItdzBaZmVQQ0FDSkFPT3V4cGRTRmNwMDEyRWltWkdmcFJDUW5BcTZpampZN1JpT0VRQ2pJLU9YN1p0bHlUbFlXbnE5dllPbXJEUzJ2d09WNUw1c0dENVJNNTBaUzgtd3NhZ0ZHOWw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcjkwUzRVUUpPY1hUSkNUV0lZN0tsTUZ4QlowVXktaDAzVmIxdHp2S1VsVTE3d3VLaTdUbGxrRHYzYlRRbGdJRXcxd1N1TExlV1RxN1FLeHdwMHN5dWl1SlJJTUdHcGMza1BFOThCQjE4SWVjX29qdnZJQjBVSEx2SklqY2dkNTd0UTNvUF9ub29SVEN0Z0dNVTRuenZIamtKbE1LelBR?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Økende gjeldsbetalingsproblemer blant amerikanske husholdninger",
-    "summary": "Ferske analyser viser at evnen til å betjene privat gjeld i USA har forverret seg til nivåer man ikke har observert siden den store finanskrisen. Selv om formuesgapet har snevret seg noe inn, sliter lav- og mellominntektsgrupper i økende grad med mislighold på kredittkort og billån. Vedvarende høyt rentenivå kombinert med oppsparte buffere som tømmes, skaper voksende sårbarhet i det amerikanske banksystemet.",
-    "why_it_matters": "Amerikansk privat forbruk er den viktigste motoren i verdensøkonomien, og sviktende betalingsevne kan utløse en bredere økonomisk nedkjøling.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Høyere renteutgifter tvinger husholdninger til å stramme inn på skjønnsmessig forbruk, noe som kan dempe den generelle økonomiske veksten i USA."
-     },
-     {
-      "area": "Renter",
-      "effect": "Tegn til akutt gjeldsstress blant forbrukerne kan tvinge den amerikanske sentralbanken til å vurdere rentekutt tidligere enn inflasjonstallene isolert sett tilsier."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Banker og forbruksfinansieringsselskaper risikerer økte tap på utlån, noe som kan tynge verdsettelsen av finansaksjer fremover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Orkanen Isaias lammer olje- og gassproduksjon i Mexicogolfen",
-    "summary": "Orkanen Isaias har nådd land i Florida etter å ha herjet kystområdene, med omfattende evakueringer og stengte offshore-installasjoner i Mexicogolfen som følge. Energiselskaper har måttet stanse betydelige deler av råolje- og gassutvinningen i regionen for å sikre personell og utstyr. Selv om uværet er nedgradert til kategori 1, skaper forstyrrelsene kortsiktig volatilitet i amerikanske og globale gasspriser.",
-    "why_it_matters": "Avbrudd i amerikansk olje- og LNG-eksport påvirker globale energibalanser og kan gi økte svingninger i europeiske gasspriser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Kortsiktig bortfall av offshore-produksjon kan gi midlertidige hopp i prisene på naturgass og olje frem til anleggene inspiseres og gjenopptar drift."
-     },
-     {
-      "area": "Handel",
-      "effect": "Forstyrrelser i havneterminalene ved golfkysten kan forsinke amerikansk eksport av flytende naturgass til europeiske og asiatiske kjøpere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVEweWNRTlVwcVlNdkxiczc0ZWFWVWp4cFR4SUl3ZXlISkItM1pBRFlnOWdoS245TEN3cTRhNU9iOVA4REZ5czBCaVpvTWNwLWdaOFNoY29ZOTlhS2UzSG1YS2s2RUU5UXNPWjBDMDZfSkEwTjdITG94TzJ5QXdZa3Z3SDM?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXd4cU9kTnZkUXpiWnZCSUFrVXVqRDVVRWNsakotTU1aMTNkZjBra3lkaktVMGtUcnpORW40N1JMemk4WkREeFJGNnFibFBBRTdQMi10dDNlX2hua2pSZVVSWnNpRDZOblhrMW9CbS1vZTd3S0ktU2pSNGtfNWZyVGduR3YzNU52dEpMQkx3UXZYUmxPaGFoZVhSZ2lzNml0bFlZX3gzSTRrWEthTHZrd1lNaEcxRW8yeEVweTNIcVhKYUJTc2Qw?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Trump truer Norge med politiske følger etter Nobel-tildeling",
-    "summary": "Donald Trump har rettet skarp kritikk mot Norge under et valgkampmøte etter at Den Norske Nobelkomite tildelte Nobels fredspris til menneskerettsadvokaten Navi Pillay. Trump uttalte at komiteens avgjørelse er en uutslettelig skamplett og advarte om at han ikke vil glemme forbigåelsen. Utsagnene vekker bekymring for hvordan Norges bilaterale handels- og sikkerhetsrelasjoner med USA vil påvirkes dersom han vinner valget.",
-    "why_it_matters": "Norsk eksportøkonomi og sikkerhetspolitikk er sterkt avhengig av et stabilt og forutsigbart partnerskap med USA.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Trusler om politisk gjengjeldelse kan øke risikoen for proteksjonistiske tiltak eller tollbarrierer mot norsk eksportindustri under en ny Trump-administrasjon."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Uforutsigbare utspill mot tradisjonelle allierte kan skape diplomatisk usikkerhet og vanskeliggjøre multilateralt samarbeid innen forsvar og energi."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/trump-med-krass-kritikk-av-norge-i-tale-1.18051239",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR0s4c2ZUZWZHSkIyMjRaTDhwUWpKQmg2LV8zaVlUeU44ai1sblA2TzVPX3JySUx3cjc5bUVFZ1MxWjlrTG9Qa2xxclUzOHBMTDhYaFloMVlIVUFxMzBlck9jd1d0S3dnTGVSZjl6ckVNYnlXYkxUMVdpb09WVFBSb2lEcFozcjhndkJ4S0JGXzEyLUo5YkxMVmF2VTh5MDJ1czJnSXFHSGtZaDlGeEJHd2FLTERJNFhPMzVCYU5n?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjd4M2hoaWRYUEhnc2F3VFUySnFHTmxFN3VRRlZwVkxobGlNZk9rSzB6dkpBVk1zVW9VYzZuV2REbjhzeGpadHFHSHhqdHl1Wmc3ZXo4ckJtSEpRaGFyc2FlZ29SZ2w4Q0VOdW1vWS1uV2NJOXFtR3pOZnR6d0gtQTc3cGJYWlE1cWc1ZG1pZ25fVkxJaENpdERYUEVIMm51MF9xdWRYOTBFMzJt?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Indias sentralbank etablerer dollarvindu for å beskytte rupien",
-    "summary": "Den indiske sentralbanken (RBI) har iverksatt ekstraordinære tiltak for å støtte landets valuta mot kraftig svekkelse. Tiltakene inkluderer et eget dollarvindu for innenlandske oljeselskaper, slik at deres valutakjøp ikke presser rupien unødig i det åpne markedet. Presset skyldes store importregninger for råolje og en sterkere amerikansk dollar.",
-    "why_it_matters": "Tiltaket understreker hvordan valutapress i fremvoksende økonomier forsterkes av globale svingninger i råvarepriser og renter.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Kronekurs",
-      "effect": "Sentralbankintervensjoner i store fremvoksende økonomier illustrerer hvordan råvareimporterende nasjoner må tømme reserver for å håndtere en sterk dollar."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Målrettet tilgang på dollar for raffinerier reduserer risikoen for forsyningsavbrudd i Indias store innenlandske drivstoffmarked."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0NlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Kraftig jordskjelv med styrke 7,7 rammet Panama",
-    "summary": "Et kraftig jordskjelv med styrke opp mot 7,7 rammet det sørlige Panama fredag, og førte til kollapsede bygninger og ødelagte veier. Landets president José Raúl Mulino betegner hendelsen som en stor katastrofe, men det er så langt ikke meldt om omkomne, og et utstedt tsunamivarsel ble senere opphevet.",
-    "why_it_matters": "Hendelsen forårsaker betydelige materielle skader og forstyrrer lokal infrastruktur i et sentralt knutepunkt i Mellom-Amerika.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn og beredskap",
-      "effect": "Omfattende skader på vei- og bygningsnettet krever akutt gjenoppbygging, men unngåtte dødsfall reduserer krisens umiddelbare humanitære omfang."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/panamas-president_-ingen-opplysninger-om-omkomne-1.18051238",
-      "paywall": false
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "USA innfører omfattende sanksjoner mot Den internasjonale straffedomstolen",
-    "summary": "Amerikanske myndigheter har vedtatt omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC) i Haag som ledd i en kampanje for å svekke domstolens virke. Tiltaket kommer etter domstolens etterforskninger og kjennelser som berører allierte stater, og markerer en betydelig eskalering i konflikten mellom Washington og internasjonale rettsorganer.",
-    "why_it_matters": "Sanksjonene representerer et alvorlig tilbakeslag for det internasjonale rettsordenen og multilateralt samarbeid om krigsforbrytelser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk og rettssikkerhet",
-      "effect": "Direkte sanksjoner mot ICC-tjenestepersoner svekker domstolens finansielle og operasjonelle kapasitet til å etterforske krigsforbrytelser globalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcXNFcXVnRVZfckpBb0hJMmN0aVhRQ1lxZHlsUlR4MWhLN0J0d0VYdllmYnF2SUlxV3BFN1VGbTAzQXMtaTZjbld2WFg0akNnMjNaUlBTRTlZeE1SQlZ6OXJ6Y3pibHNOQjBreHRHN295WTlVZmtnT0RnX1YwTV8yWTlibFA?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Houthi-angrep mot flyplassen i Riyadh krevde tre menneskeliv",
-    "summary": "Saudiske myndigheter bekrefter at tre personer ble drept i et angrep mot flyplassen i Riyadh, et angrep den jemenittiske Houthi-bevegelsen har tatt på seg ansvaret for. Angrepet er en del av en koordinert kampanje rettet mot saudiarabisk luftfart og transportinfrastruktur, og signaliserer en fornyet eskalering i den regionale konflikten rundt Rødehavet.",
-    "why_it_matters": "Eskaleringen truer sivil luftfart og regional stabilitet i Midtøsten og kan trekke Saudi-Arabia dypere inn i konflikten igjen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regional sikkerhet",
-      "effect": "Målrettede angrep mot saudiarabiske sivile lufthavner øker faren for militære gjengjeldelsesaksjoner og ny regional destabilisering i Midtøsten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbmJMRkQ0Z1poSUd4YmFBT3JJN3RoNklMUGV3UFJSbmdPaFN3NEc4b0NxZnRBM0hBWTE1TEZPYWZtaVFXNkR1dGpYU2lyQmN1elEyQ2Q5RHdQY0UwbVVKVEVFRG1Mcmc1TXhLY3lVOEp6Q0RSbGw1dGV0OEx2amhwLVhVRUFkalR6SlQtaHFSWXQ2QQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
