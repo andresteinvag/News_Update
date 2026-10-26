@@ -1,5 +1,246 @@
 [
  {
+  "id": "2026-10-26-20",
+  "hour": 20,
+  "date": "2026-10-26",
+  "generated": "26.10.2026 20:37",
+  "overview": "Dagens markedsbilde preges av store teknologiselskaper som strammer inn kostnadene gjennom omfattende sluttpakker, samtidig som politiske sjokkvalg i Brasil sender rystelser gjennom globale renter og aksjemarkeder. Sentralbankene overvåker nøye utviklingen i inflasjon og statsobligasjoner mens verdensøkonomien navigerer gjennom stramme finansielle forhold.",
+  "stories": [
+   {
+    "title": "Microsoft tilbyr sluttpakke til 60.000 ansatte i ny kuttrunde",
+    "summary": "Teknologigiganten Microsoft har sendt ut et internt notat der de tilbyr sluttpakker til om lag 60.000 ansatte for å redusere kostnadene. Flere avdelinger kan imidlertid se langt etter tilbudet, ettersom omstruktureringen rammer utvalgte områder mens selskapet vrir ressursene mot kunstig intelligens.",
+    "why_it_matters": "Slike massive kutt fra verdens største teknologiselskaper gir føringer for hele sektoren og kan påvirke den globale etterspørselen etter IT-tjenester og kontorlokaler.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Reduserte personalkostnader kan styrke Microsofts marginer og finansielle fleksibilitet til fremtidige investeringer i kunstig intelligens."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Tusenvis av høyt gasjerte teknologiarbeidere som mister jobben, kan øke tilgangen på kompetanse for andre selskaper som sliter med å rekruttere."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Usikkerhet rundt fremtidige inntekter for et stort antall ansatte kan dempe det private forbruket og dempe etterspørselen etter tjenester."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Børsras i Brasil etter uventet presidentvalgresultat",
+    "summary": "Luiz Inácio Lula da Silvas sjokkseier i andre runde av det brasilianske presidentvalget har utløst kraftige kursfall på børsen i São Paulo. Investorene reagerer negativt på utsikter til økte offentlige utgifter og strengere statlig kontroll, noe som også har rammet en rekke internasjonale selskaper med eksponering mot landet.",
+    "why_it_matters": "Markedsuroen i Latin-Amerikas største økonomi viser hvor raskt politiske skifter kan velte milliardtransaksjoner og skape avskrekkende effekter i globale fremvoksende markeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Investorer trekker kapital ut av brasilianske eiendeler, noe som fører til det kraftigste børsraset på flere tiår i regionen."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Global usikkerhet og generell risikoaversjon i kjølvannet av valget kan styrke tradisjonelle trygge havner på bekostning av mindre valutaer."
+     },
+     {
+      "area": "Handel",
+      "effect": "Selskapene som er tungt eksponert mot Sør-Amerika, opplever brå verdifall ettersom fremtidig inntjening blir langt mer usikker."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/d7Axgw/boersras-og-uskikk-etter-valget?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclRjV0ZBdGp1cGRkYzk0bWN2SXVyakx5OXlmSnJoTGpXV3p6WWNESks5R0pXN0lGUHJUVEdYQ0h1eEdaQmpTZUdXSm9OQ2lMRWxPcUVZeEJJbFk1SlBpNFhKeG9oNjl2aC02RDdOU2Vxd2ZQNXZobUdETzhOR053NVVkOXI?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Meta planlegger massiv finansiering for å finansiere AI-vekst",
+    "summary": "Meta legger planer for en enorm aksje- og finansieringspakke på opp mot 95 milliarder dollar for å sikre videre ekspansjon innen kunstig intelligens. Satsingen viser de enorme kapitalkostnadene som kreves for å henge med i den teknologiske utviklingen.",
+    "why_it_matters": "Selskapets aggressive kapitalinnhenting setter en ny standard for hvor mye penger teknologigigantene er villige til å brenne av på fremtidsrettet infrastruktur.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Utstedelsen av enorme mengder nye verdipapirer kan midlertidig presse ned aksjekursen på grunn av utvanningsfrykt blant eksisterende aksjonærer."
+     },
+     {
+      "area": "Renter",
+      "effect": "Behovet for enorme låneopptak og finansiering i obligasjonsmarkedet kan legge et visst oppadgående press på de lange rentene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "De enorme investeringene skaper et lukrativt marked for underleverandører av datasentre, kraftforsyning og avanserte databrikker."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWVJZlJtQjJkZTMyWV9zMXNqV3RxZERPOE1CZlliQTVqR3VaTFk5anp5bHViM0pVTlVlc3lmMTU2YzVkb01hRXVsYU9yWUVFWjJxVHlrbW5TRVZoMWw3SzM1VUZ3UmpZN1NRODBhZmpHQXI4OXFCZDI5dWpMOGlTcGlWblREUUhmWHRCLWtZeW9zcnNUMVlRa2JTN0pwZ2dkSXBKQS14emotVmM1LWMtb2RxMEF5Y3RqNHBFZndn?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUtNaHFNcWhwbXByd1BLYTlMcjgxN1A4M1RpVHQtT0JJTWp5SG9sZm5uQlJIaURJME1ZOVY5ZThyTVdPcW5TbTlRWXhNcU0yb3hXMjl6dzRMMnZXNm9sOUluMFdaY19rNlFMVWRmNEQ5WUs2ZDlNSDAzUnZ5S1Z3V0g2aDI?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Anthropic tar steget mot børsen med gigantnotering",
+    "summary": "Kunstig intelligens-laboratoriet Anthropic har levert inn prospekt for sin kommende børsnotering, i det som kan bli en av historiens største emisjoner. Selskapet opplyser samtidig om at de har kjempet mot sikkerhetsbrudd underveis.",
+    "why_it_matters": "Børsnoteringen vil teste investorers appetitt for ulønnsomme, men sterkt voksende kunstig intelligens-selskaper i en tid med strammere finansielle forhold.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "En vellykket noteringsprosess kan tiltrekke seg massiv institusjonell kapital og gjenopplive markedet for store teknologinoteringer."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Selskapets åpenhet om sikkerhetsbrudd kan tvinge frem strengere statlige krav til sikkerhetsprosedyre i hele KI-industrien."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Konkurransen om å tiltrekke seg topprangerte forskere og ingeniører vil tilta ettersom Anthropic får en massiv krigskasse av nyopphentet kapital."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1ZwVC1NWWxLRjZWU2dLUDF4S3hCQk1rSHdQaHZDQkxBNlBGR3hGbk04TEpVeG1nUVlpWER2QlZJdmtoeFJfUnpMOGN2SWRMUDI2LWFZZUluY29lZjg2bnhHS0gxdU9nNHF6RV9XamFxdUdTZFJMTWFPWFpuMERqR0ZIbmM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR083ZTlVSnJLWnVBOUpJaU1zY1hhM29pblZ2amVCWE5VZXNYY2pxU2dFV09uVjFDdWVKT0tCbnQzVjAzUUZ6a010dVlBYnZNcDRrRXlTTFVmZ3J1d1ByaVlGTi1NWnNGa0Q2TFVKT3hWVlk3QWdKQmJRaVg3MUtuWlZ4SjdUZFhDTWpTT0JDWkYyRGlza2NjeHlGQXRZSklKXzhLX2pLNURjYU9udVZYVVV5Zk1rZlJMc3hoZF9NOTF4ZWxOQ3Y0UXNB?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "EQT kjøper opp gassgiganten Range Resources",
+    "summary": "Private equity-selskapet EQT har inngått en avtale om å kjøpe gassprodusenten Range Resources i en storstilt aksjetransaksjon verdsatt til rundt 13 milliarder dollar. Kjøpet understreker fortsatt konsolidering innen amerikansk energiproduksjon.",
+    "why_it_matters": "Transaksjonen viser at det fortsatt er sterk tro på langsiktig lønnsomhet og konsolidering innen fossil energi tross det grønne skiftet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Større enheter kan oppnå stordriftsfordeler som presser ned produksjonskostnadene for naturgass i Nord-Amerika."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Store oppkjøp i energisektoren pleier å løfte verdsettelsen til andre selskaper i samme bransje som spekulerer i oppkjøpskandidater."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Slike transaksjoner genererer betydelige transaksjonsinntekter for finansrådgivere og advokatfirmaer involvert i meglerprosessen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblhORHJaRElyVS1fa1RidkNwc1pFdGZXQVFVUlZnbWdtU0lJb2VtdTZhV1BLOXRKTDRoY3Utek84UHBNWkRyN3RMYl8wWFg0YWhIZk1SRFZUU1ZCZzdjRldpU21ZUjFzSy04X1FRX3dVc2RMYldBbFEwblVkSWZBMEo0VE0?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9MNGROTmxRdW1zZWVKOTdoN1pndDVhOTFJVTh6eXZvZnd6b0ppX0ZaNE9rMWR0c2hGWWdxRXRPZ0RTcjJLOVZPQmNtMVdPMU1rY3VqVUE5YnJPc1k2RktTYjdHejVVNDBBOWNMdlJxQnJPaE8tUVc2TGQ2SUo4OVRJNFluTkM2OU9TeEgwT0NLMEZBcnluODdGVQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Olav Nils Sunde selger Color Line til svenske Stena Line",
+    "summary": "Etter lang tids spekulasjoner er det klart at Olav Nils Sunde selger fergeselskapet Color Line til konkurrenten Stena Line. Transaksjonen kan sikre Sunde milliardgevinster og omformer eierstrukturen i Skagerrak-trafikken fullstendig.",
+    "why_it_matters": "Dette er et av de største industri- og skipsfartssalgene i Norge på lenge, og det endrer konkurranseforholdet for sjøtransport mellom Norge og Sverige/Danmark.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "En sammenslåing eller oppkjøp av en markedsleder kan gi redusert konkurranse på visse ruter og potensielt høyere priser for passasjerer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Stena Line kan oppnå betydelige synergier ved å samordne flåtestyring, administrasjon og havneavtaler på tvers av landegrensene."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Salgssummen på flere milliarder kroner vil utløse store skatteinntekter til den norske stat fra eierens holdingselskap."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjZrME16RzRuNkpZeHN4VEJaLTBlS2U4VWRuY1NwUTA3Zy12Wl9GVG5XMjlJRE0yc0Vfb0p5dWdEdHFGOXVzQzlENlFpckxxMkxodFk5cE8xZXRmMUxlMzBIa1BxQ3VHb1JWSGh4SzAyQzE0alQzand0SVVDY3NRR2hWVEt6YVZoeHZ4UWJHbklEbFNhY0ZHa2ppOEY3dW1HMlVKLVVrZHNOUkE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWVFVQ3VJeWNUOEFmdHlJbk5WM1JIclhnT3ZsalhoUFNyR3NhdzF6T1htYTNkUm1MWXBlWTNuekVsQlNhOGcza2RIdXVmMXp3Nkd4Wl9BcG1nNVZwakR4NDYtajRHem1SYUc4YXJQWWdNaWxwRDVvb19EUGlUYkxEeFh4Zi1UUm5WeElN?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Studentprotester ryster Serbia etter politisk uro",
+    "summary": "Serbiske studenter har mobilisert omfattende demonstrasjoner som har satt landets politiske veteraner under et voldsomt press. Protestene utfordrer det bestående politiske landbruket og har ført til uventede innrømmelser fra makteliten.",
+    "why_it_matters": "Studentbevegelser i Øst-Europa har historisk sett hatt stor kraft til å velte autoritære regimer og endre den geopolitiske kursen i regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politisk stabilitet",
+      "effect": "Folkelig misnøye ledet av studenter skaper akutt ustabil politisk situasjon som kan tvinge frem regjeringsskifter eller fremskyndede valg."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDdtZ1hWbUZINk5VcFBWaVlqd1J5V1hjNmlUZ1p6MWxxdmlsbDVCdzNUaWpDcmhQQ2c3aWVnNXZETkM1VGNyNDZVMFVINUY1a3JiYlhMdU1pZUtZX3BOcWJWeVpUazV3YWV0eE1PRGtubDBFZFlhUUFRU00xTWx4al9xWnhMVTFuTmVkUGFkTkZXNU5rYV93aGpmWUJBM1JsdVZ3?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ustabil kran i Oslo lammer kollektivtrafikken",
+    "summary": "En ustabil tårnkran ved Jernbanetorget i Oslo sentrum har skapt dramatikk og ført til at store deler av buss- og trikketrafikken er lammet. Fundamentet har løsnet, og nødetatene har måttet stenge av området for å demontere kranen på en trygg måte.",
+    "why_it_matters": "Hendelsen skaper store forsinkelser og ruteendringer for tusenvis av pendlere i hovedstaden, og illustrerer sårbarheten i byens infrastruktur.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Kollektivtransport",
+      "effect": "Stengte knutepunkter tvinger frem omdirigeringer som rammer hverdagen til et stort antall reisende og gir økte kostnader for busselskapene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSWhBdVp2WE1kdlZPdWN6WlgzaGU1X1lSZ3oxYlpFaWMxa0xpODFEc3ZwdEdKeUNPQ09odGlkbXlPWXVDQTNub2IzRXFqR1laS21sQkVNWnhPbTNpRHo4U3VvdnV3YUFqOW9VYUNMQ0lkQVhOM0h3T0V3X3YyMGVoYm5nQ3RHd2lCT1BkTk9RLUJBaWNzcmsyaGt2VTNnZXpjY2ZOajc4bi1SckEwQkZhT216TQ?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-26-08",
   "hour": 8,
   "date": "2026-10-26",
@@ -7393,290 +7634,6 @@
      {
       "name": "CNBC",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZmZ4U3JfSk9QT0JlZ1dvbXBsaTl4bl93M1JRQ2laTnhLVURlanhGVFdNb1h4Z0tsLW1hdVZZX0ZWN0hseGhiTERjYi1feGZTLUVrNEZ4Mk1CZmZWTWkyNUVmeHJiQUR2Yi13TDlCTdIBdEFVX3lxTE1HQlRwMGhPd3NzZW1qOTRDUXd1ZU5vNU5vcTVqSXZZbHFNcnpKSVBNaVA3VDdXczJzTTBQYUZBYUwzT19wV3o3cUhHbVRQZ29tRC1pTGxBaE9uLTQzeHI5dWVYaEFYTTFtVmt1Yk9mZDBHRThx?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-11-20",
-  "hour": 20,
-  "date": "2026-10-11",
-  "generated": "11.10.2026 20:16",
-  "overview": "Spenningen i energimarkedene preges av meldinger om en mulig våpenhvile mot energiinfrastruktur i Ukraina samtidig som nye Houthi-angrep rammer Saudi-Arabia. Samtidig står europeisk industri overfor økende handelsproteksjonisme og langvarig press fra høye renter.",
-  "stories": [
-   {
-    "title": "Trump hevder enighet om våpenhvile for energiinfrastruktur mellom Russland og Ukraina",
-    "summary": "Donald Trump hevder at Russland og Ukraina er blitt enige om en umiddelbar stans i angrep mot raffinerier og kraftverk. Påstanden kommer etter betydelig amerikansk press mot ukrainske angrep på russiske raffinerier og pågående drøftinger om en sekstidagers våpenhvile.",
-    "why_it_matters": "En reell stans i gjensidige energiangrep kan redusere risikopremien på olje og gass samt stabilisere raffinerikapasiteten globalt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Lavere risiko for bortfall av raffinerikapasitet kan legge en demper på globale drivstoffpriser og redusere raffineringsmarginene internasjonalt."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Eventuelt fallende oljepriser som følge av redusert geopolitisk risikopremie kan svekke den norske kronen mot handelsvektede valutaer på kort sikt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGthQXk1OHFPRzlYcjNKVnk4R1pDQXIyTExXMk02TUU3Qy1WbkFxTFhjRXc2MlpmM0s0bDdwQ1Y5V0JDWHpCdGpfRGxzWFlrU3F0d3FBSjY0X25udzkwVkxBamdoS2xLUE0wWHdVTy1RY0N6dnRmd0dnMnJtU2FQNGpaazRqSU1zcWhPV201ajliQmJPcmZ3ZWZUaXNEWTVx?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/Elj4Ba/zelenskyj-sier-han-vil-gjennomfoere-valg-i-ukraina-dersom-putin-gaar-med-paa-60-dagers-vaapenhvile?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Houthi-angrep mot Riyadh skaper ny uro i oljefrakten og energisektoren",
-    "summary": "Nye drone- og missilangrep mot Riyadhs flyplass og rapporter om en brennende supertanker etter minetreff har utløst kraftige reaksjoner. USAs president vurderer å bistå Saudi-Arabia militært, mens internasjonale oljetopper trekker seg fra en planlagt energikonferanse i Riyadh.",
-    "why_it_matters": "Eskalerende trusler mot Saudi-Arabias infrastruktur og sentrale skipsleder kan øke fraktratene og skape fornyet volatilitet i råoljemarkedet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Økt frykt for sabotasje og logistikkforstyrrelser i Midtøsten kan presse råoljeprisen oppover og øke risikopåslagene for maritime transportruter."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere krigsrisikopremier og lengre seilingstider kan gi ytterligere medvind for tank- og shippingselskaper notert på Oslo Børs."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51bzM0YzNwbUhGUUpVMHhPQWNZenkwZDdQM3QxdVdpQ2xOYjROVkZpVHU5cko1VDFUMnRVd3o0S3dmZVdlTlZ6cldhZ0RqTEgzREZhSXA3d1hFakpMYnNiaUxja2hyTThCejJOVEhnSFEzcGR3eF9N0gF8QVVfeXFMTVZ4YzZyc1U3S2NyVFBIVXpPZ3BJenI3T1lTZ0tGZ0ozcDZRZGJ0SEM0a21KTDhXdjN3VGxocXEteUlhbnJVRVhTRGlNRkdrb25NaEdfNVFYc0J6ZUN6b2pTUHNYcDdIY3c2T1dTekwxYUJReTlwS2NoSFBZOQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3Q0SmhTWXN2MjVPbGRaOGd1dlVsbW5fTEVfSzlRdUJlVGtlYkRLZGRhMlVQYXBnZFYtbG5EaHpzVWtYSmlMYmotU0taazEwQVZIUmticHY0UEZnaExsUHluWWlxS09ITlFFalFHbWk3azlKNnhWT1BEczZTZXhwbW10X2c?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHpCaDBpZ3F0SlVZd0ZoZ05IV3VMUXYxemJBWms2SFJKSEZLU05NOV9ZMXBYR3BiMllqX2RBdko5VTRKMWlqY3dVbjU0TUxMemd0Q05MdXdualN3WTBRRm82bXY0eHoxNElLNGNXU19iNUZOUExjSXRWdkRLOFJIZEg1R3ByREg4MnU2VXVhQm94SjZkZWlYUA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norske dagligvaregiganter i retten om milliardgebyr for prisjegere",
-    "summary": "Norgesgruppen, Rema 1000 og Coop møter staten i retten for å kjempe mot et samlet overtredelsesgebyr på 4,9 milliarder kroner for ulovlig prissamarbeid via prisjegere. Kjedene stiller med stjernelag av advokater mot staten i en sak som kan definere grensene for informasjonsdeling i norsk næringsliv.",
-    "why_it_matters": "Utfallet kan endre konkurransedynamikken og prisovervåkingen i det norske dagligvaremarkedet fundamentalt.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Konkurranse",
-      "effect": "Dersom staten vinner frem, kan dagligvarekjedene tvinges til å endre hvordan de overvåker konkurrentenes priser, noe som kan påvirke prisdynamikken i butikkene."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Milliardbøter og juridiske restriksjoner kan svekke kjedenes marginer og redusere handlingsrommet for fremtidige investeringer i logistikk og butikknett."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/norge/rema_-kiwi-og-coop-i-retten-mot-staten-om-milliardbot-for-prissamarbeid-1.18050488",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/pBaMzX/dagligvarekjedenes-advokater-en-klar-overmakt?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "EU innfører kvotetak på kinesiske hybridbiler mens bilindustrien ber om drahjelp",
-    "summary": "EU forbereder et årlig importtak på 350 000 kinesiske hybridbiler for å skjerme europeiske bilprodusenter mot subsidiert konkurranse. Samtidig tar toppsjefen i Volkswagen til orde for at den grønne omstillingen må være et felles europeisk ansvar med krav om lokal verdiskaping.",
-    "why_it_matters": "Trekket markerer en ytterligere opptrapping av handelshindringer mellom Europa og Kina i overgangen til grønn transport.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Kvotebegrensninger kan utløse gjengjeldelsestiltak fra kinesiske myndigheter og forstyrre internasjonale forsyningskjeder for europeiske eksportbedrifter."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Begrenset tilgang på rimelige kinesiske hybridbiler kan forsinke bilparkens utskifting og holde nybilprisene i Europa på et høyere nivå."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGZ0OFMzZ1pKdWtOVENVU1NaZWt5cFRlR2tKZnA3U3J5cHV1emNQbTN0c05wTFN5bkdxTUNuemtCai15LUR5cV9JbmlLMjRSSVdZUTE0MUNqLUw3cTFmMUdrQVpGZld3NjN1RzE0dmc4SV9SQW11OE5nSFpqNnZzYkMtVlBkNGhDdUUtUGlBekRNQnROTFpVNDNobGRXTm9YZnp3N0I3TGtkaV81NTFGbm9R?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPejJ0eGxjSGtuYW55b3cxRi12Z3V0R2dvM3prcFF4bFpnZ196a0JNWjc1YjZrT0F2V2JLRTM2ZlZuNUlRU0tVVDhYYjFfOGc2N3lkbzFYTFJuX0FKNWVyc3o2RXdqODhrZmJiU1VSSUNXWlJtZFo5QXpVR2JsV1otQmdXWl9XbVBKNGd3R2kxYWpQQUFnYUdUYU9EY1JxVGFYWW00TDdpTlZiWW9HQmtyTUNYcHFqRVVYRWtFVnh4a2RzdXhzaVdQemFzV2R3d2xQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Advarer om stramt dieselmarked og ber om vurdering av reservelagre",
-    "summary": "Det internasjonale energibyrået (IEA) ber medlemsland vurdere nye utslipp fra strategiske diesellagre på grunn av vedvarende forsyningspress. Spørsmålet om russisk kapasitet kan dekke etterspørselen skaper ytterligere usikkerhet i raffineringsmarkedet.",
-    "why_it_matters": "Høye dieselpriser fungerer som en avgift på transport og logistikk som raskt forplanter seg til bredere forbrukerpriser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Inflasjon",
-      "effect": "Høye drivstoffpriser for lastebil- og skipsfrakt kan øke distribusjonskostnadene for varer og motvirke sentralbankenes forsøk på å få ned kjerneinflasjonen."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Eventuelle koordinerte lagerslipp fra IEA-land kan midlertidig dempe sprekkene i dieselmarkedet uten nødvendigvis å løse underliggende raffineriknapphet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/energi-og-klima/i/4OL9ma/iea-ber-land-vurdere-nye-diesel-slipp?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXcwNkstOTJvRjJEejR3OTVoNWs2aHlLMm9LX2dqN1VGdVdncGl5OWh2eEY3bVBDQnpPVWdxaFBDY1BjbjAwN2JxdS1TY3A1VWNCVWRRal9wcXktYjRWZFAxNW1wVFJPZkltYjl6UHhKZHpkeFRTWXlGRkxLR3RhOUlteWo?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Økonomer venter varig høyere renter på statsobligasjoner",
-    "summary": "Ledende økonomer peker på at høye obligasjonsrenter trolig er kommet for å bli som følge av store offentlige lånebehov og strukturell inflasjon. Samtidig uttrykker amerikanske sentralbanktopper bekymring for at bedrifter slutter å forhandle hardt på priser og heller lemper kostnader over på kundene.",
-    "why_it_matters": "Høyere langsiktige renter øker lånekostnadene for stater og bedrifter over hele verden og utfordrer finansieringsmodeller.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende høye statsrenter internasjonalt kan smitte over på norske swaprenter og forsinke Norges Banks mulighet til å gjennomføre fremtidige rentekutt."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere diskonteringsrenter kan legge vedvarende press på verdsettelsen av vekstselskaper og gjøre obligasjoner til et mer attraktivt alternativ for investorer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3JyY05BTFdaaUVtQlJmc1A2RG56ZUNseXNLblJmVG5xTmZaOHNxUnhxbGJROUVacWx0SkFGT2NiaXU3dEUzOEVKdVNXWU5FejVYQnNRT2tab09QWDd3Y1NJWEFRbG5BVlEwQnNYWUR2cFVlLWJEUENHTzkxRjVNQUhYem0?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Finanspolitisk pengebruk setter inflasjon og bedrifters rammebetingelser under debatt",
-    "summary": "Debatten om virkningen av statsbudsjettet tiltar i Norge, der økonomer advarer om at offentlig pengebruk kan stimulere til høyere prisvekst avhengig av innretningen. Samtidig reagerer næringslivet på økte skatte- og avgiftsbyrder knyttet til klimatiltak og omstilling.",
-    "why_it_matters": "Dersom statsbudsjettet virker for ekspansivt, kan det tvinge Norges Bank til å holde styringsrenten høyere lenger.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Økt oljepengebruk kan bidra til å opprettholde kapasitetspresset i fastlandsøkonomien og komplisere arbeidet med å nå inflasjonsmålet."
-     },
-     {
-      "area": "Renter",
-      "effect": "Dersom finanspolitikken motvirker pengepolitikkens innstramming, kan Norges Bank måtte utsette planlagte rentekutt til utover i neste år."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/mKKBB1/kan-trekke-i-retning-av-hoeyere-prisvekst?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWEyV3ZBb3pTal9wdnVlRENySkppUWMwbFp3MlNuTXZzeG1BdkdDYzJsd0lzd2RWZHMwQUxGWUJ6N0VNY3FENnE4N0hYU1RpbnFOTmNuZTdTUW1VUFNFVTVpS0p3THozRFZuVjBHRVhTR2dpNTdwelFiNzRMVF9wUzJOVFM4MXFBWk5vQ3N5empIRWxGRmlqSUdGOVhQRWJOM083VHQtbjdaeUtzbHhYbkhXRWxuem1rdU5Xbg?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Polsk politi avverget attentatplan mot statsminister Donald Tusk",
-    "summary": "Polske sikkerhetsmyndigheter har pågrepet en mann mistenkt for å planlegge et angrep på statsminister Donald Tusk og forsvarsministeren. Hendelsen har ført til krisemøter i sikkerhetstjenestene midt i en tid med skjerpet beredskap i Sentral- og Øst-Europa.",
-    "why_it_matters": "Saken understreker det økende trusselbildet og den politiske sårbarheten i NATOs sentrale østflankeland.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Skjerpet sikkerhetsnivå og trusselbilde i Polen kan akselerere offentlige bevilgninger til nasjonal etterretning og grensesikkerhet i Øst-Europa."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEM0SEhDMFJtcDRlUkZUWnhzT2hKMnZqQnNzS3RLb0t1Uy1TMWx4SGpqUElWYWRBNlZ5VjlibEJ3cnlYTGNLWHN2OEtJazJPQ3NYaXJHY3A5eXBCZmYyVjU5TDNDbTJwbDAwdzBYdlVrNVdteURRX3dTV3I0SEJ2RHpNaGVjeW5POHdtb0c0XzVkQWZCa0tsSEVjcDZNRTdp?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXd1NlJQV0FpcWl0VlhCT1g0Tl9STHdqbXI2dmFENDBYZUJmMWNwSFB4QlJzZllHei1fSjBsMWtTWnVJNnNENVc1QWpybC14aldsSHVhUmxJVzVjS01fTEpvY1NoTXVfRUhfdHpIM2N5S1FtQ1hyb2NVOXN4UHRka3Y2dmlXWmNOZEVQeGUteGdiRXpqTHJkeTNYN1RyREZjaGJGU2hOQnpLcnlxS2RV0gG0AUFVX3lxTE1XT2RVUTZ6b3ljWnF3WjZNRGxkNVBBNUw1cTlLc0t4RWtZeTVpaHRkSGhBOW5vRXdFSFN3b08xUDdvTXJaTEhiMmMtUU1Xb0pTN0o5Y29fUFlaODZmMFpSV0dYd3RaOXJlV2JYaDBnNE1aMG0wYnZDRm5JLTZqd2gzRUY0RGdhNkQ5eHlXSkZPZ3IzZ201SGt1b2ZUSFNOMTh6ME95QUlQWVhJejZXbElxUk14Mg?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Pave Leo skal opereres for funn på lungen",
-    "summary": "Pave Leo kunngjorde søndag at han skal gjennomgå en kirurgisk operasjon for å fjerne en liten knute på lungen som nylig ble oppdaget i et tidlig stadium. Kunngjøringen skaper oppmerksomhet rundt lederskapet i den katolske kirke.",
-    "why_it_matters": "Pavens helsetilstand følges tett globalt ettersom hans virke har stor diplomatisk og moralsk innflytelse for over en milliard troende.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Usikkerhet rundt pavens helse kan midlertidig dempe Vatikanets aktive diplomatiske rolle i internasjonale fredsinitiativer og humanitære forhandlinger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Panama erklærer unntakstilstand etter kraftige jordskjelv og over 100 etterskjelv",
-    "summary": "Myndighetene i Panama har erklært unntakstilstand etter to kraftige jordskjelv etterfulgt av mer enn hundre etterskjelv med styrke opp mot 5,8. Skjelvene har ført til bygningsskader og omfattende evakueringer i flere lokalsamfunn.",
-    "why_it_matters": "Naturkatastrofen krever store rednings- og gjenoppbyggingsressurser i et land som huser en av verdens viktigste maritime handelsårer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Nødetatenes innsats og skader på lokal infrastruktur kan binde opp offentlige ressurser og skape midlertidige forstyrrelser i lokal transport og forsyning."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
       "paywall": false
      }
     ]
