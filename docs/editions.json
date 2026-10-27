@@ -1,5 +1,293 @@
 [
  {
+  "id": "2026-10-27-20",
+  "hour": 20,
+  "date": "2026-10-27",
+  "generated": "27.10.2026 20:37",
+  "overview": "Internasjonale markeder preges av forventninger om at den amerikanske sentralbanken holder renten i ro denne uken, samtidig som store industriselskaper som Boeing møter motvind i leverandørkjedene. I Norge skaper krav om strengere regulering og forbud mot korttidsutleie debatt i boligmarkedet, parallelt med at forsvarsgiganten Kongsberg Gruppen varsler offensive vekstmål.",
+  "stories": [
+   {
+    "title": "CNBC-måling: Nesten unison forventning om Fed-pause denne uken",
+    "summary": "En fersk undersøkelse utført av CNBC viser at hele 93 prosent av markedsaktørene venter at Federal Reserve vil holde styringsrenten uendret på ukens rentemøte. Likevel signaliserer respondentene at fremtidige rentehevinger fremdeles kan bli nødvendige dersom inflasjonspresset holder seg seiglivet. Forventningene understreker den krevende balansegangen sentralbanken står overfor mellom stabilisering av økonomien og varig prisvekstkontroll.",
+    "why_it_matters": "Amerikanske styringsrenter setter tonen for globale kapitalmarkeder og påvirker direkte rentebanen til Norges Bank samt den norske kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Dersom Federal Reserve signaliserer at ytterligere innstramminger kan komme senere, vil det kunne løfte globale markedsrenter og forsinke fremtidige rentekutt internasjonalt."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En vedvarende rentedifferanse i favør av amerikanske dollar kan legge et nedadgående press på den norske kronen og importere inflasjon."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Utsikter til at rentetoppen forblir høy over lengre tid kan dempe risikoviljen og tynge verdsettelsen av høyt gjeldsatte vekstselskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Boeing kutter leveringsmål for 737 og stuper på Wall Street",
+    "summary": "Aksjene i flyprodusenten Boeing falt markant etter at selskapet nedjusterte sine leveringsmål for passasjerflyet 737 på grunn av vedvarende produksjons- og kvalitetsproblemer. Selv om snuoperasjonen viser enkelte tegn til bedring i andre avdelinger, sliter den kommersielle flydivisjonen fortsatt tungt. Nyheten la en demper på stemningen i industrisektoren, selv om teknologiselskaper holdt de brede indeksene oppe.",
+    "why_it_matters": "Boeing er en sentral leverandør til det globale luftfartsmarkedet, og forsinkelser påvirker flyselskapenes kapasitet, billettpriser og investeringsplaner verden over.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kraftig kursfall for en industritung kjempe som Boeing skaper økt volatilitet og trekker ned underliggende stemning i tradisjonelle industrisektorer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Flyselskaper som venter på nye fly kan bli tvunget til å fly eldre og mindre drivstoffgjerrig materiell lenger, noe som gir høyere driftskostnader."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Kapasitetsbegrensninger i flyflåtene globalt kan bidra til å holde billettprisene på et forhøyet nivå gjennom de kommende sesongene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRVBFOVl1NFVFRWJrYVZhVVkxd2ZLdm5sal9VYjhkRmlEZ1h4SFROYzhTM1NKSTkwNUVwT1UyY21JMXhlS0lRQTZzQW9weWYtenZyUkZVeklBaHpfcmFRalp1Y3VPdC1XZFJIbUZ2YVA2VVFLUUVPVHd5NFdqX0NEcF8yS1I?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUlhuSHlHbGRRcXJCN0NvX05wSlVxc0syaDdMQ3QxOVlhODBMbjdvaDhjSm9GdjRQeno4bmw2d0J2RkRZcDZPQW9wbHAtYUxyUWtubVlqejgyaWxtUXBFRFMyTWVfWGRVU01WRDZrMXI0ZENTRlFNaU5kNjUxN2dCbWFGNzhrSXBmMmNiU2hMSVF2eXJ3ZmlJemltbjgtLXNPd1REV2pFdmxQSW5Y?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/GrWwQx/oppgangen-fortsetter-paa-wall-street?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Økende politisk press for forbud mot korttidsutleie i norske byer",
+    "summary": "Både Arbeiderpartiets Bjørnar Skjæran, Venstre og Sosialistisk Venstreparti tar til orde for at norske kommuner må få lovhjemmel til å innføre forbud mot korttidsutleie av boliger. Bakgrunnen er sterk misnøye med såkalte «skyggehoteller» og Airbnb-virksomhet som endrer bomiljøer og fortrenger fastboende i pressområder. Politikerne krever nå at regjeringen fremmer tiltak for å regulere markedet strengere.",
+    "why_it_matters": "Innstramminger i korttidsutleie kan endre balansen i det norske leiemarkedet og påvirke avkastningen for eiendomsinvestorer betydelig.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Bolig",
+      "effect": "Et eventuelt forbud eller strengere kvoter kan flytte boliger fra turistmarkedet tilbake til det ordinære langtidsleiemarkedet og dempe leieprispresset."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Eiendomsinvestorer som har basert finansieringen på høy døgnleie kan oppleve fallende lønnsomhet dersom kommunale restriksjoner innføres."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Fastboende i pressområder kan få økt boligtilgang, samtidig som tilreisende turister kan møte dyrere overnattingsalternativer på tradisjonelle hoteller."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/X9Jb6W/bjoernar-skjaeran-maa-gi-mulighet-til-aa-forby-korttidsutleie?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/AbK7zn/vil-ha-regjeringen-paa-banen-oedelegger-nabolag?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Høye boliglånsrenter demper salget av nye boliger i USA",
+    "summary": "Ferske amerikanske tall viser at salget av nye eneboliger har falt som en direkte følge av at boliglånsrentene har steget markant igjen den siste tiden. Samtidig steg forbrukertilliten i USA for første gang på fire måneder, noe som tegner et todelt bilde av husholdningenes situasjon. Den vedvarende rentebelastningen gjør imidlertid at terskelen for større kapitaltunge investeringer som boligkjøp forblir svært høy.",
+    "why_it_matters": "Det amerikanske boligmarkedet er en ledende indikator for privat forbruk og økonomisk vekst i verdens største økonomi.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Bolig",
+      "effect": "Svakere nyboligsalg kan bremse byggeaktiviteten og redusere ordreinngangen for leverandører av byggevarer og håndverkstjenester."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Forbrukernes optimisme styrkes noe av et robust arbeidsmarked, men høye lånerenter begrenser mulighetene til å realisere boligdrømmer."
+     },
+     {
+      "area": "Renter",
+      "effect": "Fortsatt press i lånekostnadene understreker at sentralbankens innstramminger biter hardt i rentefølsomme sektorer av realøkonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGpsLVNsSHBIUXpJRl9fLWkydWcxT3VYcjFZTEhfcGl1U3N0d1ZKN1d4QzBMWEtTcnhNc05oUzZGRy10S0hnT2syWXdWLUNyR0hXTTgwWWJhclRzZmJtLS1TTzc5eTY1RGJLM1pfQXRvTUctcFM3X2V5aTJtTlVrd3VONXNSdmFzd2ZCaFF0cG50MGtYVXZFSjFHcEptTXpOWmw0bg?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhyUnBmc0NqTTducnhyamVhTTJWRjlmdV9qY3c5R0p6WFpaNmlZVUdnNDVjOWpZX0Ewd1c0SDNNTFdoMVVQYVRLRlNRR3lhcXlfUDI4NGwybGg2UjhNZTZxRkkyTXVVR2NaM0NNRURCMWRnZl9PVS1xc3RoaVBpUWpaU1NKMUxoTk1zYV9UQnpwaFFRb2FuMm5RUmhIMDdVWWkyRi1ndWw3cVhjVFE2ZmktNA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Verdensbanken: AI-etterspørsel presser opp lånekostnader",
+    "summary": "Verdensbankens president Ajay Banga uttalte til CNBC at tilgangen på kapital i seg selv ikke er en flaskehals, men at den enorme etterspørselen etter kunstig intelligens presser opp lånekostnadene globalt. De massive investeringsbehovene innen datasentre, brikker og kraftforsyning suger til seg likviditet fra finansmarkedene. Dette kan gjøre det mer krevende for utviklingsland og andre sektorer å sikre seg rimelig finansiering.",
+    "why_it_matters": "Når AI krever enorme kapitalmengder, påvirker det globale risikopremier og kan heve terskelen for finansiering av grønn omstilling.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Økt etterspørsel etter langsiktig lån og obligasjonsfinansiering fra teknologisektoren kan bidra til å holde de globale realrentene høyere over tid."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Mindre selskaper og tradisjonelle industrier kan oppleve tøffere konkurranse om risikokapital når teknologiinvesteringer prioriteres av investorene."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Den eksplosive utbyggingen av datasentre krever store mengder stabil kraft, noe som kan øke presset på kraftpriser og nettutbygging internasjonalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kongsberg Gruppen sikter mot tredobling av inntektene før tallslipp",
+    "summary": "I forkant av selskapets kvartalsrapportering varsler Kongsberg Gruppen et ambisiøst mål om å tredoble inntektene innen 2029. Analytikere peker på en ventet dragkamp i aksjemarkedet om verdsettelsen, selv om den underliggende etterspørselen etter forsvarsmateriell og maritim teknologi beskrives som historisk sterk. Den geopolitiske situasjonen i Europa fortsetter å gi selskapet fulle ordrebøker på lang sikt.",
+    "why_it_matters": "Kongsberg Gruppen er et av de viktigste lokomotivene på Oslo Børs og en hjørnesteinsbedrift for norsk høyteknologisk industri og forsvar.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Dersom selskapet leverer på de høye vekstforventningene, kan det opprettholde en solid premie og løfte industrisektoren på Oslo Børs."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "En planlagt tredobling av inntektene vil kreve massiv rekruttering av ingeniører og fagarbeidere i det norske teknologimiljøet fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Underleverandører i norsk maritim og forsvarsrelatert leverandørindustri kan vente økt ordretilgang og langsiktige kontrakter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/9k1XrE/kongsberg-tallslipp-det-blir-en-dragkamp?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Amerikanske myndigheter godkjenner Amazons oppkjøp av Globalstar til 11,5 mrd. dollar",
+    "summary": "Det amerikanske finanstilsynet har godkjent Amazons satellittsatsing Amazon Leos oppkjøp av satellittselskapet Globalstar for 11,5 milliarder dollar. Transaksjonen gir nettgiganten tilgang til kritisk satellittinfrastruktur og frekvensbånd i konkurransen om global bredbåndsdekning fra verdensrommet. Dette trapper opp teknologikampen mot etablerte aktører i satellitt- og telekommarkedet.",
+    "why_it_matters": "Konsolideringen i rombasert kommunikasjonstjeneste viser hvordan storselskaper investerer tungt i infrastruktur for å sikre fremtidig datatrafikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Oppkjøpet etablerer Amazon som en direkte konkurrent til etablerte satellittnettverk, noe som kan presse priser på globale teletjenester."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Større integrerte satellitt- og skytjenester kan gi internasjonale logistikk- og maritime selskaper mer robuste kommunikasjonsløsninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Nordisk diplomatisk debatt etter at Støre og Stubb snakket med Putin",
+    "summary": "Statsminister Jonas Gahr Støre og Finlands president Alexander Stubb har gjennomført en telefonsamtale med Russlands president Vladimir Putin angående krigen i Ukraina. Samtalen har skapt skarp reaksjon og debatt i Norden, der blant annet Danmarks statsminister Mette Frederiksen har stilt spørsmål ved initiativet, mens Støre avviser kritikken.",
+    "why_it_matters": "Hendelsen illustrerer økende spenninger i det nordiske sikkerhetspolitiske samarbeidet rundt håndteringen av diplomatiske kanaler mot Moskva.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Uenigheten om direkte kontakt med russiske ledere kan skape diplomatiske gnisninger og kreve tettere samordning mellom de nordiske NATO-landene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdl9aeUw1WWhsaEJNMGUyVUtGeS1hM2VLdzBidFM4ZjFUSzdtMlpBZklkSFdvOC1HdlR2bHI4MGR3aFF6RE8tZDdvNG5ySUVoczc4d1ZVY1V0djZzNk5mTndwUXpucDVndGlEd25jclhQdVBpUlM4RVl5M3FEUW5EdXRBSW10bGllZEtvQzJOZkpWRlBIZ241dVozaFRtZWJqa00wU1M0MTBCQ1RmLTlvQnhKQjMzbTZhVDRNSEN1am02cWtGdnRtaXhfOEUxdHM3UUphY05jNTRQUQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUDVhdlNGeTV4dDVxVXRfdF80N2Q3cFVQd3FWeFFNczNQV1VQUVZVeTVyME5VSktUX0pIQmxmZG5vb2lSX1lROW04TTEyQWtSelF4cm81d1psNWNsOVBHSW1sQU1IQzFjT3J1a0xfSjJQTFZBTmhRVkFEem9sVFpTeHRJTXZUWVlwRzloMEwwek54bTlWTGVUUDh4Nk45dw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Flávio Bolsonaro har forlatt Brasil for USA etter valgnederlag",
+    "summary": "Den brasilianske senatoren Flávio Bolsonaro har ifølge kilder og internasjonale medier forlatt Brasil og reist til USA etter at han tapte presidentvalget mot sittende president Lula da Silva. Avreisen skjer samtidig som brasilianske myndigheter har kansellert passene hans i forbindelse med pågående etterforskninger.",
+    "why_it_matters": "Dramatikken rundt Bolsonaro-leiren understreker den dype politiske polariseringen og rettslige etterspillet i Latin-Amerikas største demokrati.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Flukten til USA kan skape en vanskelig diplomatisk og utleveringsrettslig situasjon mellom administrasjonen i Washington og Lulas regjering i Brasilia."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkMzNXNRUEgtVnNOZEtDa25adERvb0Z5Y3R5ZmVMTFpxOE9adkd0cTBRN0dUVll2LVpyNlNUQ3NCTXhNMXRTUUJNMnVFcFdWWGUxTmpHYU1KVzA3WGkyZmdXSnpIcktPVWNxMldQdkpWb3YwZDVlV3NmN213d3duU3YwbkEzWms1T3o2bEtiZWpHSFpPODhnZEMzX1FjZWpSR2dZekdaYkpFc2hwSWh1aDYtS1dCR2ctZHZJam1ITVU?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Rekordhøy valgdeltakelse ved det israelske parlamentsvalget",
+    "summary": "Valgdeltakelsen ved det israelske valget nådde rekordhøye nivåer halvveis gjennom valgdagen, med nær 45 prosent avgitte stemmer innen ettermiddagen. Valget regnes som et av de mest jevne og avgjørende i landets nyere historie, og utfallet vil forme både den nasjonale samlingsregjeringen og håndteringen av konfliktene i regionen.",
+    "why_it_matters": "Valgets utfall har direkte innvirkning på stabiliteten i Midtøsten, krigføringen i Gaza og fremtidige freds- og gjenoppbyggingsforhandlinger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Sammensetningen av den neste israelske koalisjonen vil avgjøre retningen for sikkerhetspolitikken og diplomatiske relasjoner med vestlige allierte."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-27-08",
   "hour": 8,
   "date": "2026-10-27",
@@ -7343,284 +7631,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-12-20",
-  "hour": 20,
-  "date": "2026-10-12",
-  "generated": "12.10.2026 20:16",
-  "overview": "Uken preges av tildelingen av Nobels minnepris i økonomi til to ledende makroøkonomer, samtidig som IMF advarer mot dyptgående omveltninger i det globale arbeidsmarkedet som følge av kunstig intelligens. Samtidig øker de geopolitiske og handelspolitiske spenningene etter EUs nye importgrep mot kinesiske kjøretøy og uenigheter rundt energiforsyning.",
-  "stories": [
-   {
-    "title": "Nobelprisen i økonomi tildeles Robert E. Hall og Michael Woodford",
-    "summary": "De amerikanske økonomene Robert E. Hall og Michael Woodford er tildelt Nobels minnepris i økonomi for 2026. Prisen tildeles for deres banebrytende forskning på hvordan myndigheter og sentralbanker best kan stabilisere økonomien i møte med makroøkonomiske sjokk. Teoriene deres danner i dag mye av det teoretiske fundamentet for moderne pengepolitikk og rentefastsettelse globalt.",
-    "why_it_matters": "Prisvinnernes rammeverk er direkte styrende for modellene som Norges Bank og andre sentralbanker benytter til inflasjonsstyring og renteprognoser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Fornyet faglig oppmerksomhet rundt Woodfords teorier kan styrke sentralbankenes fokus på fremadskuende guiding for å forankre langsiktige inflasjonsforventninger."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Halls innsikt i konsumatferd underbygger hvorfor midlertidige finanspolitiske stimulanser ofte har begrenset effekt dersom husholdningene forventer fremtidige skatteøkninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxIN3FQeEQ2NmZOTVRueTY3MlM3N0ExVTlRMlpzaGIxeEhiLWUwdldDRkRpRzRlMGFpMEhJZkxadkZkWmQwVk9OelRlX2FpZmhnWjZZdVFfQ0FVaUk5Yk1xdDVFU0F0aUFrOVRoOEZwalJJVEtEVEdOU1I2NWtQN3h1SjBSNTJNckJtc0d2T1dMQQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "EU innfører importkvoter på kinesiske hybridbiler",
-    "summary": "EU-kommisjonen innfører et tak på importen av kinesiske hybridbiler til 350 000 enheter årlig, med hjemmel i Verdens handelsorganisasjons regelverk. Tiltaket forventes å halvere markedsandelen til kinesiske produsenter i dette segmentet ned til rundt tre prosent. Europeiske bilprodusenter har lenge etterlyst vernetiltak mot subsidiert kinesisk konkurranse.",
-    "why_it_matters": "Handelshindre i Europa kan eskalere handelskonflikten med Kina og påvirke europeisk bilindustri, der også norske leverandører inngår i verdikjeden.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Kvoteordningen kan utløse gjengjeldelsestiltak fra kinesiske myndigheter mot europeisk eksportindustri og skape økt proteksjonisme i det globale bilmarkedet."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Redusert tilbud av rimeligere kinesiske modeller kan bremse prisfallet på lavutslippsbiler og gi europeiske bilkjøpere færre prisgunstige alternativer."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Etablerte europeiske bilprodusenter som Volkswagen skjermes midlertidig mot tøff priskonkurranse, noe som gir dem mer tid til omstilling."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-      "paywall": false
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObHVEUHhqelFyWUQwZ2xCOWViUnBFeFQtSmJ6a29IUHo4eDZ1Wm9aZUtXcVhtU2Z4dGNHUlB0aGw1SFJ5ZUdYcXhoUjZ6TnFRUV9GaEdLZkdfOXhmY1c3djZJR2hxS2hXaUN1clI2X09TVzVZaENKUHFGXzd4STRaclN4TGZyR1pab1EyN19DbmpMREJ0Y1p0VTJnYjJRTnp2UndHMzRIaVRlUVJGWmxxMklvOW5fMWpSd1E?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "IMF og Verdensbanken advarer om en AI-tsunami i arbeidsmarkedet",
-    "summary": "Pengefondets sjef Kristalina Georgieva advarer om at kunstig intelligens treffer det internasjonale arbeidsmarkedet som en saktegående tsunami. Verdensbankens sysselsettingsråd tar til orde for krisetiltak for å beskytte arbeidstakere, særlig unge som skal inn i arbeidslivet for første gang. Organisasjonene understreker at omstillingen krever massive investeringer i etterutdanning og sosialt sikkerhetsnett.",
-    "why_it_matters": "En rask automatisering av kunnskapsarbeid kan få store konsekvenser for sysselsetting, skatteinngang og produktivitetsvekst i kunnskapsbaserte økonomier som Norge.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Nyutdannede arbeidstakere kan møte høyere terskler for å få sin første jobb når rutinebasert saksbehandling og analyse automatiseres bort."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Virksomheter som lykkes med tidlig integrasjon av generativ teknologi kan oppnå markant produktivitetsvekst, mens etternølere risikerer svekket konkurransekraft."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Sterk motstand i Europa mot Trumps foreslåtte dieselavtale med Russland",
-    "summary": "Donald Trumps uttalelser om en bilateral dieselavtale med Russland møter krass kritikk fra europeiske ledere, inkludert Tysklands forbundskansler Friedrich Merz som kaller avtalen uaktuell for Europa. Samtidig sår energianalytikere tvil om volumene, som anslås å kun tilsvare omtrent én dags globalt forbruk. Amerikanske folkevalgte fra begge partier uttrykker også sterk skepsis til å lette på energisanksjonene.",
-    "why_it_matters": "Uenighet om sanksjonsregimet for oljeprodukter kan skape usikkerhet i raffinerimarkedet og påvirke etterspørselen etter norsk olje og raffinerte produkter.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Usikkerhet rundt sanksjonsetterlevelse kan skape kortsiktig volatilitet i prisdifferansene mellom råolje og raffinerte produkter som autodiesel."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Avstanden mellom USA og europeiske allierte kan øke dersom Washington opptrer på tvers av den etablerte vestlige sanksjonslinjen mot russisk energi."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/eGqGJl/tviler-paa-trumps-diesel-avtale-hjelper-veldig-lite?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Meta avduker ny AI-modell og trapper opp investeringskappløpet",
-    "summary": "Meta har lansert sin nye modell Muse, som ifølge toppsjef Mark Zuckerberg når den absolutte teknologifronten etter 14 måneders intensiv utvikling. Zuckerberg avviser samtidig alle oppfordringer om å bremse opp tempoet i utviklingen av avansert kunstig intelligens. Nyheten ga umiddelbart børsløft for selskapet på Wall Street.",
-    "why_it_matters": "Teknologigigantenes enorme investeringer i datasentre og databrikker er en sentral drivkraft for global børsvekst og energietterspørsel.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Fortsatt høye investeringsbudsjetter hos tek-gigantene gir støtte til verdsettelsen av brikkeprodusenter og selskaper i datasenter-verdikjeden."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Intensivert konkurranse mellom Meta, OpenAI og Google kan presse ned kostnadene for bedrifter som ønsker å bygge spesialiserte AI-applikasjoner."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEE0WWhsM19sbHp4eXRuUHJNeURDWkpQS2tSdE9scThXNUVrWGN0R19KdHZLdXJnZjJQNFJXRnRsNXNWS1RmeGhlSlR6bVFER0JsWjRraFVIeXpZZkZIblc5TmVaeExWYjRqamRnUUl4enVHb0hnN3B5NUdaV1UwVmlmMVE4QlpYWmhQeWlzVUs5X0dTZkVtSHZDdXJZTHNaLWtFQ3luM0puZk91QlQyeWdPTVg0Zw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmEtcTdxem5KMG95LXRKM2VIcGF2X3FjLTdCVmNYQzhMODdzQ2plTW5EQ1F4SHZ6RThpUDllZWVpWVVpdmxCODZyMVEybm1oZ3pNX2pOb0VrTzllbXhDTkp0Q1ZmLUhJQklNR0hOUy1mRWlrdGV4cUxkUWthZUVUQkVUZzc?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/OgWGWE/mark-zuckerberg-meta-har-tatt-igjen-ai-rivaler-med-ny-modell?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Uventet inflasjonshopp i India skaper renteuro i vekstmarkedene",
-    "summary": "Konsumprisindeksen i India steg til 5,54 prosent i september, godt over analytikernes forventninger og landets ellevte måned på rad med prispress. Den kraftige oppgangen drives i hovedsak av stigende mat- og energikostnader i kjølvannet av regionale spenninger. Økningen gjør at markedene nå priser inn høyere sannsynlighet for ytterligere rentehevinger fra den indiske sentralbanken.",
-    "why_it_matters": "Strammere pengepolitikk i verdens mest folkerike økonomi kan dempe den globale veksten i fremvoksende markeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere renteforventninger i India kan trekke opp finansieringskostnadene for selskaper i fremvoksende markeder og styrke kapitalflukten mot tryggere havner."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Fortsatt høye energi- og matvarepriser i Asia illustrerer risikoen for at globale råvareforstyrrelser kan forlenge kampen mot inflasjon internasjonalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Togstreiken i Norge går til tvungen mekling etter tre ukers konflikt",
-    "summary": "Etter over tre uker med togstreik samles Norsk Lokomotivførerforbund og arbeidsgiverorganisasjonen Spekter til tvungen mekling hos Riksmekleren førstkommende fredag. Samtalene i helgen førte ikke frem, og partene står fortsatt steilt mot hverandre i konflikten. Streiken har skapt betydelige logistikkutfordringer og store forsinkelser for pendlere og næringslivstransport.",
-    "why_it_matters": "Langvarig svikt i jernbanelogistikken påfører næringslivet merkostnader og skaper indirekte produktivitetstap i det norske arbeidsmarkedet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Forsinkelser i godstransport på skinner tvinger bedrifter over på dyrere veitransport og kan forstyrre forsyningskjedene innen industri og dagligvarer."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Dersom tvungen mekling mislykkes, øker sannsynligheten for at myndighetene griper inn med tvungen lønnsnemnd av hensyn til liv og helse."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/tvungen-mekling-i-togstreiken-fredag-1.18052702",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Omfattende dataangrep mot franske dagligvarekjeder slo ut kjølesystemer",
-    "summary": "Flere hundre franske supermarkeder ble rammet av et koordinert cyberangrep som saboterte kjøle- og frysesystemene ved å skru opp temperaturene. Angrepet førte til at enorme mengder frossen og fersk mat ble ødelagt, og enkelte steder oppsto det branntilløp. Hendelsen har utløst dyp bekymring for sårbarheten i den europeiske matforsyningskjeden.",
-    "why_it_matters": "Angrepet demonstrerer hvordan cybertrusler mot industriell styringsteknologi kan lamme kritisk sivil infrastruktur og skape akutte matsikkerhetsutfordringer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Europeiske myndigheter vil trolig skjerpe kravene til cybersikkerhet og redundans for IoT-systemer innen distribusjon av mat og legemidler."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3ROS2JyQ2FsMFQybDNON0FKUk5ZVl9POTR5X19XZ0RQTWF1elFiTWJXUFpWeGkzaWNyOUdobFoySUQxWFJzWGlsekpEM052UnJvRGNqTTZWZVVFTU40Y0VBOGNQMmdnUk5sQ0hiRUJ5c2VFWHZURTZiS2FzMHR4bjBLb2J6UEpydEt2bURmeGJRR0ZiTWZmQ3JjeEp5eVljcV8xQVpqQTJ6TUFmTmRJR21qclNmTVNUdi1GWXloRERuNDdNaHc?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Dødelig Houthi-angrep mot Riyadhs flyplass trapper opp konflikten",
-    "summary": "Minst 13 personer mistet livet etter at den jemenittiske Houthi-bevegelsen gjennomførte et omfattende angrep mot den internasjonale flyplassen i Saudi-Arabias hovedstad Riyadh. Saudiske myndigheter gransker hvorfor luftvernsystemene sviktet, og varsler en kraftig militær gjengjeldelse. Eskaleringen vekker ny frykt for en full regional storkonflikt på Den arabiske halvøy.",
-    "why_it_matters": "Nye angrep mot sentrale saudiske knutepunkter truer stabiliteten i regionen og kan eskalere spenningen rundt handels- og transportruter i Midtøsten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "En fornyet saudi-ledet militæroperasjon i Jemen kan destabilisere regionale våpenhvileforsøk og skape økt usikkerhet for internasjonal luft- og skipstrafikk."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVlFmZ0kwWmYtTnNQeVZ5dklfNXNiZlFLRDh6TEZrUEpLYmtFMk1IckdOeHBUb1YyQV9pbXRPeUpib1VXMEV3dHJtYWs5V1BDMnQzM0ZsSTk2cXVFQ0xYbGplWUlUSEhrZlpHbzZTX05xdElackFubFV0YUhudVFFNUo4cVpLazRFaUlINkcySkVVcWJFU3ZIRHVB?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Slottet oppdaterer rolledefinisjoner og fjerner dronning Sonja fra Kongehuset",
-    "summary": "På Det kongelige hofs nettsider er dronning Sonja ikke lenger oppført under den formelle definisjonen av 'Kongehuset', men forblir en del av den øvrige kongefamilien. Slottet opplyser at Kongehuset etter definisjonen utelukkende omfatter den til enhver tid regjerende monark med ektefelle samt nærmeste arveberettigede. Endringen har skapt stor offentlig oppmerksomhet og debatt om monarkiets fremtidige organisering.",
-    "why_it_matters": "Presiseringen tydeliggjør rammene for det offisielle representasjonsansvaret i en tid med pågående generasjonsskifte og konstitusjonell modernisering i Norge.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Klargjøringen av hvem som utgjør det offisielle kongehuset kan legge føringer for fremtidig tildeling av apanasje og offisielle oppgaver for kongefamiliens medlemmer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/slottet_-dronning-sonja-fjernet-fra-kongehuset-1.18052755",
-      "paywall": false
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFNKajFuT0FleE1rRURZOFVNMWNSbjhCQlVpeWIxdmFTYWdEa3ZQRHBnTkM4a3lrUmRtdFNVWENXNnFkcnU1aXVWdTJXX3NkLVBGbWtfcGZ2RGV2UC1LWmxBVjhjNVlVX21WLXNNUHJVVDNmQmR4MUpoN3FxQXRadHBoaXpSbFRiWF9vVVBHdHNQNDRLZDNjZTF5Y1BPc1YyLUpEaA?oc=5",
       "paywall": false
      }
     ]
