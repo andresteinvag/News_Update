@@ -1,5 +1,278 @@
 [
  {
+  "id": "2026-10-27-08",
+  "hour": 8,
+  "date": "2026-10-27",
+  "generated": "27.10.2026 08:42",
+  "overview": "Oljeprisen faller noe tilbake idet nye diplomatiske initiativer demper frykten for forsyningsforstyrrelser i Midtøsten, mens det globale teknologimarkedet rettes mot en potensiell rekordnotering fra kunstig intelligens-selskapet Anthropic. Samtidig opplever asiatiske eksportøkonomier sterk drahjelp fra halvlederettersprørsel, mens norske mediehus tar rettslige grep for å beskytte sine inntektsmodeller mot internasjonale teknologikjemper.",
+  "stories": [
+   {
+    "title": "Oljeprisen faller etter økt diplomatisk innsats i Midtøsten",
+    "summary": "Råoljeprisene falt rundt én prosent tirsdag morgen etter at fornyede diplomatiske forsøk på å dempe spenningene mellom USA og Iran har redusert frykten for umiddelbare bortfall i oljeforsyningen. Til tross for enkelte fortsatte angrep i regionen har markedsaktørene tonet ned den geopolitiske risikopremien. Dette gir et pusterom for globale energimarkeder etter en periode med betydelig frykt for eskalering.",
+    "why_it_matters": "Lavere oljepriser kan bidra til å dempe den globale importinflasjonen, men betyr samtidig reduserte eksportinntekter og lavere skatteinngang for den norske staten.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Dersom de diplomatiske samtalene fortsetter å redusere frykten for fysiske forsyningsavbrudd, kan råoljeprisen etablere seg på et lavere nivå og lette drivstoffkostnadene internasjonalt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Et varig fall i petroleumsprisene kan redusere statens direkte inntekter fra sokkelen og føre til lavere kapitaloverføringer til Statens pensjonsfond utland."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En svekket oljepris kan svekke den norske kronen mot store valutaer som dollar og euro, ettersom Norges handelsbalanse svekkes."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTRIVG5pYjdLekMyUVZ2N2dyYlVvUjlPX084ZlFPRUQ0MHFXUkFXNGNmVU0za0E5RUdobHNLbG1JYm5ITWd5QjJwYm1obWU2a1RGVVlVaEdqZEtsNXMtMmNsakZwa1EzTXk4cDRRSG0wOUVQQVVXcE9RZXRlM0lQeHhB0gGHAUFVX3lxTE1zcmUxLTRyRjRWZ3BackRuV0lHRTE2RWFsMnJIYzhSYzdwSUwzMEg4ek93U05iMVB2U2tfemIwUnZMRERfdGVkaTFxQVkxYlZ2VmRGejR2N0dkZng2ZDB5QkVlSGxhODV3NFlpRTU0SjFQQUxnVzY0ck8yc1JiUXFaSFZqc2EyTQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Anthropic sikter mot historisk børsnotering",
+    "summary": "AI-selskapet Anthropic har levert inn prospekt for det som kan bli tidenes største børsnotering. Dokumentene vekker oppsikt både på Wall Street og i Silicon Valley på grunn av selskapets enorme kapitalbehov og advarsler om samfunnsrisiko knyttet til kunstig intelligens. Samtidig forventes børsnoteringen å gi store gevinster for tidlige investorer og sette en ny standard for prising i teknologisektoren.",
+    "why_it_matters": "Noteringen vil teste markedets vilje til å prise ulønnsomme AI-selskaper og kan avgjøre kapitalflyten til teknologisektoren i lang tid fremover.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "En vellykket notering kan øke risikoviljen og løfte verdsettelsen av andre teknologiselskaper, mens en skuffende mottakelse kan utløse korreksjoner i AI-relaterte aksjer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Kapitalinnsprøytningen vil trolig intensivere kappløpet mellom ledende modeller og tvinge frem ytterligere investeringer i datasentre og datakraft."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYllMbFRuTjU1YW5QWWRQd3JFZ0VkRk52dTl6RG04VEFZZC1HalMxaE9Iem01ZlN4MW5udlBWdUtvVU93U1BETlFVamk5SlNCam1XVVRzWExBemxDSC1yM0pDSHlkR1ZHNlpSNG02OTZCcVlEMGZiUXVBUkRWaWRQYVhkLUNrUmwwZEZ0YXZ6a29pemJHZGNaU2hpVUY?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Microsoft tilbyr sluttpakker til 60 000 ansatte",
+    "summary": "Teknologigiganten Microsoft har tilbudt frivillige sluttpakker til om lag 60 000 ansatte på tvers av sine globale avdelinger. Grepet ses som et forsøk på å trimme organisasjonen og omallokere ressurser mot kjerneområder som kunstig intelligens og skytjenester. Det massive omfanget understreker hvordan store teknologiselskaper søker effektivisering etter årelang vekst i bemanningen.",
+    "why_it_matters": "Når en av verdens mest verdifulle bedrifter kutter så kraftig i bemanningen, kan det varsle et mer defensivt arbeidsmarked og økt kostnadsfokus i teknologibransjen globalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Et høyt antall oppsigelser og sluttpakker i ledende teknologiforetak kan kjøle ned lønnsveksten og øke tilgangen på kvalifisert IT-arbeidskraft for andre bransjer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Reduserte faste personalkostnader kan styrke Microsofts marginer og frigjøre kapital til kapitalkrevende investeringer i kunstig intelligens-infrastruktur."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmZXX0VMUmJNVVdsTFl5T3pfTkRYZXBsdTg0S3hEbXdrYnN3UlhjSlhmTWZiUy1yM0JhdlI2RzFqVjBVYl9WWmExbVVhS2g2ZlJEUWloeEtZSEpWbGVtZlRDU3VWOTJhXzVoSlFNVUQxcmpiTGFpUXctYnp0bDdMYTVCS0k?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ21KRDV1Mmh5STU0SEdUc2VUZFZEbVJ0SGdDc2xCaEhpNlJtMGxsTV9lMG45OEJhZlpUNDlnU3BteDYzZ04wWHhvUFhYdS1QT0o3UEl1SGc2a0pDUkxZQ1VMMHRiVVdzeUZDM2tQb2NvQkFkYmJZZ1BTTHdiOVl5LXFabTB5V05jMjFWaGxVa1M0MXZiY3NwNw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sør-Koreas vekst overgår forventningene etter halvleder-opptur",
+    "summary": "Sør-Koreas økonomi vokste med 3,4 prosent på årsbasis i tredje kvartal, godt over konsensusestimatene. Den overraskende sterke veksten ble drevet av en kraftig oppgang i global etterspørsel etter avanserte databrikker og elektronikk koblet til utbyggingen av kunstig intelligens. Tallene bekrefter at den asiatiske produksjonssektoren opplever et markant løft fra det pågående AI-investeringskappløpet.",
+    "why_it_matters": "Sør-Korea regnes som en ledende indikator på global handel og industriell etterspørsel, og oppturen signaliserer fortsatt solid fart i verdensøkonomien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Sterk etterspørsel etter halvledere kan opprettholde høye handelsvolumer i Asia og støtte frakt- og verdikjedemarkeder globalt."
+     },
+     {
+      "area": "Renter",
+      "effect": "Høyere økonomisk aktivitet kan redusere behovet for snarlige rentekutt fra Sør-Koreas sentralbank for å unngå fornyet innenlandsk prispress."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdZa2s4Tl9abC1VNTVrc08zclh0T3M0TE1PWEpMSjc4N1dOdlV1T3l2eG1QN3JHRVdMajdlTlFPQ0ZWSmFNYjJ5QzU0UURDX1RFVmotY0VqT3hhV3dtd21wZlhPWVl1VktWd05hbVRfTEM4ZF9WZG1UUUNPSHFMWkpNbllzNDdJNW5sRkJkMUdNcjhHVmlUWGZFOUNBU0JLbGJF?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norske mediegiganter går til felles søksmål mot Meta",
+    "summary": "Schibsted, TV 2 og NRK har gått sammen om å saksøke teknologigiganten Meta over bruken av redaksjonelt innhold og konkurransen i annonsemarkedet. Mediehusene argumenterer for at dagens praksis undergraver den kommersielle bærekraften til uavhengig journalistikk. Dette markerer en betydelig eskalering i den pågående konflikten mellom europeiske medieaktører og de globale plattformselskapene.",
+    "why_it_matters": "Søksmålet kan få store konsekvenser for fordelingen av digitale annonseinntekter i Norge og danne presedens for lignende oppgjør i andre europeiske land.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Dersom mediehusene vinner frem, kan det tvinge internasjonale plattformer til å betale kompensasjon for innhold og jevne ut konkurranseforholdene i det norske annonsemarkedet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "En rettslig avklaring kan sikre sårt tiltrengte digitale inntektsstrømmer for tradisjonelle mediehus som sliter med fallende opplag og sviktende annonsemarginer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/p1y6Qj/norske-mediegiganter-saksoeker-meta?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/zlpLAr/norske-mediegiganter-saksoeker-meta",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norsk strømforbruk skyter i været fra datasentre og sokkel",
+    "summary": "Nye forbrukstall viser at Norges samlede strømforbruk stiger betydelig til tross for at vanlige husholdninger sparer på energien. Den markante økningen skyldes i all hovedsak elektrifisering av petroleumsinstallasjoner på sokkelen, utbredelsen av elbiler og etableringen av store datasentre. Utviklingen legger økende press på det nasjonale overføringsnettet og det norske kraftoverskuddet.",
+    "why_it_matters": "Et strammere kraftoverskudd i Norge kan gi høyere strømpriser for husholdninger og fastlandsindustri, og utfordrer målene om lave industritariffer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Et raskt voksende innenlandsk strømforbruk kan redusere Norges tradisjonelle kraftoverskudd og gjøre spotprisene mer sårbare for svingninger i tilsig og værforhold."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høyere nettleie og perioder med stram kraftbalanse kan øke de faste utgiftene for vanlige husholdninger og svekke den disponible realinntekten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/9kwEJM/vi-bruker-mindre-stoem-datasentrene-mye-mer",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Bank of Japan ventes å holde styringsrenten uendret, men signalisere innstramming",
+    "summary": "En ny markedsundersøkelse viser at Bank of Japan ventes å holde styringsrenten i ro under ukens rentemøte, men sentralbanken forventes å opprettholde en haukete tone. Bakgrunnen er fortsatt pris- og lønnsvekst i Japan samt et ønske om å motvirke ytterligere kronesvekkelse for yen. Markedet priser nå inn at neste renteheving kan komme i løpet av de neste kvartalene.",
+    "why_it_matters": "En gradvis normalisering av japanske renter påvirker globale kapitalstrømmer og kan skape volatilitet i valutamarkeder og rentebærende verdipapirer over hele verden.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Forventninger om fremtidige rentehevinger i Japan kan presse opp de globale lange obligasjonsrentene og redusere attraktiviteten til såkalte yen-carry-trades."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Økt global markedsuro knyttet til svingninger i japanske renter kan ramme mindre, likvide valutaer som den norske kronen gjennom redusert risikovilje internasjonalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Israel avholder skjebnevalg dominert av sikkerhet",
+    "summary": "Innbyggerne i Israel går tirsdag til valgurnene i det første parlamentsvalget etter angrepene 7. oktober og påfølgende krigføring. Statsminister Benjamin Netanyahu kjemper for sitt politiske liv mot en samlet opposisjon ledet av tidligere forsvarssjef Gadi Eisenkot, mens titusenvis av israelere i utlandet har reist hjem for å stemme. Meningsmålingene peker mot et svært jevnt løp som kan føre til langvarige forhandlinger om regjeringsdannelse.",
+    "why_it_matters": "Valgutfallet vil være avgjørende for Israels militære strategi, håndteringen av konflikten i Gaza og Libanon, og den bredere stabiliteten i hele Midtøsten.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Et eventuelt regjeringsskifte eller en fastlåst parlamentarisk situasjon kan endre forutsetningene for våpenhvileforhandlinger og fremtidige diplomatiske avtaler i regionen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Lokal våpenhvile iverksatt i ukrainske Olesjky for nødhjelp",
+    "summary": "Ukraina og Russland har innledet en midlertidig og lokalt avgrenset våpenhvile i den russisk-okkuperte byen Olesjky for å slippe til sårt tiltrengt humanitær bistand. Om lag 2 000 sivile har vært isolert i byen med akutt mangel på mat og medisiner etter omfattende krigshandlinger og oversvømmelser. Samtidig fortsetter imidlertid luftangrepene og kamphandlingene med uforminsket styrke på andre deler av frontlinjen.",
+    "why_it_matters": "Våpenhvilen viser at begrensede humanitære avtaler fortsatt er mulig til tross for full stillingskrig og fravær av reelle fredsforhandlinger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Selv om våpenhvilen redder liv lokalt, endrer den ikke den overordnede militære dynamikken eller den vedvarende risikoen for ytterligere eskalering i krigen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Flávio Bolsonaro ilagt utreiseforbud etter valgnederlag i Brasil",
+    "summary": "Etter at sittende president Luiz Inácio Lula da Silva sikret seieren i andre runde av det brasilianske presidentvalget, har høyesterett beordret motkandidaten Flávio Bolsonaro til å innlevere passet sitt. Kjennelsen henger sammen med etterforskning av hvitvasking og frykt for unndragelse, selv om Bolsonaros parti offisielt har anerkjent valgresultatet. Samtidig har Donald Trump hevdet uten bevis at valget var manipulert.",
+    "why_it_matters": "Utviklingen markerer en kritisk test for stabiliteten og rettsvesenets uavhengighet i Latin-Amerikas største demokrati etter et svært polariserende valg.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Domstolens strenge tiltak kan bidra til å forhindre politisk motivert uro og sikre en mer ordnet maktovertakelse for den gjenvalgte administrasjonen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-26-20",
   "hour": 20,
   "date": "2026-10-26",
@@ -7348,292 +7621,6 @@
      {
       "name": "Aftenposten",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFNKajFuT0FleE1rRURZOFVNMWNSbjhCQlVpeWIxdmFTYWdEa3ZQRHBnTkM4a3lrUmRtdFNVWENXNnFkcnU1aXVWdTJXX3NkLVBGbWtfcGZ2RGV2UC1LWmxBVjhjNVlVX21WLXNNUHJVVDNmQmR4MUpoN3FxQXRadHBoaXpSbFRiWF9vVVBHdHNQNDRLZDNjZTF5Y1BPc1YyLUpEaA?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-12-08",
-  "hour": 8,
-  "date": "2026-10-12",
-  "generated": "12.10.2026 08:23",
-  "overview": "Uken åpner med markante svingninger i råvaremarkedene etter motstridende signaler om geopolitisk risiko i Midtøsten og rykter om en midlertidig energiavtale mellom USA og Russland. Samtidig preges det norske nyhetsbildet av regulatoriske inngrep mot teknologigiganter, utsettelser i skattepolitikken og fortsatte kostnadskutt i telekomsektoren.",
-  "stories": [
-   {
-    "title": "Oljeprisen presses av Trumps utspill om energiavtale med Russland",
-    "summary": "Oljeprisen falt etter at Donald Trump erklærte en påstått energivåpenhvile i Ukraina-krigen og presenterte en ny dieselavtale med Russland. Avtalen møter imidlertid kraftig motstand i Kongressen fra både republikanere og demokrater, som mener grepet bryter med gjeldende sanksjonslovgivning.",
-    "why_it_matters": "Svingninger i råoljeprisen påvirker direkte Norges eksportinntekter, skatteinngangen fra sokkelen og bevegelsene i den norske kronen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Forventninger om økt tilbud av russiske oljeprodukter kan legge et kortsiktig nedadgående press på raffineringsmarginer og globale råoljepriser dersom avtalen realiseres."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Lavere oljepriser kan redusere statens direkte petroleumsinntekter og dermed dempe den samlede kapitaltilførselen til Statens pensjonsfond utland over tid."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Politisk motstand i Washington og manglende avklaring fra partene i Kyiv og Moskva skaper usikkerhet som raskt kan reversere prisfallet dersom konflikten trappes opp igjen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE52S2p6cHN1U0JlNDdMNkRQeGZFN1hIQ0hhaGY3SWo0MUdwQy13RkNPMVRnVVlScWRYUHcycVRsV1N4ZnM2aEI1TjZwNEdEOGc5RVAzQ1A1SURhZmYwdmptRXl2NVNnYjdtX1Vrckx5Wk10bDZMZnJROEJvcTFPNGZ4QW4?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkdVMXVPN1BzRFlhOVdNQkFTU3hkRW1WOUdtNERzSnNDNkhRd29jTXhRZ0xvSUZWQVpCUUd1b29CWEpHYWtmaVFRbXR6bTUtaTlaODhKd0I0YVhub3BjRDJ0Uks1VzhpUzRSbkE4Y2N1X19CR0tpOHEtXzNMY2JOY1pPOHZTU2PSAYwBQVVfeXFMTPIvR2cwNjhmemExeXRWRFFPb28wM0ZpVjVkQjRZYnBDS0QzVDUtME94REtVZFBlYkM5dUNmUzNIWTNhR0lvUTZDZVlfSjAyWW05OHhkRzNQX0ROczVnSTQzeWpSTko1Uzlra2RUNFFXRUV3QVU2T3pSOG42Y3lOaTNqc3plZTJGdmRZcmQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/mK3R1l/senatorer-mot-trumps-avtale-bryter-loven?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Houthi-angrep mot Riyadh og tankskip i Omanbukten skaper ny forsyningsfrykt",
-    "summary": "Flere drone- og missilangrep mot lufthavnen i Riyadh og hendelser mot kommersielle tankskip i Omanbukten har skapt fornyet frykt for forsyningsavbrudd i oljemarkedet. Angrepene krevde menneskeliv og har ført til fordømmelse fra en rekke regionale aktører samt nye reiseråd for området.",
-    "why_it_matters": "Økt krigsrisiko i sentrale transportårer i Midtøsten gir umiddelbare risikopremier i frakt- og energimarkedene som motvirker effekten av svakere global etterspørsel.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Forhøyet geopolitisk usikkerhet i Gulf-regionen kan føre til høyere risikopåslag for råolje og flytende gass dersom viktig infrastruktur trues ytterligere."
-     },
-     {
-      "area": "Handel",
-      "effect": "Økende angrep på sivil sjøfart og flyplasser kan drive opp forsikringspremier på sjøfrakt og forlenge seilingstider for internasjonale rederier."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Dersom fraktratene og drivstoffprisene forblir høye som følge av uroen, kan det gi forsinkede ringvirkninger til globale konsumpriser og forsinke rentekutt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWk1ab2N5dmRGQlBJS0ZLdmpBSWhMNWpGZ3o0ZDQ1NXFOdHdVYVBNMUpXY01naktFbkw2dmFmenhVeDBYZEdBeFVLRF95Sm1jempLdUdoc1JyR1RCQlg3dUdrMW1fVEZTdVdFejdBRTBJVmI1RV90OHNvSV90Y0U3dFZXRThzbWdPT0lPdXl3NU9HVlh6dzZlMm1BMDNRQQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMF95Nm5HV1pQeTVrX1hkaU52bkVfQUNCcjlMMVVUazlFalZpd3dnTVdvOTAxMWdZMk1wU1hfNHkyYXBVY2ZnbnVUa0N2Nm9uOTVTYVQzeGphOExkTWtoRElvUzBqMS1PWkpOQ1VpZy1VN0tUQ2hmYzV5WG1uRVFBb00yb3RjZDZ6andza0lBak9HVXl2QVFZeWk4NXVpc0d4OTVnX2FSY203allXNVlLa1lENGI1bnFLWG1IQVZlS0NyYjZWTUE?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZF9DS1hBWldLa0lJMWU3YkJTdkNKZGpCRlhlSnFPMFlMWmRLWUhZYW1ydmJSUGVvOU9NUTA3YWI5SDFKRy1mZ3ZWemRURF9XZVRhUmhBdXRGMnJSVGFYcmdoNHJHYlpveXl2djJFTmhzWjJ1ZU84VzJZc2Q5enVSdm1QTmU?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Datatilsynet ilegger Microsoft-selskap historisk bot på 92 millioner kroner",
-    "summary": "Datatilsynet har ilagt annonsetjenesten Xandr et overtredelsesgebyr på 92 millioner kroner for ulovlig spredning av sensitive personopplysninger. Dette er det høyeste gebyret tilsynet noensinne har ilagt et selskap i Norge, og saken omhandler alvorlige brudd på personvernforordningen.",
-    "why_it_matters": "Avgjørelsen signaliserer en tøffere håndheving av personvernregler overfor store globale teknologiselskaper som opererer i det norske reklamemarkedet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Strengere håndheving av GDPR kan tvinge internasjonale annonseteknologiselskaper til å restrukturere datainnsamlingen sin og øke etterlevelseskostnadene betraktelig."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Norske annonsører og mediehus kan bli mer forsiktige med å benytte tredjeparts annonsebørser av frykt for medansvar ved ulovlig datadeling."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/datatilsynet-gir-microsoft-selskap-rekordbot-1.18052159",
-      "paywall": false
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/lK93E7/datatilsynet-gir-microsoft-selskap-rekordbot-bruddene-er-svaert-alvorlige",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Finansdepartementet utsetter innstramming i reglene for innbetalt kapital",
-    "summary": "Finansminister Jens Stoltenberg har besluttet å utsette den varslede skatteinnstrammingen for skattemessig innbetalt kapital, som opprinnelig skulle tre i kraft 1. januar neste år. Utsettelsen gir næringslivet og rådgiverbransjen mer tid til å tilpasse seg endringene etter sterk motstand fra næringslivsaktører.",
-    "why_it_matters": "Regelendringen har stor betydning for hvordan norske selskaper kan tilbakebetale kapital til aksjonærer uten at det utløser full utbytteskatt.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Utsatt ikrafttredelse gir investorer og familieeide selskaper handlingsrom til å gjennomføre planlagte kapitaltilpasninger under gjeldende og mer forutsigbare skatteregler."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Utsettelsen kan føre til at staten går glipp av forventede skatteinntekter på kort sikt som følge av utsatt beskatning av kapitalutdelinger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/2Vqp5G/stoltenberg-utsetter-innstramming-av-skatteregler",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Telia kutter 150 stillinger i Norge for å spare én milliard kroner",
-    "summary": "Teleselskapet Telia varsler nedbemanning av 150 ansatte i sin norske virksomhet som ledd i en større spareplan der konsernet sikter mot å kutte én milliard kroner årlig. Kuttene kommer som svar på økt kostnadspress og behov for effektivisering i telekommarkedet.",
-    "why_it_matters": "Nedbemanningen illustrerer at telekom- og teknologisektoren opplever fortsatt press på marginene til tross for stabil underliggende etterspørsel etter datatrafikk.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Nedbemanningen kan føre til økt tilgang på kompetent arbeidskraft innen IKT og telekom i Oslo-regionen, men gir samtidig kortsiktig usikkerhet for ansatte."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Tøffere prioriteringer hos store infrastruktureiere kan redusere oppdragsmengden for eksterne konsulenter og underleverandører i det norske markedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/n9m1vQ/telia-nedbemanner-kutter-150-stillinger-i-norge",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "EU innfører vernetiltak for hybridbiler mot kinesisk konkurranse",
-    "summary": "EU-kommisjonen har inngått en ny avtale om å skjerme den europeiske hybridbilsektoren mot billigere import fra Kina. Tiltaket kommer etter økende bekymring fra europeiske bilprodusenter, der blant annet Volkswagen-sjefen har etterlyst tettere tysk-fransk samarbeid for å demme opp for kinesisk dominans.",
-    "why_it_matters": "Handelshindre og proteksjonisme i bilindustrien endrer handelsstrømmene i Europa og kan påvirke overgangen til lavutslippskjøretøy.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Økte handelshindre på hybrider kan begrense kinesiske bilprodusenters markedsandeler i Europa og utløse gjengjeldelsestiltak fra myndighetene i Beijing."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Redusert konkurranse fra rimelige kinesiske modeller kan bidra til å holde prisene på nye hybridbiler høyere for europeiske forbrukere fremover."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Europeiske bilprodusenter får et midlertidig pusterom til å omstille produksjonslinjene sine, men risikerer svakere incitamenter til rask innovasjon på sikt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREYtQU45cmhRUFFGWkV6VU9qTlNDM2pYdHhFeHEwZ3o1bDZvZXJ2SXRHN0lJREc5dEw0SWZ0Wm12NW1xblpRcTRxZUVXTmtHUm5qczVmdklnLXVTVVhNNzdWV0d3XzdGYXJQSHZkd2tVUzVRN1BxTmtCZ0pvMXVUdm0tVy0?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVppc1dTZWRhMXNialAxUklxU3BnTWdFcTl2UjhZenROZTdraUlzMUNFRDZkLWRhazd4Ym5kSnVNNFBIUjQ4YXA4amoxMjdLWWZoRVVxeTBYR2ZFSE1XMm9EUE9zN2t4bEt0YWs5NVowWmRSOGZhLVVpQWFZbDIyVWNaY0U?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norske banker kritiseres for å holde igjen på innskuddsrenten",
-    "summary": "Flere norske banker møter kraftig kritikk etter å ha økt renten på boliglån vesentlig mer enn innskuddsrenten til vanlige bankkunder. Forskjellen i rentejusteringene har bidratt til å styrke bankenes rentemarginer på bekostning av sparernes avkastning.",
-    "why_it_matters": "Rentemarginene til bankene avgjør fordelingen av rentebyrden mellom husholdninger med gjeld og husholdninger med netto finansformue.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Husholdninger med bankinnskudd opplever svakere realavkastning på sparepengene sine når innskuddsrentene ikke heves i takt med markedsrenten."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Økt oppmerksomhet rundt renteforskjellene kan motivere kunder til å flytte midler til mindre nisjebanker som tilbyr mer konkurransedyktige sparevilkår."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/privatoekonomi/i/OgnV1b/reagerer-paa-rentegrep-de-gir-kundene-fingeren?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Nord-Korea gjennomførte nye ballistiske missiltester mot Japanhavet",
-    "summary": "Nord-Korea avfyrte natt til mandag flere ballistiske missiler mot Japanhavet, ifølge militære kilder i Sør-Korea og Japan. Oppskytingen tolkes som en direkte maktdemonstrasjon etter at Sør-Korea nylig gjennomførte en vellykket test av et hypersonisk missil.",
-    "why_it_matters": "Opptrappingen av våpentester forsterker det spente sikkerhetsklimaet på Koreahalvøya og øker faren for misforståelser mellom regionale stormakter.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Hyppige rakettester kan tvinge Sør-Korea, Japan og USA til ytterligere militær samordning og forsvarsinvesteringer i regionen over tid."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tysklands arbeidsminister går av etter regjeringsgnisninger",
-    "summary": "Arbeidsminister og leder i det sosialdemokratiske partiet Bärbel Bas har trukket seg fra sine verv som følge av økende spenninger i den tyske regjeringskoalisjonen. Avgangen skjer etter langvarig uenighet om sosial- og arbeidslivspolitikken overfor forbundskansler Friedrich Merz' parti CDU.",
-    "why_it_matters": "Statsrådsavgangen skaper ny parlamentarisk usikkerhet i Europas største økonomi i en tid med behov for krevende strukturreformer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Politikk",
-      "effect": "Turbulens i Berlin kan svekke regjeringens evne til å samle seg om langsiktige budsjettforlik og bremse viktige reformer i tysk arbeidsliv."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/german-social-democrats-leader-and-labor-minister-bärbel-bas-resigns-amid-coalition-friction/a-79636869?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Amerikansk dommer stopper Trumps skattefinansierte reklamekampanjer",
-    "summary": "En føderal dommer i New York har pålagt Trump-administrasjonen umiddelbart å stanse TV-reklamer finansiert med skattebetalernes penger. Kjennelsen fastslår at kampanjene, som Det hvite hus omtalte som positiv promotering av landet, utgjør ulovlig politisk pengebruk over offentlige budsjetter.",
-    "why_it_matters": "Avgjørelsen markerer en viktig rettslig grense for hvordan føderale midler kan disponeres av den amerikanske presidentadministrasjonen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Domstolens inngripen kan innskrenke den utøvende makts handlingsrom til å benytte statlige informasjonsmidler i forkant av viktige politiske valg."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSkwzeFo3TmJLRmpQNGtfX3F4ajZsRlhSb2wtaWEyc2hrVFBrQ0RtbEE3ZjFjVkpiMFdkWjA2UTdHUWxwQW04dUVEY3ZUNnNabWFnb1NORV9EVlc1SlhnbURkU2FEdGdzNFVCeU9SbmYyV2I5bzlacjVLSmQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CZmZ4U3JfSk9QT0JlZ1dvbXBsaTl4bl93M1JRQ2laTnhLVURlanhGVFdNb1h4Z0tsLW1hdVZZX0ZWN0hseGhiTERjYi1feGZTLUVrNEZ4Mk1CZmZWTWkyNUVmeHJiQUR2Yi13TDlCTdIBdEFVX3lxTE1HQlRwMGhPd3NzZW1qOTRDUXd1ZU5vNU5vcTVqSXZZbHFNcnpKSVBNaVA3VDdXczJzTTBQYUZBYUwzT19wV3o3cUhHbVRQZ29tRC1pTGxBaE9uLTQzeHI5dWVYaEFYTTFtVmt1Yk9mZDBHRThx?oc=5",
       "paywall": false
      }
     ]
