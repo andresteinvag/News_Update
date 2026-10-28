@@ -1,5 +1,228 @@
 [
  {
+  "id": "2026-10-28-20",
+  "hour": 20,
+  "date": "2026-10-28",
+  "generated": "28.10.2026 20:41",
+  "overview": "Verdensøkonomien preges av høye gasspriser i Europa og at den amerikanske sentralbanken holder styringsrenten uendret. Samtidig rulles det ut store budsjetter og nye strategier for energi og teknologi globalt.",
+  "stories": [
+   {
+    "title": "USA holder renten uendret på tross av vedvarende inflasjon",
+    "summary": "Den amerikanske sentralbanken velger å holde styringsrenten uendret, selv om inflasjonspresset fremdeles vedvarer i økonomien. Komiteen var ikke helt samstemte i beslutningen, og sentralbanken understreker at flere data avventes før neste rentebeslutning.",
+    "why_it_matters": "Amerikanske pengepolitiske beslutninger setter standarden for globale finansmarkeder og påvirker kronekursen samt rentebanen i Norge.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Uendrede amerikanske renter kan opprettholde renteforskjellen mot Norge, noe som påvirket kronekursen og kroneverdien."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere renter som vedvarer over tid kan presse verdsettelsen av vekst- og teknologiselskaper med fremtidige kontantstrømmer."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Fortsatt høye lånekostnader for amerikanske husholdninger demper den disponible inntekten og kan redusere det private forbruket."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/oKr43a/usa-holder-renten-uendret?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Europeisk gasspris setter ny årsrekord på 100 euro",
+    "summary": "Gassprisen i Europa har steget markant og nådd en ny årsrekord på 100 euro per megawattime. Dette setter press på energiforsyningen og industrien i regionen.",
+    "why_it_matters": "Høyere gasspriser gir økte inntekter for norske energiprodusenter som Equinor, men truer samtidig europeisk industri og konkurransekraft.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Svært høye gasspriser styrker kontantstrømmen til norske energieksportører og øker verdien av landets gasseksport."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Europeiske industribedrifter med høyt energiforbruk opplever redusert konkurransekraft og økte produksjonskostnader."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høyere engrospriser på gass kan raskt siles nedover og gi økte strøm- og oppvarmingsregninger for europeiske husholdninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/qy99q0/europeisk-gasspris-i-100?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Storbritannia kuttet energiregninger og økte forsvarsbudsjettet i ny høstbudsjett",
+    "summary": "Den britiske regjeringen har lagt fram et budsjett som kutter husholdningenes energikostnader, øker skattene på banker og satser tungt på forsvar, Ukraina og kunstig intelligens.",
+    "why_it_matters": "Stort britisk fokuskifte på sikkerhet og energi gir nye rammevilkår for britiske finansinstitusjoner og teknologisektoren.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Større statlige investeringer i forsvar og teknologi øker det britiske lånebehovet og påvirker britiske statsobligasjoner."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Høyere skatter for banksektoren kan redusere bankenes overskudd og svekke avkastningen for aksjonærene."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Kutt i husholdningenes energikostnader demper levekostnadskrisen og gir forbrukerne mer rom til annen disponibel handel."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Equinor-sjef Anders Opedal satser på faste investeringer mot 2035-mål",
+    "summary": "Equinor opprettholder en solid og jevn investeringstakt på norsk sokkel for å nå selskapets ambisiøse klimamål og strategier frem mot 2035. Sterke markedspriser kan samtidig dryppe på aksjonærene.",
+    "why_it_matters": "Equinors investeringsbeslutninger har direkte konsekvenser for norsk leverandørindustri og statlige inntekter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Jevnlige investeringer på sokkelen sikrer forutsigbar oppdragsmengde for norske oljeservice- og teknologiselskaper."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høye inntjeningsmarginer fra olje og gass bidrar til betydelige skatteinntekter for den norske staten."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "God kontantstrøm gir selskapet handlingsrom til å opprettholde attraktive utbytter og aksjonærutbetalinger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/64Oavz/equinor-sjefen-satt-i-gang-et-stort-maskineri?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/77rnR9/equinor-sjefen-satt-i-gang-et-stort-maskineri",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Folketrygdfondet leverte solid milliardoverskudd i tredje kvartal",
+    "summary": "Folketrygdfondet kunne vise til en sterk kvartalsrapport med et overskudd på 14 milliarder kroner for tredje kvartal, drevet av god aktivitet i kapitalmarkedene.",
+    "why_it_matters": "Sterke resultater fra Folketrygdfondet bekrefter den gode helsen i den nasjonale kapitalforvaltningen utenfor oljefondet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Solide avkastningstall styrker kapitalbufferne og den finansielle styrken i forvaltningen av folketrygdens midler."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "God avkastning viser at norske selskaper og børselementer i porteføljen presterer godt i markeder med svingninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYndWMnhkT19VZ0Y3NU1aWklIbndfRUJsa21ySU9pWWpKYXV5THBwMmJCZmNkTGNvUTVxVHRZai1kOEhEQUpjQUxscUpoX0RrOVVzdUZZLTBkbWxNWDgzMnVHV0tSUHlZRFNEd0pVS1VuMHV6Y2ZMZkZmeTRaazhEMXNSRHIza1VPOUozbDZ1Y3lkaFn2Unc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oslo tingrett stopper omstridte Meta-endringer for norske medier",
+    "summary": "I en kjennelse fra Oslo tingrett blir teknologigiganten Meta midlertidig stanset fra å iverksette sine nye vilkår for bedriftskontoer fra 20. november, inntil lovligheten er avklart.",
+    "why_it_matters": "Saken har stor betydning for norske mediehus og annonsører som er avhengige av plattformenes forretningsvilkår.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Midlertidig stans gir norske mediehus bedre tid til å tilpasse seg vilkårene og beskytter deres markedsposisjon."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Kjennelsen viser at norske domstoler er villige til å bremse globale teknologiselskapers unilateral endring av avtalevilkår."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/midlertidig-stans-av-omstridte-meta-endringer-for-norske-mediehus-1.18067443",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Minst 68 omkom i alvorlig togulykke i Spania",
+    "summary": "En alvorlig kollisjon mellom høyhastighetstog i Spania har ført til at minst 68 mennesker har mistet livet i det som er landets andre dødelige togulykke i år.",
+    "why_it_matters": "Ulykken har utløst krisereaksjoner og sterke politiske spørsmål knyttet til sikkerheten på landets jernbanenettverk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Tragedien rammer landet hardt og skaper dyp sorg samt nasjonal debatt rundt sikkerhetsrutiner i kollektivtrafikken."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHJaSGNiN25tc3pZRGlkeEE1WTlNRXlhcVg0b3ZHZEZETEx5UkstN3ZpZGJmMzBSSmpzblktb2NRVDFMSnFsSUxMMnVNQmhVNkh4ZTA5Szd1b2hncGt6ZzlEQ0hLWWY5aXd2T3NDU25oZnN4ejZwTTRESEI2Y2E1N2MxdWk?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Regjeringen åpner for at flere kommuner kan innføre besøksbidrag",
+    "summary": "Næringsministeren bekrefter at kommuner som Tromsø, Vågan og Stranda får tillatelse til å innføre et besøksbidrag fra nyttår for å håndtere økt turisme.",
+    "why_it_matters": "Dette markerer en ny politisk linje for hvordan norske kommuner kan finansiere fellesgoder og slite med overturisme.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Kommunene får nye inntektsmuligheter for å opprettholde infrastruktur og lokalt tilbud for besøkende."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/tromsogfinnmark/tromso_-vagan-og-stranda-far-innfore-besoksbidrag-fra-nyttar-1.18066872",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-28-08",
   "hour": 8,
   "date": "2026-10-28",
@@ -7397,302 +7620,6 @@
      {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-13-20",
-  "hour": 20,
-  "date": "2026-10-13",
-  "generated": "13.10.2026 20:22",
-  "overview": "Forventninger om akselererende inflasjon i USA og økende geopolitisk uro i Midtøsten preger de internasjonale markedene, samtidig som Wall Street innleder resultatsesongen. Her hjemme skaper akutt pengemangel hos Nordic Mining konkursfrykt på Oslo Børs, mens DNB strammer inn sparevilkårene for norske bankkunder.",
-  "stories": [
-   {
-    "title": "Amerikansk inflasjonsuro tiltar før nye konsumpristall",
-    "summary": "Økonomer venter at den amerikanske konsumprisindeksen for september vil stige med 0,6 prosent på månedsbasis og nå 3,6 prosent på årsbasis. Dette indikerer at prisveksten i verdens største økonomi igjen skyter fart etter en periode med avkjøling. Utviklingen skaper ny usikkerhet rundt Federal Reserves videre rentebane.",
-    "why_it_matters": "En ny oppgang i amerikansk inflasjon kan tvinge Fed til å holde styringsrentene høye lenger, noe som forplanter seg til globale renter og påvirker Norges Banks handlingsrom.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende høy prisvekst i USA kan utsette forventede rentekutt fra sentralbanken og holde de globale markedsrentene på et forhøyet nivå gjennom høsten."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Akselererende inflasjon svekker husholdningenes reallønninger og kan tvinge frem et markant kutt i det skjønnsmessige forbruket for bredere lag av befolkningen."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Utsiktene til langvarig høye lånekostnader kan legge press på verdsettelsen av vekstselskaper og utløse økt volatilitet på de toneangivende børsene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske storbanker sparker i gang resultatsesongen med solid inntjening",
-    "summary": "JPMorgan Chase og Goldman Sachs har lagt frem ferske kvartalstall som viser en markant oppgang i overskuddene, drevet av god aktivitet i verdipapirmarkedene og sterke netto renteinntekter. Rapporteringen markerer starten på resultatsesongen for tredje kvartal på Wall Street. Analytikere og forvaltere omtaler bankenes prestasjoner som et styrketegn for den amerikanske økonomien.",
-    "why_it_matters": "De amerikanske storbankenes inntjening og tapsavsetninger fungerer som en temperaturmåler på den globale finanstilstanden og kredittkvaliteten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Solid inntjening i banksektoren kan gi nødvendig drahjelp til de brede børsindeksene og redusere frykten for en nært forestående økonomisk nedtur."
-     },
-     {
-      "area": "Renter",
-      "effect": "Høye netto renteinntekter viser hvordan store utlånere drar fordel av et stramt rentenivå så lenge misligholdene blant lånekundene forblir moderate."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTBDaTNrT3dxSVdGUWtqMS1lLUFyZGt3SDRrWnAxc1JUdTEzaUhvOFRBMWt2UGdZWW9PMEY3cmc3WVRXaWEyekVyWkR3WEJtbjdsM01JLVdkSEloNm9hSUkxalpwUVdMcHpScEhzcTYxRkZINzdHYW81X0R4cGFYeVctNlNGWXdnNGhPa3FpYU9CU2JnamIyb091a1A3MlZzSGZB?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/Krb7AE/blandet-aapning-paa-wall-street?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQll1YTdzcWw5TS1pSC1xcWJFUWM3Zm43aGhkdEpocUF4TkJwZG1Za0k5UXd0RC11T3VjLUZIbU0yZFYwZV9oU21LSzN0T2pHcnNnak50TjBvV2dWS18zeGJ2ZXVackJIVHZ0VnJvSDhDUVRNU2dCLVJoOEw2S0hlSzRaMXpNdjZreFpqa3FSbVlYbWNGNWluTjdKVTVtSTNJQ2V4LWVDZ0UtUQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "IMF og Verdensbanken advarer mot AI-sjokk i det globale arbeidsmarkedet",
-    "summary": "IMF-sjef Kristalina Georgieva sammenligner utbredelsen av kunstig intelligens med en «langsom tsunami» som rammer arbeidsmarkedet hardt, særlig unge som skal etablere seg i yrkeslivet. Et rådgivende panel i Verdensbanken ber nå verdens regjeringer iverksette ekstraordinære krisetiltak for å beskytte sysselsettingen. Institusjonene frykter at tempoet i teknologiomstillingen overgår samfunnets evne til å omskolere arbeidskraften.",
-    "why_it_matters": "Rask automatisering av kunnskapsarbeid kan endre avkastningen på utdanning og kreve omfattende omstillinger i velferdsstatens overføringsordninger.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Høyere adgangsbarrierer for nyutdannede kan føre til vedvarende ungdomsledighet og økende lønnsforskjeller mellom teknologiledere og øvrige yrkesgrupper."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Økt behov for statlige omstillingspakker og trygdeytelser kan belaste nasjonalbudsjettene i en tid der mange stater allerede sliter med høy statsgjeld."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Frankrike innleder krevende budsjettdebatt under tung gjeldsbyrde",
-    "summary": "Frankrike åpner debatten om sitt 2027-budsjett i en situasjon preget av store underskudd, voksende statsgjeld og tiltagende studentprotester mot kutt i offentlige tjenester. Den franske staten står overfor krevende innstramminger for å tilfredsstille EUs finanspolitiske rammeverk og berolige obligasjonsmarkedene. Den politiske motstanden mot budsjettkutt gjør det imidlertid svært vanskelig for regjeringen å finne flertall for innsparingene.",
-    "why_it_matters": "Frankrike er eurosonens nest største økonomi, og eskalering av landets gjeldsproblemer kan smitte over i europeiske renter og svekke eurokursen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Tunge renteutgifter på statsgjelden begrenser det finanspolitiske handlingsrommet og kan tvinge frem smertefulle kutt i offentlige velferds- og utdanningsbudsjetter."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Mulige skatteøkninger og redusert offentlig etterspørsel kan dempe vekstutsiktene og investeringsviljen for bedrifter med stor eksponering mot det franske hjemmemarkedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "OPEC kutter etterspørselsprognosen mens forsyningsrisikoen i Midtøsten øker",
-    "summary": "OPEC har nok en gang nedjustert sine anslag for veksten i den globale oljeetterspørselen, som følge av svakere økonomisk aktivitet i nøkkelmarkeder. Samtidig truer eskalerende angrep mot skipstrafikk i Persiabukta og Saudi-Arabias angrep i Jemen med å forstyrre oljeeksporten fra regionen. Oljemarkedet befinner seg dermed i en spenning mellom fallende etterspørselsforventninger og frykt for plutselige forsyningsavbrudd.",
-    "why_it_matters": "Oljeprisen er avgjørende for Norges handelsbalanse, kronekursen og statens petroleumsinntekter gjennom Oljefondet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Svakere etterspørselsutsikter legger et nedadgående press på råoljeprisene, selv om militære spenninger i gulfområdet bidrar til å opprettholde en betydelig risikopremie."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Usikkerhet rundt petroleumsinntektene kan svekke den norske kronen overfor dollar og euro dersom svak global vekst veier tyngre enn geopolitiske forsyningssjokk."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEt1NmxaOWtwZ2RBbVh1Q01nZjU2TlZCR1gtRm5sOElDQXFOaVJuTWRQVkhKcGxwNG5KYkhITnJsamhoV1JxVDlxc3p6RlJNR0FCUEtoWm1NQlpNcHN5TXh0RFZJYkhqUFlVdnBXQm5IUFMzdzBqNHRNSk9BelFWbEkwOEJ3bVJLLTZLUjU3Slo3UXVUZjk2YkpySnN5Sl83LWN6Mzdka0MyZzBfTUEtVldmU0Q?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUzR213ZGFwb1pwMXpVZ2cwMjRzOGVNMXRQdEhzWHAtbDZxTW9VY25KdVFBeHBYWVdDSzNKMWZKbmoxRjN4T0FRQWZWenFSeE1PZ0NwdWs0X0dWSzBidHc3dGw2WmpkM1dYZ2NRUlZyZUZrUnhka1d0Tk5LZ2hzREwxaTFwVG5qM3JaXy1tMTMtaEt3VDhFVlFtT08tVUlHbGwwUk9YSDRiSXVtbU5mVTNGR1Y?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Nordic Mining varsler mulig konkurs etter akutt kapitalmangel",
-    "summary": "Styret i det børsnoterte gruveselskapet Nordic Mining har varslet at selskapet står i akutt fare for konkurs dersom de ikke raskt lykkes med å hente nødvendig finansiering. Selskapet, som utvikler rutil- og granatprosjektet ved Engebøfjellet i Sunnfjord, opplyser at de har svært dårlig tid til å løse likviditetskrisen. Meldingen kommer etter et avgjørende styremøte der ulike redningsalternativer ble vurdert.",
-    "why_it_matters": "En konkurs i Nordic Mining vil ramme mineralstrategien i Norge og skape store tap for aksjonærer og långivere på Oslo Børs.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Konkursvarselet kan utløse massivt kursfall i aksjen og øke risikopremien for andre tidligfase råvareselskaper som søker finansiering i det norske markedet."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Dersom gruvedriften stanser opp, trues lokale arbeidsplasser og underleverandøravtaler i Vestland fylke samtidig som planlagte mineralleveranser forsinkes."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/vestland/gruveselskapet-nordic-mining-varslar-mogleg-konkurs-1.18053805",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/VgdAAJ/nordic-mining-advarer-om-mulig-konkurs?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "DNB kutter i gebyrfrie uttak og strammer inn på sparekontoer",
-    "summary": "Norges største finanskonsern, DNB, følger nå etter andre storbanker og strammer inn på antallet gebyrfrie uttak fra sine høyrentekontoer. Grepet innebærer at personkunder som ønsker fleksibel tilgang til sparepengene sine må betale gebyrer ved hyppige overføringer. Forbrukerøkonomer kritiserer innstrammingen og advarer om at betingelsene for vanlige banksparere gradvis forverres.",
-    "why_it_matters": "Endrede uttaksregler hos markedslederen påvirker sparevilkårene til hundretusener av norske husholdninger og illustrerer bankenes marginstrategi.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Redusert fleksibilitet på sparekontoer kan påføre personkunder ekstra transaksjonskostnader og gjøre det mer krevende å håndtere uforutsette utgifter uten gebyrer."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Strengere begrensninger fra storbankene kan motivere kunder til å flytte innskuddene over til mindre nisjebanker som tilbyr ubegrensede uttak og høyere innskuddsrenter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/BM6qjQ/dnb-kutter-i-gebyrfrie-uttak-det-gaar-i-feil-retning?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Regjeringen ber Stortinget om 26 milliarder kroner til internasjonale klimakvoter",
-    "summary": "Den norske regjeringen foreslår å bevilge 26 milliarder kroner til kjøp av klimakvoter i utlandet for å oppfylle Norges internasjonale klimaforpliktelser. Strategien innebærer at staten finansierer utslippskutt i andre land fremfor utelukkende å satse på nasjonale kutt. Forslaget møter debatt om hvorvidt Norge heller burde investere pengene direkte i innenlandsk grønn omstilling og infrastruktur.",
-    "why_it_matters": "En milliardallokering av denne størrelsen binder opp betydelige offentlige budsjettmidler og påvirker rammevilkårene for grønn omstilling i norsk industri.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Kvoteinnkjøpene legger beslag på store skattemidler som alternativt kunne vært disponert til nasjonale investeringer eller skattelettelser i statsbudsjettet."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Storskala bruk av internasjonale kvoter kan redusere det umiddelbare regulatoriske presset på norske utslippskilder, men risikerer å utsette nødvendige strukturelle kutt her hjemme."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/energi-og-klima/i/58LQPb/regjeringen-ber-om-26-milliarder-til-klimakvoter?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Britisk etterretning advarer mot sabotasjeplaner fra Iran og Russland",
-    "summary": "Sjefen for britiske MI5, Ken McCallum, advarer om at statlige trusler fra Iran og Russland nå har nådd et omfang på linje med internasjonal terrorisme. Etterretningssjefen peker spesielt på at iranske agenter søker etter hardere mål i Europa, inkludert militære installasjoner som flybasen RAF Fairford. Sikkerhetstjenestene melder at fiendtlige aktører i økende grad benytter kriminelle mellommenn og kunstig intelligens i sine operasjoner.",
-    "why_it_matters": "Sikkerhetstrusselen mot vestlig forsvarsinfrastruktur understreker den skjerpede geopolitiske spenningen mellom vestlige allierte og autoritære regimer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Økt frykt for sabotasjeangrep mot europeiske militærbaser kan tvinge NATO-land til å heve det nasjonale beredskapsnivået og styrke sikringen av kritisk infrastruktur."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXpQQVQxZC1PTWJhZGpTeXl3dG9MQ2pDbmF5RkdjVlRXRXhoZmx1Vm9RNXhNa2tYLW9ybWU1SmgwMU81R0YtVEtFQ1lQTlFXWm1wRERKeXUzenR3eUdMYUF3eU9jNjVUYmJNTTBzVmNGQ2cxYXVjbnhEUlBTaW9OcFhQZmIxYmc3ek5xYnZEYjhST2YtU0tpZXVDX0M?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "USAs ambassadør til Hellas Kimberly Guilfoyle går av etter anklager om misligheter",
-    "summary": "Kimberly Guilfoyle har trukket seg fra stillingen som USAs ambassadør til Hellas etter at Det hvite hus ba henne om å fratre. Avgangen skjer i kjølvannet av rapporter og undersøkelser knyttet til påståtte etiske overtramp og misligheter i embetet. Saken har vakt betydelig oppmerksomhet i Washington ettersom Guilfoyle har vært en profilert skikkelse i kretsen rundt president Donald Trump.",
-    "why_it_matters": "Den brå avgangen skaper uro i det amerikanske diplomatkorpset og kan forsinke viktige bilaterale samtaler i det strategisk viktige østlige Middelhavet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Et plutselig lederskifte ved ambassaden i Athen kan midlertidig svekke kontinuiteten i amerikansk-greske forsvars- og energisamtaler i en urolig region."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHowZkFCeWZJVWlEV3NEZnFKVm5mRGw3c21GZFgzZ1RDbFhIbEZZYjB6MmxmUy1YaE9VckNPaVVKclpCREVoX010UEpuanlNRUQ2OWVXWHlTZlJtVDJaU09Cd3F0aXU2MWM5OHZvRk5ULTJHa18wUFFfdjVaX19NRUdob1VBNFNObkp6S3dSSWpNZ3RI?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHIwM3RrTXplaUsyc3ZvbUhRaEVvbGNlbzFaeDdiY0tCRkpvRTQ1SlNiRU1fTXFFanljSU91NWZYVldNc19pOHNUMmR6dXZFSmRlLTBkdTctbUxZaVgyR21BT0syQVhsUjhpVTNDaUZWaUxxNHlRdkZCMHdNM2w3SUlFQ2VYVUVSdm5mZDU3QW9xSy1OMU9kTVJlSm9kS2d2R0k5blY4Ym9wTkZacTZEN1VB?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Ungarns parlament opphever omstridt anti-LHBT-lovgivning fra Orbán-æraen",
-    "summary": "Nasjonalforsamlingen i Ungarn har stemt for å endre den omstridte «barnevernloven» fra 2021 som la sterke begrensninger på LHBT-rettigheter og omtale av seksuelle minoriteter. Vedtaket regnes som den første store reverseringen av statsminister Viktor Orbáns verdikonservative lovgivning på dette området. Lovendringen kommer etter mangeårig press fra EU-kommisjonen og trusler om å fryse milliarder av euro i fellesskapsmidler.",
-    "why_it_matters": "Reverseringen markerer et uventet politisk skifte i Ungarn som kan åpne for bedrede relasjoner til EU-institusjonene og frigjøring av unionsmidler.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Oppmykningen av lovverket kan bidra til å tine opp de fastlåste forhandlingene mellom Budapest og Brussel om utbetaling av tilbakeholdte EU-midler."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
