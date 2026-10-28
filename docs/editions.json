@@ -1,5 +1,312 @@
 [
  {
+  "id": "2026-10-28-08",
+  "hour": 8,
+  "date": "2026-10-28",
+  "generated": "28.10.2026 08:52",
+  "overview": "Oljeprisen klatrer etter meldinger om angrep på et saudiarabisk raffineri, samtidig som Equinor og Folketrygdfondet rapporterer om knallsterke kvartalsresultater. Halvledergiganten SK Hynix leverer rekordresultater drevet av AI-etterspørsel, mens kinesiske myndigheter fremskynder obligasjonssalg for å stimulere veksten.",
+  "stories": [
+   {
+    "title": "Oljeprisen stiger etter angrep på saudiarabisk raffineri",
+    "summary": "Oljeprisene har steget over én prosent etter at houthi-angrep mot et saudiarabisk oljeraffineri har skapt ny frykt for forsyningsforstyrrelser i Midtøsten. Nyheten har ført til at risikopremien på råolje løfter seg i det globale markedet.",
+    "why_it_matters": "Høyere råoljepriser gir økte eksportinntekter for Norge, men forsterker samtidig det globale inflasjonspresset.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fornyet geopolitisk uro i Midtøsten kan holde oljeprisene på et vedvarende høyt nivå som følge av økt frykt for fysiske leveranseavbrudd."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Vedvarende høye oljepriser kan øke den norske statens petroleumsinntekter og gi større tilførsel av frisk kapital til Oljefondet."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Dyrere råolje kan raskt forplante seg til drivstoff og transportkostnader, noe som gjør det mer krevende for sentralbankene å få prisveksten ned."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sterkeste Equinor-resultat siden 2022 gir rentehodebry",
+    "summary": "Equinor la frem sitt sterkeste kvartalsresultat på fire år, drevet av solide produksjonstall og høye realiserte gass- og oljepriser. Selskapet varsler høyere produksjonsvekst fremover, men de massive overskuddene kan gi ringvirkninger for norsk pengepolitikk.",
+    "why_it_matters": "Når petroleumssektoren går for full maskin, øker presset på kapasitetsutnyttelsen og lønnsveksten i norsk økonomi.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høy aktivitet og kraftige ringvirkninger fra oljesektoren kan tvinge Norges Bank til å utsette planlagte rentekutt for boliglånstakere."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Equinors rekordtall gir betydelig støtte til Hovedindeksen på Oslo Børs, hvor energisektoren utgjør en tung andel av den samlede verdien."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Høyere aktivitet i leverandørindustrien kan skape økt konkurranse om faglært arbeidskraft og bidra til å holde lønnsveksten på et høyt nivå."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/kvo4da/sterkeste-fra-equinor-siden-2022?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/VgAvo3/e24-nyhetene-sterkeste-fra-equinor-siden-2022",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "SK Hynix med rekordkvartal og gigantutbytte til aksjonærene",
+    "summary": "Den sørkoreanske brikkegiganten SK Hynix melder om en syvdobling i overskuddet etter eksplosiv etterspørsel etter AI-minnebrikker, og aksjen steg markant. Selskapet planlegger å dele ut rundt 25 milliarder dollar (tilsvarende over 700 milliarder koreanske won/kroner) tilbake til aksjonærene.",
+    "why_it_matters": "Rapporten bekrefter at de enorme investeringene innen kunstig intelligens fremdeles gir direkte finansiell uttelling for sentrale komponentleverandører.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Solid inntjening hos toneangivende halvlederselskaper kan løfte den generelle risikoviljen og holde verdsettelsene oppe i det globale teknologisegmentet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Minneleverandørenes sterke posisjon kan legge ytterligere press på marginene til teknologiselskaper som må bygge ut dyr datainfrastruktur."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/El1eoo/rekordkvartal-for-sk-hynix-vil-gi-700-mrd-til-aksjonaerene?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Folketrygdfondet tjente 14,1 milliarder på Oslo Børs",
+    "summary": "Folketrygdfondet oppnådde en solid avkastning i tredje kvartal og tjente 14,1 milliarder kroner. Oppgangen skyldes i stor grad den sterke utviklingen for industriselskaper og finansaksjer på Oslo Børs gjennom kvartalet.",
+    "why_it_matters": "Fondets resultater gjenspeiler god lønnsomhet i toneangivende norske børsnoterte selskaper og sikrer fellesskapets sparemidler.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Solid verdiutvikling i Statens pensjonsfond Norge kan styrke den nasjonale formuesbasen som støtter opp under statens langsiktige pensjonsforpliktelser."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høy inntjening hos innenlandske institusjonelle eiere kan bidra til å opprettholde god likviditet og stabilitet i det norske aksjemarkedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/MAyGko/folketrygdfondet-tjente-14-1-milliarder-i-tredje-kvartal?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/GrWRb4/folketrygdfondet-tjente-14-1-milliarder-i-tredje-kvartal",
+      "paywall": false
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYndWMnhkT19VZ0Y3NU1aWklIbndfRUJsa21ySU9pWWpKYXV5THBwMmJCZmNkTGNvUTVxVHRZai1kOEhEQUpjQUxscUpoX0RrOVVzdUZZLTBkbWxNWDgzMnVHV0tSUHlZRFNEd0pVS1VuMHV6Y2ZMZkZmeTRaazhEMXNSRHIza1VPOUozbDZ1Y3lkaFo2Unc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kina fremskynder statlige obligasjonssalg for å stimulere økonomien",
+    "summary": "Kinesiske myndigheter varsler at de vil sette opp farten på utstedelse av statsobligasjoner for å finansiere infrastruktur og stimulere økonomisk vekst. Myndighetene trapper opp tiltakene etter bekymring for svak innenlandsk etterspørsel og usikkerhet i eiendomssektoren.",
+    "why_it_matters": "Kinas økonomiske fart er avgjørende for globale råvarepriser og etterspørselen etter vestlige eksportvarer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Mer aggressive finanspolitiske tiltak fra Beijing kan løfte den globale etterspørselen etter industrimetaller, kjemikalier og råolje fremover."
+     },
+     {
+      "area": "Handel",
+      "effect": "Dersom innenlandsk etterspørsel i Kina styrkes, kan det redusere risikoen for overskuddskapasitet og billig eksport som presser vestlige produsenter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWdCRmR2TU1ZaW5sLXFla0paWHNkeTBYanNnZjdUcHFtVnRDMWdieEJPQVoyU2NZdlh0TmRYWDU5a25ReE9ZN21WczBkUV81dC1vV3p4aXV3LVdtOHphQ0ZXNGhyc2xPX254R19VLUNtdUxPZVdSV2RwN0l4Q0x0U2UzV01LdHN3X0pUQjJJWjFpZ2ozaHo1cF9NcFVMS1AyVzBkaVhsRFJ6ZUtqLXc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnVPSDFLZ1NVWE1fVVJTTkxTTXJOWTFYd2RjQTlnTUFMbTFSODdBX3Z2V2RQWkNGeDNobEVadzhRejdYcWNXcjNWOXdPTVU0SHhyaGdFSnhFcTdkT0hiTW1Lejg2ZHkzdG1FSDdEMldNRXFrdzhEVXpCdmJSajBPNkJ2Q1A?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norwegian leverte 2,5 milliarder i overskudd før skatt",
+    "summary": "Flyselskapet Norwegian tjente over 2,5 milliarder kroner før skatt i tredje kvartal, støttet av god reiseetterspørsel i høysesongen. Analytikere venter positiv kursreaksjon for aksjen, selv om kostnadspress og sesongvariasjoner vil prege vintermånedene.",
+    "why_it_matters": "Resultatene viser at norske husholdninger og bedrifter opprettholdt reisebudsjettene gjennom sommermånedene tross høye renter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Sterk finansiell stilling gjør Norwegian bedre rustet til å håndtere sesongmessig lavere trafikk og høyere drivstoffkostnader gjennom vinteren."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Norwegians solide balanse kan gi dem konkurransefortrinn overfor konkurrenter som for tiden rammes av driftsforstyrrelser og personalkonflikter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/El1J9P/norwegian-tjente-2-52-milliarder-kroner-foer-skatt-i-tredje-kvartal?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kabinansatte i SAS Link i streik etter meklingsbrudd",
+    "summary": "24 kabinansatte i SAS-datterselskapet SAS Link har gått ut i streik etter at medlemmene i Fellesforbundet stemte ned meklingsforslaget. Flyselskapet opplyser at de venter begrensede forstyrrelser for den samlede flytrafikken.",
+    "why_it_matters": "Konflikten belyser det vedvarende lønnspresset og misnøyen med vilkår i deler av skandinavisk luftfart etter pandemien.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Konflikten kan skape økt press for bedre vilkår i underleverandører og datterselskaper innen transportsektoren dersom streiken trappes opp."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Reisende på berørte ruter kan oppleve forsinkelser og kanselleringer, noe som kan tvinge kunder over til konkurrerende ruter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/sas-streik-i-gang-1.18066664",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/w3l2eP/i-dag-starter-sas-streik",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Dødt løp og usikkert utfall etter parlamentsvalget i Israel",
+    "summary": "De første valgdagsmålingene og opptalte stemmer i det israelske valget viser et svært jevnt resultat mellom blokken til statsminister Benjamin Netanyahu og utfordreren Gadi Eisenkot. Med rekordhøyt valgoppmøte er det foreløpig ingen klar vinner, og det ventes krevende og langvarige koalisjonsforhandlinger før en ny regjering er på plass.",
+    "why_it_matters": "Utfallet av det israelske valget har stor betydning for den regionale sikkerhetssituasjonen i Midtøsten og stabiliteten i det diplomatiske landskapet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "En fastlåst politisk situasjon kan forlenge usikkerheten rundt diplomatiske initiativer og sikkerhetspolitiske prioriteringer i hele Midtøsten-regionen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXy11cjF5OV80d2xMX3p3VEtWVUE4U2tZYThmNHplTThGT3drU2tYTVNTdEdQdUtiTjFxVVdrMXFXUW8xLWRTVXBLZHl4eEdtNzJrWmJCYlFSRVctREpsZXR0aTFoVmhZNFZ1ZWRCOWk2VUx0Smt3U2M4MUJSWUM1d3VuNU9xQUVDWUtCTkd2Q2F0N3NBc1c3V0JIdU9GUnRTYk04MXFB?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Flávio Bolsonaro har forlatt Brasil etter valgnederlag",
+    "summary": "Senator Flávio Bolsonaro har reist ut av Brasil via Argentina og ankommet USA, kort tid etter at brasilianske myndigheter krevde hans pass inndratt. Det amerikanske utenriksdepartementet opplyser at han og familien vil få innreisevisum, samtidig som hendelsen utløser kraftige reaksjoner i brasiliansk politikk.",
+    "why_it_matters": "Saken markerer et dramatisk etterspill etter det brasilianske valget og kan påvirke de diplomatiske relasjonene mellom Brasilia og Washington.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Reisen kan utløse juridiske og diplomatiske spenninger mellom Brasil og USA dersom brasilianske domstoler krever senatoren utlevert."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVBiQjE0QTJza2Y3LV9qZi1mSWh6QzY4ZXRqYmVzNGZDb2UxU0VaODliT1N6WTFlY1pjcTJhdnB2dHFRWGhUMnlPSHBnemIyVnBiaEpwaWF5NkxNLWZPZElRTjM4U0xwRkpoZnhSekEtdllFT18wdThnQS1vU2EySTA1UlIzTV94bG5aSl9yZW1xQXBlYmJWVDFYSmNuZw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Titusener evakuert i India etter at syklonen Arnab traff land",
+    "summary": "Syklonen Arnab har truffet østkysten av India med voldsomme nedbørsmengder og kraftig vind, noe som har tvunget myndighetene til å evakuere titusener av innbyggere til tryggere områder. Lokale myndigheter har stengt skoler og satt redningsmannskaper i full beredskap for å håndtere oversvømmelser.",
+    "why_it_matters": "Ekstremværhendelsen rammer tett befolkede kystområder og setter lokale beredskaps- og infrastrukturnettverk under hardt press.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Samfunn",
+      "effect": "Omfattende oversvømmelser og ødelagt infrastruktur kan true livsgrunnlaget til lokale kystsamfunn og kreve langvarig gjenoppbygging."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZm85b1ZPRmhxOFN2OXF3eHpmcm8wdER2aERRTkotTFo2eGZTaks3SnNfN3l2dkpXZC1rZWhscDFUUkwyd1pUbzFUV3dSSExrQkFKS0FONm45RE9rT0JoOGxDYUVHSU1SQ2MxQWRjWGw4NGpDaFgzSGRLRXZKRzFxeTU1TmVCeWo1aEZBTHg3MmRxU09la0lsWmJLVC1DdnFCSTJF?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-27-20",
   "hour": 20,
   "date": "2026-10-27",
@@ -7386,251 +7693,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-13-08",
-  "hour": 8,
-  "date": "2026-10-13",
-  "generated": "13.10.2026 08:22",
-  "overview": "Det internasjonale pengefondet (IMF) advarer mot kraftig renteoppgang og voksende gjeldsrisiko i statsobligasjonsmarkedet, samtidig som asiatiske teknologibørser opplever markant fall. I Norge retter oppmerksomheten seg mot partnerskap innen forsvarsenergi samt inntektsoppgang i finanssektoren.",
-  "stories": [
-   {
-    "title": "IMF advarer mot ukontrollert rentehopp i statsobligasjonsmarkedet",
-    "summary": "Pengefondet hever anslaget for global vekst til 3,1 prosent drevet av kunstig intelligens, men advarer om at motstandskraften er nær bristepunktet. IMF peker på at økende statsgjeld og gjenstridig inflasjon kan utløse et brått og uordnet hopp i lange renter.",
-    "why_it_matters": "Et uordnet rentehopp globalt kan ramme lånekostnader for både stater og bedrifter samt presse norske boliglånsrenter oppover.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere globale obligasjonsrenter kan smitte over på norske swaprenter og forsinke fremtidige rentekutt fra Norges Bank."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Vedvarende høye lange renter kan gjøre obligasjoner relativt mer attraktive og legge press på verdsettelsen av vekstselskaper."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Økende renteutgifter på statsgjeld kan tvinge internasjonale myndigheter til innstramminger og strammere finanspolitiske rammer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEs1UWFnbVlNS3AxU1pYMDlCNmFRNXJyczB5UzRXZzdYLS04aExzMFdEcmNFU05rNTVxRklwMGd3ODRsQlVZbDltRzkwRTdHNVIyQUluLVdxUkxEb29hUnl2c0I5djJjbGVXS0JaUW1vMU5nWHBMM3VxZGpneUQ0VVVHZ1VzeHNQNHZwTzBWeGdIVmg5RW1OTVg2aDBwamM2dmVXbjVKakFpdmRfWExNQklR?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Bredt fall for asiatiske halvleder- og teknologiselskaper",
-    "summary": "Teknologitunge aksjer i Sør-Korea og Japan falt kraftig etter usikkerhet knyttet til kinesisk konkurranse og svingninger i AI-markedet. Bekymringer rundt etterspørsel og kommentarer fra selskaper som Broadcom trakk halvlederprodusenter ned mot tomåneders bunnnivå.",
-    "why_it_matters": "Verdensmarkedet for teknologi og halvledere er avgjørende for globale forsyningskjeder og investeringsporteføljer, inkludert Oljefondet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Svekket risikovilje i asiatisk teknologi kan forplante seg til europeiske børser og dempe sentimentet på Oslo Børs."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Intensivert kinesisk konkurranse i minnebrikker kan tvinge etablerte produsenter til lavere marginer og reduserte investeringsbudsjetter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/31Pv30/kraftig-tekfall-i-asia?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Nel inngår strategisk samarbeid med Rheinmetall",
-    "summary": "Det norske hydrogenselskapet Nel har inngått et partnerskap med den tyske forsvarsgiganten Rheinmetall for å produsere syntetisk drivstoff. Prosjektet tar sikte på å levere drivstoff til bruk i europeisk forsvar i krigs- og krisesituasjoner.",
-    "why_it_matters": "Avtalen knytter norsk fornybarteknologi direkte til den europeiske opprustningen og styrker satsingen på energiuavhengighet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Samarbeidet kan åpne langsiktige offentlige forsvarskontrakter for grønne teknologiselskaper som søker stabile inntektsstrømmer."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Økt etterspørsel etter syntetiske drivstoffer kan akselerere utbyggingen av storskala elektrolysører i europeisk forsvarssektor."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/MA9R9r/nel-varsler-rheinmetall-samarbeid",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/kvmXwa/nel-varsler-rheinmetall-samarbeid?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Sterkt kvartal for ABG Sundal Collier",
-    "summary": "Meglerhuset ABG Sundal Collier melder om inntektsvekst og omsatte for 594 millioner kroner i tredje kvartal. Resultatene kommer samtidig som en ny toppsjef er på vei inn for å lede selskapet.",
-    "why_it_matters": "Meglerhusenes inntjening gir en tidlig indikasjon på aktiviteten i det nordiske kapitalmarkedet og oppkjøpsmarkedet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere meglerhusinntekter signaliserer tiltagende transaksjonsvolum og børsnoteringer etter en lengre tørkeperiode i kapitalmarkedet."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bedret tilgang på rådgivningskapasitet og kapitalinnhenting kan gjøre det enklere for mellomstore bedrifter å finansiere vekst."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0pJSWtIQloyT1ZEYk9EUjhIZ0lRTnVFYVJ2LUxwYzgta1NaaEFfRTJGU2ZlODBMVGtaZEp0MWN2QVB2ejQwbUQ5MzhTSDlIQzhTUzh6aDhoUjFkd1BxXzIyeUFjcF9fT2hMOTNRYWl2d0Y1eHJjMlloUU5EbHNVRV9JMWtIZ2pkM3NaaW1jNWwxbXptWEEwaFZ0VmloU2I0Q2gwOC14Y3VRdERIajVUSVFiTkxLLUV6c1lNN0RfNlhtMlhPZ0JlVw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/PgO9B7/inntektshopp-for-abg",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Verdensbanken og IMF advarer mot AI-drevet disrupsjon i arbeidsmarkedet",
-    "summary": "IMFs toppsjef Kristalina Georgieva beskriver inntoget av kunstig intelligens som en saktegående tsunami for det globale arbeidsmarkedet. Verdensbankens råd ber nå om krisetiltak for å beskytte arbeidsplasser, særlig for unge arbeidstakere på vei inn i yrkeslivet.",
-    "why_it_matters": "Strukturelle endringer i arbeidsmarkedet påvirker sysselsetting, skatteinntekter og produktivitetsvekst i både rike og fattige land.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Rask automatisering kan redusere etterspørselen etter nyutdannede og skape behov for omfattende omskoleringsprogrammer."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Stigende overgangsledighet kan øke trygdeutgiftene og kreve betydelig større statlige bevilgninger til arbeidsmarkedstiltak."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Character.AI slår seg konkurs og selger eiendeler",
-    "summary": "AI-oppstartsselskapet Character.AI har søkt om konkursbeskyttelse og inngått en avtale om å selge utvalgte eiendeler for 20 millioner dollar. Saken understreker de ekstreme drifts- og beregningskostnadene som kreves for å holde generative modeller gående uten stabil inntekt.",
-    "why_it_matters": "Konkursen viser at kapitaldisiplinen strammes til innen kunstig intelligens etter en lang periode med massiv spekulasjon.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Strammere kapitalkrav kan føre til at mindre AI-selskaper presses ut og markedet konsentreres hos teknologigigantene."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Økt konkursrisiko blant ulønnsomme AI-aktører kan dempe verdsettelsen av tidligfase venture-fond og risikokapital."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "To amerikanske økonomer tildelt Nobels minnepris i økonomi",
-    "summary": "To amerikanske økonomer er tildelt Nobels minnepris i økonomisk vitenskap for sin forskning på hvordan samfunn og institusjoner best kan håndtere økonomiske sjokk.",
-    "why_it_matters": "Prisen hedrer teoretiske verktøy som hjelper sentralbanker og myndigheter med å utforme krisehåndtering og stabilisere økonomier.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Forskningen kan gi nye retningslinjer for hvordan finanstilsyn og sentralbanker utformer beredskapsordninger under internasjonale kriser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUxIN3FQeEQ2NmZOTVRueTY3MlM3N0ExVTlRMlpzaGIxeEhiLWUwdldDRkRpRzRlMGFpMEhJZkxadkZkWmQwVk9OelRlX2FpZmhnWjZZdVFfQ0FVaUk5Yk1xdDVFU0F0aUFrOVRoOEZwalJJVEtEVEdOU1I2NWtQN3h1SjBSNTJNckJtc0d2T1dMQQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Dødsfall og stengte attraksjoner etter berg-og-dal-bane-ulykke i USA",
-    "summary": "En person mistet livet etter et fall fra berg-og-dal-banen Goliath i fornøyelsesparken Six Flags Over Georgia. Parken har stengt ni attraksjoner midlertidig mens hendelsen etterforskes av lokale myndigheter.",
-    "why_it_matters": "Saken reiser alvorlige spørsmål rundt sikkerhetsrutiner og drift ved store internasjonale fornøyelsesparker.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Ulykken kan utløse skjerpede statlige sikkerhetskrav og strengere tekniske inspeksjoner for fornøyelsesparker over hele USA."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXhBNGpZX2xJNWNMNFpOZm9SeHM0ZDBWWWlwNGZIT3VkZ3c0TDF3cnhMT0tZNC1UbURkNUZVZTdWMVBkbm9HNjlEdXNlN1I3bjVrd3ZjWktRNGZhQWVldnJMY1lkTHlIdjZ5OGp5Qk5NX3JuWl9EN2lLekVvOUVZMUtqX2NDcTduRWs1N0pJMzF0Y1pM?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZNVQ1YXVIU0kwclhyMmlET0dOZTlsS29iVFlMM2c0djBFbmtEM3NXOElVVExoME5EV2QwY2tLWmk3NmJkTTU5aDlveXItODlTdTZNb1FMSHdXRDB3Wjl6Q0R5TFhiNVdIOFZ2ZU1lak82anMzRS1kVGppM0k?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Omtalt sabotasje mot kjøleanlegg i franske supermarkeder",
-    "summary": "Flere hundre franske supermarkeder ble rammet av et koordinert cyberangrep som slo ut kjølesystemene og førte til at store mengder frysevarer ble ødelagt. Hendelsen etterforskes og omtales som en direkte trussel mot matvaresikkerheten.",
-    "why_it_matters": "Cyberangrep mot fysisk infrastruktur og matforsyning demonstrerer sårbarheten i moderne logistikkjeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Varehandelen tvinges trolig til å investere kraftig i cybersikkerhet for industriell programvare for å unngå fremtidig matsvinn."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
