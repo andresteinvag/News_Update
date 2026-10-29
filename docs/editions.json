@@ -1,5 +1,226 @@
 [
  {
+  "id": "2026-10-29-20",
+  "hour": 20,
+  "date": "2026-10-29",
+  "generated": "29.10.2026 20:44",
+  "overview": "Verdensøkonomien viser uventet styrke med solid vekst i USA, mens sentralbankene holder igjen rentene for å kvele siste rest av inflasjon. Samtidig preges det norske bildet av rekordnoteringer på Oslo Børs, høye strømpriser og politisk tautrekking rundt fremtidige datasentre.",
+  "stories": [
+   {
+    "title": "Den europeiske sentralbanken holder styringsrenten uendret på 2,5 prosent",
+    "summary": "Etter to tidligere rentehevinger i år valgte Den europeiske sentralbanken å holde renten i ro. Markedet tolket likevel avgjørelsen som haukete ettersom inflasjonspresset vedvarer, og priser inn en sannsynlighet for et nytt kutt eller heving før nyttår.",
+    "why_it_matters": "Beslutningen påvirker den generelle rentebanen i Europa, noe som har direkte konsekvenser for norske lånekostnader og kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Uendrede europeiske renter kan bidra til å holde norske renter på et høyere nivå lenger enn tidligere antatt for å verne kronekursen mot verdifall."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Avventende signaler fra ESB kan føre til svingninger i valutamarkedet, hvor en svak krone gjør importerte varer dyrere for norske forbrukere."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Haukete pauser fra sentralbankene kan legge press på verdsettelsen av vekstaksjer ettersom diskonteringsrenten for fremtidige kontantstrømmer forblir høy."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/ElVzx5/den-europeiske-sentralbanken-holder-renten-uendret?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Ny rekord på Oslo Børs tross fallende Equinor",
+    "summary": "Oslo Børs klatret videre og satte sin 40. sluttrekord for året, drevet av en oppgang på hovedindeksen til tross for at energigiganten Equinor endte i minus. Blant vinnerne pekte Kongsberg Gruppen seg ut med en formidabel oppgang på 13 prosent.",
+    "why_it_matters": "Børsrekordene viser at mangfoldet på Oslo Børs klarer å kompensere for svakheter i oljesektoren, noe som styrker avkastningen for norske fond og investorer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Vedvarende oppgang i forsvars- og teknologisektoren kan tiltrekke seg økt internasjonal kapital og styrke investortilliten til Oslo Børs ytterligere."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere selskapsverdier på Børsen kan indirekte styrke skatteinngangen og bedre formuesforholdene for private og institusjonelle eiere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTRNVU5CZWFmS0tXSGlnbTZIRmd1ajVMUndPSG9RTHdQSk9UWk9GN1VpUkZBZlVUMEtrVjVNS2IzTU1vMk9zRUJTNHFXdXJySk4xbDhnSGd2ZUxzX0JYVHlMX2VibUtnVnVlNWdyN1JMUmJ0ckotaTFPRUJpakZtZnRyNzJlQUFwQmJjaHprYVJOOFJxNVNOd3BB?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Sterkere vekst enn ventet i amerikansk økonomi",
+    "summary": "Amerikansk bruttonasjonalprodukt vokste med solide 3,4 prosent i tredje kvartal, noe som var bedre enn det foreløpige konsensusestimatet. Samtidig viste ferske tall at inflasjonen målt ved PCE-indeksen tiltok noe gjennom september.",
+    "why_it_matters": "Den sterke amerikanske veksten reduserer frykten for en umiddelbar resesjon, men kan tvinge Federal Reserve til å holde rentene høye lenger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Sterk økonomisk aktivitet og tiltakende prisvekst kan føre til at amerikanske rentekutt utsettes, noe som holder globale finansieringskostnader oppe."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høyere inflasjonstrykk i USA kan redusere husholdningenes reelle kjøpekraft over tid og påvirke etterspørselen etter importerte varer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Harde fronter om datasentre i Norge skaper politisk uro",
+    "summary": "Flere partier på Stortinget krever full stopp eller kraftig oppbremsing for nye datasentre for å spare på strømmen, mens energiministeren og lokale ordførere advarer mot å skremme vekk milliardinvestorer.",
+    "why_it_matters": "Debatten treffer kjernen i den norske kraftkrisen og avgjør om landet kan tiltrekke seg fremtidig industri knyttet til kunstig intelligens og digitalisering.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "En eventuell stans i datasenterutbyggingen kan frigjøre betydelige kraftmengder og dempe det oppadkuete presset på de norske strømprisene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Utsikter til politisk inngripen skaper uforutsigbaarheid for utenlandske investorer, noe som kan føre til at grønne industriinvestorer velger andre land."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/vestfoldogtelemark/datasenter-i-fyresdal-kan-rammes-av-mulig-stopp-pa-stortinget-1.18067827",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/PgV5rb/datasentre-tror-det-er-klokt-at-stortinget-venter?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Dramatisk prishopp for strøm i Sør-Norge",
+    "summary": "Strømprisene har skutt i været i de sørlige prisområdene, noe som gleder kraftprodusenter med fulle magasiner, men bekymrer både husholdninger og kraftkrevende industri for kommende vinter.",
+    "why_it_matters": "Svært høye strømpriser rammer den disponible inntekten til norske forbrukere og øker kostnadstrykket for næringslivet i sør.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Høye strømpriser trekker betydelige summer ut av husholdningenes budsjetter i vintermånedene, noe som kan dempe detaljhandelen."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Økte energikostnader svekker konkurransekraften for industri og foretak som er avhengige av store kraftmengder i sin produksjon."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/w3qRqM/dyr-stroem-griner-av-glede-hver-dag-det-regner?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "QatarEnergy kjøper opp LNG for å sikre seg mot Hormuz-uro",
+    "summary": "For å verne seg mot potensielle forstyrrelser i Hormuzstredet har QatarEnergy begynt å kjøpe opp flytende naturgass fra USA og andre markeder som en strategisk forsikring.",
+    "why_it_matters": "Tiltaket understreker den sårbare situasjonen i globale energiforsyningslinjer og viser hvordan geopolitisk risiko tvinger frem endringer i energihandelen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Omfordeling av globale LNG-laster kan føre til strammere energibalanse i Europa og presse opp prisene på gass i vinter."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Økt frykt for flaskehalser i viktige stred kan tvinge energiselskaper til å betale mer for langsiktige og sikre forsyningskontrakter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT19OLUYzbVNkOXdLUFJnQWJpOHRJaDQ0Y3FyVWs5M1IyLTFIZmRsazhqakFvMlFPNnFTeEM1T0VTTnlHTjJyMjFsblVzMlduWlRNeFI0VjlZVXRwNUZGUTVFeWdTY0tLRzlaRWFKam9uU2lRREVFS0lTLXpQME9jR25LRjF5Z0lnZ2lqbV9ybjZfRlZldDRYXzB6UElVU08zVFduMzhCYjFTb25hWTBtNTA4dw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Tragisk togulykke i Spania etter kommunikasjonssvikt",
+    "summary": "Lydopptak avslører en fatal svikt i kommunikasjonen like før en alvorlig togkatastrofe inntraff i Spania, noe som har utløst dyp sorg og harde klandringer mot sikkerhetsrutinene.",
+    "why_it_matters": "Saken kaster et kritisk søkelys på sårbarheter og menneskelige feil i moderne høyhastighetstogtrafikk.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Ulykken tvinger frem strengere gjennomgang av kommunikasjonssystemer og rutiner for togoperatører internasjonalt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaE9Rd0dBUzd6emh4NzRhMVlUVzNnSlNQSE53bWFzNWZRWE1NWWtpcldFYkhCNFZvTEpWNnJmU1pheVZPN1cwTW5ONjMycmVzeGtVQVdKYnR2cTNsd3FMYU1rSlFwTk5GczVYQTBaWUZXeW4zb004NVVxSnBaUHBJM3hjSzVsWTFEcUVUa0ZlUE1IaDJGbXA4b29UMA?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "To nordmenn omtalt som Hamas-operatører i tysk terrorsak",
+    "summary": "To norske statsborgere som tidligere har vært pågrepet og siktet i Norge, blir nå i tyske dokumenter omtalt i forbindelse med planlegging av et terrorangrep i Tyskland.",
+    "why_it_matters": "Saken har stor sikkerhetspolitisk betydning og viser det tette og krevende samarbeidet mellom europeiske etterretningstjenester.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Avsløringene kan føre til økt fokus på internasjonale terrortrusler med forgreininger til Skandinavia."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/norge/nordmenn-i-tysk-terrorsak_-omtales-som-_hamas-operatorer_-1.18068588",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWdzVlY2TWFHVmFnLWlUaU9iWTh0c2dQU2I1MzVfUE9hNjhhVjg1eHZCMDQ1OTRTaVBxZnowSVlKMms2c2RLV3NsUDN3NVFtMl9zRWlIR3VBdXNrM3VPSGlhTTJfTFp4S2lhcFNZNUlQWWxvcFVXVG4yYlY2a1g5WE9BNWZCQkFIQUpvV3k0QmFyeU1veklLWEwwMmtmWkFMQkhV?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-29-08",
   "hour": 8,
   "date": "2026-10-29",
@@ -7262,288 +7483,6 @@
      {
       "name": "Associated Press",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-14-20",
-  "hour": 20,
-  "date": "2026-10-14",
-  "generated": "14.10.2026 20:31",
-  "overview": "Amerikansk inflasjon overrasket på oppsiden i september og utløste et markant rentehopp og bredt børsfall internasjonalt. I Norge rettes søkelyset mot bankenes forsinkede rentejusteringer på innskudd, samtidig som arbeidsrettslige avklaringer og geopolitisk uro preger nyhetsbildet.",
-  "stories": [
-   {
-    "title": "Amerikansk inflasjon bykser til 3,7 prosent og ryster markedene",
-    "summary": "Konsumprisindeksen i USA steg med 3,7 prosent på årsbasis i september, drevet av et kraftig hopp i energipriser og bredere prisvekst. Tallene kom inn over markedets forventninger og vekker bekymring i Federal Reserve for at den høye prisveksten har bitt seg fast.",
-    "why_it_matters": "Vedvarende inflasjonspress i USA tvinger Fed til å holde styringsrenten høyere lenger, noe som løfter globale renter og forplanter seg direkte inn i det norske rentenivået.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere inflasjonstall øker sannsynligheten for nye rentehevinger fra Federal Reserve, noe som presser opp internasjonale markedsrenter og reduserer handlingsrommet for snarlige rentekutt fra Norges Bank."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Stigende renter rammer selskaper med store fremtidige kontantstrømmer hardt, noe som utløste et bredt teknologifall på Wall Street som også trekker med seg vekstaksjer på Oslo Børs."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Når rentedifferansen mot USA forblir bred i dollarfaveur, kan det legge fornyet nedadgående press på den norske kronen og dermed forsterke den importerte inflasjonen her hjemme."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-      "paywall": false
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02QXFXcTctZDVRVG5UVWk5bWJKZkJnNUp3RjVxQUoyVmtOdTZGdTZ6R1hYdXVRMDlSeTc2a3RVdG1LYnFaeDF2Q1p5aWJYMEhPUHdOajk2ckY4azd0TnI0SGM1N2g1SUhyN1ppbDlkOWdEbndCdFVyTEtBVnU?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norske banker tjener milliarder på etternølende innskuddsrenter",
-    "summary": "Norske banker har vært raske til å sette opp utlånsrentene, men innskuddsrentene henger kraftig etter. Både Forbrukerrådet og bransjeorganisasjonen Finans Norge oppfordrer nå bankkunder til å flytte sparepengene sine for å tvinge frem bedre betingelser.",
-    "why_it_matters": "Dersom husholdningene ikke oppnår markedsrente på innskudd, taper de kjøpekraft samtidig som bankenes rentenetto og overskudd eser ut på forbrukernes bekostning.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Husholdninger med innskudd på vanlige sparekonti opplever reallønns- og formuestap dersom renten ikke matcher inflasjonen, noe som gjør aktiv flytting av midler avgjørende for privatøkonomien."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Økt mobilitet blant bankkunder kan tvinge etablerte storbanker til å heve innskuddsrentene sine for å unngå betydelige tap av likviditet og markedsandeler til utfordrerbanker."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Finanssektoren nyter godt av uvanlig brede rentemarginer, noe som midlertidig styrker bankenes egenkapital og lønnsomhet i en periode med ellers lavere utlånsvekst."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/privatoekonomi/i/d7GLJq/bankenes-rentegrep-kan-tjene-ekstra-milliarder?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/d7bd5J/bankenes-rentegrep-kan-tjene-ekstra-milliarder",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Høyesterettsdom strammer inn bruken av særlig uavhengig stilling",
-    "summary": "Norges Høyesterett har avsagt en dom som presiserer og strammer inn vilkårene for å unnta arbeidstakere fra arbeidstidsbestemmelsene under betegnelsen «særlig uavhengig stilling». Fagforeningen Nito understreker at kjennelsen vil få vidtrekkende konsekvenser for mange norske arbeidsforhold.",
-    "why_it_matters": "Dommen setter en strengere standard for fleksible arbeidstidsordninger i norsk næringsliv og kan utløse betydelige etterbetalingskrav for overtid.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Arbeidsgivere i kunnskaps- og konsulentbransjen kan bli nødt til å omklassifisere tusenvis av stillinger, noe som øker administrative kostnader og risikoen for overtidsbetaling."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Ansatte som feilaktig har vært unntatt overtidsreglene får styrket sitt rettsvern og kan kreve kompensasjon for ubekvem arbeidstid, noe som kan dempe utbredt overarbeid i privat sektor."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/ylGxVR/dag-vant-i-hoeyesterett-vil-faa-konsekvens-for-mange?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Teknologisektoren under press: Halvledere faller og CoreWeave-obligasjoner i misligholdsfare",
-    "summary": "Halvlederselskaper står overfor et massivt verdifall som truer med å barbere bort over 1000 milliarder dollar i markedsverdi på børsene. Samtidig handles obligasjonene til den profilerte KI-infrastrukturleverandøren CoreWeave på nødnivåer, noe som skaper dyp uro rundt gjeldsfinansieringen i datasentersektoren.",
-    "why_it_matters": "En reprising av kunstig intelligens-boblen og tilhørende gjeld kan ramme globale børser tungt og påvirke Statens pensjonsfond utland, som har store posisjoner i amerikansk teknologi.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Et omfattende nedsalg i brikkeprodusenter og skepsis til høyt belånte KI-aktører kan føre til en bredere multippelekspansjonsbrems for hele teknologisatsingen på de globale markedene."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Økte kredittpåslag og frykt for gjeldskriser i datasentersektoren kan begrense tilgangen på risikokapital for kapitalkrevende infrastrukturprosjekter innen kunstig intelligens fremover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLU5tdUlObk9iVy1wT3p6QjBDQVdUNEhIOUR1ZS0zOFhsSFhoN29PdWQ0ZjQ1X0RHOTVfQ3hkbEVGTU5aRGxVWi1meDRWM2loYlJzR3JfUHJhXzZvRkpBR2ktSzhBbFlrcDFSU1YtcFM0d2IzQTZtUmZRRDVlQXlrRHl3NlZKeXRjYW1vUHpiWDd3UVdQSTMxanhnZWVYQTdadVB5bDRvcU1taVNza2ZfZg?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2pmWlg3blVOV2lKMzZ5LWFyUXhrTjRXWDdOdXBYSUJhSFBZakhEWEtTNlZWSnVLMVVUQkpnNG1Nc1dZMVBFQmJjTUlsYlQtV0dGQURLOWR0aGg2VlliRFVpWjhvNnhfQXh1RVNIY0xPTUZZeTFfemF6UlV3cUtlenByY09mNXV4TXl1d296VkZDNGxBa2lrdmN1VVIwdDNGQlRGNkxJcjJfLWM1YVhYMQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Netflix nedbemanner 1000 ansatte etter svakere brukervekst",
-    "summary": "Strømmegiganten Netflix kutter rundt 1000 stillinger, tilsvarende cirka seks prosent av den globale arbeidsstyrken. Dette representerer selskapets største oppsigelsesrunde siden 2022 og kommer som følge av lavere vekst og avtakende engasjement blant abonnentene.",
-    "why_it_matters": "Kuttene understreker at forbrukerne strammer inn på digitale abonnementstjenester i møte med vedvarende høye levekostnader og inflasjonspress.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Medie- og underholdningsselskaper tvinges til å prioritere bunnlinje og kostnadsdisiplin fremfor ren abonnementsvekst når forbrukernes villighet til å betale for flere parallelle tjenester faller."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Lavere produksjonsbudsjetter og færre nyansettelser i strømmebransjen kan føre til redusert innholdsproduksjon og ytterligere prisøkninger på eksisterende abonnementer for å forsvare lønnsomheten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzByckpzbzdQSlowdE1Lb3drNkFxMDIwTFJLT19wLVlMRXV4N1cxX0phU2psVlBCc2lrbWQ0RmF5SlBzSjh2Mko1SzFPTWY0clZPV3Z2TmlsdTd1cE9CSmxQVzVIdGNTblFjb0xvSkRkY0JfZzdlQ1NfY2gzNllOdng2Zy04blNuU0hVYl9SM0pROFcxZUtYTFNhQmRRSU4ySlQwY2ZoZUNfQQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/xl7WpQ/netflix-sparker-1000-ansatte?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Milliardbot for hvitvasking sender Bank of America-resultatet ned 17 prosent",
-    "summary": "Bank of America rapporterte et resultatfall på 17 prosent etter å ha blitt ilagt et forlik og en bot på 1,2 milliarder dollar knyttet til brudd på anti-hvitvaskingsregelverket. Aksjen falt markant etter kunngjøringen og tynget banksektoren på Wall Street.",
-    "why_it_matters": "Saken viser at amerikanske tilsynsmyndigheter strammer grepet om storbankenes compliance-rutiner, med store direkte konsekvenser for aksjonærverdier.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Tilsynsmyndighetenes strenge håndheving tvinger internasjonale finansinstitusjoner til å øke investeringene i internkontroll og risikostyring for å unngå tilsvarende straffegebyrer."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Svakere finansresultater og uventede engangsbøter kan svekke tilliten til bankenes utbyttekapasitet og legge en demper på verdivurderingen av store internasjonale finansaksjer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWJ1XzUtVzg2OEVJcDJscThMZUx4ay1TSFlkVVJEMFVwRlgzRy0zSktPMW80WHYyQ3VfQ1lWLWlobUJlbWxQRVl0b0JVb1dSRzJ2Tk0yMmluN21jR2wyRHFWUlJNRU5teEI0Q0tid2tabnViQWVUMHVuSnROcmwtOHdaZFk?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWVMU1BWcFN0Nl9kR3A1MndaYXpXM0lFTmpTQ2F1dzJxU25JOGJ1NWFDMlAtMmNKelZyTk9JbmNrT0tPaWUyZThiWlVPMWJXY0FmRFVkZ3dFU3NPWU9DcXRHUGlZWTN2SXdiVWZneHJaMWdLNGZrY3lDT29EYXd4X3prRzFXZmxhckFHZTNmQUVZMlJZWWhULXBfaDVqQWRDam5UakpJZXdzWk5FRGZvSmtnOGVsbXM1RUZaSndn?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kollaps i europeiske raffinerimarginer rammer nedstrøms energisektor",
-    "summary": "Europeiske oljeraffinerier opplever et markant fall i sine driftsmarginer ettersom råvarekostnadene har steget kraftig samtidig som etterspørselen etter foredlede produkter møter motbør. Dette skaper press på lønnsomheten i europeisk petrokjemisk industri.",
-    "why_it_matters": "Utviklingen påvirker europeisk forsyningssikkerhet for drivstoff og kan slå ut i differensierte priser på råolje versus raffinerte produkter for norsk sokkel.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Pressede marginer hos raffineriene kan redusere etterspørselen etter fysisk råolje på kort sikt, selv om geopolitisk spenning fortsetter å holde spotprisene på råolje oppe."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Europeisk industri må forberede seg på svingende tilgang og høyere kostnader på spesialiserte drivstoffprodukter dersom raffinerikapasitet midlertidig stenges ned for å unngå tap."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmtEZGJLY3IwYXE4cEx4MG45N3NpeHRRdTJ3cFJWMDB4TXdCV3BxMEJZemp1VUdiZnB3Tl9CSDM5MGRIMlA1bWFUdVVOenhEck5ZWl91Qi1sTnFVcHhneENsZDh0bW56eTBZazh6UlotY1BFelVoT2JEMS11ODlOUWpsc2M?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Nord Stream-rettssaken har åpnet i Tyskland",
-    "summary": "Rettssaken mot en ukrainsk offiser anklaget for sabotasjen mot gassrørledningene Nord Stream i 2022 har startet i Tyskland. Forsvaret krever saken avvist og argumenterer for at rørledningen var et legitimt militært mål i krigen mot Russland.",
-    "why_it_matters": "Saken setter Tysklands diplomatiske balansegang og militære allianse med Ukraina på en alvorlig prøve i en kritisk fase av krigen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "En åpen rettsprosess rundt sabotasjen kan skape dype politiske spenninger innad i europeisk politikk og komplisere videre militær og finansiell støtte til Kyiv."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Ukraina anklager SpaceX for begrensninger i Starlink-tilgangen",
-    "summary": "Ukrainske myndigheter hevder at Elon Musks SpaceX har lagt begrensninger på Starlink-nettverket ved frontlinjen, noe som svekker landets evne til å styre droner og forsvare luftrommet mot russiske angrep. President Zelenskyj har bedt Musk om å oppheve restriksjonene umiddelbart.",
-    "why_it_matters": "Ukrainas militære operasjoner er kritisk avhengige av kommersiell satellittinfrastruktur, og saken belyser risikoen ved å være avhengig av private teknologiselskaper i krigføring.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Begrensninger i Starlink-kapasiteten svekker ukrainsk dronestyring og forsvarsevne på slagmarken, noe som tvinger europeiske allierte til å fremskynde egne uavhengige satellittløsninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Lufthansa kjøper 44,9 prosent av TAP Air Portugal",
-    "summary": "Det tyske flykonsernet Lufthansa har inngått en avtale verdt 1,2 milliarder euro om å kjøpe 44,9 prosent av det portugisiske nasjonale flyselskapet TAP Air Portugal, etter å ha utkonkurrert rivalen Air France-KLM.",
-    "why_it_matters": "Oppkjøpet markerer et nytt stort steg i konsolideringen av europeisk luftfart og sikrer Lufthansa kontroll over sentrale ruter til Latin-Amerika og Afrika.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Konsolideringen styrker Lufthansas markedsposisjon på atlantiske flyruter, men kan over tid redusere konkurransen og gi færre lavprisalternativer for europeiske reisende."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmcwODhMem5idzZuMExxLWNDUERGSWRHRGNWSG9ial8xTHJhUTFRYnNFNmdkdTIyRUdvbjRaSVF2bzhkbmhuenNseVVsVGdZWEpaS2R4anF1TlEtUElFVjIzZzFGbjU2S0xMQ2szYjA3M0JzbnFGQ1doUnQtbnA1SUIzc2RITEF4R1lKRzRLeDgyVE83RlcyTC1CTWRJb19JeGc?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0ZfaFBIbU9CdWdOVlI5clVJYnVPNHRLWkZnaWZQcTlzUGlVanVXd2s0cENNRGpfZlFzYlJVa3ZYTGhVcXA2VzFrSzlKOGwtbjlnQVBvQk5Bc1dSVlBRVDBibTEzWlNoM0NrWURiT2tiU2VGc2RSVTVkTjJnZVBJVS1yMElvc20xQUxjVmJ5R2xHbjBlMmNvSTF5TjRwcGtBYUE?oc=5",
       "paywall": false
      }
     ]
