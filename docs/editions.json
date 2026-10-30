@@ -1,5 +1,217 @@
 [
  {
+  "id": "2026-10-30-20",
+  "hour": 20,
+  "date": "2026-10-30",
+  "generated": "30.10.2026 23:51",
+  "overview": "Verdensmarkeder opplever kraftige børsfall og teknologiuro etter skuffende tall fra Intel og bekymringer for kunstig intelligens, mens det historiske kryptotyveriet mot Binance setter søkelyset på digital sikkerhet og Nord-Koreas finansiering. Samtidig viser den europeiske økonomien beskjeden vekst, preget av svak produktivitet og budsjettutfordringer.",
+  "stories": [
+   {
+    "title": "Børsras på Wall Street og korreksjon i Nasdaq etter teknologiuro",
+    "summary": "Teknologiaksjer på Wall Street falt kraftig etter svake kvartalstall fra Intel, noe som utløste en bred salgsbølge og sendte Nasdaq inn i sin tredje korreksjon for året. Bekymringer for at den enorme optimismen rundt kunstig intelligens har drevet prisene opp på uholdbare nivåer, preger investorenes sentiment.",
+    "why_it_matters": "Betyr mye for globale finansmarkeder og kan spre seg til norske investorer med eksponering mot amerikanske teknologiaksjer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere usikkerhet rundt teknologisektoren kan presse ned verdsettelsene til selskaper med aggressive vekstforventninger."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Reduserte porteføljeverdier for private aksjonærer kan dempe den private konsumveksten i vestlige økonomier."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/blodrod-dag-pa-wall-street-1.18069874",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Historisk kryptotyveri på 6,3 milliarder dollar knyttes til Nord-Korea",
+    "summary": "Børsgiganten Binance ble rammet av det største kryptotyveriet i historien da hackere tappet plattformen for 6,3 milliarder dollar. Sikkerhetsanalytikere og åpne kilder peker på at Nord-Korea står bak angrepet for å finansiere sitt isolerte atomprogram.",
+    "why_it_matters": "Belyser sårbarheter i det globale kryptomarkedet og viser hvordan statssponsede hackere utgjør en finansiell trussel.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Saken kan tvinge frem strengere internasjonale krav til antihvitvasking og sikkerhet på kryptobørser."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Større usikkerhet rundt digitale eiendeler kan svekke tilliten til desentralisert finans og ramme selskaper knyttet til sektoren."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/1o2k7J/nord-korea-faar-skylden-etter-milliardkupp?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Moderat vekst og budsjettpress i eurosonen",
+    "summary": "Eurosonens økonomi bremset opp til en vekst på 0,4 prosent i tredje kvartal, tynget av svak produktivitet og demografiske utfordringer. Samtidig sliter Frankrike med resesjonstendenser som øker risikoen for en dypere budsjettkrise.",
+    "why_it_matters": "Europa er Norges viktigste handelspartner, og svak vekst her kan dempe etterspørselen etter norsk eksport.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Lavere økonomisk aktivitet i EU kan redusere det europeiske importbehovet av norske varer og tjenester."
+     },
+     {
+      "area": "Renter",
+      "effect": "Vedvarende svakhet kan presse Den europeiske sentralbanken til å holde rentene lavere for å stimulere økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjAwVjU5QmtKVGFIZUtKeUZ3M29mRTI4OXdoWnNjNGY4TnpZaGRtS3ZrdzYxYTV3eklvVmpFRVFhMFJwMXVIZ0N1amFjTGZlajBIZ0NHQUhZZUw1Ul9vSjVMQ2RoUEwxc2cxSTRRRjNXS291SkY4TjEzV29WZnpuR2JYXzA0YWVTSkJ5Zgo3eFRta0M3Um1XNk9aU2pGR3k2bEZR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Apple overtar tronen som verdens mest verdifulle selskap",
+    "summary": "Teknologigiganten Apple har passert Nvidia og inntatt førsteplassen som verdens mest verdifulle selskap i kjølvannet av skiftende markedsforhold. Utviklingen viser store krysninger i investorenes verdsettelse av maskinvare versus programvare og kunstig intelligens.",
+    "why_it_matters": "Viser maktforskyvninger i teknologiindustrien og påvirker indeksene som styrer globale pensjonsfond.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Kapitalflyten mellom de største teknologiselskapene kan endre vektingen i toneangivende globale børser."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Konkurransen om å lede markedet for forbrukerelektronikk og plattformer skjerpes ytterligere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kostnadssprekk for nye Oslo sykehus vekker oppmerksomhet",
+    "summary": "Budsjettet for de nye Oslo-sykehusene fortsetter å vokse og nærmer seg nå 70 milliarder kroner, en markant økning fra de opprinnelige estimatene på under 40 milliarder. Slike overskridelser legger press på offentlige budsjetter og prioriteringer.",
+    "why_it_matters": "Illustrerer kostnadsveksten i store offentlige infrastrukturprosjekter i Norge.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere utgifter til helsebygg kan tvinge frem kutt eller omprioriteringer i andre deler av statsbudsjettet."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Store offentlige kontrakter binder opp kapasitet i norsk bygg- og anleggssektor over flere år."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/stor-oslo/nye-oslo-sykehus-blir-stadig-dyrere---kan-koste-nesten-70-milliarder-1.17653404",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Telenor-brudd gir tredobling i salget av nødradioer",
+    "summary": "Et omfattende utfall i Telenors mobilnett har ført til en tredobling i salget av nødradioer over hele landet. Hendelsen understreker sårbarheten i kritisk digital infrastruktur for private husholdninger.",
+    "why_it_matters": "Påvirker beredskapen i samfunnet og viser hvordan tekniskebrudd umiddelbart endrer forbrukeradferd.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Private husholdninger tar større ansvar for egenberedskap og øker sine utgifter til sikkerhetsutstyr."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Saken kan føre til strengere krav fra myndighetene om oppetid og redundans for telekomaktørene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/5857wK/noedradio-salget-tredoblet-etter-telenor-bruddet?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "USA godkjenner milliardhjelp og Patriot-missiler til Ukraina",
+    "summary": "USA har godkjent et salg og bistandspakke verdt 2,1 milliarder dollar bestående av luftvernsystemet Patriot for å styrke Ukrainas forsvar mot russiske ballistiske missiler.",
+    "why_it_matters": "Sikrer kritisk militært materiell til Ukraina og påvirker den geopolitiske situasjonen i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Styrker Ukrainas evne til å beskytte sivil og militær infrastruktur mot luftangrep."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeldtQ3QtUnl5ODNVUHVwcUJBSWQwZ1E5UG5xMlpHTUxLZWxCLVJLSG5UUThoeUVEX0RCMmttd2Q5eG9FVE8zdEdqZ25oQ1RuR0N1WkxMeURLODJyaFhqbV9qMmdTSExKU2F0U3JuZVh6bUxOcVhqQU92a1NKS0N3RDU4bUpKOXp2d2VObWtWS0RWWGhW?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "G20-toppmøtet droppet offisielt bilde etter uenighet om russisk deltakelse",
+    "summary": "Europeiske diplomater nektet å stille opp på fellesbilde med Russlands utenriksminister Sergej Lavrov, noe som førte til at hele G20-fotograferingen ble avlyst under Atlanta-møtet.",
+    "why_it_matters": "Viser den dype diplomatiske splittelsen i internasjonale fora som følge av krigen i Ukraina.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Illustrerer vanskene med å opprettholde multilateralt samarbeid når vestlige og russiske interesser står steilt mot hverandre."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5FZmxldWlmV0ExYjJnT21sU3VSOE9EVldUNjB2eElURGFaQ1ZLZWdnbEdMcEdkUVJuQVlBYmlSOU1OS19TWFc3MDdIb0RoUzc5dG9uZTFvRGNDRXJQejhIWE9pYzlqR2FsNnRBQ3dXYU1jZ3lacE1OR1FsMzJWWGl5a1BwT0JDNjNEenFmODhDQzZadGdQQUktWHc2bW9ob21IM2dYbkpYZw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-30-08",
   "hour": 8,
   "date": "2026-10-30",
@@ -7309,170 +7521,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-15-20",
-  "hour": 20,
-  "date": "2026-10-15",
-  "generated": "15.10.2026 20:27",
-  "overview": "Dagens markeder preges av tiltakende bekymringer rundt inflasjon og statsgjeld, samtidig som geopolitiske spenninger og energimarkeder skaper uro. Samtidig debatteres fremtidige retningslinjer for Oljefondets investeringer her hjemme.",
-  "stories": [
-   {
-    "title": "Høyere engrosprisvekst i USA øker presset på Fed",
-    "summary": "Tall for produsentprisindeksen viser at engrosprisene i USA hoppet kraftig i september. Dette øker bekymringen for at det underliggende inflasjonspresset vedvarer.",
-    "why_it_matters": "Høyere prisvekst kan tvinge den amerikanske sentralbanken til å opprettholde eller øke rentenivået, noe som smitter over på globale finansmarkeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende inflasjonspress kan tvinge sentralbanken til å heve renten ytterligere for å kjøle ned økonomien."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere renteutsikter svekker verdsettelsen av vekst- og teknologiaksjer ettersom fremtidig kontantstrøm diskonteres strengere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Oljefondet kan åpne for investeringer i atomvåpen",
-    "summary": "Det åpnes i den politiske debatten for at Statens pensjonsfond utland kan få endret sine mandater til å tillate investeringer i selskaper knyttet til atomvåpen.",
-    "why_it_matters": "En slik endring vil markere et betydelig skifte i fondets etiske retningslinjer og vekke debatt internasjonalt.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Utvidede investeringsmuligheter kan endre fondets avkastningsprofil og tiltrekke seg kritikk fra etiske investorer."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Norske myndigheter risikerer å bli oppfattet som mindre konsekvente i sin globale nedrustningsprofil."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://www.aftenposten.no/norge/i/g5E3Jg/aapner-for-at-oljefondet-kan-investere-i-atomvaapen",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Ukraina gjenopptar angrep på russiske raffinerier",
-    "summary": "Etter at en uformell energivåpenhvile brøt sammen, har Ukraina gjenopptatt droneangrepene mot russiske oljeanlegg.",
-    "why_it_matters": "Dette skaper ny usikkerhet i de globale energimarkedene og kan føre til svingninger i oljeprisen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Angrep mot infrastruktur kan redusere den globale oljetilførselen og løfte prisene midlertidig."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Høyere energipriser kan øke driftskostnadene for energaintensive industrier globalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXgyc1lCaTdGckwxWmZoeElnSW41dFBORjlia2JwbUhFZHBPa0hITXhVZUp5VG9JNXBhdFpxUDM3X19ld3JBSWJFUUpsYWpWTnZOWEJzRk5wTm83QVpqTk95S1lDMHlVYWZvaXNyNUlrWXFCeHpBdUN3VFVnSUJlNUc3V2R4VERqQ2ZxYjQ2UkhrZ0Y2eDY3Q05ybFNGZmVROUJnVUIyQVdJVmYzM2N5WkdBVDdYcmpIYVRVUlVldFF1c3l4Vmc?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norske banker kutter sparerenten for kundene",
-    "summary": "Flere av landets største banker gir nå dårligere rente på kundenes sparepenger, noe som øker bankenes egne marginer.",
-    "why_it_matters": "Dette svekker avkastningen til private <i>husholdninger</i> i en tid med stramere privatøkonomi.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Lavere sparerente reduserer den disponible inntekten for vanlige lønnstakere med oppspilte midler."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bankene sikrer seg sterkere lønnsomhet og bedre netto renteinntekter på bekostning av kundene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/lKeX0M/daarligere-sparerente-du-faar-mindre-igjen-bankene-tjener-mer?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Teknologisektoren rammes av dypere børsuro",
-    "summary": "Oslo Børs og store internasjonale børser opplever press som følge av fornyet usikkerhet rundt kunstig intelligens og teknologiinvesteringer.",
-    "why_it_matters": "Uroen viser at markedet stiller strengere krav til lønnsomheten i fremtidsrettede teknologiselskaper.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere usikkerhet rundt AI-investeringer fører til at investorer trekker kapital ut av volatile vekstselskaper."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Selskaper som er avhengige av finansiering i dataklynge- og teknologisektoren opplever økt lånekostnad."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Trump avlyser direktesending av militær henrettelse",
-    "summary": "Den amerikanske administrasjonen har snudd og vil likevel ikke tillate at henrettelsen av Fort Hood-skytteren blir vist direkte på TV.",
-    "why_it_matters": "Saken har vakt oppsikt og debatt om etikk rundt dødsstraff og offentlig eksponering av henrettelser i USA.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn",
-      "effect": "Beslutningen demper den politiske og etiske stormen knyttet til å kommersialisere eller kringkaste statlige henrettelser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tidligere DUP-leder dømt til fengsel for overgrep",
-    "summary": "Jeffrey Donaldson er dømt til 15 års fengsel for alvorlige overgrep mot barn etter en omfattende rettssak i Nord-Irland.",
-    "why_it_matters": "Dommen markerer et dramatisk fall for en av landets mest kjente og innflytelsesrike politikere.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Politikk",
-      "effect": "Saken har rystet det politiske landskapet i Nord-Irland og satt søkelys på tilliten til folkevalgte ledere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
       "paywall": false
      }
     ]
