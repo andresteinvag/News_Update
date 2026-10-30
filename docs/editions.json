@@ -1,5 +1,288 @@
 [
  {
+  "id": "2026-10-30-08",
+  "hour": 8,
+  "date": "2026-10-30",
+  "generated": "30.10.2026 08:55",
+  "overview": "Kryptomarkedet er rystet etter et historisk dataangrep mot Binance, samtidig som en bred teknologinedtur preger de globale aksjemarkedene i kjølvannet av skuffende selskapsrapporter og økende AI-investeringskostnader. I makroøkonomien markerer Bank of Japan en milepæl med oppnådd inflasjonsmål, mens uventet fall i fransk BNP og en opphetet norsk debatt om rammevilkår setter fokus på fremtidig vekstkraft.",
+  "stories": [
+   {
+    "title": "Kryptobørsen Binance rammet av historisk tyveri på 6,3 milliarder dollar",
+    "summary": "Verdens største kryptobørs, Binance, har stanset uttak og overføringer etter å ha blitt utsatt for et massivt cyberangrep der verdier for anslagsvis 6,3 milliarder dollar er kompromittert. Angrepet skal ifølge blokkjedeanalytikere knyttes til sofistikerte aktører, og hendelsen har utløst kraftige kursfall på tvers av kryptovalutaer. Selskapet arbeider nå på spreng for å kartlegge skadeomfanget og forhindre ytterligere tap.",
+    "why_it_matters": "Et sikkerhetsbrudd av denne skalaen svekker tilliten til sentrale aktører i kryptomarkedet og kan utløse strengere regulatoriske krav fra internasjonale finansmyndigheter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt uro og kapitalflukt fra digitale eiendeler kan smitte over på teknologisektoren og selskaper med direkte eksponering mot blokkjedemarkedet."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Finanstilsyn verden over vil trolig intensivere kravene til cybersikkerhet og likviditetsreserver hos uregulerte handelsplattformer for å beskytte investorkapital."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Mindre privatinvestorer risikerer langvarig midlertidig sperring av egne midler og betydelige verditap som følge av brå kursfall i markedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi1UZkphVnk0R09lOVpxcVRzSmJobkt0YVBGdDRBMkZ5d2dXdjNxa3k0VHB0bXZ3VkJzSFhHbGVGeFdCeF9vQW5UWkxxTUZzMU9hYU9xQVJZUXFOcEpNR0JjRFlEWmZURWNTSmd6RFRHOGZEcGJKakxCdExkZnhQRldRSzZ4eE52dHFBR09QNVFockE1b0pYaC1ZOGxOQndROVZVa05n0gGrAUFVX3lxTFBwNlVCU19abWpVbER1RGxqTHdyTExNei1IMzI4V0p5UTNoQUtuT21TQ1MtaDdzbWp0cDFTYmk5RlNiejJISlR2UzJIUTVVTGtVaHFVa2NrakNXTjlhMFM0eUtNWF9mN2ZSRzAxVm50VGpBYkdRd2EtQUQ3Z05tUlp4TXhHTW9zWDV0LXQ5WXo2cG1OeWM4Q1RaeDd6VUYycGpfVlRUYjgxUW5Cdw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFgxeVVEVzBnZ0Rfbll0Rzhka3FXTVBpZlVZYWJXSWJJc1FDb0hKTXo0MDg3NkVsT3dPSnJmRHFSOEVEbnJ2SlpDM2hMeEQta0hCMmwtN09Sc2xPT2NEa1V4TVNidkVaRWdzRXdIVjktamRFQ0JmMFZuWml5M09zV0t2NjA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Bank of Japan erklærer seier over deflasjonen og åpner for rentehevinger",
+    "summary": "Japans sentralbank holdt styringsrenten uendret, men kunngjorde samtidig at den underliggende prisveksten nå ligger stabilt på inflasjonsmålet på 2 prosent for første gang siden 2013. Sentralbanksjefen signaliserer med dette at flere tiår med deflasjonskamp er over, og baner vei for fremtidige innstramminger. Markedene følger nå nøye med på tidsplanen for neste renteheving.",
+    "why_it_matters": "Et permanent skifte bort fra Japans tiårige lavrentepolitikk vil kunne snu globale kapitalstrømmer og styrke japanske yen mot vestlige valutaer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Forventninger om høyere japanske renter kan føre til repatriering av japansk kapital fra utenlandske obligasjonsmarkeder og dermed presse opp globale statsrenter."
+     },
+     {
+      "area": "Valuta",
+      "effect": "En styrking av den japanske yenen kan svekke lønnsomheten til store eksportrettede selskaper, men samtidig dempe landets importerte energikostnader."
+     },
+     {
+      "area": "Handel",
+      "effect": "Dyrere finansiering i Tokyo kan redusere lønnsomheten i den globale 'carry trade'-handelen der investorer låner billig i yen for å investere andre steder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8talZyVVhDS3lTcklPWGVGZ0RpajdfY0FzaWNYNEhRTzZaSDlqMHU3eFdFRmgyc241UnJSRGN4RHdlOC0zQ0taR3YyeGVwdWJjVXdFbWxLWHFRMVZKLVR4TkNyMDh3VU5RdjVjbnVLcFbSAXZBVV95cUxPVkFxbzREZEFuS3drT0c1ZFpvZWJuYzRqY1dBd0lnRzBNTUJsRDhaYlFHdGo2WkFvWUNHQzVGcFBOd3loYXhXM3FUbmUzS2IwU2I5cXhYTHd5Ykx1WlZERVhFVUhNUUozXzRwRFJsNXBnSDJJWFl3?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnJWU0FUQ3RzZzNCVjVCREZiMTJvOGI5UjU1VmlwR2lmYThxSGt2LS10eTEzd054TXpCVjhnRFlVcDBWYjAxOHRSSFZKdlVqMGJ0WDJGck43cTFGRXRiYW1TYTlrZUVEdEJVWVdCZjI4ZUV0czFUOC15dG9FYlpwRk5FOHFNR25RbWhrRVVPVlVkcWJUTGtrNVlzMnFaa1JjOGtrQjRLWG5JTnBrMi1R?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVi1KTThMaldwbS1RUlphdUZuVE9lU0N1M0ZvNll2eXJGczlyVy1NN0VvajJ0Q1RfVnh2THVreHdMdVdmQlpXSzRneVgyTU55cmVQMl9oa2piLWFjNmJuM0V6Qk5lSWhkWC1LUWtBSldNdGFycU1aa25hNnpHT1BTcGZLNGU?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Teknologinedtur forsterkes av svakere vekstutsikter og gigantiske AI-lån",
+    "summary": "Global teknologisektor opplever kraftig motbør etter at Intel stupte over 20 prosent på skuffende utsikter, mens Alphabet og asiatiske brikkeprodusenter også opplevde markante børsfall. Samtidig planlegger Microsoft å hente inn hele 25 milliarder dollar i gjeld for å finansiere utbyggingen av kunstig intelligens. Investorene stiller nå økende spørsmål ved tidshorisonten for når de enorme infrastrukturinvesteringene vil kaste av seg.",
+    "why_it_matters": "Teknologisektoren har drevet store deler av børsoppgangen de siste årene, og svakere inntjening her kan trekke ned hele det globale aksjemarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høye verdsettelser basert på fremtidige AI-inntekter blir mer sårbare når kjernekapitalen tynges av svakere salgsvekst og økte rentekostnader."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fortsatt massiv utbygging av datasentre vil opprettholde et sterkt underliggende press på kraftnettet og etterspørselen etter ren basisenergi."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskaper som finansierer teknologiskifte med stor gjeld kan tvinges til å prioritere hardere dersom den økonomiske veksten bremser opp."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hSGRFRkVaWUNYZDQ0MC14QVh6c2ZLUjdjbkpNWDV1X0RfZGRFSm1ON3ltUXByMFM0a0tlWkFPY1BDUzhpS1piMFJnR0dUMXBEUlJ5X29hT3dRQWE5UFBrU2tpV2NfY0pqOHJySE80MHBlVnlKbFoxbnRnZ9IBgAFBVV95cUxQUXFfSW5CQVJfdHFVSkpaTVpNUnFuZHcwUkx4MEN2SFE1Q0VjRE10bG83Z0NEeXdJOW5wZ1drdDVOSnlFY3RkbnAzb3AzY0ppYm9qMGtqNFVSU1VjeHY1clB2X3ZKUkJjSG8tX1lHQWVqTGo4al9SeXo3d3NEV1ZQZQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkwxOE5CWnFlYlZmb25XSjRDMDhHbkJBUnpVb1pkV2N6QkR5cmk5RVFEeVV3Z3NBcS1LV0RBMWNmNE5nNmNzdWM5YUFYM29ScjBvVk1FT0E2M2ZBT1JhXzJyUXNOYUY0aHdrcGJ2TEZYX2lxcWctUTBXN1cxUjhWNzJzZ0JIS25ILWFpekdnS210M1ZOX19MQlg3UGpVcUdYclJXa0RuWXVzRldGQXhva2pOSjc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGRfMnBXX1pCRzhXbHgyb2lDeXU4bUlqaEQzUElMTVgwUG05SGx0a1JoaDBBT0FUUWo0U1pRUFhGQWgtWlRZYVJqNTNSYW45OTRrY1FLTzR6UGtPckFxZlZoemVic0g0V1lHVklwNzItTGV3WXBmUllkYUZ6c0w0OWtDRGo?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Fransk økonomi krymper uventet i møte med økende motvind",
+    "summary": "Ferske økonomiske nøkkeltall viser at Frankrikes bruttonasjonalprodukt uventet krympet i forrige kvartal, ifølge nye beregninger. Svekkelsen forklares med lavere innenlandsk etterspørsel, treghet i industrien og politisk usikkerhet som legger en demper på investeringsviljen. Tilbakeslaget i eurosonens nest største økonomi øker bekymringen for en mer langvarig stagnasjon på kontinentet.",
+    "why_it_matters": "En svakere fransk økonomi kan presse Den europeiske sentralbanken til ytterligere rentekutt for å stimulere veksten, noe som påvirker det europeiske rentenivået.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Svakere økonomisk aktivitet i Frankrike kan øke presset på ECB for å levere raskere rentekutt enn tidligere antatt i markedet."
+     },
+     {
+      "area": "Handel",
+      "effect": "Redusert kjøpekraft og lavere etterspørsel hos viktige europeiske handelspartnere kan dempe veksten for eksportrettede industribedrifter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcG9lV09SS3JveHBoRm1xaWQxeFpEQ2ZuSXVBLU5PS2ZocGxoSU1UNEh3Y1A3Y0hxU2h5al9OX3QxUXM2TjFuQTJPM0VMd2FDMTluT3NqQWlRZDVQaDYwZGhjX1hLLWw3aU5mZ010cUZXaXQ0bVRmVE5PREl0cXlUU25wUDRFU1lDSjE5M3o4N2VvR3FqQ2xBbW0xSEVqUlhzRTBDTnh4aU8xeGhwSm1veU1QTQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Opphetet debatt om rammevilkår og investeringsklima i AS Norge",
+    "summary": "Investor Jan Petter Sissener og finansminister Jens Stoltenberg møttes fredag til skarp debatt om tilstanden i norsk næringsliv og rammevilkårene for verdiskaping. Sissener hevdet at Norge lever på en livsløgn og advarte mot svekket investeringslyst som følge av skattenivå og politisk uforutsigbarhet. Finansministeren forsvarte regjeringens linje og pekte på at norsk økonomi fortsatt viser solid motstandskraft og høy sysselsetting.",
+    "why_it_matters": "Debatten reflekterer en tiltakende strid om formueskatt, kapitaltilgang og konkurranseevne for norske bedrifter som konkurrerer i et internasjonalt marked.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Vedvarende usikkerhet rundt skatteregler kan føre til at private eiere utsetter langsiktige industriinvesteringer eller flytter kapital til utlandet."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Dersom flere formuende investorer forlater landet, kan det på sikt redusere det lokale skattegrunnlaget til berørte distriktskommuner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/b80QX3/sissener-vi-lever-nesten-paa-en-livsloegn?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT29TQXJuX0o3VkVyYWhRSDJCb25meWhlZjZlNWs3WVdJSXBKSXgwSEdLYzRXem15MzNtM3BfQVVEM0h3dzhtYThfLUVRR2ExWGtqVk5FVzRnUDhNT3BySGp5YUx5NWZaSnNBZmhrUWVhc1JPMzdxa1NRM0pFYlE5RU5XbVBydUlqbEQ0QU9HOVEwTVdfcEdTNTdaSTNQaFNZb1RUOG5MeGRjaTdyeDZHdDJnbFI?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/ElVeb5/sissener-vi-lever-nesten-paa-en-livsloegn",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Milliardnedskrivning tynger fornybarselskapet Scatec i tredje kvartal",
+    "summary": "Det norske fornybarselskapet Scatec la frem kvartalstall der et underliggende driftsresultat førte til delte reaksjoner blant analytikere og investorer. Rapporten preges imidlertid av en betydelig regnskapsmessig milliardnedskrivning på anleggsverdier. Selskapet opprettholder sin langsiktige strategi, men møter et marked preget av høyere kapitalkostnader.",
+    "why_it_matters": "Nedskrivninger i fornybarsektoren belyser utfordringene grønne vekstselskaper har møtt etter at det globale rentenivået etablerte seg på et høyere nivå.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Store regnskapsmessige tapsføringer kan skape kursvolatilitet på Oslo Børs og gjøre investorer mer selektive overfor grønne aksjer."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høyere avkastningskrav og strammere finansiering kan bremse fremdriften for nye sol- og vindprosjekter i fremvoksende markeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZFJtZWtLQXE1ZGRmMjZiWXk2Y0xMa2liam54eXN6VnJrSG9TYjliN2l4dF90RXNGMG1DOWV6bXBQci0wSjR0TWFwY1pzanFEeUNqNjU1aGRobXVGQm4tbGVHVGx6RHQxRklwSUVNcGVhX25BZmw1RnhCTnB2Q00zaHgyd0RSV2NVSVdMdFlhdGhOM0hWU2RCUVg4Y296aU5Pd2RWbGxRQQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGN5UFpzWXNFYm5mSWloUGI0ZUFlVzYzdk00SzNQYktjX0h5dzRnZ2w0elpPb2ZubTFQSWVCV0JzdHZzNHRqMHIzb1JoQkZEb3ZBNjVfcjJDVnR3dVYzU1luR3lZTmNENGRRS0dsanRhVm41Q1Q5bnN1NmZBLXVqZHRnMU9ISmdPM3diMGtLNzkwZnBKWkl1OVhsNlh1b2xJSlZfM1JqZ01rYS1WVjNr?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Valgkaos i Israel etter at ingen politiske blokker oppnår flertall",
+    "summary": "Det israelske parlamentsvalget har endt uten et rent flertall for noen av de store politiske blokkene etter at samtlige stemmer er talt opp. Både statsminister Benjamin Netanyahus allianse og opposisjonsblokken mangler de nødvendige 61 mandatene for å danne en stabil regjering på egen hånd. Landet går dermed inn i krevende og potensielt langvarige koalisjonsforhandlinger for å unngå ny politisk lammelse.",
+    "why_it_matters": "Politisk ustabilitet i Israel kan forsinke viktige sikkerhetspolitiske beslutninger og påvirke den skjøre situasjonen i hele Midtøsten-regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "En langvarig regjeringskrise i Jerusalem kan komplisere regionale diplomatiske samtaler og skape usikkerhet om landets videre sikkerhetspolitiske kurs."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW50ZGFxRW5oWEF4S3p3UTdoamJ1QUVHLW85OVBNS3VaQy1wNVhUT2lUNXRhaVB4aHMxd19Wa0RIcUNJb1dieDE3MHA1ZWZISkkzTmdneGpMS3VOLTBlOGtLSjMwd1FLb2VwdFdyOTRlMERlMzdwcGZKNGxXZXBuWXBRelZ3WmxEV1E?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Pentagon ber europeiske Nato-allierte dempe den verbale tonen mot Russland",
+    "summary": "Amerikanske forsvarsmyndigheter har ifølge kilder bedt europeiske allierte om å moderere den harde retorikken overfor Russland for å unngå utilsiktet eskalering. Bakgrunnen er bekymring i Washington for at skarpe uttalelser kan snevre inn det diplomatiske handlingsrommet og øke faren for misforståelser. Henvendelsen illustrerer en pågående balansegang mellom militær avskrekking og strategisk risikohåndtering i alliansen.",
+    "why_it_matters": "Uenighet om retorikk og tilnærming til Moskva kan skape spenninger innad i Nato og påvirke den felles europeiske sikkerhetsarkitekturen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Forskjeller i strategisk kommunikasjon mellom USA og europeiske land kan utfordre samholdet i forsvarsalliansen under fremtidige sikkerhetspolitiske kriser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0JIODFoYndBWGdaei1jRmpqSlliS1hnZHJ6NkFZU2xxX2I5bVMyVHlHTkhyVjA0Ym45SV93ZWZyd3NITXY4LVVVZlVmZzJBUDNUekMyWmc3X1J2d29ZeHNWdE1TY1Q0eDQ2QU5JcndLam55MXRQbDQ0TlZBNFM2cmJZaXdST1l5N0NTQmcwc0Z5U3J2bGJYSDl0WTd2YjdtTHRFR0xzdWc3dnY2aGM0UFJQcHBkNE1YVXJ3?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Soldat i 20-årene omkom under militærøvelse i Trøndelag",
+    "summary": "En mann i 20-årene fra Trondheim mistet livet under en militær øvelse på et forsvarsområde i Stjørdal torsdag kveld. Nødetatene rykket ut til stedet, men personens liv sto ikke til å redde, og Forsvaret har iverksatt kriseoppfølging av de involverte. Politiet og Forsvarets havarikommisjon har startet etterforskning for å avklare årsaken til ulykken.",
+    "why_it_matters": "Dødsfallet retter oppmerksomhet mot sikkerhetsrutiner og risikovurderinger under operative øvelser i Forsvaret i en periode med høy aktivitet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Ulykken vil trolig føre til en grundig gjennomgang av sikkerhetsprosedyrer og retningslinjer for gjennomføring av feltøvelser i Forsvaret."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/trondelag/ulykke-pa-militaert-omrade-i-stjordal-1.18068913",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2E1WDlLcHh3SnVlQ29tMUJZTGpHYlNfd3dxa0VYX1lqUTlkRXA4dUVBSF9TSjNjNUZEeXVqWVFROFRxNlhtZ2pqRUItY3k1NVRldzE3M1lINzlLQzNUZ3BneUFEd21Oa3RMQUVXX0l4ZjhINS0xcUt1UVZhQjA5ODFyOTBTTzlXX2c1bHdvSlVXSFpxZGUtZVpINjBDMVY1ZVZfZE9rSjhEQl9qeU5qV1BMSC0?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-29-20",
   "hour": 20,
   "date": "2026-10-29",
@@ -7190,299 +7473,6 @@
      {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-15-08",
-  "hour": 8,
-  "date": "2026-10-15",
-  "generated": "15.10.2026 08:32",
-  "overview": "Globale aksjemarkeder preges av et markant nedsalg innen teknologisektoren etter fornyet inflasjonsfrykt på Wall Street og fallende børser i Asia. Samtidig varsler et nytt utvalg endringer for Oljefondets etiske rammeverk, mens ukrainske trusler om nye raffinangrep skaper spenning i energimarkedene.",
-  "stories": [
-   {
-    "title": "Bredt teknologifall i Asia etter fornyet inflasjonsuro på Wall Street",
-    "summary": "Teknologitunge børser opplevde bratte fall over hele Asia, med særlig hard medfart i Seoul og Tokyo hvor investorer kvittet seg med kunstig intelligens-eksponering. Nedsalget kommer i kjølvannet av en svak dag på Wall Street, utløst av frykt for gjenstridig inflasjon og mindre rom for fremtidige rentekutt. Fallet reflekterer økende nervøsitet for om verdsettelsene i teknologisektoren har løpt foran realitetene.",
-    "why_it_matters": "En kraftig korreksjon i globale vekst- og teknologiaksjer kan raskt forplante seg til Oslo Børs og redusere markedsverdien på Oljefondets omfattende aksjeportefølje.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere renteforventninger og frykt for overprising kan føre til vedvarende multipelkontraksjon for vekstselskaper med høyt verdsatte fremtidige kontantstrømmer."
-     },
-     {
-      "area": "Renter",
-      "effect": "Vedvarende inflasjonsbekymringer i USA kan tvinge sentralbankene til å holde styringsrentene høyere lenger enn det investorene tidligere har priset inn."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Et markant fall i de globale børsene vil kunne redusere Oljefondets verdi og dermed innskrenke det langsiktige handlingsrommet i statsbudsjettet over tid."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/ylKa4a/boersras-i-asia?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG13bm9YTWdTNm9UVGtRbjc3ZmFpOG5lcWdydXhLVGNVaEVBZ01hRjFOR2oxd0hVNl9sRG1RS1Fyd0M0Q290WEV1b1d0b2hGbmhyZDViZ25QN1hQd1lydFh4QzBXNTVKWWVIaXNVWE5fS3FSYXJ6UDhiVm93X29ES3RRZ2ZxWWJQQktkMkYwZkpzY0RhUVF5NjFSaFN6Zw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1ZmX19fclBFd1I3bEdCWVk5NEpfRmJGWE1VbjhDRThlVUFFeFBqYzYzTXpTR2wzeHNUcWtNN1VFV2ltaC1WNnc1S1ZsOFMxalVER01yS0otb2VjbTQ1cHJjZERsa05rMHNabDVyenp5MUlLNmpZQzdERzVzbElnTlgtQ0ljV1hsOGJNTEMwNEFPUmMtSXdjUzE3b0REWmR0ZDNfQzh0RU5UalY1dWg3b1pwVQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Gjedrem-utvalget foreslår å frata Etikkrådet rett til utelukkelse av selskaper",
-    "summary": "Det regjeringsoppnevnte Gjedrem-utvalget foreslår vesentlige endringer i organiseringen av Oljefondets etiske rammeverk. Selv om Etikkrådet beholdes som en uavhengig vaktbikkje, foreslås det at rådet mister retten til direkte å anbefale hvilke selskaper som skal utelukkes fra fondet. Denne beslutningsmyndigheten og innstillingen legges i stedet fullt og helt til Norges Bank.",
-    "why_it_matters": "Endringen kan strømlinjeforme forvaltningen av Norges nasjonalformue og gi sentralbanken mer direkte kontroll over håndteringen av krevende geopolitiske og etiske dilemmaer.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "En samling av beslutningsmyndigheten hos Norges Bank kan gi en mer enhetlig og finansiell vurdering av risiko ved selskapseksklusjoner fremover."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Internasjonale storselskaper vil måtte forholde seg til Norges Bank som en mer direkte motpart ved vurdering av kontroversielle forretningsmodeller."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/n9O1aJ/ny-rapport-slik-vil-de-endre-oljefondets-etikkraad",
-      "paywall": false
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/64yO73/pensjonsfondets-etiske-rammeverk-maa-staa-seg",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "TSMC leverer rekordresultater midt i global børsuro",
-    "summary": "Verdens største kontraktsprodusent av mikrobrikker, taiwanske TSMC, la frem kvartalstall som slo analytikernes forventninger med god margin. Selskapet opplever massiv pågang etter avanserte prosessorer rettet mot datasentre og applikasjoner for kunstig intelligens. Resultatene står i skarp kontrast til den pågående kursnedgangen for halvlederaksjer på de asiatiske børsene.",
-    "why_it_matters": "TSMCs sterke inntjening bekrefter at den fundamentale etterspørselen etter maskinvare innen kunstig intelligens forblir intakt til tross for finansiell markedsstøy.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Fortsatt høye investeringer i avanserte silisiumbrikker kan sikre leverandørkjeden stabil inntjening selv om det kortsiktige sentimentet i aksjemarkedet svinger."
-     },
-     {
-      "area": "Handel",
-      "effect": "Konsentrasjonen av avansert brikkeproduksjon i Taiwan gjør den globale verdikjeden sårbar for geopolitisk uro og mulige eksportrestriksjoner mellom stormaktene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnZQMElNRlc2aGFEd21EQTBjRS1fLTFZR0hHZG9MTzJTMFBsR25pMDhCSHRmcDRhR3JkQWtYOV91cjlVd3BEcEtlVUNPQ21yRVNRRXJ4MFdXZldkdjk3OWJHLU9JcFBSYUx5Q1FjMlVTMlhqaUlKamFnX2VIVVNMZmxMTENDZ2YtbnVxanpfRnhKUzY5RnFkcHVnVm1uMVZyTy15OWt3ZmdTc1F4Mk4yaw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREFocWpwazREcEdmNWRraExjNU9KMjlUbEo0aVFZcU1DeC1uN2s1U1A5OHlFV2dKQkRBSFNJd1NrcFRBRWhKWXlpbFZqRGhzTTlPaHdBVkdySzAyX0NEclQ3WEFkLUd5YTV6cFdoVkF2YjN6aF9Sc0hrakEzQWhOMkswUmpqa3A0UGZlRlFlVm9GSUp5blBhSFNtckFqdl9YR1g1M0NUMlNneHp5YWVYbm9pY2xlZw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Inntektsbyks for Anthropic i forkant av planlagt børsnotering",
-    "summary": "AI-utvikleren Anthropic rapporterer om en kvartalsvis inntektsvekst på nær 50 prosent til nesten 17 milliarder dollar. Selskapet, som står bak språkmodellen Claude, posisjonerer seg nå offensivt inn mot en ventet børsnotering. Samtidig peker analytikere på at de sterke tallene kanskje ikke er nok til å motvirke det generelle nedsalget i AI-sektoren.",
-    "why_it_matters": "Anthropics veksttall gir markedet en pekepinn på den faktiske inntektsgenereringen bak den pågående generasjonsbølgen innen kunstig intelligens.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Konkurranse",
-      "effect": "Intensivert kommersialisering fra Anthropic øker presset på rivaler som OpenAI og Google om å forsvare sine markedsandeler innen bedriftsmarkedet."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "En vellykket fremtidig børsnotering av Anthropic kan sette en ny verdsettelsesstandard for hele økosystemet av oppstartsselskaper innen kunstig intelligens."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2M4WXNsVVl6WXU3NlpOdDVOSGdxTW9rT2RGWnRSRTNpMmM2WXlRMEIzLXlFbzNIdk1jOFBOWUJ0UXhraF9rMWRmZ3p5MTVyYVZhdlNTdjRETXdKR3NxZ1hENlE5WlJRNU1yYmxuR3k3bm90OEh1M2JQSnFUenFtdE5vdVZWb1B2R2xqbkJnTjBfVFRmNWFPZlFlVEo?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEcxNXE3QWZYcDNJMEtaQW9MWV9mSXlLcTQ2ZUZoSndtOGE0dEdsaWlrRjRXajZDTnlWRW1FaDNseFQ2WGJSUjFQeWRmUkN1UGp5dVBFVE0tUUtuMF9tdDJ5S1dEMEtkZzdTQ3d3azZTVWtnUzVmOGpmYzhZRVRvWWZzOWpZRm1XSWRmang5dzN4ZGdvZWstLUpEbnhpRnF1d2g2czhHVVUzOVFMNkpR?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Ukraina varsler nye angrep på russiske oljeraffinerier",
-    "summary": "President Volodymyr Zelenskyj opplyser at Ukraina planlegger å gjenoppta målrettede angrep mot russiske oljeraffinerier for å svekke motstanderens krigsfinansiering. Oljemarkedet følger utviklingen tett, selv om råoljeprisene kortsiktig har trukket seg noe tilbake på grunn av usikkerhet om det globale tilbudet. Trusselen om bortfall av russisk raffineringskapasitet kan imidlertid skape fornyet spenning i drivstoffmarkedene.",
-    "why_it_matters": "Nye forstyrrelser i russisk raffineringskapasitet kan presse opp europeiske drivstoffmarginer og påvirke råoljeprisene som norsk eksportøkonomi er avhengig av.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Målrettede droneangrep mot russisk prosessanlegg kan redusere det globale tilbudet av raffinerte produkter som diesel og dermed presse prisene oppover."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Europeiske og norske raffinerier kan oppleve økte marginer dersom russisk eksport av foredlede oljeprodukter svekkes av ukrainske angrep."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnNwRlc5RTM4bnJwZW9fRkpkMGJlM0o1RkxuNUZJVlV6dXgxZGZaMkthMFlXMHVoSXI1RUJlTHN4V21hNlJnaWt1REtZUFhIM1hIcFVBMFlqNzZvaDV6Z29BY19fZ09FQkd2NDRybFI3bER3cTAwaDZjVk92VlFLWFBfR3I?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUV5S3BIM2tRdGp3U2RVSXlpd2pMSmFiUEtrMnNBbXBwR1FQU3dmc2RhMkplb2tlT0tBdGVSeEZtUmQ1Nm9NWS1HazlJSnlOb2NlRDNnUkQ4am1wZzlNa2tMYUUtXzZISjY0T2dLdkV0Rnl5UGs1WlQ0b1pPeERsem03NHd2UmM?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakIxN2pXRENBSjFMY1Rtc00zZG84UUVERE54NFBReWdoV2VJMHRpMFlZdzdSLXdzaEFOOEQwbFp5TG44Mk5wMFZyLVdPOTNpNG5nRlY5Q1lITWFlSjZ1RXdBMDdoRTQ1LTdrMy0zQVJlTThsUUJ2anBxWDNLWkpyV3lUbm5VMm5KMVJybkNpTVJuTGl6bTJia0t5UjE1UHNIclJFQUVRZ0FnektCZWxnSXNGc1VSdlhXM2RZ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Milliardnederlag for Vår Energi i Høyesterett",
-    "summary": "Oljeselskapet Vår Energi har tapt en omfattende rettsstrid i Norges Høyesterett, noe som medfører et milliardtap for operatøren. Saken har vært fulgt med stor interesse i petroleumsnæringen på grunn av de store økonomiske verdiene som sto på spill. Dommen markerer et endelig punktum i den langvarige tvisten.",
-    "why_it_matters": "Rettsavgjørelsen påfører en av de største aktørene på norsk sokkel en betydelig finansiell belastning og kan avklare rettslig presedens for bransjen.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Det finansielle tapet kan svekke Vår Energis kortsiktige frie kontantstrøm og potensielt legge press på selskapets utbyttekapasitet overfor aksjonærene."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Avhengig av den skattemessige behandlingen av tapet kan statens petroleumsskatteinntekter fra selskapet bli påvirket i de kommende skatteoppgjørene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2M4VkNqbE0zb1pTQWI4N0lad2g4b1RzeDI3WGFHRFJKX2JaNjZrdnFXbmVQNTJRX3dQZlVPVmI2NHF1bGNtN2FYZ1RaVGFGeGxRQk1XVXdOZmxuVTB3YzdLYWN2WWFscVAwenlNSDBoZzROcHhDcEZBa3lXU2pPcy1DcEtyb1l4R09Kd2tTT0I4VGZyY3o1ZVJn?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Svak vekst i britisk økonomi før ny statsbudsjettfremleggelse",
-    "summary": "Storbritannias bruttonasjonalprodukt vokste med 0,1 prosent i august, noe som var marginalt over forventningene i markedet. Samlet sett viste tremånedersveksten en oppgang på 0,7 prosent i perioden frem til august. Nøkkeltallene gir finansministeren et krevende bakteppe før regjeringens første helhetlige budsjett skal legges frem.",
-    "why_it_matters": "Storbritannia er en av Norges viktigste handelspartnere og en avgjørende kjøper av norsk naturgass, slik at britisk vekst påvirker norsk eksportetterspørsel.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Moderat økonomisk ekspansjon i Storbritannia kan bidra til å opprettholde stabil etterspørsel etter norsk industri- og gasseksport fremover."
-     },
-     {
-      "area": "Renter",
-      "effect": "Svak, men positiv vekst gjør at Bank of England trolig må balansere forsiktige rentekutt mot faren for seiglivet inflasjon i tjenestesektoren."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Brasil forkorter normalarbeidsuken til 40 timer",
-    "summary": "Kongressen i Brasil har vedtatt en grunnlovsendring som reduserer den maksimale ukentlige arbeidstiden fra 44 til 40 timer, samt forbyr sekstdagers arbeidsuker for inntil 30 millioner arbeidere. Reformen regnes som en stor politisk seier for president Luiz Inacio Lula da Silva kort tid før andre valgrunde mot Flavio Bolsonaro. Næringslivet frykter økte lønnskostnader, mens fagbevegelsen feirer reformen som et historisk velferdsløft.",
-    "why_it_matters": "Lovendringen påvirker titalls millioner brasilianske arbeidstakere direkte og kan endre maktbalansen foran presidentvalget i Latin-Amerikas største land.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "En lovfestet forkortelse av arbeidstiden kan heve bedriftenes timekostnader og tvinge frem økte investeringer i produktivitet eller automatisering."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Ukraina melder om begrensninger på Starlink og dronekapasitet",
-    "summary": "Ukrainske myndigheter opplyser at de opplever fartsbegrensninger og forstyrrelser på satellittnettverket Starlink, noe som vanskeliggjør kontrollen over droner i felt. Elon Musk har antydet at amerikanske myndigheter kan stå bak innstrammingene på systemet. Ukrainske ledere har bedt om at fulle hastigheter gjenopprettes umiddelbart for å sikre kommunikasjonen ved frontlinjen.",
-    "why_it_matters": "Satellittforbindelsen er kritisk infrastruktur for Ukrainas forsvarsevne, og struping av signalene påvirker direkte operasjonene på slagmarken.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Operasjonelle restriksjoner på kommersiell satellitteknologi viser hvordan private selskaper og politiske føringer kan påvirke utfallet i moderne krigføring."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Houthi-opprørere angriper Saudi Aramcos hovedkvarter",
-    "summary": "Iransk-støttede Houthi-opprørere har gjennomført et angrep rettet mot hovedkvarteret til det statlige saudiske oljeselskapet Saudi Aramco. Angrepet eskalerer den allerede spente situasjonen på Den arabiske halvøy og skaper bekymring for stabiliteten rundt kritisk energiinfrastruktur. Hendelsen føyer seg inn i rekken av konfrontasjoner knyttet til den pågående regionale konflikten.",
-    "why_it_matters": "Angrep mot hjertet av saudiarabisk petroleumsindustri øker den geopolitiske risikopremien i Midtøsten og truer sikkerheten for den globale energiforsyningen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Eskalerende angrep mot produksjons- og administrasjonsfasiliteter i Saudi-Arabia kan øke usikkerheten rundt oljeforsendelser og presse transportkostnadene opp."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1ZldXo2RjBfTlF2NHFDZDQ3NnJnejktNnl3NVJVcnFVM1FjQ3FQN0x5SjFpZDRBeXplS0lTN2tUdWVZVWVKZm5LaUxkMVFQcmFRX1RRbFJIMm1zOTZDU3l2elZkb0twUkFnU3ZYM1pHYmRhYXRlVlluMHJkcWZITXRSQmMzNnF5d3dBcGl4a043MWkxUlZ5RmNqQ1l3UUxTbGRKOVdHSHhIQlRLZjlv?oc=5",
       "paywall": false
      }
     ]
