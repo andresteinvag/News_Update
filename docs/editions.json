@@ -1,5 +1,257 @@
 [
  {
+  "id": "2026-10-31-20",
+  "hour": 20,
+  "date": "2026-10-31",
+  "generated": "31.10.2026 22:13",
+  "overview": "Internasjonale markeder preges av etterdønningene etter et historisk kryptoangrep mot Binance og økende usikkerhet rundt verdsettelser i teknologisektoren. Samtidig skaper fornyet debatt om norske utenlandskabler og europeisk motstand mot arktisk oljeutvinning usikkerhet for norsk energisektor.",
+  "stories": [
+   {
+    "title": "Binance dekker 90 prosent av tapene etter kjempehack på 6,3 milliarder dollar",
+    "summary": "Kryptobørsen Binance melder at 90 prosent av tapene etter tidenes største kryptoangrep nå er dekket opp, og selskapet planlegger å gjenoppta uttak for kundene søndag. Tyveriet har skapt sjokkbølger i det globale kryptomarkedet og satt søkelyset på sårbarheter i digitale lommebøker. Flere analyseselskaper knytter dataangrepet til nordkoreanske statsstøttede hackere.",
+    "why_it_matters": "Saken understreker den vedvarende systemrisikoen i kryptobasert finansinfrastruktur og kan utløse strengere reguleringer internasjonalt som også vil ramme norske aktører.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Et sikkerhetsbrudd av dette omfanget vil trolig akselerere innføringen av strengere tilsynskrav og kapitalkrav for sentraliserte kryptobørser globalt."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Midlertidig frosne midler og bekymring for motpartsrisiko kan føre til at investorer flytter midler bort fra uregulerte børser og over i tryggere aktiva."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Vedvarende uro i kryptomarkedet kan smitte over på børsnoterte selskaper og teknologiaksjer med direkte eller indirekte eksponering mot digitale eiendeler."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDA1ck9VUktfdWl0NkxvRWlCdjYxLU1CdDdjNmxkbXRObGN4d2phU2xaSWJFRWdtOHlWOFhTSUZfRlJQbjhSZGJBYVFOOTVkTkhqb0I5ZHJZelcwdVFWSmlGRjNyU203cGMxRzMyeFhKQVhxaEFIdHFmdGtMLUp1ZUhR0gGHAUFVX3lxTFBiTEZkazA0N0NudVJaM0ZGb0pQLWJ5QkFzd1N2UkJFZzkwYll3aTdFZC1ZOEIyS0FPOHRONVNMejR3RjRFdFpRVnZ6eTRmQ0FDZEg5TndvN1ZNM3pxNWZQcWo2MlN6MWxGRk10b19UVFgtd3M5dUVKVlBGZFBFNnZaQ2dtVWtaTQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Senterpartiet krever ny strømavgift på utenlandskablene",
+    "summary": "Senterpartiet går hardt ut mot olje- og energiminister Terje Aasland og krever innføring av en egen strømavgift på krafteksport gjennom utenlandskablene. Partiet argumenterer for at en slik avgift er nødvendig for å beskytte norske forbrukere og norsk industri mot europeiske kraftpriser. Forslaget møter motstand i regjeringskretser på grunn av Norges internasjonale handelsavtaler og EØS-forpliktelser.",
+    "why_it_matters": "En eventuell avgift på krafteksport vil gripe direkte inn i prisdannelsen i det norske kraftmarkedet og påvirke industriens rammevilkår.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Dersom eksporten avgiftsbelegges, kan prissmitten fra kontinentet reduseres og gi lavere innenlandske kraftpriser i perioder med høyt eksportpress."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "En ny avgift kan tilføre statskassen inntekter, men samtidig redusere Statnetts flaskehalsinntekter og svekke lønnsomheten i fremtidige nettinvesteringer."
+     },
+     {
+      "area": "Handel",
+      "effect": "Ensartede særnorske handelshindre på krafteksport kan utløse formelle klager fra EU og skape friksjon under EØS-avtalens energiregelverk."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/xlqM8X/senterpartiet-til-aasland-slutt-aa-grine?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kredittbyrået Fitch kutter Frankrikes utsikter etter budsjetturo",
+    "summary": "Kredittvurderingsbyrået Fitch har foretatt en uanmeldt nedgradering av Frankrikes kredittutsikter fra stabile til negative. Beslutningen begrunnes med vedvarende høye budsjettunderskudd og store politiske vanskeligheter med å gjennomføre nødvendige finanspolitiske innstramminger. Nedgraderingen skjer samtidig som landet opplever omfattende sosiale protester mot levekostnader og offentlige kutt.",
+    "why_it_matters": "Økt kredittrisiko for eurosonens nest største økonomi kan presse opp europeiske statsrenter og skape ny finansiell usikkerhet i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere risikopremier på fransk statsgjeld kan presse opp europeiske markedsrenter og gjøre gjeldsfinansiering dyrere for andre europeiske stater."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Stigende rentekostnader vil tvinge Frankrikes regjering til ytterligere innstramminger, noe som kan dempe den økonomiske veksten i eurosonen."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Europeiske bank- og finansaksjer kan bli tynget av frykt for tap på statsobligasjonsbeholdninger og svakere europeisk økonomisk stabilitet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWk10VDliYzJKaWUySk40WHVPSnVoMHJsbUM4ejVUVXJaYjdncXdvQi1VN2pfVXVBa1pRUm1QUzhDTkQ1QTBrMUdUOU1DZ0xiX2h0X05IVHMxWHBlYTFkRGJiTGdTeUZGNTVUeE5JVU1kZU5qM29xWnBwRUlDZ19XS3hTc2w?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "OpenAI kutter kapitalinnhentingsmål med 10 milliarder dollar",
+    "summary": "Kunstig intelligens-selskapet OpenAI har nedjustert sitt mål for kapitalinnhenting med 10 milliarder dollar som følge av det bredere kursfallet innen teknologisektoren. Investorer viser økende skepsis til de enorme kostnadene knyttet til infrastruktur og datasentre opp mot den faktiske kortsiktige inntjeningen fra KI-modeller. Dette sammenfaller med at investorer generelt reduserer sine vekstposisjoner i amerikansk økonomi grunnet KI-eksponering.",
+    "why_it_matters": "En oppbremsing i KI-investeringene kan ramme de største globale teknologiselskapene som har drevet mye av børsoppgangen de siste årene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Lavere kapitaltilførsel og mer edruelige verdsettelser i KI-sektoren kan føre til multippelfall og kurskorreksjon for store teknologiselskaper på Nasdaq."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Reduserte budsjetter til KI-satsinger kan bremse etterspørselen etter spesialisert maskinvare, halvledere og energiintensive datasentre."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZkRqVjFyVno5Q2JkQy15dl9SMVp5Z2FtS2tvYkdBNmdXSkRFQV9IZHFxZFIzdzhZbXFlZHU2YmNpQXRET0xBaUxBMzBxb2p5VFlQQzNteE03Rm1zQnJrYUtockVzVF9HMWRMSmh5cFdPX05MdFo0RkQzVkxDd9IBgwFBVV95cUxQZjZjMkNQcTBjY1NsNjNsbUMwdzI5ckNESVR0TE9uRVE3aWcwNGE2QkhBSnZHTXl0czFXWTVaaXRTTUJtd2lYSWZCRDNSaV8wM3VsZFFUbDVYMkNBVFU3bW1BVW9MZkwyR09paGthcmphLTFDdlI3WDhmUTVlbjBSYnBvRQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1doVzdERXJKVnI4d2FMb0luQVpIbm9KdEFfQkd5U19HQzN5bnpJcEVuaFUwTDd3TmIzTjdrckpxWFloYTNvSUJpSml3VTBocXdfYzJxeERWTTFMejRWaU5OZnJNdFcxVlFHRnRaWEVzTUZaYnlHVnhDeWpXUmF4aENOMVI?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Økt frykt for ny runde med militær eskalering mellom USA og Iran",
+    "summary": "Iranske utsendinger har møtt meglere i Qatar samtidig som spenningen øker kraftig i Midtøsten foran det forestående amerikanske mellomvalget. Iran har advart om at landet vil svare uten geografiske begrensninger dersom det blir utsatt for nye angrep, mens naboland som Egypt uttrykker dyp frykt for storkrig. Markedene følger situasjonen nøye av frykt for forstyrrelser i skipstrafikken og oljeproduksjonen i regionen.",
+    "why_it_matters": "En fornyet oppblussing av konflikten kan sende oljeprisen i været og skape nye inflasjonsbølger som forsinker sentralbankenes rentekutt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Militær eskalering i Persiabukta kan true vitale forsyningslinjer som Hormuzstredet og utløse en kraftig oppgang i råoljeprisene."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Dersom olje- og drivstoffprisene skyter i været, kan det gi et fornyet inflasjonspress som tvinger sentralbankene til å holde styringsrentene høye lenger."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Høyere oljepriser kan på kort sikt styrke den norske kronen og øke Norges eksportinntekter fra petroleumssektoren betydelig."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUxiU2FDejdwVXhRR3o0c0YtNmtSNUVxRDB2Rk92UUw2TVRrUHA5S0k1TGc5emF5c1dRaVVTUGktdXhSaTRyc2M4bGpWRWtCQlVYVjhaeFF6QmVNWThXbVRGVzhfTThHVDRWOWFEOUw5Tzh1STNJbDZJWHdaVWNkVVEtNmE?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "EU signaliserer motstand mot olje- og gassutvinning i Arktis",
+    "summary": "EU fastholder sin motstand mot å importere olje fra arktiske strøk, til tross for at Equinor og norske myndigheter argumenterer for at Barentshavet er avgjørende for Europas langsiktige energisikkerhet. Equinor-sjef Anders Opedal har hevdet at det er økende forståelse for norsk sokkelvirksomhet, men signalene fra Brussel viser fortsatt sterk skepsis til ny arktisk petroleumsaktivitet. Uenigheten skaper usikkerhet rundt fremtidige milliardinvesteringer i infrastruktur og rørledninger nordover.",
+    "why_it_matters": "Dersom EU setter restriksjoner mot arktiske hydrokarboner, vil det begrense lønnsomheten av leting og feltutbygging i Barentshavet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Manglende europeisk etterspørsel og politisk motstand kan føre til at oljeselskapene utsetter eller skrinlegger store utbyggingsprosjekter i Barentshavet."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Lavere leteaktivitet og færre utbygginger i nordlige farvann kan på sikt redusere statens fremtidige skatteinntekter fra sokkelen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/WgV7E2/eu-vil-ikke-ha-olje-fra-arktis?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Omfattende levekostnadsprotester i Frankrike og Tyskland",
+    "summary": "Over 320 000 mennesker demonstrerte i franske byer for tredje helg på rad i protest mot økende levekostnader og svekkede offentlige tjenester, med voldelige sammenstøt og over 290 arrestasjoner. Samtidig tok titusenvis av unge mennesker til gatene i 34 tyske byer for å kreve større politisk innflytelse og sosiale tiltak. Franske myndigheter advarte demonstranter mot å bruke halloween-masker for å skjule identiteten under opptøyene.",
+    "why_it_matters": "De tiltakende sosiale spenningene i EUs to største økonomier svekker regjeringenes handlingsrom og kan føre til langvarig politisk ustabilitet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Det voksende folkelige raseriet kan tvinge fram politiske kriser og gjøre det svært vanskelig for regjeringene å gjennomføre nødvendige reformer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ukrainske sivile evakuert fra okkuperte Oleshky etter lokal våpenhvile",
+    "summary": "Sivile innbyggere fra den russisk-okkuperte byen Oleshky har krysset frontlinjen og ankommet ukrainsk-kontrollert territorium etter en sjelden, lokalisert våpenhvile. Evakuerte forteller om ekstreme humanitære forhold, matmangel og kryssing av minefelt under flukten. Samtidig har Tyrkias president Recep Tayyip Erdogan hatt samtaler med president Volodymyr Zelenskyj i Istanbul om å stanse angrep i Svartehavet og gjenopprette en kornkorridor.",
+    "why_it_matters": "Våpenhvilen viser at begrensede humanitære avtaler fortsatt er mulig, selv om de overordnede krigshandlingene fortsetter med uforminsket styrke.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Vellykkede lokale forhandlinger og fornyet diplomatisk press fra Tyrkia kan åpne for mer stabile forsyningslinjer for korn i Svartehavet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Juridisk strid og navnekrangel i Alaska før det amerikanske mellomvalget",
+    "summary": "USAs tidligere president Donald Trump har krevd at demokratenes senatskandidat i Alaska må fjernes fra stemmesedlene etter påstander om at en pensjonert lærer ble rekruttert for å forvirre velgere. Myndighetene i Alaska har avvist kravet som grunnløst og umulig å gjennomføre like før valgdagen. Delstatens valgordning med preferansevalg står i sentrum for den intense rettslige og politiske dragkampen om kontrollen i Senatet.",
+    "why_it_matters": "Utfallet av senatsvalget i Alaska kan avgjøre flertallet i Kongressen og dermed forme USAs lovgivningsprosess de neste to årene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Rettsstridene i Alaska skaper økt usikkerhet rundt valgprosessene og kan utløse omfattende etterspill om delstatenes valglovedtekter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/urix/trump-vil-utestenge-demokratisk-kandidat-i-alaska-i-navnekrangel-sak-1.18069928",
+      "paywall": false
+     },
+     {
+      "name": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-10-30-20",
   "hour": 20,
   "date": "2026-10-30",
@@ -7289,238 +7541,6 @@
      {
       "name": "VG",
       "url": "https://www.vg.no/rampelys/i/gdjGRq/vink-nordmann-vant-vm-finalen-for-vinkelnere",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-16-08",
-  "hour": 8,
-  "date": "2026-10-16",
-  "generated": "16.10.2026 08:30",
-  "overview": "Internasjonale markeder preges av uro rundt kunstig intelligens og sentralbankenes rentebaner, samtidig som nye geopolitiske spenninger påvirker råvare- og aksjemarkeder. Her er dagens viktigste økonomiske og nyhetsmessige oppdateringer for økonomistudenter.",
-  "stories": [
-   {
-    "title": "Aksjetrøbbel for Indonesia: Kan havne på kriseliste",
-    "summary": "Indonesiske aksjer faller markant etter at MSCI har vurdert en nedgradering av landet til standalone-status. Det skaper frykt for at landet kan havne på kriseliste sammen med nasjoner som Zimbabwe og Ukraina.",
-    "why_it_matters": "Betyr store kapitalutstrømninger fra fremvoksende markeder og økt nervøsitet blant internasjonale investorer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Indonesiske aksjer faller kraftig ettersom institusjonelle investorer må omstrukturere sine porteføljer i tråd med en eventuell MSCI-nedgradering."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Lokale selskaper og banker kan få betydelig høyere lånekostnader når internasjonal kapital trekker seg ut av landet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/8GvOj1/aksjetroebbel-for-indonesia-kan-havne-paa-kriseliste?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZDclBEV0w3ZFJ3bE8tckwwTE1YTXBXTG1GdGNfN2Vkb1BsaXFoZVo1QUF4YUhzanBOM05HNmR6X1gyalBGR05HQk5NM1VhY0VGbUhqb0dIN2txQklscWtMaVd3MVE3QTdISTRVbDZXdEpXa25EUHpZejdrZ1ozdFlOOTBBT2VfT3VFcmh5UmpjRWFoelZTUEZKOTl5UEhrc1dpWVQ3ZUpMd1NmVE8ybA?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZDlLTzFiTkdjMTVDek5sZkw4S2VkaGFSbXdPVnIyakFoLWhSQnhoWTNBbUhNMFg1R3JWY0EwN2hVbUJXZjA2Q0RPU0lDMHFtVzA4RzFhdFQtZkhxdm1Nby1Cb3dfakM2algzd3lvUG1OZnNOVldsNHIxTFd5Tl8zZnZjbWNqTnRETXd6X3ptblltUmxGRlo5Wm1kMVo4b0N3SWljYVdVOUNjUzBDZlg5Z29xTVlxX29MU1E?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Trump kritiserer Ukrainas angrep på russiske raffinerier",
-    "summary": "USAs president Donald Trump har karakterisert Ukrainas gjenopptatte angrep på russiske oljeraffinerier som en skandale. Uttalelsen kommer etter at energivåpenhvilen har kollidert med harde realiteter på bakken.",
-    "why_it_matters": "Påvirker direkte de globale energimarkedene, oljeprisen og inflasjonsutsiktene i vestlige økonomier.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Fornyede angrep på russisk oljeinfrastruktur kan stramme inn det globale oljetilbudet og presse prisene oppover."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Endret amerikansk politisk retorikk kan legge diplomatisk press på Ukraina og endre maktbalansen i energiforsyningen til Europa."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWZJUEM4emlGRGhaUVlYZFdNclZ3YmVXU0drNUN3Y3pSRUlnMXFHSVpSQjNzdllrZEdsejZ2NldIWHphNERHcFdfaURVVHpqQ2pleVQ5TjBKYnVlNmdpczIya2E3TGlKaDdPXzdEa3dCT3I1VW15WXpUeUl2NjlJZWZpLXpYY2VGM2pqM0ZGT3ZpMGpiWG9oeU5aTldnb3VHWHNlLTI4dTJkQlNrbGNnYVlfaUNNbldKVWZsS21B?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXJneVBiMkhSTlFJa05tbFRMbzZlcmNjcEhtVzdfTWh5cWIyZ1BOUlRadXZNQ3BKam5PQVRwcjVCZDJYV01sV0Vja1I2R05PeDNPS0dEelRLSlFvenpXRjE0WFRUTjhjWENDMTlnRmpGaWk2VXFUb0YwWXl3bkFBU1A3RDRqRUpDc2tCbGxVell6Q0VR?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Federal Reserve-medlem Warsh ordknapp om rentebane",
-    "summary": "Fed-medlem Kevin Warsh unngår å gi klare signaler om renten for oktobermøtet, samtidig som han roser nylige globale innstramminger. Markedsforventningene til en rentepause har styrket seg.",
-    "why_it_matters": "Den amerikanske sentralbankens pengepolitikk styrer de globale finansieringskostnadene og kapitalstrømmene til fremvoksende markeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Redusert sannsynlighet for aggressive renteøkninger på kort sikt kan bidra til å stabilisere lange statsobligasjonsrenter."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Lavere usikkerhet rundt Fed sin rentebane gir investorene mer forutsigbarhet, noe som kan redusere volatiliteten i teknologiaksjer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThqQ25PaWtHbG1VbkprR2Q4dXNOa3F1VDBDcVItS0dtRnBXQlVRS19VMFJ3YXdVVHlHWlFnZURQa3U4czRYQVJubmp2dXlGOHdneVU4cWp2YlVVdHlPNlh5dEo4V3k4Ri1KVHNaRmdLaDk1WDNYcVhEU1JxUzNsaDJPcGVuS0xsLUFJVG1yUjNUa24wRkdjVQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Investorer søker tilflukt i amerikanske statsobligasjoner",
-    "summary": "Amerikanske statsobligasjoner opplever et kraftig rally ettersom investorer forsøker å skjerme seg mot turbulens i sektoren for kunstig intelligens. Samtidig faller statsrentene markant.",
-    "why_it_matters": "Viser hvordan svingninger og overvurderinger i teknologisektoren raskt kan utløse bredere flukt til sikre havner i finansmarkedene.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Kraftig etterspørsel etter sikre obligasjoner fører til lavere rente på amerikansk statsgjeld, noe som kan redusere lånekostnadene i bredere skala."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Kapitalflyttingen fra høyrisiko teknologiaksjer til rentepapirer kan legge midlertidig press på verdsettelsen av vekstorienterte selskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUozTHM0dkZqb01wNmhUc2twRnYzMk8yOTV5V2YwSW5ndGRjN0lwNDdNUGFWbHRrU0kwWEp4OGJUNXp4djlDQnE4eXNDdy1BVk1WTUNMV1RCUWtGN3FOcmx0NHFRRkRIY3IzYzEwandjV0FTNlRfbnNZbkxvbDMtNEgzWE4?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZIdlVlSTZMaGFlYXh5U3ZoRUJRTXJGaEs3RHB3RVkwYXI5TVhDTGtCUTFHVWx0YVBKZFRGeE82d1dpRkM5Z2xlUTFROHVIemwtelBQc2E1UVhoaEMwampBcS02MEcwNkJ4aHd1dUpMbTZqZ01pcnhJMTh3cml3LV9BNTFFczJJOEItVVFINVEyR0dyRU9VXzdtWHQ1NW9aU2hv?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Debatt om Oljefondets etiske retningslinjer og dialog",
-    "summary": "Gjedrem-utvalget foreslår at Statens pensjonsfond utland skal prioritere aktiv dialog fremfor direkte utestenging av selskaper, noe som møter både støtte og kritikk for mulige etiske dilemmaer.",
-    "why_it_matters": "Endringer i forvaltningsmandatet kan påvirke hvordan verdens største statlige eier påbyr selskapsstyring og påvirker globale markedsstandarder.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "En dreining mot mer dialog kan endre fondets avkastningsprofil og risikobilde knyttet til kontroversielle selskaper."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Politiske retningslinjer for Oljefondet kan sette en ny standard for ansvarlige investeringer internasjonalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/8G9jgG/noen-helt-aapenbare-dilemmaer?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Bankenes innskuddsrenter og tøffere konkurranse",
-    "summary": "Norske banker møter kritikk for å skylde på konkurransen når de justerer opp innskuddsrentene, der aktørene beskyldes for å opprettholde brede marginer.",
-    "why_it_matters": "Konkurransen om bankkundenes midler påvirker direkte privatpersoners sparing og bankenes samlede rentemarginer i det norske markedet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Hardere kamp om innskuddene kan gi bedre sparerente for vanlige bankkunder, selv om lånekostnadene forblir høye."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bankenes evne til å forsvare sine rentemarginer påvirker deres lønnsomhet og fremtidige utbyttekapasitet på Oslo Børs."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/R5E5RJ/bankene-skylder-paa-konkurranse-helt-komiske-ali?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Skolemassakre i Oregon ryster USA",
-    "summary": "Fire personer, inkludert tre barn og en lærer, ble drept i en skoleskyting i Bend i Oregon før gjerningspersonen ble skutt av et medlem av lokalsamfunnet.",
-    "why_it_matters": "Saken reiser på nytt intense diskusjoner om våpenlovgivning, sikkerhet i skolesystemet og den sosiale situasjonen i USA.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn og sikkerhet",
-      "effect": "Tragedien forsterker den polariserte nasjonale debatten om våpenkontroll og beredskap i amerikanske utdanningsinstitusjoner."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekRoc2pvTkxGcUI3czBCVS14V3VlVHZDQTR3c2ZOY1FjbVNXS05JUzJrQzl3S2c2WTdsQ09ndHlWSTlMTWR2bjIzMXhFc2NERUVXYnlQMzI2XzNWdG93WTVDRUpuRWZGU2pfd1FLUkVIWm9Kb1FnZ1Y1aUFoMGxfcTVzOW9qRTFBUHhpbzRadXRPQWc1Vm5SZ0swUlhNcTNBdDNyX0dR?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tog- og buskollisjon i Kanaltunnelen",
-    "summary": "19 personer ble skadet da en minibuss kolliderte med et godstog på fransk side av inngangen til Kanaltunnelen.",
-    "why_it_matters": "Hendelsen skaper forstyrrelser i en av Europas mest kritiske transportårer for både gods og reisende.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Infrastruktur og transport",
-      "effect": "Ulykken fører til forsinkelser og midlertidige logistikkproblemer for den internasjonale trafikken mellom Storbritannia og Kontinentet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
