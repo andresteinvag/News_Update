@@ -375,30 +375,30 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    # Planlagte kjøringer kan bli forsinket hos GitHub. Vi tillater derfor
-    # catch-up gjennom formiddagen/kvelden, men lager fortsatt maksimalt én
-    # morgenutgave og én kveldsutgave per dag.
-    if not force:
-        if 8 <= now.hour < 12:
-            hour = 8
-        elif 20 <= now.hour < 24:
-            hour = 20
-        else:
-            print("Ikke utgavetid, hopper over.")
-            return
-    else:
-        hour = 8 if now.hour < 14 else 20
 
-    ed_id = f"{now:%Y-%m-%d}-{hour:02d}"
-    editions = json.load(open(EDITIONS, encoding="utf-8")) if os.path.exists(EDITIONS) else []
-    if any(e["id"] == ed_id for e in editions) and not force:
-        print("Utgaven finnes allerede.")
-        return
-    if hour == 8:
+    # Catch-up: use the latest scheduled edition window, not a narrow run window.
+    # 07:00-18:59 local = today's morning edition.
+    # 19:00-06:59 local = evening edition; before 07:00 it belongs to yesterday.
+    if now.hour < 7:
+        edition_date = (now - timedelta(days=1)).date()
+        hour = 20
+        window_start = datetime(edition_date.year, edition_date.month, edition_date.day, 8, tzinfo=OSLO).astimezone(timezone.utc)
+    elif now.hour < 19:
+        edition_date = now.date()
+        hour = 8
         window_start = (now.replace(hour=20, minute=0, second=0, microsecond=0) - timedelta(days=1)).astimezone(timezone.utc)
     else:
+        edition_date = now.date()
+        hour = 20
         window_start = now.replace(hour=8, minute=0, second=0, microsecond=0).astimezone(timezone.utc)
 
+    ed_id = f"{edition_date:%Y-%m-%d}-{hour:02d}"
+    editions = json.load(open(EDITIONS, encoding="utf-8")) if os.path.exists(EDITIONS) else []
+    if any(e["id"] == ed_id for e in editions) and not force:
+        print(f"Utgaven {ed_id} finnes allerede, hopper over.")
+        return
+
+    print(f"Produserer utgave {ed_id}. Lokal tid: {now:%Y-%m-%d %H:%M %Z}")
     lines = [ln for s in SOURCES for ln in fetch(*s, window_start)]
     general_lines = [ln for s in GENERAL_SOURCES for ln in fetch(*s, window_start)[:12]]
     general_lines += open_coverage(general_lines)
@@ -406,45 +406,32 @@ def main():
     lines = balance_sources(lines, max_per_source=7)
     general_lines = balance_sources(general_lines, max_per_source=5)
     if len(lines) < 10:
-        sys.exit("For få overskrifter hentet, avbryter.")
-    data = summarize(lines, general_lines, f"{now:%d.%m.%Y} kl. {hour:02d}:00")
+        sys.exit(f"For få overskrifter hentet ({len(lines)}), avbryter.")
+    data = summarize(lines, general_lines, f"{edition_date:%d.%m.%Y} kl. {hour:02d}:00")
 
-    # Forhindre at den generelle seksjonen blir fylt med økonomikilder.
-    allowed_general_sources = {
-        name for name, _, _, _ in GENERAL_SOURCES
-    } | {"Reuters", "Associated Press", "AP", "BBC", "NRK", "CNBC International"}
-    # Økonomidelen skal være bred: maks 2 saker der E24 er eneste kilde.
+    allowed_general_sources = {name for name, _, _, _ in GENERAL_SOURCES} | {"Reuters", "Associated Press", "AP", "BBC", "NRK", "CNBC International"}
     e24_only = 0
     balanced_stories = []
     for st in data.get("stories", []):
-        source_names = {
-            src.get("name") for src in st.get("sources", [])
-            if isinstance(src, dict)
-        }
+        source_names = {src.get("name") for src in st.get("sources", []) if isinstance(src, dict)}
         if source_names == {"E24"}:
             if e24_only >= 2:
                 continue
             e24_only += 1
         balanced_stories.append(st)
     data["stories"] = balanced_stories[:8]
-
     data["general_stories"] = [
-        story for story in data.get("general_stories", [])
-        if any(
-            src.get("name") in allowed_general_sources
-            for src in story.get("sources", [])
-            if isinstance(src, dict)
-        )
+        item for item in data.get("general_stories", [])
+        if any(src.get("name") in allowed_general_sources for src in item.get("sources", []) if isinstance(src, dict))
     ][:3]
 
-    ed = {"id": ed_id, "hour": hour, "date": f"{now:%Y-%m-%d}", "generated": now.strftime("%d.%m.%Y %H:%M"), **data}
+    ed = {"id": ed_id, "hour": hour, "date": f"{edition_date:%Y-%m-%d}", "generated": now.strftime("%d.%m.%Y %H:%M"), **data}
     editions = sorted([e for e in editions if e["id"] != ed_id] + [ed], key=lambda e: e["id"], reverse=True)[:KEEP]
     os.makedirs("docs", exist_ok=True)
     json.dump(editions, open(EDITIONS, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     open("docs/index.html", "w", encoding="utf-8").write(render(editions))
     if out := os.environ.get("GITHUB_OUTPUT"):
         open(out, "a").write("new=true\n")
-
 
 if __name__ == "__main__":
     main()
