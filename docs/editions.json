@@ -1,5 +1,243 @@
 [
  {
+  "id": "2026-11-04-20",
+  "hour": 20,
+  "date": "2026-11-04",
+  "generated": "05.11.2026 00:25",
+  "overview": "Dagens markedsbilde preges av et markant politisk jordskjelv i USA der Demokratene har tatt kontroll over Kongressen, samt tiltakende inflasjonspress i eurosonen. Samtidig viser norske kronebevegelser og teknologiaksjer store utslag midt i en hektisk kvartalssessong.",
+  "stories": [
+   {
+    "title": "Demokratene tar kontroll over Kongressen i et historisk valgskred",
+    "summary": "Det amerikanske midtveisvalget endte med et kraftig nederlag for Republikanerne og Donald Trump, der Demokratene sikret flertall i både Representantenes hus og Senatet. Valget ble i stor grad preget av velgernes misnøye med den økonomiske situasjonen.",
+    "why_it_matters": "Endringen i maktbalansen i Washington kan endre den amerikanske handelspolitikken og føre til nye politiske kamper om både gjestetak og reguleringer som påvirker globale markeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Oppsvinget i markedet kan skyldes atinvestorer forventer en oppmykning av aggressive tollmurer, noe som kan gagne multinasjonale selskaper."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "En svekket president Trump kan få redusert handlingsrom internasjonalt, noe som kan påvirke dynamikken rundt handelssanksjoner og internasjonale avtaler."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Utsiktene til en mer delt eller demokratisk kontrollert budsjettprosess kan øke risikoen for harde politiske kamper rundt USAs gjestetak."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObWpjVzZQT3ZCclNwYjlTdjFfWXZIakZzSmZUTzM3UTV1eUFkLUtjb195cVlKZmlhdmJlT1EwUWdFeXJ2MGhaNll6SjR3aVZQS0RQSGpRR2sxR1lYLWxUZ1otSGNrVzhRdVlyQVkwSVRVakZad0xTZjZfclJCMXJNanRZUEY?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Eurosonens inflasjon stiger til fire prosent i forkant av rentemøte",
+    "summary": "Inflasjonen i eurosonen har nådd fire prosent for første gang på tre år, hovedsakelig drevet av en kraftig oppgang i energiprisene på over 20 prosent i oktober. Dette øker presset på Den europeiske sentralbanken for å vurdere nye rentehevinger.",
+    "why_it_matters": "Høyere inflasjon og potensielt strammere pengepolitikk i EU kan dempe den økonomiske veksten hos Norges viktigste handelspartnere.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Forventningene om at Den europeiske sentralbanken må heve renten for å stagge inflasjonen kan presse opp lånekostnadene for bedrifter i hele regionen."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Kraftig stigning i energiprisene reduserer husholdningenes disponible realinntekt og kan føre til lavere privat forbruk i Europa."
+     },
+     {
+      "area": "Handel",
+      "effect": "Svekket kjøpekraft i eurosonen kan redusere etterspørselen etter norske eksportvarer og legge en daufødt stemning over tradisjonell industrivirksomhet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sterkere krone kan gi en overraskende julegave til norske husholdninger",
+    "summary": "Den norske kronen har utviklet seg langt sterkere enn det Norges Bank tidligere la til grunn i sine prognoser. Analytikere peker på at dette kan bidra til å dempe prisveksten på importerte varer inn mot årets viktigste handletid.",
+    "why_it_matters": "En sterkere krone kutter kostnadene på importvarer, noe som kan gi sentralbanken et noe større pusterom i rentesettingen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "En varig styrking av kronekursen gjør innkjøp fra utlandet billigere, noe som direkte reduserer prispresset på importerte konsumvarer for norske forbrukere."
+     },
+     {
+      "area": "Renter",
+      "effect": "Lavere importert prisvekst kan redusere sannsynligheten for at Norges Bank ser seg nødt til å heve styringsrenten ytterligere for å forsvare valutaen."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bedrifter som konkurrerer i utlandet med kostnader i kroner kan oppleve redusert konkurransekraft som følge av en sterkere valuta."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/X9PQmW/kronen-kan-redde-julefreden?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Arm melder om sterk inntektsvekst på AI-boom, men skuffer på guidingen",
+    "summary": "Brikkeutvikleren Arm leverte en omsetningsvekst på 27 prosent drevet av den vedvarende etterspørselen etter kunstig intelligens, men la frem en fremtidsutsikt som ikke innfridde de mest håpefulle forventningene til investorene.",
+    "why_it_matters": "Selskapets resultater fungerer som en sentral temperaturmåler på om de enorme investeringene i kunstig intelligens faktisk gir avkastning.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høye forventninger til teknologisektoren gjør at selv solide veksttall kan føre til kursfall dersom fremtidsutsiktene ikke matcher de aller spenstigste estimatene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Leverandører og underleverandører innen halvledere og prosessorer opplever varierende kostnadspress som kan ramme profittmarginene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzZVZHZuWk5QUzZuYlU5bmRYOXNZeC1nX3hFUmlNSU1Rc0ZJUTdta2w1dnFXRWt6Ty1Pb0R1YXdVeFV6ZzEzZzM4b3A3UFU0cTB3cU44NlduWWkzZm5BazJlRzFiVFJDU0VHTmkzVXBtWERiR1h5MWxINTFSY05JbnZKU2RiOGZzbWNUM2tIcW5PUk9lV3ZqTVB1UjRJQ3VrMmVVWjVXSHVrc2thcGEwdg?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Betydelig oljeprisfall tynger energimarkedene",
+    "summary": "Oljeprisen har falt markant og krøpet under 95 dollar per fat, noe som er det laveste nivået siden tidlig i september. Nedgangen tilskrives en kombinasjon av svakere etterspørselssignaler og endringer i den globale energiforsyningen.",
+    "why_it_matters": "Oljeprisen er livsnerven i norsk økonomi og har direkte innvirkning på både statsbudsjettets inntekter og kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Lavere oljepriser reduserer inntektsstrømmen til energiselskaper og kan føre til at planlagte investeringer på norsk sokkel blir utsatt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Reduserte inntekter fra olje- og gassvirksomheten svekker det helhetlige handlingsrommet for fremtidige norske statsbudsjetter."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En svakere oljepris fjerner noe av støtten under den norske kronen, noe som kan bidra til å holde valutaen svakere over tid."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/X9PKjx/oljeprisen-raser-faller-under-100-dollar?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Aker BP opplever nedsalg i kjølvannet av storeierens planer",
+    "summary": "Den britiske oljegiganten BP vurderer et storsalg av sine aksjer i Aker BP verdsatt til rundt 11 milliarder kroner. Nyheten har preget handelen og satt søkelys på eierstrukturen i det norske oljeselskapet.",
+    "why_it_matters": "Store eierendringer i en av Oslo Børs' tyngste aktører kan skape midlertidig kursuro og påvirke likviditeten i aksjen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Et betydelig nedsalg fra en hovedeier kan skape et midlertidig overtilbud av aksjer og presse ned kursen i en periode."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Endringer i eiersammensetningen kan føre til strategiske justeringer i selskapets framtidige investerings- og utbyttepolitikk."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/lKB6B7/akerbp-storeier-vurderer-storsalg-vil-selge-aksjer-verdt-11-milliarder?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2Z1REhYaUVvVnJhR09KV0pPMWJxcDYwaERuNWZCM0Zqd3hoS29QalE5YnlyUTdnM1hNcmVlZGVkYmExRERfQUQ1VEd6WVAyeTRmSzYtQmlJSC04c0VlRUM3eE1iOUNvaEktalgtYkVwTFFDSHROVzAzTlRkZENSUVlCemNlbS1LQU0wM3VYTlVRTjhoRld0X2trUWpvcXJBY2c?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Massiv vannlekkasje rammer store deler av Oslo",
+    "summary": "En stor vannlekkasje på Grønland har ført til at store deler av Oslo er uten varmtvann og varme, og vann og steiner har sprutet opp fra asfalten.",
+    "why_it_matters": "Hendelsen skaper store konsekvenser for beboere, sykehus og infrastruktur i hovedstaden mens arbeidet med å rette feilen pågår.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Infrastruktur og samfunn",
+      "effect": "Den omfattende lekkasjen lammer oppvarming og vanntilførsel for tusenvis av innbyggere og setter byens beredskaps- og rørnett på prøve."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/stor-oslo/stor-vannlekkasje-pa-gronland-_-ber-folk-trekke-unna-1.18073838",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeG43X0kzTy01Y2dSYWt2di1ZakRFcE9TbWdUc3Z2UFhjMHZiclZKbF9tenVRVHBtTkRwOGhWSmtrVmJ4MlJCaEpnS0ZHczRpbl96eExzbG51bzlwN0R3a21IMUNYVmMzUU5hellYdmJ6Qkp3YkZtckZ5UFpKN2hHanl5akNCa2VPZ3QzN1NfcG9YdFR1eE9jTDhvaXhzdm4xeTVXaDBZRTV5bGJFdzkyTW94QUxXUG8xc3pXSGtsTDZWYUszVjR1cmpCSDJTcVhSZ2t0ck50VWNnOFl1WVhFWjdwa3ljYmJs?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Bob Dylan på historisk audiens hos Pave Leo XIV i Vatikanet",
+    "summary": "Musikklegenden Bob Dylan møtte Pave Leo XIV i Vatikanet, hvor de utvekslet tanker om musikk, tro og kultur i en uvanlig audiens.",
+    "why_it_matters": "Møtet mellom en av verdens fremste kulturikoner og Den katolske kirkes overhode har vakt internasjonal oppmerksomhet og begeistring verden over.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Kultur og samfunn",
+      "effect": "Arrangementet bygger en sjelden kulturell og verdimessig bro mellom moderne populærkultur og religiøst lederskap."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa2J0LXl6djVuN2xHa2VndjNMcmZQTTdzNDRRb1RIVzU3NHpkMWxHcWNxUWxaUHctOHlQbFM0VEFDS3ZtZE9xcFBid0pDalZ5dlpWb0Q4Z21rOFRrb2V1VHZwNTlIVE9sUUx0bGQwam9YZHdXa1pLckNfaG5TZHd0ejVaVGtxcHhvMFhfVWFfdw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3p4NzZJYWwtSk9BWlg4MEdZRzlhVVZhOW82c0F6Z19rOGJxME5ETFFoYU9YcGlfcjB4SmJGV2lTQjJUaDM3MDEwT1VRSWIwbGtGbDRIcFZ4U2NYeHpHUW90d0pEVW9IOVBfSHVXcVRNdGN4ZFhHa1FCYUZmeFMtcnE3T25oLTM3YklMeEU1dmNFZHEzcTZQcUo0MnliaGNYZ04zNG54anA1U00xbVdfc3cwd0g?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-04-08",
   "hour": 8,
   "date": "2026-11-04",
@@ -7140,285 +7378,6 @@
      {
       "name": "Euronews",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkhxelNpNWVqQ3JYNGxzTDM4b09VN3ktanc5RWM4Ri1zdHMzZk9HMlhoQnB6b1Q3dkM5VzM3VUNWcUZMbTYyZ2hISFpZamNMUEFpU2l6UU9RdE1ZTzU1M2Nybi05d0FjVjZFWlpVam1LSFJ4NmVTWlhaNkhoVXgwbFVRVFI5RDFfOUdJazQ3Q0J6VkF4U0paSVNB?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-18-08",
-  "hour": 8,
-  "date": "2026-10-18",
-  "generated": "18.10.2026 08:27",
-  "overview": "Uken preges av debatten rundt kunstig intelligens, der store forventninger til produktivitetsvekst kolliderer med frykt for bobletendenser og sårbarheter i teknologisektoren. Samtidig skaper hevinger i rentenivået og geopolitiske signaler om sanksjoner økt usikkerhet i både internasjonale kapitalmarkeder og norsk næringsliv.",
-  "stories": [
-   {
-    "title": "KI-optimisme møter korreksjon i leverandørkjeden",
-    "summary": "Teknologitopper og ferske undersøkelser fremhever at kunstig intelligens kan gi et kraftig løft til bruttonasjonalproduktet globalt. Samtidig opplever asiatiske underleverandører og maskinvareprodusenter et tilbakeslag på børsene etter intens oppgang og frykt for verdsettelsesbobler.",
-    "why_it_matters": "Utviklingen påvirker verdisettingen av globale vekstselskaper og former forventningene til langsiktig produktivitetsvekst i verdensøkonomien.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "En korreksjon i teknologiaksjer kan redusere risikoappetitten bredt og tvinge investorer til å flytte kapital mot mer defensive sektorer med stabile kontantstrømmer."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Høyere kapitalkostnader og selektive investorer kan bremse investeringstakten i eksperimentelle KI-prosjekter som ennå ikke kan vise til lønnsom drift."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BOXg1cnVLam5kdlRzekpwZ2ppalNIaHlYU1poOW9IQlJUMDlOc09zX2RZU2NtckE0bE9KWW1hQ3VGS185MTdSaHNFYnBlYTg0UVY2V2xKWEZUbWlTLTJlX0tFU053c05kaW1heTNxT2nSAXZBVV95cUxNMjJTd05DdHhXYVlhNDdrTWdhTk5XYkpYbEFORE9QeFJZLXhIU21ISjV4akVoVUt4b0w3VHZuUzBnQ3gyQm5Ec2swaGJKMFlqbkRkcm5KcjI3QkFlR04tVHJSalZDQUl2WFJHSDhyUVVGeWpMT1NR?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREtWM3dzNTRIb29DY2pnS3JHYmJpLVRURzBlT1RQX0FSZGMzWkFuS0w0dXVhXzlSQTR3MVhZdm9nTm90S21JWWp1UjhLTjdPamxGSUMxVFd1ekZVWGp4bXBsTlFyVDJLRWpvalFqMlpldURMUXpPbFR5MlY0RWNMc3dTdW9BaFFEemc5bEJIbnBseEJkN3hlbGhMTEpaenVzMGJpa052RmZKbzU4bTF3cGpIQQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Hedgefondposisjoner kan forsterke sjokk i obligasjonsmarkedet",
-    "summary": "Analytikere advarer om at omfattende giring og store posisjoner blant hedgefond øker sårbarheten i statsobligasjonsmarkedet. Dersom markedsuro utløser tvangssalg, kan svingningene i lange renter bli uforholdsmessig kraftige.",
-    "why_it_matters": "Amerikanske statsrenter danner grunnlaget for den globale prisingen av kapital, lån og aksjeinvesteringer over hele verden.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Plutselige likviditetsproblemer i obligasjonsmarkedet kan drive opp lange markedsrenter raskt og fordyre låneopptak for både stater og store selskaper."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere og mer volatile renter kan legge betydelig press på verdsettelsen av vekstselskaper der inntjeningen ligger langt frem i tid."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DUTlkcUxEOFoxN253NlFTZUN1WVhtN1FEWXRwaDBxLWJ0RHFEUW9EejB6bFpGT0Y0OXZ4aEk1eHV6S1J2WU1BUGlmNTd3aUFYeERqTGVMZ0gwbUhuQjJkVXloRlZxVjRJbmtFUUQ2MlUtd04xSHNJ0gF8QVVfeXFMTzFINVFLSkU5alRoYklkbk5KRS1sZEdJaGZaRmxDR0RhZnl0OGFSLVZZTkRHZV9MejRIaWNUdVUwR2R2cWJhdWdUYkttOURTUzByRzVsZXR6dk52OWw3dzFTTk9IX3NKMVNiM0RKMlo4ZHpqbWJwZ3Eyc3FLOA?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Høye renter rammer norsk næringsliv og investeringer",
-    "summary": "Norske bedrifter opplever at det stramme rentenivået kutter etterspørselen, og aktører anslår at markedsverdier for titalls milliarder kroner er gått tapt. Det høye kostnadsnivået og svakere kjøpekraft gjør at flere prosjekter legges på is.",
-    "why_it_matters": "Når investeringene svikter i fastlandsøkonomien, risikerer Norge langvarig lavere sysselsetting og svekket økonomisk vekst.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Dyrene lånefinansiering tvinger selskaper til å kutte i ekspansive investeringer og gjennomføre nedbemanninger for å verne om lønnsomheten."
-     },
-     {
-      "area": "Renter",
-      "effect": "Tegn på markant oppbremsing i privat sektor kan øke presset på Norges Bank for å fremskynde fremtidige rentekutt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTU94aVNsM2E2Zy0ySFAwaGhzNkdGd3g0bnlBSlFvUkswZGtwaU1ZNUF1WG5nYlA0SHBBNHpsLUZ5eEFsUmdLX0VFaTFTV3Q2TW5KQjhtZ3plbi14em5kOWg3VDcyb1htRzBPbGNQcUV5X2lIYnRLWVV0bVJhd05QNW9MX3FWRDNtcHFRS1BlNlp3WXBiZlFHcC03N3NPMFc2bG5YZHNKYmJxT3BJajdUcEYxend5Y0xQZHdQTGdfc2VIX21WelpWXy0tdHd4dklXVWNZRTQ0Ynltbk55TEZOR3Vvb0w?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "USA vurderer Russland-sanksjoner på nytt",
-    "summary": "Marco Rubio opplyser at Donald Trump vil bruke inntil 60 dager på å vurdere de eksisterende sanksjonene mot Russland. En eventuell pause eller endring i håndhevelsen møter allerede motstand blant allierte i Kongressen.",
-    "why_it_matters": "Endringer i vestlige sanksjoner vil få umiddelbare ringvirkninger for europeisk energisikkerhet og globale råvarestrømmer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "En oppmykning av det amerikanske sanksjonsregimet kan skape dyp splittelse i det transatlantiske samarbeidet og endre maktbalansen overfor Russland."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Utsiktene til lettelser i eksportbegrensninger kan gi forventninger om økt russisk råvaretilbud og skape prissvingninger i de internasjonale olje- og gassmarkedene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkZCa3dUOFZ6UWhzWFNzZnNNV1lrZm9kTGYyTnNvZFFRalBzMEo0Sm9sWGxGR2p0YXVvaUtmd05tSnFwT2oyUkZud1Jjc24ycHhiZDdIZ2tjNWx5X1R4V045VmZfUEVMNFFGS3ZCUzJqZTBRd0VOT3Q4ZWgxU1V4U0pMbXh3b2hzYVBnaEN2dTF1LXlRZnNr?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Venezuela sikter mot 76 milliarder dollar i oljeinvesteringer",
-    "summary": "Venezuelanske styresmakter anslår at landet kan tiltrekke seg nær 76 milliarder dollar i investeringer til petroleumssektoren over de neste fem årene. Planene avhenger av politisk stabilitet og lemping av internasjonale handelsrestriksjoner.",
-    "why_it_matters": "En eventuell revitalisering av Venezuelas enorme petroleumsreserver kan endre det globale tilbudsbildet for tung råolje.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Hvis landet lykkes med å hente inn ny kapital, kan økt produksjonskapasitet på sikt legge et nedadgående press på de internasjonale oljeprisene."
-     },
-     {
-      "area": "Handel",
-      "effect": "Globale energiselskaper kan få nye handels- og investeringsmuligheter dersom vestlige sanksjoner mot venezuelansk oljeindustri gradvis avvikles."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVFXSEJ5V0lrTERaLTI0SGFGdDNkXy1ydHp0MjNKMHVWSGYzaE14b3VSWmhfUzc3MmhudW16VUp4LUtJUE9feVdtcHUyT1NhbHVQNlZEWW1HTUZtSWNxM1dmMk1WZnFPc1pLeExobWtyVVJsTlBLSkNLSTBTLXFBRFRDN2FXMXMtYVQ5dllhX1I5aEQ0ZEZqUk44dzd5ZUhkZzFZVWNicGJGNGlEXzNyLUdfRnI?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Ny SSB-beregning bommer på halve boligmassen",
-    "summary": "En ny beregningsmodell fra Statistisk sentralbyrå gir feil verdianslag for omkring halvparten av boligene som vurderes. Dette skaper bekymring for presisjonen i det statistiske grunnlaget som benyttes av både markedet og myndighetene.",
-    "why_it_matters": "Nøyaktige boligdata er avgjørende for vurdering av finansiell stabilitet, skattegrunnlag og husholdningenes formuesutvikling i Norge.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Bolig",
-      "effect": "Unøyaktige modellberegninger kan skape misvisende signaler om prisutviklingen og gjøre det vanskeligere for boligkjøpere og banker å vurdere reell markedsverdi."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Systematiske avvik i boligverdiene kan føre til skjevheter i formuesbeskatningen og gi opphav til flere klagesaker fra boligeiere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3hPc3RkVGR1eXZjUmIzUGEyZ3pmTzQ1NkNwd2tsYzg2TVBacWExMUZYbnB5S2hLMjlaQVU3bVBSU2FRcWdDdHZNUUp5WUxvbE81MV85ZG1JbGg1RkQwZk5rbEVwaXFSbUZJR1RrQVRGbnV2QW96YVRlYk1EV1pQR0lHN2Z5S1RyUXNBbmNWMGZmMVFZNlVlWmozWWVoTXBQbUE?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "KI-bølgen utløser kraftkrevende datasentervekst i Norge",
-    "summary": "Nordmenns omfattende bruk av kunstig intelligens fører til en markant økning i etableringen av datasentre over hele landet. Utviklingen skaper imidlertid betydelig lokal motstand på grunn av store beslag på arealer og tilgjengelig strømkapasitet.",
-    "why_it_matters": "Datasentrenes massive energibehov utfordrer kapasiteten i det norske strømnettet og kan påvirke tilgangen på kraft til annen industri.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Høyt strømforbruk fra nye datasentre kan presse opp de regionale nettleie- og kraftprisene dersom overføringskapasiteten ikke bygges ut i tilstrekkelig tempo."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Lokal motstand mot kraftkrevende anlegg kan tvinge politikerne til å innføre strengere konsesjonskrav og prioritere hvilke industrier som skal få nettilknytning."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/rogaland/bruken-av-kunstig-intelligens-forer-til-datasenter-vekst-1.18051734",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Omfattende uroligheter og branner under protester i Frankrike",
-    "summary": "Over en halv million mennesker tok til gatene i franske byer for å demonstrere mot økende levekostnader. Markeringene utviklet seg til voldsomme sammenstøt med politiet, omfattende plyndring og brannstiftelser, inkludert i det historiske rådhuset i Limoges, og mer enn 1200 personer er pågrepet.",
-    "why_it_matters": "Den voldsomme eskaleringen viser dyp sosial misnøye og legger et enormt politisk press på president Emmanuel Macrons regjering.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Fortsatt uro kan svekke den franske regjeringens handlekraft innenlands og gjøre det mer krevende å gjennomføre nødvendige budsjettinnstramminger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzRyRkkxaEo3V0d3QWItMWJXdDdHMUM4UElWa3BDQTJfcFVYWHBTMXY3eDhYY0I2Mm10QWtMdzFPM0p1dU1JcnNwRGw3M2RZSWVJNXlBTEZNSFZoRmowZ2dXd1l3elVwZ2ltb3laZUY4UTFFaWpWOHY1c0VYZ1lmUFRsUjl4T2NiTTBoQ1cweU8zRVpadm4tVm9MR0VEUFA5UTdyakEzOEd1MXk2S3J6X1dWVEpCSTIwN1N5S0t5dHdyLXFU?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmRHbHlmZUhGb2xmVFZXeFBmNTFodEJ3U2xmUkZmZDhzdGR2aTEzTHRXOVRIWmx1REtWbHpGY2NQQUFVSk9PaHY3dFRjSUVqZUM3LURoSWlQQ3dDNlEtMnpmQmY3bVJtZEJWNV9vd0hDczg4OGV3UGJ0QmFWX0xLTHpzQ2c3ME5XcE9PN3Zidl9tV0xESXY5aW9R?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Flere omkomne etter alvorlig hendelse på militærbase i Canada",
-    "summary": "En alvorlig hendelse ved militærbasen CFB Wainwright i provinsen Alberta utløste en storbrann som har krevd flere menneskeliv og ført til mange skadde. Lokale sykehus ble overbelastet, og myndighetene har iverksatt omfattende redningsarbeid.",
-    "why_it_matters": "Hendelsen rammer et av Canadas mest sentrale treningsanlegg for forsvaret og har satt landets beredskapsapparat på hard prøve.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Ulykken vil trolig føre til omfattende granskninger av sikkerhetsprosedyrene og kan midlertidig begrense treningskapasiteten til det canadiske forsvaret."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Romania skjøt ned droner i Svartehavet etter sikkerhetsalarm",
-    "summary": "Rumenske F-16-jagerfly skjøt ned to droner over eget territorialfarvann i Svartehavet etter observasjoner nær kysten. Samtidig meldte Litauen om flyalarm og stengt flyplass som følge av mistenkt droneaktivitet.",
-    "why_it_matters": "Gjentatte dronehendelser i nærheten av NATO-lands territorium øker faren for utilsiktet militær eskalering i Øst-Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Hyppige grensekrenkelser tvinger NATO til å trappe opp luftovervåkingen og beredskapen langs alliansens østlige flanke ytterligere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXdBVk9RbGVJcnAzRkhHUlZfM1o5V25Uak8xZnQ2RTFOSmxFV0JMb0RaY1hjZHpnbzFyTU8tVGxXMmo3RFRzVE9Lc2NXdXJEVGFEVHZ0QzVEd09TSWtMaGRwUmRiTjRVblJGa0w5VE1kdkwtMUl0M0pYUlBMZDhIYjlHOHpmSk5fTHdaOUtRV0lZWmhUQnBMVHJCQWx3dXBvNi0xRXBB?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
