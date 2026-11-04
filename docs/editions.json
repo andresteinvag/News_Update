@@ -1,5 +1,236 @@
 [
  {
+  "id": "2026-11-04-08",
+  "hour": 8,
+  "date": "2026-11-04",
+  "generated": "04.11.2026 15:00",
+  "overview": "Verdensøkonomien preges av politisk jordskjelv i USA etter demokratenes valgseier i mellomvalget, samtidig som inflasjonen i eurosonen stiger til fire prosent og skaper rentefrykt. Her hjemme viser ferske tall at boligprisene i Norge falt med én prosent i oktober, i tråd med det som er normalt for årstiden.",
+  "stories": [
+   {
+    "title": "Demokratene sikret brakseier i det amerikanske mellomvalget",
+    "summary": "Demokratene vant kontroll over både Representantenes hus og Senatet etter et historisk godt valgresultat. Republikanerne og Donald Trump fikk en massiv politisk smell, noe som svekker presidentens maktbase for resten av perioden.",
+    "why_it_matters": "Endringen i maktbalansen i USA kan endre handelspolitikken, redusere risikoen for aggressive tollbarrierer og påvirke globale finansmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Obligasjonsemisjonene og statsobligasjonene styrket seg ettersom markedet priser inn redusert sannsynlighet for ytterligere polariserende finanspolitikk."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Aksjefutures og børser har hentet seg inn ettersom investorer ser på et delt eller demokratisk kontrollert Washington som en brems på uforutsigbare tolløkninger."
+     },
+     {
+      "area": "Handel",
+      "effect": "Utenlandske handelspartnere som EU kan oppleve en mer stabil og forutsigbar amerikansk handelspolitikk fremover uten nye uventede handelskrigstiltak."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVFJRHRnbXFVZk1nWnFDSE1ZUjhaY20wY2dVRnpnUnZZYzQ2OXM4NE5CRFJsemNDcXZ1dkhUSl9BSnRaMTdzU2xNZExWdWNjZmNFNGd6Qllpcjk1eUVwMTZrc3pSdnlCV09uSlM2XzJ5d3ZMTnA5VHB3RWRVdE1fVFRkY2lVbXJfaXpCVW10OEtNZ2N6NWFUbjdfRXpCbUlaeThkTnozWl9oVXhSVGxNZ1RodUhWUQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Inflasjonen i eurosonen klatret til fire prosent",
+    "summary": "Prisveksten i eurosonen økte til 4,0 prosent i oktober, drevet frem av en energinflasjon som spratt opp over 20 prosent. Dette øker presset på Den europeiske sentralbanken for å vurdere nye rentehevinger.",
+    "why_it_matters": "Høyere inflasjon i våre nærområder kan påvirke importert prisvekst og den generelle rentebanen i Europa, noe som også smitter over på markedsforventningene i Norge.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Forventningene om en ny renteøkning fra Den europeiske sentralbanken styrker seg ettersom inflasjonen biter seg fast over målet."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Vedvarende høy prisvekst på energi og forbruksvarer reduserer europeiske husholdningers disponible realinntekt og demper privat forbruk."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "De høye energiprisene viser at forsyningslinjene fremdeles er sårbare, noe som holder underliggende kostnadspress oppe i hele regionen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/n98JKm/prisene-steg-4-prosent-i-eurosonen?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Boligprisene i Norge falt med én prosent i oktober",
+    "summary": "Ferske tall fra Eiendom Norge viser at de norske boligprisene falt med 1 prosent i oktober, mens de sesongjustert steg marginalt med 0,1 prosent. Utviklingen er helt i tråd med det som er normalt for høstsesongen.",
+    "why_it_matters": "Boligmarkedet er en sentraldriver for norsk husholdningsøkonomi og formuesutvikling, og tallene gir verdifull innsikt i effekten av det høye rentenivået.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Bolig",
+      "effect": "De avdempede prisendringene viser at det høye rentenivået fortsetter å virke avkjølende på boligkjøpernes maksimale låneevne."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Førstegangskjøpere opplever litt bedre forhandlingsrom når prisveksten flater ut, selv om de høye finansieringskostnadene består."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Et mer stabilt boligmarked reduserer risikoen for brå nedgang i byggebransjen, selv om nybyggaktiviteten forblir på et lavt nivå."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/boligprisene-falt-1-prosent-i-oktober-1.18073195",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sterk vekst i amerikanske jobbtall før den store rapporten",
+    "summary": "Private selskaper la til 86 000 jobber i oktober, noe som var litt bedre enn ventet, og de ledige stillingene i september steg til 7,52 millioner. Dette vitner om et arbeidsmarked som holder seg overraskende robust.",
+    "why_it_matters": "Et sterkt amerikansk arbeidsmarked gir Federal Reserve handlingsrom til å avvente raske rentekutt, noe som påvirker globale valutakurser og kroneverdien.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Høy aktivitet i næringslivet sikrer at sysselsettingen holder seg oppe til tross for stramme finansieringsvilkår."
+     },
+     {
+      "area": "Renter",
+      "effect": "Sterke nøkkeltall reduserer sannsynligheten for at sentralbanken vil fremskynde store rentekutt for å redde økonomien."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Bedrifter melder om god etterspørsel etter arbeidskraft, selv om lønnspresset opprettholdes og tiner litt på marginene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "CVS Health splittes opp i milliardrestrukturering",
+    "summary": "Helse- og apotekgiganten CVS planlegger å dele opp sin enorme virksomhet verdt 117 milliarder dollar for å frigjøre verdier. Selskapet heiste samtidig prognosene for helseforsikringsdelen.",
+    "why_it_matters": "Store strukturelle endringer i globale helsekonglomerater kan gi ringvirkninger for farmasøytiske markeder og verdsettelsen av store selskaper på tvers av børser.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Oppsplittingen kan låse opp skjulte verdier i konglomeratet og gjøre de separate enhetene mer attraktive for institusjonelle investorer."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Fokuserte og frittstående enheter kan endre konkurransemessige vilkår innen både apotekdrift og helseforsikring i Nord-Amerika."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Transaksjonen viser en økende trend blant globale selskaper til å forenkle strukturer fremfor å vokse seg større gjennom brede oppkjøp."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0hHX2oyQUZaNUZYUnBydzJ3RXNrXzBaeS05c2N0dHhTMjFiVVN5Rk5mYXZfbU9neVVVUzNwejBVYW83TTZBeGVUXl0elRzd1JPTDNKdzRINnNXVkxfb085VUpHMU13Zng0c2NiNWs1Qm9pZTVkMGhtX0dTeGVjLXF5R3lJQmRNSGVNa01zblJUcVRrQ093a3RpcVFkbzdPRzJ5N041WHNvT19t?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWZvUkRMQTZLRlNrTjlVNDhBWmpDVi1xaUhrVWtLdWZYTzdvS3hSRFVpSXBXb3lUYzdWWGx5MVp0THlHSGQxTTB6YmxIN0NzQW5EUlo2V1liM19RazZtWXNlOXB5QnM4bjhhNFVOakdvaFlheU1NV1NWS2pDQXFoeTFWOHdpQVExdWx0X1I3ZmN2TXFYT0R0TlBPb1RhcElMdjNXOXc4MGI?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Aker-verdiene økte med over fem milliarder kroner",
+    "summary": "Aker melder om en solid verdistigning på over fem milliarder kroner i tredje kvartal, slik at de samlede verdiene passerte 111 milliarder kroner per september. Selskapet merker seg samtidig den sterke og krevende AI-boomen i USA.",
+    "why_it_matters": "Akers utvikling er en viktig temperaturmåler for deler av det norske industri- og investeringsmiljøet og deres internasjonale eksponering.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Den solide verdiveksten understøtter aksjekursen og gir selskapet økt finansiell handlekraft til fremtidige grønne og teknologiske investeringer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Selskapets eksponering mot amerikansk teknologi og energisektor viser hvordan norske storkonsern påvirkes direkte av globale megatrender."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere verdier i ledende norske industrikonsern bidrar til å trygge langsiktige skatteinntekter og stabil verdiskaping i privat sektor."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41bng1SDd4VFFoM2dYc3AtQ0l6RXRISWxiQ25OX0JDTkQxWndxdGpPLWh2Ti1KYkhITTZCU3FZd250TlBYZFhBdFo1RmxpaElhWUFrcmxzQ3doZUkwMGRGWVd0UVAxdGxIWVRCQWlyUlI5U1dfVUtJTDlKa2FIZw?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/PgKmQ6/aker-sjefen-tror-ai-boomen-fortsetter-etter-usa-valget?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Flyselskapenes bombetrusler skapte uro i Europa",
+    "summary": "Flere flyvninger over hele Europa ble søkt gjennom og omdirigert etter falske bombetrusler, noe som skapte store forsinkelser og sikkerhetsuro.",
+    "why_it_matters": "Slike koordinerte trusler rammer sivil luftfart hardt og krever omfattende, kostbare sikkerhetsoperasjoner fra europeiske myndigheter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Hendelsene understreker den sårbare infrastrukturen innen europeisk luftfart og tvinger fram skjerpede beredskapsrutiner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Sør-Afrikas regjeringsparti ANC mot historisk svakt valg",
+    "summary": "Det historiske partiet ANC står overfor et svært svakt resultat i de lokale valgene i Sør-Afrika, tynget av omfattende velgerfrustrasjon over strømbrudd og vannmangel.",
+    "why_it_matters": "Sør-Afrika er en nøkkelstat på kontinentet, og politisk ustabilitet kan få direkte konsekvenser for regional stabilitet og økonomiske investeringer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Folkelig misnøye med dårlig offentlig infrastruktur truer ANCs grep om makten og kan føre til store politiske jordskjelv."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-03-20",
   "hour": 20,
   "date": "2026-11-03",
@@ -7188,231 +7419,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-17-20",
-  "hour": 20,
-  "date": "2026-10-17",
-  "generated": "17.10.2026 20:21",
-  "overview": "Dagens markedsbilde preges av økende uro knyttet til AI-finansiering, geopolitiske spenninger i Midtøsten og nye politiske vendinger rundt internasjonale sanksjoner. Sentrale økonomiske indikatorer viser samtidig motstandskraft, men også økende sårbarheter i offentlige finanser.",
-  "stories": [
-   {
-    "title": "USAs rentekostnader når historisk milepæl på 1 billion dollar",
-    "summary": "De totale rentekostnadene knyttet til USAs statsgjeld har passert en billion dollar, noe som øker risikoen for en ukontrollert gjeldsspiral. Utviklingen legger et voksende press på føderale budsjetter og skaper bekymring i globale obligasjonsmarkeder.",
-    "why_it_matters": "Høye amerikanske lånekostnader kan smitte over på globale rentenivåer og påvirke vilkårene for internasjonal kapitalinhenting.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Galopperende renteutgifter tvinger frem harde prioriteringer i det amerikanske statsbudsjettet og kan redusere handlingsrommet for fremtidige finanspolitiske tiltak."
-     },
-     {
-      "area": "Renter",
-      "effect": "Større lånebehov fra amerikanske myndigheter kan presse de lange rentene oppover globalt, noe som øker kapitalkostnaden for både bedrifter og stater."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere avkastning på sikre statsobligasjoner kan gjøre aksjer mindre attraktive og legge en demper på prisingen av vekstutsatte selskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlGeXhGVXJxNnQ3LXhqM0h3UkZxeHUtNGxMRFU2dXh3b0ZOTTFZQ2lfMWJMX3ZlUVZRaTRpRTkyUFVqMGZRaW5JYUNpNEF0YWlta1YtMkp0OE9mSFNCRHJWckdHZzktZHRQY3p2dFRjUV96M1BYOEhCT05OWms5YlFPNGxNOFpqXzZRZXhZd1NBdDdCVmZYUXl1VVFSVEZFUldIcC1lRTBwSkx0NklQRTVR?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Åpen dekning",
-      "url": "https://news.google.com/",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "AI-lån under press: Frykt for smitteeffekter i markedet",
-    "summary": "Svakheter begynner å vise seg i lånefinansieringen knyttet til kunstig intelligens, hvor selskaper som CoreWeave trekkes frem som risikofaktorer. Investorer følger nøye med på om verdsettelsene i teknologisektoren har løsrevet seg fra den faktiske inntjeningen.",
-    "why_it_matters": "En oppbremsing i AI-investeringene kan ramme bredt i teknologitunge børser og påvirke global vekstoptimisme.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Korreksjoner i høyt verdsette teknologiselskaper kan spre seg til resten av aksjemarkedet og ramme investorer med høy risikoeksponering."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Strammere kredittvilkår kan gjøre det betydelig dyrere for oppstartsselskaper innen kunstig intelligens å hente nødvendig vekstkapital."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1ZwVmdzNVhGMmhfZnBhbUkxMUNmbmJ5c3Rmb28yMWVrelJhbmhIR2NwMC15cm9xc1Mxd3JBU3VGa183TjBoS1ZWN3pEQkNyQXFzdzBOWFpPTmktUWJnMmpaVGJSdWljdUVKZzNHMkw2X3ZrSmxxdmlxWXRVdW5mVEpJaTBWTTJTNGFPVUxhTzdGSUU?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Oljefyring og geopolitikk: Tankskip i brann etter mineeksplosjon",
-    "summary": "Flere oljetankere har blitt truffet av miner i det strategisk viktige Hormuzstredet, noe som umiddelbart har sendt rystelser gjennom energimarkedene. Hendelsen øker frykten for forsyningsforstyrrelser i Midtøsten.",
-    "why_it_matters": "Norge som stor energinasjon påvirkes direkte av endringer i oljepriser og geopolitisk risiko til sjøs.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Faren for stengte skipshandelsårer kan sende oljeprisen bratt oppover på kort sikt og øke fraktkostnadene for tankrederiene."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "Økt militær spenning i Hormuzstredet kan tvinge frem dyrere omdirigeringer av oljelaster og skape ny usikkerhet rundt den globale energisikkerheten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFE3eV9tUnZRRlBkal9QTGJhY0pYZy16NmRJTEtCVFZGY1h3OEJVaWpMNklEVkhZbzBvdWdsY1ZKVm9VTmdFUnJOZVkwQVlJTFBnNXU4cThaZnZGZ05Rc0pUTlNEUnpnWXN2WkFk7U3Npb2dsMVl1Qi1SekhWRlFSbFVDSGFYOEFEbUYxSVVkYlZPOUpqOHZxOVBDUGV4d3pKaWp0MDA5U0lZNG9LdnJB?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnZocnVXR211RDB0SlZtQ0t3WXItR2cwckJPY2dJX3FpNUVaa1B2Nk9QSnM3TGgxYWZ4LWJkQjJsa09qUjRtVmx4eGpxbzBrWUhqWEZKWThia29MelgxY0ZMcWNQYkR5M2RaZ3BfMnlfNkxnY2dfakZmTG8xT3l1dlg4d2RIMGdSbjRoR1RBQmNzZkNvcE1xUDZJU0Q?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Trump fjerner Russland-sanksjoner med henvisning til nasjonale interesser",
-    "summary": "USAs president Donald Trump har signert en ordre som unntar Russland fra visse sanksjoner som opprinnelig ble pålagt gjennom nytt lovverk. Beslutningen har vakt sterke reaksjoner i Kongressen, men møter foreløpig lite motstand i form av raske mottiltak.",
-    "why_it_matters": "Endringer i sanksjonspolitikken mot Russland kan endre betingelsene for internasjonal handel og energiforsyning til Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Opphevelse av straffetiltak kan svekke den vestlige enigheten mot Russland og endre det strategiske maktforholdet i europeisk sikkerhetspolitikk."
-     },
-     {
-      "area": "Handel",
-      "effect": "Lempede sanksjoner kan åpne for at visse råvarestrømmer gradvis normaliseres, selv om politisk usikkerhet vil vedvare for internasjonale selskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "MDG krever Temu-gebyr i kommende budsjettforhandlinger",
-    "summary": "Når Arbeiderpartiet skal forhandle om statsbudsjettet for neste år, vil Miljøpartiet De Grønne kreve innføring av et eget gebyr på varer fra netthandelsgiganter som Temu. Forslaget retter seg mot den voksende strømmen av billigimport og dens miljø- og konkurransemessige konsekvenser.",
-    "why_it_matters": "Dette kan endre rammevilkårene for internasjonal netthandel og gi bedre konkurransevilkår for tradisjonell norsk detaljhandel.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Innføring av gebyrer på billigimport vil gjøre det dyrere for norske forbrukere å handle direkte fra utenlandske lavprisplattformer."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Lokale og etablerte norske detaljhandelsaktører kan styrke sin konkurransekraft når prisforskjellen til utenlandske giganter reduseres."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Nye avgifter på netthandel kan tilføre statskassen ekstra inntekter, samtidig som det krever økte ressurser til toll- og kontrollarbeid."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/KrbLjG/krever-temu-gebyr?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Nordic Mining advarer om at selskapet renner tom for kontanter",
-    "summary": "Nordic Mining arbeider iherdig med å unngå konkurs eller et tvungent salg, og ledelsen bekrefter at situasjonen er svært krevende. Selskapet opplyser at de står i fare for å gå tomme for likviditet på veldig kort sikt.",
-    "why_it_matters": "Saken illustrerer de høye finansielle risikoene knyttet til store norske kapitalintensive industri- og gruveprosjekter.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Aksjonærene risikerer å tape hele sin investering dersom selskapet ikke lykkes med å hente ny kapital eller finne en industriell kjøper."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "En eventuell konkurs vil kunne ramme lokale arbeidsplasser og underleverandører som er knyttet direkte til gruveprosjektets fremdrift."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/gdj631/nordic-mining-da-blir-det-dyrt-og-vanskelig?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Voldsomme demonstrasjoner og sammenstøt med politi i Frankrike",
-    "summary": "Tusenvis av demonstranter har tatt til gatene i Paris og andre franske byer for å protestere mot høye levekostnader, kutt i offentlige tjenester og forholdene i skolesystemet. Demonstrasjonene har ført til harde sammenstøt med politiet og bruk av tåregass.",
-    "why_it_matters": "UROEN viser den dype sosiale og økonomiske misnøyen blant store deler av befolkningen i store europeiske land.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn",
-      "effect": "De vedvarende protestene skaper store forstyrrelser i hverdagen og øker det politiske presset på den franske regjeringen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Pave Leo utskrevet fra sykehus etter lungekreftoperasjon",
-    "summary": "Paven har blitt utskrevet fra sykehuset etter å ha gjennomgått en vellykket operasjon for å fjerne en svulst i lungen tidligere i uken. Legene melder om en fortsatt positiv utvikling i helsetilstanden hans.",
-    "why_it_matters": "Paves helsetilstand har stor symbolsk og organisatorisk betydning for millioner av katolikker verden over.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn",
-      "effect": "At paven er friskmeldt nok til å vende tilbake til Vatikanet, beroliger det globale katolske samfunnet og gjenoppretter den daglige ledelsen i kirken."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
       "paywall": false
      }
     ]
