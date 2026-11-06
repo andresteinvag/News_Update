@@ -1,5 +1,224 @@
 [
  {
+  "id": "2026-11-06-20",
+  "hour": 20,
+  "date": "2026-11-06",
+  "generated": "06.11.2026 20:15",
+  "overview": "Globale børser opplever betydelig uro preget av usikkerhet rundt kunstig intelligens og politiske endringer i USA etter demokratenes valgseier. Samtidig viser den amerikanske arbeidsmarkedsrapporten sterkere jobbskaping enn ventet, noe som påvirker renteforventninger og valutamarkeder.",
+  "stories": [
+   {
+    "title": "Sterk jobbskaping i USA demper resesjonsfrykt",
+    "summary": "USAs økonomi la på seg 165 000 nye jobber utenfor landbruket i oktober, mens arbeidsledigheten falt til 4,1 prosent. Tallene slår markedets forventninger klart og viser at det amerikanske arbeidsmarkedet holder seg robust til tross for høyere renter.",
+    "why_it_matters": "Sterke amerikanske makrotall påvirker globale renter og kan føre til at Federal Reserve kutter renten saktere enn tidligere priset inn.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Sterke jobbtall kan redusere sannsynligheten for aggressive rentekutt fra Federal Reserve på kort sikt, noe som holder lange renter høye."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Robuste makrotall kan støtte opp om selskapsinntektene, men kan også tynge verdsettelsen dersom renten forblir på et høyere nivå lenger."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "En sterkere amerikansk økonomi og potensielt høyere rentebane i USA kan styrke dollaren ytterligere og legge press på en allerede svak norsk krone."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/GrvbEQ/det-ble-skapt-165.000-nye-jobber-utenfor-landbruket-i-usa-i-oktober?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Tesla kutter ut Cybertruck for å satse på robotaxi",
+    "summary": "Tesla avvikler produksjonen av den kantete elektriske pickupen Cybertruck for å rette ressursene mot selskapets autonome robotaxi-satsing, Cybercab. Modellen har slitt med høye produksjonskostnader og strenge europeiske regelverkskrav.",
+    "why_it_matters": "Beslutningen markerer et strategisk skifte for Elon Musk fra tradisjonell bilproduksjon til AI- og robottjenester, noe som påvirker verdsettelsen av vekstaksjer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Omstillingen mot robotaxi kan kreve store kapitalinvesteringer og øke risikoen for Tesla-aksjonærene på kort sikt, samtidig som det styrker fokuset på fremtidig AI-teknologi."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Konkurrenter i elbilmarkedet kan overta markedsandeler i segmentet for elektriske pickuper når Tesla velger å trekke ut sin mest profilerte modell."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Strenge europeiske sikkerhetskrav for fotgjengerbeskyttelse har vist seg å være en uoverstigelig barriere for Cybertruck, noe som viser at internasjonale reguleringer setter begrensninger for ukonvensjonelt produktdesign."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/VgOyV4/dropper-cybertruck?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlVaZU1LeDhwOFdtY2ltb2ZHRV9mSHdENXZDYm83Nl92dUF2UWpJSU5TbWVzV2RvNXVBNGV4bkVIYmpMNE1LclE4ampWYXRnWkpuUVhrdS1VVE5tcFptakxSYzNGMWpqTkY0Z3BzVFk1WldlenFVcWJhU09WcWlwTUQ0MFY?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oljefondet inngår millionforlik etter SVB-kollaps",
+    "summary": "Statens pensjonsfond utland (Oljefondet) har landet et forlik på 224,5 millioner dollar med revisorgiganten KPMG i forbindelse med kollapsen til Silicon Valley Bank. Forliket kommer etter søksmål knyttet til mangelfull finansiell kontroll forut for bankkollapsen.",
+    "why_it_matters": "Saken understreker Oljefondets aktive eierskap og vilje til å forfølge juridiske krav for å verne om norske fondsmidler internasjonalt.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Inndrivelsen av tapene gjennom forliket begrenser de finansielle skadene for det norske oljefondet etter bankkollapsen, noe som sikrer fondets kapitalbase."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Store institusjonelle investorers søksmål mot revisorer kan skjerpe ansvarskravene for revisjonsselskaper globalt og endre hvordan finansielle risikoer blir vurdert før kriser inntreffer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkwzMTR6aWJJa296aWkzSW5jNjVBbkVsTXNVdUFnQzk2ZFFrX3NFSHUtN2k5N05pbWZPUzNIOTg0YkhBNVQxS0pfZkUwUngyMkZTd3hTc09JRkxKWThhSGk4QVNWMjlMNTRzeEVDUXRGWXZZWTFXNEx6SXp0N1BkdERTWjdGTE1KZnNEMUtIb3lLZHVXVTlNUHo5UEJDLXJiUFZTTE56RzBIMTJ5dUVSLTg3RzRIMEJXOHZONTVKU0VqbWpkeGpiNnJDNnJDTDhCQndN?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSmZGVGdOSzlKVm9CcFpWVm1saFFFRGZ1Q3Q2cVg2d2NzdzdLRzJzd1JMX2hXckZrOHBSRUFEeHZTQVpIdm42TmNiZldORDJmV1FVZ3l3SmxWdy1qQU0zcEJDaGplMTBMRU9yS3RwQVlpTzFkQTZNZE9TWGthMWwzVmd4QkQ1SW9RRi04X1RDMmNBTG11OFIwSVZIQ3VTZnRuRnp6S2N0VDA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Norsk krone svekkes bredt etter global markedsuro",
+    "summary": "Den norske kronekursen har opplevd bred svekkelse, spesielt mot amerikanske dollar, som følge av urolige tilstander og børsfall internasjonalt. Frykten for at AI-bølgen skal vise seg å være en overdrevet boble har rammet risikofylte valutaer.",
+    "why_it_matters": "En svakere krone øker kostnadene på import og påvirker importert inflasjon, noe Norges Bank følger nøye med på i sitt rentearbeid.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Kronekurs",
+      "effect": "Internasjonal flukt fra risiko rammer små og likvide valutaer som den norske kronen hardt under markedsuro."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "En svak krone bidrar til å holde prisen på importerte varer og utenlandsreiser høy, noe som reduserer husholdningenes kjøpekraft."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Eksportrettede bedrifter og oljesektoren nyter godt av svak krone ved at inntekter i fremmed valuta blir mer verdifulle i norske kroner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/Pg6kg0/kronen-svekkes-etter-global-boerssmell?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "USAs handelspolitikk: Press mot Kina for å overholde avtale",
+    "summary": "USA har formelt advart Kina om at landet umiddelbart må etterleve betingelsene i Busan-handelsavtalen. Konflikten dreier seg om implementering av handelsregler og teknologitilgang mellom de to supermaktene.",
+    "why_it_matters": "Økt handelstunk og geopolitisk spenning skaper uforutsigbarhet for globale leverandørkjeder og internasjonale finansmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Strengere amerikanske krav kan føre til mottiltak fra kinesisk side, noe som truer den globale vareflyten og øker kostnadene for multinasjonale selskaper."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Frykten for handelskrig og tollbarrierer skaper nervøsitet i investormiljøet og kan tynge teknologi- og industriaksjer med eksponering mot Asia."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYy1vdWUwVXRwOE5ZT180NmxHZ0JocXpNaEpYQWNmYmh4dXBrN1Q0SFBpYkMtXzRJSFQ4WkNKbUI5Z1VCS25kRVZpSDJaSTlEY1FsVlNkZTUxSG1jclhnNDlaZnNWMTdLWG9QQmdLZjhWOElZNDVGeVlYdFA0TVVvUW51ZFk?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Teknologitunge børser rystet av frykt for AI-boble",
+    "summary": "Investorer har solgt unna teknologiaksjer etter dyp bekymring for at verdsettelsen av kunstig intelligens-selskaper har løpt løpsk. Selv om markedene har opplevd noe oppgang etter de verste fallene, preges uken av nervøsitet og høyt volum.",
+    "why_it_matters": "Store korreksjoner i teknologisektoren rammer pensjonsfond og private sparere med høy aksjeandel direkte.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyt prisede teknologiselskaper opplever store svingninger ettersom investorer revurderer den forventede inntjeningen fra fremtidige KI-investeringer."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Nedsalget i markedet skaper usikkerhet rundt folks private sparepenger og kan dempe den generelle forbrukertilliten i økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/KrEgaX/hold-deg-fast?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTZnNVc0LWIyeGFKSjVUMHVRNHZRdG53NV9EYjAtck5WSm9PZTI0TFl2bkx2bVpseU9qUzhiRkQ2RjR5U2xnWngzQzFSZEI4S0l6T3hicWc2SE96YnBveWo0cGExenE0ZTdBQkJUbUNrQmhaZWlBcFZObmJRbUFJdUdFQ1A?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Trump utnevner Stephen Miller som ny stabssjef i Det hvite hus",
+    "summary": "Donald Trump erstatter Susie Wiles med Stephen Miller som stabssjef, få dager etter at Republikanerne tapte kontrollen over Kongressen i midtvei­valget.",
+    "why_it_matters": "Endringen i Det hvite hus signaliserer en hardere politisk linje i administrasjonens gjenværende periode.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Utnevnelsen av Miller kan føre til en mer konfronterende politisk kurs overfor opposisjonen i Kongressen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/trump-names-stephen-miller-as-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Alvorlig frontkollisjon sperret E6 ved Eidsvoll",
+    "summary": "To personer ble kritisk skadd etter en front-mot-front-ulykke på E6 ved Eidsvoll-tunnelen fredag kveld, etter at en bil hadde kjørt i feil kjøreretning.",
+    "why_it_matters": "Ulykken førte til full stopp og store trafikale problemer på en av landets viktigste hovedårer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Infrastruktur",
+      "effect": "Hovedtrafikkåren mellom Oslo og Gardermoen ble stengt, noe som skapte store forsinkelser for reisende."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0NIc2lpY3c4Q1F0WFc0S0JfRVp2bTNmNzE0Mkozc09ZWnBGamJTYVBQY3F6RE1tblF4TVdWenhtcGRZZHJVMGNuaUdjSmZSUVNBUmR2UTBXZ1k2Zm83d0pYMlR5bXpmZmZxWnFJT0xfWEdMdGZWMWdSU1RfX29fRDZPN2M4ZlNtUFRPa2xtbHhXUzlGak5xUkoycVJSZGRWbmVfT2xReXdFNXNx?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-06-08",
   "hour": 8,
   "date": "2026-11-06",
@@ -7118,202 +7337,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-19-20",
-  "hour": 20,
-  "date": "2026-10-19",
-  "generated": "19.10.2026 20:28",
-  "overview": "Mandagen preges av kraftige markedsbevegelser i teknologisektoren og geopolitiske rystelser i Midtøsten og Frankrike. Samtidig viser nye tall sterkere vekst enn ventet iKina drevet av kunstig intelligens.",
-  "stories": [
-   {
-    "title": "Sterkeste krone på mer enn tre år",
-    "summary": "Den norske kronen har styrket seg betraktelig og nådd det sterkeste nivået på over tre år mot euro og andre viktige valutaer. Analytikere vurderer om denne positive utviklingen kan vedvare fremover.",
-    "why_it_matters": "En sterkere krone reduserer importert prisvekst og kjøpekraften til norske forbrukere, samtidig som den svekker konkurransekraften til tradisjonell norsk eksportindustri.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Kronekurs",
-      "effect": "En sterkere valuta gjør utenlandske varer og tjenester billigere for norske forbrukere, noe som kan dempe den generelle prisveksten."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Lavere marginer for eksportbedrifter som selger sine varer i utenlandsk valuta, ettersom hver euro gir færre norske kroner tilbake."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Importert inflasjon kan avta ettersom kostnadene ved å hente inn varer og tjenester utenfra reduseres i takt med krones styrking."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/internasjonal-oekonomi/i/Vgrg11/sterkeste-krone-paa-mer-enn-tre-aar?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Et budsjett for skattelettelser og omfordeling",
-    "summary": "Regjeringen har lagt frem sitt forslag til statsbudsjett hvor inntektsskatten kuttes, samtidig som andre ordninger strammes inn for å finansiere endringene. Forslaget skaper debatt om omfordelingseffektene i samfunnet.",
-    "why_it_matters": "Statsbudsjettet setter rammene for norsk økonomisk aktivitet, rentenivå og husholdningenes disponible inntekter i det kommende året.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Lavere skatteinntekter fra visse kilder krever innstramminger andre steder for å holde budsjettet i balanse uten å øke oljepengebruken."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Lavere inntektsskatt kan øke den disponible inntekten for lønnstakere, noe som gir rom for økt privat forbruk og aktivitet i tjenestesektoren."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Endringer i skatteregler og velferdsordninger kan påvirke insentivene til å stå i arbeid for utsatte grupper i samfunnet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/KrKrp4/et-budsjett-for-skattelettelser-og-omfordeling?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kina slår anordning med sterk vekst drevet av AI og eksport",
-    "summary": "Kinas økonomi vokste raskere enn ventet i tredje kvartal, støttet av en sterk oppgang i industriproduksjonen og høy etterspørsel etter elektronikk. Imidlertid skjuler eksportboomen dypere strukturelle problemer i hjemmemarkedet.",
-    "why_it_matters": "Kina er verdens nest største økonomi, og svingninger der påvirker globale råvarepriser, forsyningskjeder og etterspørselen etter norske eksportvarer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Høyere industriaktivitet i Kina kan øke den globale etterspørselen etter metaller, olje og andre råvarer som er viktige for verdenshandelen."
-     },
-     {
-      "area": "Handel",
-      "effect": "Sterk kinesisk eksport kan føre til økt handelspolitisk motvind og tollsatsdiskusjoner fra vestlige handelspartnere som frykter overproduksjon."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Bedre makrotall enn fryktet kan løfte sentimentet i globale aksjemarkeder, selv om vedvarende innenlandske problemer skaper usikkerhet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-      "paywall": false
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://www.wsj.com/world/china/china-export-boom-masks-deep-economic-problems-at-home-6f3b01a1",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Houthi-angrep tvinger fram utsettelse av prestisjetung saudiarabisk toppmøte",
-    "summary": "Saudi-Arabia velger å utsette sin store Davos i ørkenen-konferanse til 2027 etter nylige houthi-angrep mot militærleirer og infrastruktur. Angrepene krevde en rekke menneskeliv og øker den regionale usikkerheten i Midtøsten.",
-    "why_it_matters": "Geopolitisk uro og angrep på energiproduserende nasjoner i regionen kan raskt føre til urolige energimarkeder og høyere oljepriser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Økt militær spenning i Midtøsten skaper frykt for at transportlinjer og oljeinfrastruktur kan bli rammet i en større konflikt."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Usikkerhet rundt stabiliteten i regionen kan løfte oljeprisene midlertidig ettersom investorer krever en risikopremie for fremtidige leveranser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJvV3ktdmE4WU9ZNjVBcDRBYW9yNXJVYVI3MV83aWtIV0pYN0lGNzM4UlNRZDdpRGs1bGsxR18wcjY5STVhU1Q1VEZJUmRKWFZPUnoxSlpFaThtMzhjRlVIZGl2VVVYYTlYM181N0Jyb0h4ZWRrM2FVZFZsSFRBT1haU0QtdEp5QlZ6dVg2VVpyX2RsaDEzbnN2Q1NvSFc5WW5jT2VmVQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON01aUDFyR0hVZ3ZyLTRLNFpxbGJ4SlBTM0ZyMEpfRFRsZU9UOFZlR0l5TnY2WVBwVmd2TTNVT21pc3FBdVlrd04zRndnNmZoWDFKRUJjWFB0RG5qcllhY2U4bEhVakg5ZHNTQWxRVnE2RjlydXFCb3hmMk5VamV1cmpOYXI5elB4el9NV2ZES1FHdw?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske boligbyggere mer pessimistiske på 14 år",
-    "summary": "Tilliten blant amerikanske boligbyggere har falt til det laveste nivået på fjorten år som følge av svakere salg og høye finansieringskostnader. Utviklingen forsterker signalene om en avkjøling i den bredere amerikanske økonomien.",
-    "why_it_matters": "En svakere amerikansk boligsektor kan smitte over på det generelle forbruket og påvirke den globale økonomiske veksten.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende høye lånekostnader fortsetter å tynge boligmarkedet, noe som kan tvinge sentralbanken til å vurdere rentenedgang raskere enn tidligere antatt."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Lavere aktivitet i boligmarkedet reduserer husholdningenes formuesvekst, noe som igjen kan dempe det private forbruket i USA."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm16bDBJYnhqdUtXNHBGZVhOS2RQVnctVkpGQ1lzNmhXdi1PTVA1cWF2MzZTN1Q5NEhicmRSTVVkaFgzQnh3SzZNei1BbEtFb3pianVRTXE1cGhwWDMwX0dYWm0tZlhOVWZ1TkQzLXNUbEVNMHBRc0xld0lRbnZoNDNLS3NnYnNBZG5WRDUycEFnZ0xUbDJOQVJ3TGdrNkhCaDZ3SVZ1Y1I5LUE2amRLaDBPaDZTUQ?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Voldelige opptøyer og portforbud ryster flere franske byer",
-    "summary": "Frankrike opplever omfattende opptøyer, plundring og hærverk som har ført til at myndighetene har innført portforbud i en rekke byer, deriblant Paris, Lyon og Nice. Situasjonen har skapt dyp politisk uro og press på landets ledelse.",
-    "why_it_matters": "Sikkerhetssituasjonen og den sosiale uroen i et av EU's ledende land kan få ringvirkninger for europeisk stabilitet og politisk retning.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Samfunn og sikkerhet",
-      "effect": "Uroen utfordrer myndighetenes kontroll og fører til økte kostnader for opprydding samt styrket politiberedskap i store deler av landet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/portforbud-i-franske-byer-1.18059042",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Kenya-pastor dømt for drap på nærmere 200 barn",
-    "summary": "En kenyansk domstol har funnet den selvutnevnte pastoren Paul Mackenzie og rundt 30 andre skyldige i drapene på nesten 200 barn og en voksen. Sekten ble avslørt etter at tilhengere ble beordret til å sulte seg i hjel.",
-    "why_it_matters": "Saken har vakt enorme reaksjoner internasjonalt og setter søkelyset på kontrollen med radikale religiøse bevegelser og sviktende offentlig beskyttelse.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Mennesker og samfunn",
-      "effect": "Dommen markerer en av de mest tragiske massesakene knyttet til ekstrem sekterisme og tvinger fram strengere myndighetskontroll med trossamfunn."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://www.aftenposten.no/verden/i/0VJjJg/pastor-doemt-for-drap-paa-190-barn-i-kenya",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
       "paywall": false
      }
     ]
