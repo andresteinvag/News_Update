@@ -1,5 +1,305 @@
 [
  {
+  "id": "2026-11-05-20",
+  "hour": 20,
+  "date": "2026-11-05",
+  "generated": "06.11.2026 05:39",
+  "overview": "Globale finansmarkeder preges av kraftige fall i teknologisektoren etter det amerikanske mellomvalget, samtidig som Bank of England overrasker med en ny renteheving for å stagge inflasjonen. Råvaremarkedene opplever også økt volatilitet ettersom frykt for overtilbud demper oljeprisene til tross for vedvarende geopolitisk uro.",
+  "stories": [
+   {
+    "title": "Bredt teknologiras på Wall Street og i Asia etter det amerikanske mellomvalget",
+    "summary": "Etter at Demokratene sikret flertall i Representantenes hus, opplevde amerikanske aksjemarkeder sitt kraftigste fall hittil i år der over 3 200 milliarder dollar i markedsverdi ble barbert bort. Nedturen ble drevet av frykt for strengere reguleringer og stans i datasenterutbygginger for kunstig intelligens, noe som raskt forplantet seg til asiatiske børser. Både Nikkei-indeksen i Tokyo og sørkoreanske teknologiselskaper falt kraftig som følge av nedsalget.",
+    "why_it_matters": "En kraftig reprising av globale AI- og teknologiselskaper reduserer verdien av Oljefondets største aksjeposter og svekker den globale risikoviljen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Svakere forventninger til fremtidig inntjening innen kunstig intelligens kan utløse en bredere multippelekspansjonsreversering som rammer vekstaksjer hardt."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Utsikter til politisk motstand mot nye datasentre kan forsinke gigantinvesteringer i digital infrastruktur og dempe omsetningen for utstyrsleverandører."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Betydelige verdifall blant verdens største tek-selskaper reduserer avkastningen til Statens pensjonsfond utland og kan over tid begrense det finanspolitiske handlingsrommet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHlBYVkxbFlvTVp3LTZ3bTlSbEFSeXdFSnJlb1c2Mi1HVF9GZDMwd2pPLUZrR09hRjIyUEZYS3NZTENMVzJ0SGJKanpSa3ZsS1VGaFU2TjRQN3o2Q1I1dDBJeFBsLVNITE9JV2xsZ1JhYlI5OTYyTXVFMG9qQ0JYVHNBRFQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXFPZWJ0ekg2Mnl6b3ZEMDRpRzJON3M1b3FnWlpsbVZSSlpnMDR1YXJFWG0zMmROd0NybFRLWXdtcjdQWm1hckFsTE15d2FoY0hnMGZsMjctbnc1VjFCZ09uUWhDbVpGOUtmQmU4UEhLNmtINHZjbTA4cXZPSmpqTFM3TEptUUU4clROU0xCc3QtM3NNbThZOHMxU1lqU1I4Y3EzRnRnY1hqUFpwUTJWcWcxQWhJNVh2VER2dGtzZUxxSmJSeXc?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Bank of England hever renten uventet til 4,25 prosent",
+    "summary": "Den britiske sentralbanken har for første gang siden konflikten i Midtøsten eskalerte satt opp styringsrenten til 4,25 prosent. Sentralbanken advarer samtidig om at inflasjonen i Storbritannia kan nærme seg 5 prosent på grunn av vedvarende kostnadspress. Beslutningen viser at sentralbankene fortsatt må prioritere prisstabilitet til tross for svak økonomisk vekst.",
+    "why_it_matters": "Fortsatt innstramming i Storbritannia understreker at internasjonalt inflasjonspress ikke er over, noe som kan påvirke rentebanen til Norges Bank.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere britiske styringsrenter kan løfte globale statsrenter og gjøre det mer krevende for andre europeiske sentralbanker å gjennomføre raske rentekutt."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Økende lånekostnader i Storbritannia vil svekke britiske husholdningers disponible inntekt og redusere etterspørselen etter importerte varer og reiselivstjenester."
+     },
+     {
+      "area": "Handel",
+      "effect": "Lavere britisk kjøpekraft kan ramme norsk fastlandseksport, ettersom Storbritannia er et av Norges viktigste europeiske handelspartnere."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Oljeprisen faller markant tross uro i Midtøsten",
+    "summary": "Oljeprisen ligger an til et kraftig ukentlig fall idet høye drivstoffpriser begynner å dempe den globale etterspørselen. Markedet preges av ferske tegn til overtilbud av råolje, selv om pågående spenninger i Midtøsten etablerer et visst gulv under prisene. Investorer avveier nå svakere etterspørselsutsikter mot risikoen for plutselige produksjonsavbrudd.",
+    "why_it_matters": "Oljeprisen er avgjørende for norske eksportinntekter, skatteinngangen fra sokkelen og kronekursens styrke.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Lavere oljepriser kan redusere lønnsomheten i nye lete- og utbyggingsprosjekter på norsk sokkel dersom marginene presses over lengre tid."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Svakere oljepriser svekker vanligvis Norges bytteforhold overfor utlandet og kan legge fornyet nedadgående press på den norske kronen."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Reduserte petroleumsinntekter kan føre til lavere kontantstrøm til statskassen og redusere de løpende overføringene til Oljefondet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem82aUU3S0NZWXNNcXlreW9xS3J0UnpIcDNCWVdqS3NyclRxSUtWenpmMEhoNmp6amtNSG5ZYmpuMzc1TElxODVYTmVSZURrYjJsbVliVXlVSzNtM3J5TDBMNl9sQ0JSTmxKQ2RxVzc4RnMxX2lIZGp3Y3kwTFdrUndLZkFMN0JkN2xLTi02dDZjT0x1Wk0ySTMxZlpNZWRmX1F6ZDhR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Hedgefond dumper posisjoner og kutter bemanning i møte med markedsuro",
+    "summary": "Flere store hedgefond avvikler aksjeposisjoner i høyt tempo etter en svak oktober og økende tap i teknologisektoren. Fond som Samlyn og Walleye meldes å returnere kapital til investorer eller kvitte seg med alle aksjer utenom finans, samtidig som det varsles bemanningskutt. Den raske reverseringen av populære posisjoner forsterker volatiliteten i de amerikanske aksjemarkedene.",
+    "why_it_matters": "Tvungent nedsalg fra store forvaltere forsterker markedsfall og kan skape likviditetsproblemer i globale kapitalmarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Hurtig nedsalg av overfylte investeringstemaer skaper kaskadeeffekter som kan presse kurser langt under underliggende fundamentale verdier på kort sikt."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Kutt i stabsfunksjoner og forvalterteam i finanssektoren indikerer at meglerhus og fondsforvaltere forbereder seg på et mer krevende inntektsbilde fremover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFBSNTF3bXFWS1hzT2hRbDZZZFlJTUJlZ2U0OHdTdTBfcEEwdlRUSkk3bFlDM3Ixa1JaR3BUM1dyUFNRU0dWZG5FWE9pZHZwYjBRbGJtZGMzRk9ZZTdaNTAtbUJEWldKT1E0VTI1Q1hfcFEyNmg0WkVwaUdLcGIxZkJCRVZCcWxmX24wRGFEbnhqaFR0ZXNwSW8tNVlTVU5wNk92dVZyLWdiUQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTVKZ0tMQmRvWFQ1SkMya3V4S1BmdVBFQXNQUmlORExqY1pESXpIVzd3cFhkSzNzcVFsdXNLUDBScHF3bWpaU0ZLMUlQLUJqbVotaFhBVVV2c3U0UWRRX3lJZkZCeTFVS2ZtNUJUcDZXcmhVNnJxN2tYLVdyNHpjMC1Hdm5fNWF0UEUtVHNxMG1LdkM0NjNHM0hlVGdtVU1tQmd3SnlPa283M1VxcG43NEVsRzc?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTJLMWtyUlBNNFJuM0kzVF84bDhna1FmSVJYLUlmNXJqcXdaMjZabWEwYzR5NDhDRE9nMFhVaHlSb3NYaU1IWXVhblg5U0tUcEdKZFRYZVFHMUFEd0dEUkx2YWFua1U1d3RHWWduVkxRaWwwR0E1a3hZb0F1RmppY25ELVY?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Investorskepsis og børsfall truer Anthropic-børsnotering",
+    "summary": "Planene om en børsnotering av AI-selskapet Anthropic møter sterk motbør blant sentrale investorer som tviler på at selskapet kan forsvare en verdsettelse på 1 500 milliarder dollar. Den økende skepsisen til lønnsomheten i kunstig intelligens og den pågående børsuroen gjør tidspunktet for noteringen svært usikkert. En eventuell utsettelse vil være et hardt slag for stemningen i venture- og vekstmarkedet.",
+    "why_it_matters": "En sviktende børsnotering for en av AI-sektorens frontfigurer kan markere slutten på den ekstreme verdsettelsesboomen for oppstartsselskaper.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Manglende vilje til å prise AI-selskaper til ekstreme multipler kan kjøle ned det globale markedet for nyetableringer og børsnoteringer i lang tid fremover."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Lavere tilgang på risikokapital kan tvinge programvareselskaper til å prioritere kortsiktig lønnsomhet fremfor kostbar videreutvikling av store språkmodeller."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVlmZWpuTHFFVDktVG9OaXlnVl9xSFliZFl4YXFRemVUZDFRRFFaajdEcnQ0b01sQTNJNDVDUkRaQXpLdEY3dGhVUjloVS16UHZIQ0cwUG5wQnpxaDcyX3lvX3A0VFZTb0xjMFBObUJKR3N5cVU2WFhqNzRMcEtjN09HQ3VKcnNIcy15V3VJUTdFRkk1OXhQYlNjMFpELUV0Y2o1MnNNa2dPd3lSN3JJdGM2Z0wzdw?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Finanstilsynet kaller inn DNB til møte etter varsel om 400 kutt",
+    "summary": "Norges største bank, DNB, har varslet en nedbemanning på 400 stillinger for å effektivisere driften og redusere kostnader. Tiltaket har ført til at Finanstilsynet har kalt banken inn til et formelt møte for å vurdere konsekvensene for bankens operative risiko og etterlevelse. Tilsynet følger nøye med på om store bemanningskutt kan gå på bekostning av bankens kontrollfunksjoner.",
+    "why_it_matters": "Endringer i bemannings- og kontrollstrukturen i Norges største finansinstitusjon kan påvirke stabiliteten og tilsynskravene i hele det norske bankvesenet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Økt tilsynsfokus kan føre til strengere krav om dokumentasjon på at interne kontrollrutiner og IT-sikkerhet ivaretas fullt ut under omstillinger."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Betydelige kutt i banksektoren kan begrense jobbmulighetene for økonomer og rådgivere i Norge og signalisere økt kostnadsfokus i finansnæringen."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Dersom DNB lykkes med å redusere kostnadsbasen betydelig uten tap av kvalitet, kan det tvinge andre norske sparebanker til å gjennomføre lignende kutt."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/w372k4/dnb-i-moete-med-finanstilsynet-om-nedbemanning?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Storeier gjennomfører milliardsalg i oljeselskapet Aker BP",
+    "summary": "En av de største aksjonærene i Aker BP har solgt aksjer for milliarder av kroner i markedet. Transaksjonen representerer en betydelig kapitalomrokering i et av de mest sentrale selskapene på Oslo Børs. Nedsalget kommer i en periode preget av økt usikkerhet om den videre utviklingen i oljeprisen og selskapets fremtidige investeringsbehov.",
+    "why_it_matters": "Aker BP utgjør en betydelig andel av Oslo Børs, og store eierskifter påvirker likviditeten og prisingen i det norske aksjemarkedet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Et stort nedsalg i en av børsens tungvektere kan legge kortsiktig press på aksjekursen og dempe hovedindeksens generelle utvikling."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Realiserte nedsalg fra toneangivende investorer kan reflektere et ønske om å diversifisere vekk fra tradisjonell olje- og gassrisiko fremover."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQl91UjBaUklJQXh4ckVrdk5Fc1kzODE4ajQ3WF9ibnozZDZKRWl1UkdtV2ExMXBNM1Y2Y01fNVFqWVNwd1RIcWo4MER4WWhFQ1MtOUZ5ZWRnRF9HdmhhVHVXYTI0d1cwellpaS1WeEptWktkNGQ4SHNUV1AyWVBEV0U1RTJHY1NVSDNMcnZGX0xFeFk?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Paraguays president Santiago Peña går av etter massiv bankkollaps",
+    "summary": "Paraguays president Santiago Peña har trukket seg etter en dyp politisk krise utløst av kollapsen i storbanken Ueno Bank. Krasjet førte til at bankkontoene til rundt tre millioner innbyggere ble frosset, noe som lammet landets dagligliv og utløste riksrettsprosesser i nasjonalforsamlingen.",
+    "why_it_matters": "Kollapsen viser hvor sårbare fremvoksende økonomier er for finansiell deregulering og manglende banksikringsordninger.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Det plutselige lederskapet i Paraguay skaper betydelig politisk usikkerhet i Sør-Amerika og kan svekke regional økonomisk integrasjon."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTVfN0hVWlJNaTV2dDc2VGVPY01DVERLR2dWb29ZWUV5Q19qRUVZbllzZWEzQ0NyWnRoeWxLVXNsN1hKb3hGNXJXNkpGTFJxMjBJTEFvakJkN3lBd2NpYzdDWEdxV1FFUGZBZmZLbmdGWGZ2WV84eGJkUGZKeUp4dk1TRTMzOVdqUXpxcjN3ZkhZVzFEN3RZY0R5Y3k0b0pRRDZmWGx3M1ZnUVNCV1luQVdXMURLbUhoakVGRWxscU9wZjZJ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Californias guvernør omgjør samtlige 548 dødsdommer i delstaten",
+    "summary": "Guvernør Gavin Newsom i California har besluttet å omgjøre dødsdommene til samtlige 548 fanger på delstatens dødscelle til livsvarig fengsel uten mulighet for prøveløslatelse. Dette representerer den største massebenådningen i USAs historie og markerer en formell avslutning på henrettelser i landets mest folkerike delstat.",
+    "why_it_matters": "Avgjørelsen er en historisk milepæl i amerikansk rettspleie som forsterker den nasjonale debatten om avskaffelse av dødsstraff i USA.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Beslutningen etablerer et sterkt juridisk presedens som kan inspirere andre amerikanske delstater til å avvikle sine dødsstraffordninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Meloni og EUs utenrikssjef kritiserer Støres og Stubbs samtale med Putin",
+    "summary": "Italias statsminister Giorgia Meloni retter skarp kritikk mot den direkte samtalen statsminister Jonas Gahr Støre og Finlands president Alexander Stubb har hatt med Vladimir Putin. Meloni, som får støtte fra EUs utenrikspolitiske ledelse, advarer om at slike separate diplomatiske spor undergraver Europas samlede forhandlingsposisjon overfor Russland.",
+    "why_it_matters": "Uenigheten belyser økende europeiske spenninger om hvordan fredssamtaler og diplomatiske forbindelser med Russland skal håndteres.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Diplomatisk friksjon mellom nordiske land og toneangivende EU-stater kan komplisere arbeidet med en samlet europeisk forsvars- og sikkerhetsstrategi."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3ZRNkN0bnB5LTh4bHRxcENZc1VYZWNBLWh2WnBpVHA1a1R3SzRZdlRLcW1zNjVCNFZadzAyejB3QV9UY2FGM3lEaVA4MTF3bUZ1aTZ4aTI5MlFOOERzUjk1SldDTVBVZ0lOdzhGaWRjb3hicU5zcEdacVZnZW53LWFaMFdYRXk3TjRVd3VzWjlTTks0WjREN1pEUE82dDNyNGh6d05IUXgxdjFUQ2p1NGxJdlZQUEh5MzRCX0lxdzVxQUFz?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1E4ZFVDNElQM2VzTDc1b2RQQnljUm5ibzZlRG82QzNmWm1VRHAyOW9QQ2lRVzJhdnJHdXUxdmR1a1YxdmM2RWFwNUFSc3BmbEFkNUhCM1QyWDk3Wjd1WUVmV2JwYTVReGNQOUU3MmoySDBpZU85eUhPUG1GaTh3QjM1eEhfM0w0NXhMLXdWaDgwdFBiTnBDTDVuNGFBbWRq?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-04-20",
   "hour": 20,
   "date": "2026-11-04",
@@ -7114,270 +7414,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-18-20",
-  "hour": 20,
-  "date": "2026-10-18",
-  "generated": "18.10.2026 20:22",
-  "overview": "Internasjonale markeder preges av tiltakende spenning i Midtøsten og usikkerhet rundt de kommende kvartalstallene fra toneangivende teknologiselskaper. På hjemmebanen åpner en ny frihandelsavtale med Vietnam for styrket markedsadgang, samtidig som storkapitalen posisjonerer seg tungt innen norsk luftfart.",
-  "stories": [
-   {
-    "title": "Norge inngår ny frihandelsavtale med Vietnam",
-    "summary": "Norge har fremforhandlet en frihandelsavtale med Vietnam som gir norske eksportører betydelig bedret markedsadgang. Særlig sjømatnæringen melder om lettelser og lavere tollbarrierer inn til et raskt voksende asiatisk marked. Avtalen markerer et viktig skritt for å spre norsk eksportrisiko vekk fra tradisjonelle kjerneområder.",
-    "why_it_matters": "Avtalen gir norske sjømateksportører et markant konkurransefortrinn i et av Sørøst-Asias mest ekspansive markeder og reduserer sårbarheten overfor europeisk etterspørsel.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Reduserte tollsatser kan styrke lønnsomheten for norske sjømatprodusenter og bidra til at eksportvolumet mot asiatiske vekstmarkeder øker betraktelig."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Forbedrede rammebetingelser kan stimulere til økte investeringer i lokal prosessering og mer robuste logistikkjeder rettet mot Sørøst-Asia."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Iran varsler ny kriseplan mens angrep mot skipstilførsel tiltar",
-    "summary": "Iranske myndigheter erklærer at de har en ny operasjonell plan klar dersom USA gjenopptar militære angrep, samtidig som det rapporteres om ferske angrep mot kommersielle skip. Den fornyede uroen setter maritime forsyningslinjer i fare og øker usikkerheten i oljemarkedet. Flere shippingselskaper vurderer nå ytterligere omdirigeringer av flåten.",
-    "why_it_matters": "En eskalering i Persiabukten og Rødehavet kan drive opp globale fraktrater og energipriser, noe som umiddelbart gir inflasjonsimpulser til verdensøkonomien.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Forhøyet geopolitisk risikopremie i oljemarkedet kan presse råoljeprisene oppover og dermed gi økte petroleumsinntekter til den norske statskassen."
-     },
-     {
-      "area": "Handel",
-      "effect": "Omdirigering av skip rundt Afrika kan forlenge leveringstider og gi høyere transportkostnader som etter hvert veltes over på sluttforbrukere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTjVoekNKSmw2RVRNS0h1WmV3SFVkUlUwUnFyX2ZqeExKMlk5aTQxWTdGSFBVbXFTUGZWSTNqejcxMk40TGlVdHBoS2RTTU5yMWFTOUhTZW0xVDhkNi02MVRKOUphdlNoenVBVkVoZm5uMTA1Umk2a0NJTzdHQkNyYzhsR0drUWlaSDdBZW5oQzg5WEnSAZgBQVVfeXFMT3ZIMWthWE1pMkRGSXlkZnpvRHRVd1NMc2hqOFIzN2RIUkNVX3E5OW9zNGh1WjVUMk9jYWlybldaWXRUay1ONmc3T3dKMkdxRDFnLXM1Nm1tblNvSmxUZ3paOTU4VjlGeE40bmY1THJ2M25Ua1NUUHplUmp1WUpwLXhPc0M1ZGM0eG1qSFRMSGtxVTZucTh3Qjk?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Investorer rigger seg for kurssvingninger før AI-tallslipp",
-    "summary": "Opsjonshandlere forbereder seg på et kraftig byks i markedsvolatilitet i forkant av kvartalsrapporter fra selskaper som Meta og Tesla. Frykten for at de enorme investeringene innen kunstig intelligens ikke gir rask nok avkastning, har skapt sprekker i den tidligere så robuste tech-optimismen. Markedet krever nå håndfaste bevis på at teknologiinvesteringene genererer reell inntjening.",
-    "why_it_matters": "Verdsettelsen av de største teknologigigantene har dratt de globale aksjeindeksene oppover, og eventuelle skuffelser kan utløse en bred korreksjon i finansmarkedene.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Skuffende inntjening eller dempede fremtidsutsikter fra teknologikjempene kan utløse bredt nedsalg og redusere risikoviljen på tvers av globale børser."
-     },
-     {
-      "area": "Renter",
-      "effect": "Økt nervøsitet og fallende aksjekurser kan drive investorer mot trygge statsobligasjoner og dermed bidra til å presse lange markedsrenter ned."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1tRVVVWVR1dzZ0a1oyQWZVZVhyTnZ6aTBpYlhIWjV1UjJVUGNvaTloT3dwZHZhMEY3bzA1emFFaVZ5MmM0OEFFOS1aYmNOY2lvRXlWaDhlZmJDZ1dOT28wVlBtSUJKQWtoaS14ems0dmJqVHpEWTZoNXo1dkMwMFZoZkljRWtIa2I4NlM5R096NlpKd004QnFfLW1nR2lkcHNNd29DeHJKRktyMnoyTg?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0dLZjFRUFhkZ09TakpoR2g4N04xVzhfMHhPNEJRamZXekl4Z2ptRVUyTTZEN2tuOVNfaHRFVUZiTThYczhSaU9CcmVra0M1b0w2SG1URGRkODcweWFnT21BQlNwazJxdjk0U25MODNLMVRyb0JUYmRfT0t6NmJ4RU90OUc?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSXZwWHdvclVzQXBWMWFOOGZpa216a3FaTWtpdkdiSl9CZ18zdWNpdG8zdVVERWUzU1hidjRFZFZUTWx2YmRHbVhPdVVzYXhEdjR2ZldrdkdNbzRmSkhzVVAybkYyNTdlMU9semdzQVJOVk0zeC1BcnhKRFA?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Storinvestorer hamstrer aksjer i Norwegian Air Shuttle",
-    "summary": "Skipsreder John Fredriksen har kjøpt aksjer i Norwegian syv dager på rad, samtidig som andre profilerte norske investorer har økt sine eierandeler kraftig. Kjøpsbølgen har pågått gjennom høsten og signaliserer en fornyet tro på flyselskapets kostnadskontroll og markedsandel. Selskapet ser ut til å tiltrekke seg langsiktig kapital til tross for svingende drivstoffkostnader.",
-    "why_it_matters": "Tung industriell kapitalposisjonering i et ledende norsk flyselskap underbygger tilliten til nordisk luftfarts lønnsomhet etter restruktureringen.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Betydelig oppkjøpsaktivitet fra hjørnesteinsinvestorer kan etablere et teknisk gulv under aksjekursen og tiltrekke ytterligere kortsiktig finansiell kapital."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Sterkere institusjonell eierforankring kan gi Norwegian finansiell handlefrihet til å videreføre flåtefornyelse og kapre markedsandeler fra konkurrenter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1FjckZ6YnZieURUS2oxZlVCeUlqd2dpM0ZKZWlvc1lTMjM4OWpLUnRoeDYtaHFoSnhubzdBUFZqRERhd3VUR2VnSWpuekdwbWE4WEkycS1iendhc01IaVJEMXZvYVg3cDM2LVYxU2V2amhROTdpR2pxNzJ6MkFyNEIwQmQwNFlBS2tKcHgwejhBcDh6RS10cGFSQUFBMEtxZFZYWVAtVVppN3VCWFFKaTdvTGJFNmNTUkQ1UE54NVViQ2hh?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/64Km53/espedal-har-hamstret-norwegian-aksjer-siden-iran-krigen-startet?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Microsoft skroter britisk datasenteravtale med Nscale",
-    "summary": "Teknologikjempen Microsoft har valgt å trekke seg ut av en planlagt datasenteravtale i Storbritannia med leverandøren Nscale. Beslutningen viser at de store sky- og AI-aktørene er i ferd med å revurdere sine langsiktige infrastrukturforpliktelser i møte med stigende kostnader. Slike kanselleringer skaper usikkerhet for uavhengige datasenterutbyggere som er avhengige av langsiktige leiekontrakter.",
-    "why_it_matters": "Endringer i teknologigantenes gigantinvesteringer i datasentre kan få direkte konsekvenser for europeisk energiplanlegging og leverandørkjeder innen infrastruktur.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Kansellerte leieavtaler kan ramme inntektsgrunnlaget til spesialiserte datasenterselskaper og gjøre fremtidig gjeldsfinansiering av lignende prosjekter vesentlig dyrere."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Bortfall av store prosjekter kan frigjøre regional nettkapasitet som andre industribedrifter har stått i kø for å ta i bruk."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM09qUXJjalVrME1yMGhhSnd3U3JUdGF2Q2prODVrUmV0UmZwUXRQLUFCSGVpOUFxSnoyeG9nRHJsb0d1UU1QMHI4QzdWbE5wVjE2dzROWFZDWDVmREk0QmFST1V6ZzljaEY2SHFwRnBNZmlYSWNsMVJkNTVPeVk4d2F2UkRzaU14T1hjZGNDbWNXSUs5aEZucGpvdFg0RG42Sno5VnNaaXNoZ1FhemhvMkd6MGNEMVUwcmJrWUM1dw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXhlWkpqYnAwNVVYQjBLWTdQdi1HYm50VjhBQ3UwTkNhc0gtTGhoMnluWGxuMVdmZWM3eFRjVFA5dWZ0STlFRVJ6S090WVFveFF1RVNjcHFpd2ZNTFJfamxDNGl6YTNrSmkta2pteXpnMElHVXVjcUI5WDNlemltdVRSZURQUXBmcTFrV0NyY2R0a3J1clFlOGU2RjRTbVRnbzRnU3NvRktJR3g3RUw4Zm9vTnE?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Tiktok stiller seg i norsk strømkø for nytt datasenter",
-    "summary": "Sosiale medier-giganten Tiktok vurderer etablering av et nytt datasenter i Norge og har meldt inn behov i strømkøen på Hønefoss. Planene er foreløpig på et tidlig stadium, men føyer seg inn i rekken av store utenlandske aktører som ønsker tilgang på norsk fornybar energi. Etableringen aktualiserer debatten om prioritering av nettkapasitet og kraftkrevende industri i Norge.",
-    "why_it_matters": "Bruken av norsk kraft til utenlandske datasentre berører kjerneutfordringer rundt nasjonal kraftbalanse, strømpriser for husholdninger og etablering av tradisjonell industri.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Massivt kraftbehov fra internasjonale datasentre kan legge ytterligere beslag på nettkapasiteten og presse opp de regionale strømprisene for næringslivet."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Økt etterspørsel etter store kraftuttak kan tvinge myndighetene til å stramme inn kriteriene for hvilke virksomheter som får tildelt industristrøm først."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/Ab0483/tiktok-vurderer-nytt-datasenter-i-norge?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Accenture vurderer å selge Kina-virksomheten for 1,5 milliarder dollar",
-    "summary": "Rådgivnings- og teknologiselskapet Accenture undersøker muligheten for å selge sin kinesiske avdeling for inntil 1,5 milliarder dollar. Vurderingen kommer som følge av økende geopolitisk friksjon mellom USA og Kina samt strengere kinesiske datalover. Flere vestlige konsulentselskaper opplever nå at det blir stadig mer krevende å operere i det kinesiske markedet.",
-    "why_it_matters": "Et nedsalg vil bekrefte den akselererende trenden med økonomisk frakobling og fragmentering mellom vestlige selskaper og det kinesiske markedet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Vestlige selskapers tilbaketrekning fra Kina kan svekke det økonomiske samarbeidet og ytterligere akselerere oppdelingen i separate teknologiske og regulatoriske sfærer."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Multinasjonale konsern kan bli tvunget til å restrukturere sine asiatiske verdikjeder for å minimere regulatorisk og politisk risiko knyttet til Kina."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUXQ2WWNXcnlFYXJ0S1I1SHBXYkU2NG10emhydEt3UFZET1hnUWd6M2xRU29uQlZfWDhGQUloMG83eWh1RWNEY2JfTDNVMVhyNk1naHhKbVdrZjNERC1nUTFhLVcyOVdxVjNwdjFKcGVPa2doRVhGdUpzV0lQaGRKZC1QcU0?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Omfattende opptøyer og branner ryster Frankrike",
-    "summary": "Frankrike har opplevd en helg preget av voldelige demonstrasjoner, plyndring og påsatte branner i flere byer, der rådhuset i Limoges ble totalskadet. Rundt 1800 personer er arrestert over hele landet etter at protestene eskalerte til landsomfattende sammenstøt med politiet. President Emmanuel Macron varsler nå at de ansvarlige må bære de økonomiske og rettslige kostnadene for ødeleggelsene.",
-    "why_it_matters": "De voldsomme opptøyene forsterker den politiske krisen i Frankrike og kan lamme regjeringens evne til å gjennomføre nødvendige samfunnsreformer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Tiltakende innenrikspolitisk ustabilitet i Frankrike kan svekke landets politiske lederrolle innad i EU og gi ytterligere oppslutning til ytterfløyene ved kommende valg."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUkxcG9NbVF4UmVVdGVob3dNbUZhQXZIMkVhNHRsNDJ5emxtQ2UxX05ocEFwZ1pJUGRtRTNuTlVsMWF2eklQNkkwS2g0eXQ5MkRyYnpUSXhWWHNKUTdEeGlYcUVLdm51YXIxbzM5VllsdUlzTGNoMFZaaVpKd0xXeEloVk1xbkNwUXR5cXRTdDNOZmVxVUFOUjZJb3NSdzNo?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Minst fire omkommet i voldsom brann på militærbase i Canada",
-    "summary": "Minst fire personer har mistet livet og flere er alvorlig skadet etter en eksplosjonsartet brann på militærbasen CFB Wainwright i Alberta i Canada. Statsminister Mark Carney har betegnet hendelsen som en av de verste fredstidstragediene for det kanadiske forsvaret i nyere tid. Det pågår nå omfattende etterforskning for å avdekke årsaken til ulykken på basen.",
-    "why_it_matters": "Tragedien rammer det kanadiske forsvarets operative kapasitet og har utløst dyp sorg og nasjonal krisehåndtering i Canada.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Ulykken vil trolig utløse krav om betydelige ekstrabevilgninger til sikkerhetsoppgraderinger og modernisering av infrastrukturen ved kanadiske militærbaser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Ukrainsk droneangrep rammer oljeanlegg i St. Petersburg",
-    "summary": "Ukrainske styrker har gjennomført et omfattende droneangrep rettet mot oljeinfrastruktur og fasiliteter i St. Petersburg og Leningrad-regionen. Angrepet førte til massive branner ved oljelagre, og minst én person er bekreftet omkommet ifølge internasjonale rapporter. Dette er et av de mest dyptgående angrepene mot russisk strategisk infrastruktur hittil i år.",
-    "why_it_matters": "Angrepet viser at Ukraina er i stand til å treffe kritiske russiske forsyningslinjer og raffinerier langt bak frontlinjen, noe som kan begrense Russlands drivstofftilgang.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Stadig gjentatte angrep mot russisk raffinerikapasitet kan redusere det regionale drivstofftilbudet og skape ytterligere friksjon i de globale energimarkedene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkhxelNpNWVqQ3JYNGxzTDM4b09VN3ktanc5RWM4Ri1zdHMzZk9HMlhoQnB6b1Q3dkM5VzM3VUNWcUZMbTYyZ2hISFpZamNMUEFpU2l6UU9RdE1ZTzU1M2Nybi05d0FjVjZFWlpVam1LSFJ4NmVTWlhaNkhoVXgwbFVRVFI5RDFfOUdJazQ3Q0J6VkF4U0paSVNB?oc=5",
       "paywall": false
      }
     ]
