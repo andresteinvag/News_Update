@@ -1,5 +1,236 @@
 [
  {
+  "id": "2026-11-07-08",
+  "hour": 8,
+  "date": "2026-11-07",
+  "generated": "07.11.2026 13:51",
+  "overview": "Verdensmarkeder opplever et kraftig fall drevet av bekymringer rundt kunstig intelligens og politiske omveltninger. Samtidig preges energimarkedet og geopolitikken av nye spenninger rundt Iran og Russland.",
+  "stories": [
+   {
+    "title": "Børsfall og AI-frykt preger finansmarkedene",
+    "summary": "Europeiske og asiatiske aksjemarkeder falt kraftig fredag etter at Demokratene sikret seg en sterk seier i midtveisvalget i USA. USAs teknologisektor opplevde en rød uke preget av dyp uro knyttet til høye investeringer og usikkerhet rundt kunstig intelligens.",
+    "why_it_matters": "Markedssvingningene treffer norske pensjonsfond og investorer tungt gjennom globale indeksfond og teknologiinvesteringer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere usikkerhet rundt kunstig intelligens kan føre til at investorer trekker kapital ut av vekstaksjer og over i tryggere investeringsalternativer."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Verdifall i globale aksjefond kan svekke fremtidsutsiktene og den langsiktige sparingen for millioner av nordmenn som sparer i aksjefond."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHo3eTNwbl9OX25ycmZfZ21DWjNEbTlxZ0w5UTk5RW9KZW5hZ1FUS3ZWblFCVHQ5S0EtVU8tbW94SERsbV8tb1A2NzFrN0htdjBoMzVyM1NHMXd1Wnk1OWJoQk1ORnFna0hMUFRhb2VKQVZGTzBPYWdRRDhrOC1VRjVwZUU?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Stramt arbeidsmarked og langvarig ledighet i USA",
+    "summary": "Ferske tall viser at den gjennomsnittlige ledigearbeiderens arbeidsledighetsperiode i USA passerte 27 uker i oktober, noe som er det høyeste nivået utenom pandemitiden på ti år. Dette skjuler seg bak ellers sterke jobbtall.",
+    "why_it_matters": "Utviklingen i USAs arbeidsmarked påvirker den globale økonomiske veksten og renteutsiktene til Federal Reserve.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende svakheter i underliggende jobbtall kan tvinge amerikanske myndigheter til å vurdere rentekutt for å stimulere økonomien."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Langtidsledigheten indikerer at kompetansemiskmatch og strukturelle barrierer i næringslivet kan hemme den fremtidige produktiviteten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Oljefond-utvalg advarer om potensielle franske sanksjoner",
+    "summary": "I en ny gjennomgang av Oljefondets etiske regelverk spekulerer Gjedrem-utvalget i hvorvidt fondet kan bli møtt med politisk motreaksjon eller sanksjoner fra fransk hold som følge av utelukkelsesbeslutninger.",
+    "why_it_matters": "Dette berører direkte forvaltningen og sikkerheten til Norges desidert største finansielle buffer i utlandet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Politiske restriksjoner i utlandet kan begrense Oljefondets investeringsmuligheter og svekke den forventede realavkastningen over tid."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Strammere diplomatiske relasjoner med europeiske allierte kan tvinge frem en nyansert debatt om etikk og sikkerhet i norsk statlig eierskap."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/b8VXnk/oljefond-utvalg-spekulerer-i-fransk-hevn?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Teknologiindustrien rammet av politisk kursendring i USA",
+    "summary": "Store teknologiselskaper som satset tungt på Donald Trump opplever nå at de må betale den politiske regningen gjennom strengere reguleringer og endrede rammebetingelser etter Kongressens maktforskyvning.",
+    "why_it_matters": "Norske teknologiselskaper og investorer med eksponering mot amerikansk digital infrastruktur påvirkes direkte av endringene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Strengere amerikanske krav til datasentre og kunstig intelligens kan øke kostnadene og forsinke global teknologiutvikling."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Økt politisk risiko i USA kan tvinge globale selskaper til å diversifisere sine investeringer mot andre regioner som Europa."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/jvVXgL/naa-kommer-regningen?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Datasenteropprør skaper politisk uro i Norge",
+    "summary": "Utbyggingen av energikrevende datasentre møter voksende lokal motstand over hele landet, fra Sirdal til Stortinget, hvor partiene anklages for å mangle en helhetlig strategi for kraftforsyningen.",
+    "why_it_matters": "Dette treffer kjernen i norsk kraftkrevende industri og strømprisene for både bedrifter og husholdninger.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Høyere strømforbruk fra nye datasentre kan presse kraftprisene oppover for både private forbrukere og tradisjonell fastlandsindustri."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Strenge lokale protester og politisk motstand kan bremse utenlandske investeringer i digital infrastruktur i Norge."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeW9SMEpYZjJmWTZVRkUxMm9ZN2dBeHNxeVBTdy0wbWtKV3p3bEhXT0hNVFFxeWJqMDJZTE9vUE82Z3JVMHQ4bVJTdXhNTjNPVGtYS0VId2dRb3dWbXdKdC1tVWxFckRXVW92aHN1N3hGbjM2QlZoUWYtcThTcHdWb0xDX01VR0tVSmcyYkhDaFdRUDdzWndDRmgwRzJ2RFZEUEUwNHpnU05RQVk?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/31AR4M/datasenteropproer-i-sirdal-mange-soevnloese-netter?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kinesisk svak etterspørsel utfordrer den globale industrien",
+    "summary": "Kinas økonomiske planleggingsorgan NDRC advarer om at vedvarende lav innenlandsk etterspørsel utgjør en alvorlig utfordring for nasjonens økonomiske vekst og råvareimport.",
+    "why_it_matters": "Lavere etterspørsel fra verdens nest største økonomi demper prisveksten på metaller og energi, noe som direkte rammer norske eksportinntekter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Svakere kinesisk forbruk kan presse ned prisene på olje og industrimetaller, noe som svekker inntektene til norske råvareprodusenter."
+     },
+     {
+      "area": "Handel",
+      "effect": "Global overkapasitet kan tvinge kinesiske produsenter til å dumpe billige varer på europeiske markeder og skjerpe konkurransen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazZrSXp5OW54TDNYaF9CWXNHMXVLb2FYTmRUejBKNTBGcEdBeEFXZVNKMWhna2FFeWJla3BZVTlKcktQQ2FhVmtNUW5fUzgxVURaVkcyNVNkamxRbEpuMnFwZXBnLXdhMU5PWkJPT0YwTWl5TFlWQ0VFZG9Hb2VqRU9rdEpBY2d3bUVCVTBaZmRlRk1wdzd0WGRnbTZianVWbTd5a1E5cmtnOVZ1NDJoUmtOOUdGZw?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Paraguays president avsatt etter dyp bankkrise",
+    "summary": "Paraguays president Santiago Peña ble avsatt i en rask riksrettssak og umiddelbart pågrepet etter at en alvorlig bankkrise rammet landet og etterlot store deler av befolkningen uten tilgang til sine bankkontoer.",
+    "why_it_matters": "Saken viser hvor sårbare finansielle systemer i Latin-Amerika er for plutselige tillitskriser og politisk uro.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politisk stabilitet",
+      "effect": "Krisen skaper langvarig sosial uro og politisk lammelse i landet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Russiske angrep rammer ukrainsk energiinfrastruktur",
+    "summary": "Russiske styrker utførte massive nattlige angrep mot Kyiv-regionen, noe som skadet viktige broer og energianlegg forut for kommende trepartsforhandlinger i Abu Dhabi.",
+    "why_it_matters": "Angrepene forverrer den humanitære situasjonen og øker risikoen for en ny flyktningkrise i Europa før vinteren.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Ødeleggelsene av kritisk infrastruktur tvinger frem ytterligere vestlig militær- og humanitær støtte til Ukraina."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Stephen Miller utnevnt til ny stabssjef i Det hvite hus",
+    "summary": "Etter Republikanernes nederlag i midtveisvalget har USAs president erstattet Susie Wiles med innvandringshardlineren Stephen Miller som ny stabssjef.",
+    "why_it_matters": "Utnevnelsen signaliserer en langt mer konfronterende politisk linje fra Det hvite hus overfor Kongressen i årene som kommer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Amerikansk politikk",
+      "effect": "Det strammere politiske klimaet kan føre til budsjettlammelser og økt polarisering i amerikansk politikk."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN3d1Wkh2MmJfNHQ0MUFKQi1DQVV4U3dQc1gxOFZqU1hvS19EZDc0aGU4YkVkUmpDYTQyVUl1Sjh3TzJIZ3ZVa0hmWjh0QmthZnhvaHBXWTAzTTVEeE96MnlIazlnQkNhaGlVYzZ5RVFKeEdCQXpMT2Q5LVBfd0NWOXlBQmFLUm1UUlVudnBxWXZ6V1FjYW9UbFRGdVVRcEQ4TnAtdDl5WWpKSUhYbzV5MnNHWGU3QkNTd1JfdjlUUmc2QQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-06-20",
   "hour": 20,
   "date": "2026-11-06",
@@ -7055,288 +7286,6 @@
      {
       "name": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-20-08",
-  "hour": 8,
-  "date": "2026-10-20",
-  "generated": "20.10.2026 08:31",
-  "overview": "Dagens nyhetsbilde preges av stigende oljepriser og tiltakende spenninger rundt råvareforsyninger, samtidig som debatten om kraftkrevende datasentre og store AI-investeringer tilspisser seg både i Norge og globalt. Utenfor finansmarkedene skaper omfattende opptøyer i Frankrike og politiske hendelser i Nord-Amerika og Australia betydelig internasjonal oppmerksomhet.",
-  "stories": [
-   {
-    "title": "Frp krever at datasentre må investere i egen kraftproduksjon",
-    "summary": "Fremskrittspartiet ved leder Sylvi Listhaug foreslår strengere nasjonal styring av datasenterutbyggingen i Norge, blant annet ved å endre strømkøen og kreve at datasentre bidrar med egen kraft eller gasskraftverk. Forslaget kommer som en reaksjon på det økende presset datasentrenes enorme strømbehov legger på det norske kraftnettet.",
-    "why_it_matters": "Tilgangen på rimelig kraft og kapasitet i strømnettet er avgjørende for norske husholdningers levekostnader og fastlandsindustriens konkurransekraft.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Dersom datasentre pålegges å bygge egen kraftproduksjon, kan det avlaste det ordinære strømnettet og dempe presset på regionale kraftpriser."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Strengere krav til egeninvesteringer i energi kan redusere Norges attraktivitet for internasjonale teknologiselskaper og føre til at prosjekter flyttes til naboland."
-     },
-     {
-      "area": "Regulering",
-      "effect": "En politisk styrt omfordeling av prioritet i strømkøen kan skape økt uforutsigbarhet for investorer og forsinke pågående industrielle prosjekter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/rMy5a3/frp-vil-kreve-at-datasentre-investerer-i-kraftproduksjon",
-      "paywall": false
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/4OQEG9/frp-vil-kreve-at-datasentre-investerer-i-kraftproduksjon?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Aker-eide Nscale forhandler om gigantkontrakt verdt 45 milliarder dollar",
-    "summary": "Det AI-fokuserte infrastrukturselskapet Nscale, hvor Aker er en sentral eier, skal ifølge meldinger være i forhandlinger med Anthropic om en enorm datasenteravtale. Analytikere peker på at en slik avtale kan utløse en markant reprising av Aker-aksjen på Oslo Børs.",
-    "why_it_matters": "Avtalen viser hvordan norske industrikonsern posisjonerer seg for å ta del i den enorme globale etterspørselen etter maskinvare og infrastruktur for kunstig intelligens.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "En formell bekreftelse på gigantkontrakten vil trolig heve konsernets underliggende substansverdi og løfte sentimentet rundt Aker på Oslo Børs."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Satsingen styrker Akers posisjon i det internasjonale teknologimarkedet og kan redusere konsernets historiske avhengighet av den tradisjonelle oljesektoren."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1JJOVRiMHdvSDdCdXVGXzJ2N001NWlCNndweW5JSHA0d3hDeThnM28xWmVzR2ZWMkJPY0tOTW43RzVzc01oRlZwOUhZU08yZlFlMWl3eEdWMURqV3lLbzVwRVY4bXltNGxlRUtROE5NbzFQb1A4VnJ0OFZINS1yVHl3Sldfc2VhVnJfcGg2bkQ1ZVk2Ulk1NThsOWtYYmdJSXBHQUN4dkdUZlJUc3J5bERnSkFOZw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/GrJm8V/mulig-nscale-gigantavtale-aker-aksjen-fortjener-rekyl?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Oljeprisen klatrer mot fem måneders topp som følge av uro i Midtøsten",
-    "summary": "Prisen på nordsjøolje (Brent) holder seg nær sine høyeste nivåer på fem måneder idet vedvarende geopolitisk uro i Midtøsten skaper frykt for forsyningsforstyrrelser. Oppgangen skjer til tross for usikkerhet knyttet til den globale etterspørselsveksten fremover.",
-    "why_it_matters": "Høyere oljepriser gir store merinntekter til den norske staten og oljeselskapene, men forsterker samtidig det globale inflasjonspresset.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Kronekurs",
-      "effect": "En vedvarende høy oljepris kan gi drahjelp til den norske kronen og bidra til å dempe den importerte prisveksten for norske forbrukere."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Økte petroleumsinntekter gir større innbetalinger av petroleumsskatt og øker kapitaltilførselen til Statens pensjonsfond utland på sikt."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Høyere energipriser kan forsinke sentralbankenes planlagte rentekutt internasjonalt ved å opprettholde et underliggende kostnadspress i økonomien."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZlA3RXBMd0lXRU1feWpodXpZQ2tnUERkUHFQSlFGX2hCMjdrOVdhRVd2eVk3dmhLYklUdVM1WGtoXzc0cUt2OG44WjBYVFVZazFvQWo1UmJWRlliNzJHWlZBU1hScTU1RU9sVEdDVllsSWE4UXh5b0ZHX0VlU01fNDc3ckpxRkw3ZGdaM0xxMW1qOEhWck1XYUlSVkJWeVZyZWRRSkpqdTFQSmZhejlBRmkxZUJmMGtPVWx6Ym82SnNTcElaWGc?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlBORHhHSWt0MDQzVVdWSkpKcHhLeVFia0U1M2VDT1Y5eGZYSWJZdDJLX09heXV6eGxUWGZuMGwzMlJZWFBoOEJxWjloWFZRVEtZMEhsUEhlTWctcFNyWXFNSDFQMTNiU3ozelhkWFJFeGNVOVUxcUNNNHR2WTJiTHJ4TkdkeXBkU3RrOExfTzNMU3hMeFkzNDZyQ2RBWk5NaHlMNW1EWnplYm1kTmdCLXYxOA?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kina strammer inn på sjeldne jordarter – Japan frykter råvarestans",
-    "summary": "Japanske myndigheter og industritopper advarer om at landet kan gå tomt for kritiske sjeldne jordarter innen få måneder dersom Kina opprettholder sine eksportrestriksjoner. Kutt i leveransene rammer produksjonen av avanserte magneter, elbiler og elektronikk hardt.",
-    "why_it_matters": "Dominansen innen sjeldne jordarter gjør Kina i stand til å legge betydelig strategisk og økonomisk press på vestlige allierte og den grønne omstillingen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Kinesiske restriksjoner kan tvinge vestlige land og allierte til å subsidiere dyrere alternative forsyningslinjer for å redusere sårbarheten."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Mangel på kritiske innsatsfaktorer kan føre til forsinkelser i elektronikk- og elbilproduksjonen og presse prisene på ferdigvarer oppover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGJDTEN3Z09DeWNoSlBtNGNOWnBCNDNHbHJjbVpBeHNRX3FpVjA2SnRuNFVvMXVYeGU3eVdqT0s3RjFkeHV5bmY0ZjQ5TUVweWFRNk1xTTNJbjBkTzNNTllPdVpHVzZZUDAwSjZ2WmN1b1E3M2wtTUVHQVM5c20tNk5teFY?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Stigende finansiell risiko og kursras i datasenter- og AI-sektoren",
-    "summary": "Kredittrisikoen til japanske SoftBank har nådd sitt høyeste nivå på fire år på grunn av store finansieringsbehov til AI-prosjekter, samtidig som den sørkoreanske datasenterbyggeren Elice stupte over 30 prosent i sin børsdebut. Utviklingen peker mot at markedet begynner å prise inn økende skepsis til de enorme kapitalinvesteringene i kunstig intelligens.",
-    "why_it_matters": "Høy gjeldsgrad og svekket avkastningsforventning i teknologisektoren kan bremse tempoet i den globale teknologidrevne investeringsbølgen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Skepsis til kortsiktig inntjening kan legge press på verdsettelsen av høyt prisede AI-relaterte selskaper og føre til kurskorreksjoner."
-     },
-     {
-      "area": "Renter",
-      "effect": "Økte kredittpåslag for gjeldstunge teknologiselskaper vil gjøre videre lånefinansiering av kostbare datasentre betydelig dyrere."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeS1wRUpLeHV1dDRNeFpaSk1ZNDhuUi16UU13QVpycXpQejNUUmRaMVZocEJZSWZfUHJUX1dzOTdRWnY3UE9UbzNUaXJPNHdha2NlREJ4Z3ZYSWItZmhlU0xIaWlzZzRDRHM1YUFsYmxRMGU5ZGt5d2l0UUNXNThEVjdIQXcxdFVKTVd4NHpLeUJhaWFnREpJVjhQWDRZMG5vR1dIMnp0aUpiTElDT25BODhRUEhNZw?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUcxTXJtVUswMzU2dlgzMmFMTHRScGZzZjVsUlQwWG9iZFFLcl9IOFZrUEwwM1BWWnN6b0I3WDcwWG1yVEZNNnY1OGM4V1NfR1M0bUgxMEd3TmRFcHRRWERyci1jcFk5V1BaanhVUk5FVUZFVG9ld3MyckdfRFJmc2xzQzI?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSUI0QTBnWDdZUnV2YkJTNkx5bzVLbkE1TjVlMURMeUIwdVNXeGtFQVlibDJUUC1NMEh3U2RtY2lvMHR0b25TNzl3cE9EN3FBWm9xc1RkY1dXbWg0NFNoUTR0MXc3NW1TYTgybFVad0o5Rm5BeWxFNkVEZlZJcFlQVjlLWDJMN1lWUldlcVg3NUlYNGpObHNmd2diRUFkSmJJQ2RoNTY0ZkR6b2JReVBwcloxX3h4WEZzRmlsem44c0ZVZU0?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "USA forhandler med India om bilateral handelsavtale og russisk olje",
-    "summary": "Amerikanske utsendinger har innledet forhandlinger i India med mål om å lande en ny handelsavtale, der Indias omfattende import av rabattert russisk olje står høyt på dagsordenen. USA forsøker å balansere ønsket om et sterkere økonomisk partnerskap med håndheving av sanksjonene mot Russland.",
-    "why_it_matters": "Indias posisjon som storimportør av russisk råolje påvirker de globale energistrømmene og effektiviteten til vestlige sanksjoner.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Dersom India går med på å redusere importen av russisk olje, kan det omdirigere råoljestrømmene globalt og påvirke fraktratene for tankrederiene."
-     },
-     {
-      "area": "Geopolitikk",
-      "effect": "En tettere økonomisk allianse mellom Washington og New Delhi kan styrke USAs fotfeste i Asia, men krever krevende kompromisser om energipolitikk."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzVIbWZvOEliSS16aVNWeUNsMlVlcG9wSDVMUkJsdjVrSzM0TUxueEQ5YThPUGtqMFNJbGM3MkROXzVoNzhaNnhCSmpRZEZBX0Zka0Fuci1YbGxVcEpmY3FzbFU2ck0zYVRSZVJYdnJpUkpVaWRRMGd4Z3J3cnhnbFJuWGI1YmRsOHlvSlE3SDJjcnZ5MWtyOFhKRmhFVVEzOFRnLVFIQUZ1YnBFamVN?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Rapport advarer om at AI-automatisering truer kvinnedominerte yrker",
-    "summary": "Nye analyser peker på at utrullingen av kunstig intelligens i arbeidslivet kan ramme kvinners sysselsetting hardere enn menns, i tråd med historiske erfaringer fra digitalisering av telefonsentraler og kontorarbeid. Yrkesgrupper innen administrasjon, kundeservice og saksbehandling vurderes som spesielt utsatt for automatisering.",
-    "why_it_matters": "Omstillingen i arbeidsmarkedet kan forsterke sosiale ulikheter og kreve omfattende statlige tiltak for omskolering av arbeidsstyrken.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Rask innføring av AI-verktøy kan redusere etterspørselen etter administrativ arbeidskraft og tvinge frem et markant behov for etterutdanning."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Økende frykt for arbeidsledighet blant funksjonærer kan dempe husholdningenes tro på egen økonomi og holde det private forbruket tilbake."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Portforbud innført i franske byer etter voldsomme opptøyer",
-    "summary": "Franske myndigheter har innført nattlig portforbud i deler av Paris og andre storbyer etter omfattende opptøyer, hærverk og plyndring av hundrevis av butikker i løpet av helgen. Landets innenriksminister har innrømmet at politiet midlertidig mistet kontrollen over situasjonen i enkelte byer.",
-    "why_it_matters": "Uroen synliggjør dype sosiale spenninger i Frankrike og utgjør en betydelig politisk utfordring for regjeringen i et av Europas viktigste land.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "De voldsomme urolighetene og omfattende materielle skadene kan svekke myndighetenes styringsevne og øke den politiske polariseringen i Frankrike."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Velgerne i Alberta avviser forslag om uavhengighet fra Canada",
-    "summary": "Et forslag om å starte en formell løsrivelsesprosess fra Canada har blitt klart nedstemt av velgerne i provinsen Alberta, ifølge prognoser fra allmennkringkasteren CBC. Resultatet regnes som en stor seier for tilhengerne av canadisk enhet og føderale myndigheter.",
-    "why_it_matters": "Avstemningen fjerner akutt politisk usikkerhet rundt Canadas territorielle integritet og ressursforvaltning i landets oljerikeste provins.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Avvisningen av separatisme sikrer fortsatt politisk stabilitet og forutsigbarhet for Canadas føderale energi- og skattepolitikk fremover."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Australsk politiker kritisk skadd i mistenkt målrettet påkjørsel",
-    "summary": "Den uavhengige australske parlamentarikeren Helen Haines er kritisk skadd etter å ha blitt påkjørt av en bil utenfor sitt kontor i delstaten Victoria i det myndighetene mistenker var et villet angrep. En 43 år gammel mann er pågrepet, og en felles antiterrorgruppe deltar i etterforskningen.",
-    "why_it_matters": "Hendelsen har rystet det politiske miljøet i Australia og utløst sterk bekymring for sikkerheten til folkevalgte representanter.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Angrepet på en fremtredende politiker kan utløse en markant skjerping av sikkerhetsrutinene rundt parlamentarikere og offentlige institusjoner i Australia."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
