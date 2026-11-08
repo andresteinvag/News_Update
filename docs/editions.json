@@ -1,5 +1,303 @@
 [
  {
+  "id": "2026-11-08-20",
+  "hour": 20,
+  "date": "2026-11-08",
+  "generated": "08.11.2026 21:23",
+  "overview": "Spenningen mellom USA og Iran viser tegn til diplomatisk bevegelse, samtidig som Midtøsten forblir urolig etter angrep mot finansmål i Saudi-Arabia. I teknologisektoren skaper granskinger rundt Nvidias ledelse og nye gigantavtaler for kunstig intelligens store bølger i markedene.",
+  "stories": [
+   {
+    "title": "Styregransking og kongressfokus mot Nvidia-sjefen",
+    "summary": "Styret i Nvidia har igangsatt en intern gransking etter at konsernsjef Jensen Huang innrømmet et personlig forhold til en kvinne mistenkt for kinesisk spionasje. Saken har raskt fått politiske etterspill i USA, der folkevalgte fra begge partier i Kongressen krever grundige undersøkelser av mulige sikkerhetsbrudd.",
+    "why_it_matters": "Nvidia er verdens ledende produsent av AI-brikker, og enhver mistanke om lekkasjer til Kina kan utløse strengere eksportrestriksjoner og ramme globale teknologiverdier.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt usikkerhet rundt ledelsen og potensielle sanksjoner kan skape kursfall for Nvidia og trekke med seg globale teknologifond der mange norske sparere er investert."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Kongressens involvering kan føre til ytterligere tilstramming i USAs teknologiblokade mot Kina og skjerpe handelskonflikten innen avanserte mikroprosessorer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Halvlederprodusenter og datasentre kan oppleve forsinkelser i strategiske partnerskap dersom granskingen tvinger frem regulatoriske krav til toppledelsens sikkerhetsklareringer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/xJRjj8/axios-ai-topp-inroemmer-forhold-til-spionmistenkt-kvinne",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5Nw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Anthropic sikrer gasskraftavtale verdt 3,4 milliarder dollar",
+    "summary": "AI-selskapet Anthropic har inngått en avtale verdt 3,4 milliarder dollar for å sikre dedikert gasskraft til sine kraftkrevende datasentre. Den voldsomme ekspansjonen innen kunstig intelligens tvinger utviklere til å sikre stabil grunnlastenergi direkte foran det offentlige strømnettet.",
+    "why_it_matters": "Avtalen understreker hvordan AI-revolusjonens enorme kraftsult driver etterspørselen etter fossile brensler og utfordrer næringslivets klimamål.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Langsiktige avtaler om gasskraft til datasentre kan holde den globale etterspørselen etter naturgass oppe og sikre høye eksportinntekter for norske gassprodusenter."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Kraftkrevende teknologiselskaper må akseptere vesentlig høyere drifts- og etableringskostnader for å garantere stabil tilgang til energi for regnekraft."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhoaHlMZk8tNWhZWlFEczhOc1FpNnZjcnlZTF9MUDJrVG5mb2NvUkdzZlBldmx2YkhEMkQtdVRuaXpWYkhTcDd2N3VLWlFvLW81S0ttcWxKTUlkdXBOMWRNZUIzS0o4ZVM1Y1dpbUIxRG4waXdxRVlncjJiVTM2TGtTZ0g?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Angrep mot finanssenter i Riyadh og uroligheter i Persiabukta",
+    "summary": "Et angrep fra Houthi-militsen i Jemen rammet et tårn tilhørende oljegiganten Saudi Aramco i et sjeldent anslag mot Riyadhs finansdistrikt. Samtidig meldes det om eksplosjoner og skadede handelsskip i Omanbukta, til tross for signaler om at USA og Iran forsøker å unngå direkte militær eskalering.",
+    "why_it_matters": "Trusler mot saudiarabisk oljeinfrastruktur og skipsfart i Persiabukta skaper umiddelbare risikopremier i de globale energimarkedene.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Fysiske angrep mot oljeinstallasjoner i Saudi-Arabia kan presse råoljeprisene markant opp og dermed øke kontantstrømmen til den norske statskassen."
+     },
+     {
+      "area": "Handel",
+      "effect": "Uro i Gulf-regionen kan føre til hopp i krigsforsikringspremier og tvinge rederier til omruting, noe som gir dyrere sjøfrakt og lengre leveringstider."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUpUaXJBZU5CYXNqcDJjZkEtUlc5MWZRcVlsWmFWaWhDcHRJMTNLM05iV25SMEtHTGZyTTZHN3NlaGlGY1dwUFUxQmxXcFNxdmt5R3J1MVJGbmdjblFVMmR0UldtU2M3b0htSGE0YmNBSnNpd1JtVnJHTWlMMnRycHdYUFR1WGN5ck1rdjM0ZmtjNEstR1ZjZjh5X1d2M3g4RUY0bXVoR1VOOUNuWllTVm9qVzJuQQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUtxYmp1UFN6dHhjdnM2X24xYm05OVFCNWJGSWJ4V2t6bm80VDhVQXpmWnZ5TzE4Mk1FTHdBSnVFTlUxN3ZzVFF3cTUzYUNuMGVYYkwwbENfMmpXdy1GeTdpaUFFLUs0aFQzaU4tZVdYc0ZDX1N6Q0NEYkFsT25FdFc3dUl2X1FXd3RrZlpvajJyZFBkbXB0QXRBX1JqTVhyUElr?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Diplomatiske signaler mellom USA og Iran demper umiddelbar krigsfrykt",
+    "summary": "USAs president uttaler at fornyede angrep mot Iran er usannsynlige dersom de pågående samtalene viser fremgang, melder CNN og Reuters. Utsagnene har bidratt til å dempe den akutte frykten for en storkonflikt etter gjensidige trusler i helgen.",
+    "why_it_matters": "En deeskalering i Midtøsten reduserer faren for et akutt oljetilbudssjokk som kunne sendt inflasjonen i været på nytt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Muligheten for diplomatisk fremgang kan fjerne deler av den geopolitiske risikopremien og legge en kortsiktig demper på oljeprisene."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Lavere eller mer stabile energipriser reduserer faren for importert inflasjonspress i vestlige økonomier og gir sentralbankene mer handlingsrom."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbV96cm81eEtLUU91T0xKaWxycHdBV3c4VGNZb2dCbzA0M2M0V2ZPZXp2R1NRcmJ1Wl9TLUxZZWtQRDRtazg2dHVzRWlIdGpmWVRJTUl3cU95cUNheHJtMFJFU2lKM2c2cndGc2ZTbmFqZUpaT0hWRFRyZ1VPYzFFbXlSZUVCR1NuLWFqM0dFaUo2UHI4dWFKZlRoUHEwZ2UwNF95T0NzUGNHME15MFQtMWpMeXZaWDhGQnNkZDNRYnQyNjlQcUE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcFFDS2FTak9Bd3ZyWUJkVUh4NDdfamp4bDNDd1A1NXpleGxxeFFTRmhsV3IyZE56R19qLVVRYmhNSFZISXpjaEhwYmJHeE1YTzlJVFRDdmJYbHczRnozVjUyYWttNkxyMThCMGJrNW0?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Demokratene ruster opp til kamp mot Trumps tollsatser etter mellomvalget",
+    "summary": "Etter fremgang i mellomvalget forbereder Demokratene i USA lovforslag og granskinger for å stanse eller reversere Donald Trumps omfattende tollsatser. Partiet planlegger også å blokkere et foreslått forsvarsbudsjett på 1500 milliarder dollar og granske næringslivsprofiler knyttet til administrasjonen.",
+    "why_it_matters": "En fastlåst politisk situasjon i Washington kan endre utsiktene for amerikansk handelspolitikk og globale handelsbarrierer fremover.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Kongressmotstand mot importtoll kan redusere faren for en handelskrig og lette usikkerheten for eksportrettede industribedrifter i Europa og Asia."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Blokkering av budsjettvedtak kan føre til politisk drakamp om statsgjelden og øke volatiliteten i markedet for amerikanske statsobligasjoner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWI0OVBzQ3FYTmpucWxZaDZkeWx4OTY2WDNHX0d1MXJOV0I1dF8tdHN5UkxUYmNTcmQzb1RIVlA2X1dhMU83Nm1uUDBGU0pRYkJQVElmaXV1b1NXMjZPaUs2OWJjd1FKX29aaGxIZXpZd1ZINjQ5Nl9zWDVhS0p2bTVn?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGtIYW5BQThDbHk2UmZqeWJOdTdRVGE1V0U3VS1hdHBfTmlPV3ptVWlBMnNDRW4zUWhpVGc1N05RWFppTE9aaEs5cHRZZVVraG5RWXJTQXVyU3NNTnVyZFFoWm43M2xjVjMtLWkySWtxSFpod1VNUmVyNHRXSTVKd0hUeEpxY0pkTTNqeE83dzBURmlkcFNBRWFVUXVLdTBnYVE4NkhDcGZYWnU4eW0wUFRBTQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Eksplosiv økning i kraftforespørsler i Norge skaper nettkø",
+    "summary": "Nye søknader om strømtilknytning i Norge tilsvarer i 2026 landets samlede maksimale forbruk, ifølge bransjekilder omtalt i E24. Den voldsomme pågangen drives av elektrifisering og etablering av datasentre, noe som skaper betydelig press på nettet.",
+    "why_it_matters": "Kraftmangel og nettbegrensninger truer med å bli en alvorlig flaskehals for industrivekst og grønn omstilling i norsk økonomi.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Lange ventetider på nettilknytning kan bremse etableringen av ny industri og føre til at prosjekter flyttes ut av landet."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Knapphet på ledig nettkapasitet kan gi vedvarende regionale prisforskjeller på strøm og øke investeringsbehovet i strømnettet betydelig."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/MAzdjJ/oenskene-om-kraft-spinnvilt-mye?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "AUF krever oppsplitting av de store dagligvarekjedene",
+    "summary": "Den påtroppende lederen i AUF, Fawzi Warsame, tar til orde for å splitte opp de dominerende aktørene i norsk dagligvarebransje. Han mener moderate politiske tiltak har feilet i å dempe matvareinflasjonen, og krever mer radikale grep mot markedsmakten.",
+    "why_it_matters": "En eventuell tvangsoppsplitting av matvarekjedene ville vært et historisk inngrep i den norske handelssektorens struktur.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "Dersom forslaget vinner politisk gjenklang, kan det utløse skjerpet konkurransetilsyn og strengere grenser for kjedekonsentrasjon og vertikal integrasjon."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Økt konkurranse i dagligvareleddet kan over tid gi lavere matvarepriser, men strukturelle endringer kan også gi kortsiktige logistikkostnader."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/lKGq7y/den-nye-auf-lederen-vil-splitte-opp-dagligvaregigantene?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Togulykke sør for Kairo krever minst syv menneskeliv",
+    "summary": "Minst syv personer omkom og mer enn 100 ble skadet da to passasjertog kolliderte i al-Ayyat sør for Kairo i Egypt. Flere vogner sporet av i sammenstøtet, og landets president har beordret en umiddelbar gransking for å finne årsaken til ulykken.",
+    "why_it_matters": "Ulykken retter på ny søkelyset mot store sikkerhetsutfordringer og vedlikeholdsetterslep i Egypts transportsystem.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Ulykken vil trolig føre til krav om oppgradering av egyptisk jernbanesikkerhet og skjerpede administrative sanksjoner for uaktsomhet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Minst 34 døde etter at migrantbåt kantret utenfor Senegal",
+    "summary": "Tallet på omkomne har steget til 34 etter at en båt med migranter på vei mot Europa kantret utenfor nordvestkysten av Senegal. Hendelsen inntreffer samtidig som myndighetene på Kanariøyene melder om krisesituasjon og en kraftig økning i ankomster over Atlanterhavet.",
+    "why_it_matters": "Tragedien belyser den vedvarende humanitære krisen på den atlantiske migrasjonsruten mot Den europeiske union.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Økende migrasjonspress over havet kan føre til krav om strengere grensekontroll og forsterket politisk samarbeid mellom EU og vestafrikanske stater."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/3Bj3OP/34-doede-etter-baatulykke-i-senegal",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXNFbGl2MWdleThPd0hGMnY3RW5VekMzbk1zUkd6MzNnekl4ck42TjBuN09NejZiU29RVE5pZWJqZnhydFJBcUl3Sl9VNEhmQzI3ZVBBTHc2bTRDSG5nQ2RPQS0wWDZCSTFFUHcxWFFkTnpHOGtsbTNadFg0MC1MY3dOcE1QR3djbnFmcDFHR3FlRkg0MTR0VDlYcElpVlJSdTdLOVJidlZoNW5OM3pyTGZMTQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Nasjonal sorg og etterforskning etter masseskyting i Krakow",
+    "summary": "Polen opplever nasjonal sorg etter at en gjerningsperson skjøt og drepte seks personer i Krakow før politiet fikk avverget ytterligere tap av liv. Hendelsen har skapt betydelig frykt for sikkerhetssituasjonen i det sentraleuropeiske landet.",
+    "why_it_matters": "Saken har skaket Polen og satt fokus på intern sikkerhet og beredskap mot voldsepisoder i offentlige rom.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Masseskytingen kan utløse en opphetet politisk debatt i Polen om skjerpet våpenlovgivning og økt polititilstedeværelse i storbyene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03MmxFVml0c1hrRHpQa2hvUkFMLWI0UmNHVkREMzVnc2VBTERXcXg3Q29TaVpnQm1keXZibUR2dldEZUotYlY2elJpVWYyY2FZb2l2TTdTRnZmUGdkN0cteThNTkRvbmJHN3dJLW96RURVRVJKQ2N5ZzlMOEY?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-08-08",
   "hour": 8,
   "date": "2026-11-08",
@@ -7086,222 +7384,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-21-20",
-  "hour": 20,
-  "date": "2026-10-21",
-  "generated": "21.10.2026 20:29",
-  "overview": "Internasjonale markeder preges av oppgang i teknologiaksjer og økende inflasjonspress i Storbritannia, mens det i Norge diskuteres rentepolitikk, innskuddsrenter og avgifter. Sentralbankene overvåker nøye tegn til svakhet i økonomien, særlig innen boligsektoren.",
-  "stories": [
-   {
-    "title": "Storbritannia: Inflasjonen hopper til 3,5 prosent",
-    "summary": "Prisveksten i Storbritannia klatret til uventede 3,5 prosent over de siste 12 månedene frem til september, drevet av stigende drivstoffpriser. Dette forsterker forventningene om at Bank of England må gjennomføre nye rentehevinger.",
-    "why_it_matters": "Høyere britisk inflasjon smitter over på det globale rentetrykket og påvirker markedsforventningene til internasjonale pengepolitikken.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende inflasjonspress kan tvinge Bank of England til å heve styringsrenten ytterligere for å dempe den hjemlige etterspørselen."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Høyere energipriser og økt generell prisvekst reduserer den reale kjøpekraften for britiske husholdninger og demper det private forbruket."
-     },
-     {
-      "area": "Valuta",
-      "effect": "Forventninger om høyere renter kan styrke pundet på kort sikt, men vedvarende inflasjon skaper usikkerhet rundt den langsiktige økonomiske stabiliteten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "DNB tjente milliarder på kundenes innskudd",
-    "summary": "De norske storbankene får kritikk for sine rentegrep på kundenes sparepenger etter at DNB alene håvet inn 2,76 milliarder kroner på kundenes innskudd. DNB-sjef Kjerstin Braathen avviser kritikken og forvarer bankens praksis.",
-    "why_it_matters": "Saken kaster lys over hvordan rentebanen fra Norges Bank slår direkte ut i bankenes marginer og vanlige kunders sparing.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Lave innskuddsrenter relativt til utlånsrenter betyr at bankene beholder en stor del av rentemarginen, noe som svekker avkastningen på vanlige folks sparepenger."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Store bankmarginer sikrer solide utbytter og sterk lønnsomhet for finansnæringen på bekostning av bankkundenes samlede rentebetingelser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/Kr78b4/dnb-haavet-inn-2-76-milliarder-kroner-paa-kundenes-innskudd?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Boligmarkedet i USA: Varselsignaler blinker mens Fed vurderer renteøkninger",
-    "summary": "Boligdata for september viser en ytterligere forverring i amerikansk eiendomssektor samtidig som Federal Reserve vurderer behovet for nye rentehevinger. Høye boliglånsrenter tynger etterspørselen og skaper bekymring for den bredere økonomiske veksten.",
-    "why_it_matters": "Boligmarkedet er en ledende indikator for den amerikanske økonomien og har stor betydning for globale kapitalmarkeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Bolig",
-      "effect": "Høyere finansieringskostnader og økte renter reduserer kjøpekraften til boligkjøpere og fører til en merkbar nedkjøling i eiendomsmarkedet."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Svakere boligtall kan øke frykten for en bredere økonomisk avbrekk, noe som kan legge press på sykliske aksjer og finansinstitusjoner."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Tesla- og SpaceX-fusjon: Forvaltere spår oppgang, men advarer mot langsiktig risiko",
-    "summary": "Elon Musks planer om å slå sammen Tesla og SpaceX diskuteres heftig i finansmiljøene. Norske forvaltere tror aksjonærene kan få en god pris på kort sikt, men advarer mot betydelig skepsis og kompleksitet på sikt.",
-    "why_it_matters": "En eventuell megasammenslåing vil omforme det globale teknologimarkedet og påvirke verdsettelsen av sentrale vekstaksjer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Konsentrasjonen av kapital i et slikt gigantselskap kan skape store kurssvingninger og påvirke investorenes risikoappetit i teknologisektoren."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Sammenslåingen kan endre maktbalansen innen både bilindustri og romfart, og utfordre tradisjonelle konkurrenter globalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/L3GnlP/tesla-og-spacex-fusjon-dette-tror-forvalterne?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/QgAayJ/tesla-og-spacex-fusjon-dette-tror-forvalterne",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://www.ft.com",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Meta dømt til å betale 25 milliarder dollar i New Mexico",
-    "summary": "En amerikansk jury har funnet at Meta villedet forbrukere om datasikkerhet og personvern, og selskapet er ilagt en kjempemessig bot på 25 milliarder dollar. Saken kan få store konsekvenser for tech-gigantenes håndtering av brukerdata.",
-    "why_it_matters": "Dette setter en ny standard for rettslige og finansielle sanksjoner mot teknologigiganter ved brudd på personvernlover.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "En bot på dette nivået tilfører delstatens finanser enorme summer, samtidig som det skaper et rettslig presedens for fremtidige søksmål."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Strengere søksmål og rettslige avgjørelser tvinger teknologiselskaper til å endre forretningsmodeller og styrke personvernet betydelig."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Helsedepartementet setter omstridt 'sigargebyr' på vent",
-    "summary": "Et planlagt gebyr som kunne ha kostet norske sigarimportører millioner av kroner, har blitt satt på vent av departementet etter sterke reaksjoner. Saken har vakt debatt om avgiftspolitikkens konsekvenser for mindre importører.",
-    "why_it_matters": "Saken illustrerer hvordan brå endringer i avgiftsnivået kan ramme særskilte bransjer og påvirke rammebetingelsene for næringslivet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Utsettelsen fjerner en akutt finansiell byrde for importørene og gir bransjen pusterom til å tilpasse seg eventuelle fremtidige reguleringer."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Statens forventede inntekter fra det spesifikke gebyret uteblir inntil videre mens saken utredes på nytt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/norsk-oekonomi/i/VgMqzV/snur-om-sigargebyr?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/i/Vg3r76/snur-om-sigargebyr",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Alvorlig sikkerhetsbrudd rammer nettsider i hele Europa",
-    "summary": "Nye sårbarheter i programmeringsspråket PHP har satt millioner av nettsteder i fare, noe som har ført til at offentlige etater og virksomheter i hele Europa midlertidig har stengt ned tjenester for å installere hasteoppdateringer.",
-    "why_it_matters": "Sikkerhetsbruddet illustrerer hvor sårbar digital infrastruktur er og nødvendiggjør umiddelbare tekniske tiltak for å forhindre dataangrep.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Digital sikkerhet",
-      "effect": "Nedstengninger og hasteoppdateringer av sentrale nettsteder viser den enorme sårbarheten i global programvareinfrastruktur og krever skjerpede sikkerhetstiltak."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0Z1dENrS3NDQURyejdLQjJZQnNCS1pwWnN5QWV4WEtkYVMwQWdnQU93cDV4QkQ4RTB0MzRZczFod0hlcENQODVBUFJpdEVUQVU1ckluY2JFV2dlcEc2Z0xENkh2cnZhV0dBcHZ2eGh1eVBGamh2T1JuYkZNTDBmcm9nUGg4QXdiYkxES2ZNei0yZTh5b2djTlM2dzc1dDFlRWQ2Uy1yZHpnRnVkVllBYmVPZXZMRVZV?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Russland løslater amerikaner under samtaler med USAs spesialutsending",
-    "summary": "Under et møte i St. Petersburg med USAs spesialutsending Steve Witkoff har Vladimir Putin kunngjort at den fengslede amerikaneren Stephen Hubbard er løslatt, og Kreml åpner for å gjenoppta trenderesamtaler om Ukraina.",
-    "why_it_matters": "Dette kan være et diplomatisk skritt mot fremtidige fredsforhandlinger og en endring i dynamikken rundt krigen i Ukraina.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Løslatelsen og signalene om nye samtaler kan bidra til å myke opp den diplomatiske låsningen mellom Russland og Vesten."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0VYLWFtUzRtS2p4RzVSZXlzbGZhMUVscHR5eHZjazNnTTRsbnBsVFBzRFJQWmpkLWRRdVFTdGN3aXRYejl5bENraWJiajAyU1JOTEVGN2c2M09La1pzZDNObWNIWnZzSG8yNVRsd1ZPRkc3V2NmZUlVOW8wQ0dKNi1GbG1aaXBjTGRHNGhnSjFBWUhmd0RMWXZLcGxiSjcyT21nbWJnV0dPUQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "paywall": false
      }
     ]
