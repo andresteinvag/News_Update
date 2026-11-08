@@ -1,5 +1,252 @@
 [
  {
+  "id": "2026-11-07-20",
+  "hour": 20,
+  "date": "2026-11-07",
+  "generated": "08.11.2026 02:16",
+  "overview": "Amerikansk inflasjonsutvikling og militære spenninger rundt handelsrutene i Midtøsten preger det globale makrobildet, mens Warren Buffetts konglomerat øker tilbakekjøp etter resultatskuffelse. I Norge retter næringslivet søkelyset mot konkurransevilkår i dagligvaresektoren og økende konkursfare innen bilbransjen.",
+  "stories": [
+   {
+    "title": "Berkshire Hathaways overskudd faller etter svakere investeringsgevinster",
+    "summary": "Warren Buffetts investeringskonglomerat Berkshire Hathaway rapporterte fallende kvartalsresultat etter at urealiserte og realiserte gevinster i aksjeporteføljen krympet. Påtroppende toppleder Greg Abel svarte på markedsuroen ved å kjøpe tilbake egne aksjer for nær ti milliarder dollar for å støtte aksjonærverdiene.",
+    "why_it_matters": "Berkshire Hathaways finansielle disposisjoner og kontantbeholdning fungerer som et toneangivende barometer for risikoviljen og verdsettelsen i det globale aksjemarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Omfattende tilbakekjøp av egne aksjer kan gi kortsiktig kursstøtte til konglomeratet og signalisere at ledelsen anser selskapets egen aksjekurs som mer attraktiv enn eksterne oppkjøpsmuligheter."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Lavere rapportert overskudd blant ledende industrikonglomerater kan føre til økt forsiktighet ved nye oppkjøp og investeringer på tvers av amerikansk næringsliv."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlRmcnB2bWtXOHV1MEJucmRMSFpiMjUtM1dMUnVRbnBybWxCSWJ0YU02QVczWERwbDlNQzJSeThHVnRNUmEtd3dOQzRUQnJhT2V5WlhQczRYdVVGaUV3YVpaNUdvUkNqRDB0aWpDQW5IV0xtbF8zQjdGNm9xYlllMDRSYTZTLXNHMTJGLUNXYXhCMGx2R2drclQ5amZocWJndlE?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/53VzdO/berkshire-resultatet-faller-abel-oeker-tilbakekjoepene?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "USA setter handelsskip ut av spill i Omanbukta og strammer grepet om iransk handel",
+    "summary": "Det amerikanske militæret har uskadeliggjort et kommersielt lasteskip i Omanbukta etter påstander om at fartøyet forsøkte å bryte en etablert blokade. Samtidig varsler USA tiltak for å begrense iransk landbasert varehandel, noe som eskalerer konflikten rundt vitale transportårer i regionen.",
+    "why_it_matters": "Økt militær tilstedeværelse og blokader nær Hormuzstredet truer internasjonal skipsfart og kan utløse betydelig usikkerhet i det globale oljemarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Trusler mot skipstrafikken i Persiabukta kan drive opp risikopremien på råolje og føre til høyere eksportinntekter for norske olje- og gassprodusenter."
+     },
+     {
+      "area": "Handel",
+      "effect": "Skjerpede sjømilitære blokader vil trolig tvinge rederier til å omdirigere ruter, noe som kan øke internasjonale fraktkostnader og forlenge leveringstidene for innsatsvarer."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Direkte amerikanske inngrep mot iranske forsyningslinjer kan eskalere regionale gjengjeldelsesangrep og skape økt politisk ustabilitet i hele Midtøsten."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3Z5Um5vZGVEQndERDNUZDljektyalQxMjB1SVk0SkNJOWRSSWJRLVBUc0czRzIxMWtFSEs0WnFoVk81XzN6V0xKOGZkNkUzYXFiM2wwdGE2cks3Uk05RlRpQk92SWp3REllTGF4cUVFV0IyelBXbFJNRzVJem5DRkVCLWRKQ0tPQTNVWi04NU5yRlJEeE1MUmVreHVHQ2RrYTZrUHpuLUs?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pNkFld01ELWcxQXZhU1BOajEwU2lDS3lSeEUyNDAyQV8teFlpR1QzTlVMLWNVTTdDakFjWG9XbFZCZFF1d20zcHZJYjBYdERuQTY2RFN1TE5FakdSNnRxU25pVWxJeGREYi1oWm5hcDdSOGxUc1g4Zw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Amerikansk inflasjon ventes å dempe seg etter nylig oppgang",
+    "summary": "Nye analyser indikerer at den amerikanske prisveksten er i ferd med å kjøle seg ned igjen etter et uventet hopp i tidligere måneder. En avtagende inflasjonstakt vil lette presset på den amerikanske sentralbanken foran kommende rentemøter.",
+    "why_it_matters": "Prisveksten i USA styrer Federal Reserves rentebane, som igjen har direkte innvirkning på globale markedsrenter og den norske kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Lavere amerikansk inflasjon kan gi Federal Reserve handlingsrom til å senke styringsrenten tidligere, noe som reduserer det globale oppadrettede rentepresset."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Dersom rentedifferansen mot utlandet stabiliserer seg til Norges fordel, kan den norske kronen få drahjelp mot dollar og euro fremover."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Utsikter til lavere finansieringskostnader kan stimulere verdsettelsen av vekstselskaper og styrke risikoviljen i det internasjonale aksjemarkedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Konkurransetilsynet og Virke advarer mot nye regler i matvaremarkedet",
+    "summary": "Både Konkurransetilsynet og hovedorganisasjonen Virke retter en kraftig advarsel mot nye foreslåtte reguleringer som er ment å styre innkjøpspriser og leverandørforhold. De advarer om at inngrepene risikerer å svekke konkurransen og føre til ytterligere prisvekst for forbrukerne.",
+    "why_it_matters": "Næringsmiddelsektoren utgjør en betydelig del av norske husholdningers konsum, og feilslått regulering kan forsterke den innenlandske inflasjonen.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Stivbente handelsregler kan redusere kjedenes mulighet til å forhandle frem rabatter, noe som kan gi vedvarende høye matpriser i butikkhyllene."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Etableringshindre og detaljstyring av innkjøpsbetingelser kan svekke lavpriskjedenes konkurransekraft og låse fast etablerte markedsandeler i dagligvarebransjen."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Offentlige påbud som begrenser markedsaktørenes handlefrihet, kan føre til langvarige rettslige tvister mellom staten og de store dagligvareaktørene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/Ogv5nb/ikke-vedta-regler-som-kan-gi-dyrere-mat?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Metas obligasjonssalg markerer et skifte for teknologigigantenes gjeld",
+    "summary": "Meta Platforms har gjennomført et omfattende obligasjonssalg i markedet, noe som ifølge markedsanalytikere illustrerer en ny finansiell virkelighet for de store teknologiselskapene. Selskapene må i større grad belage seg på fremmedkapital for å finansiere enorme investeringer i kunstig intelligens og datasentre.",
+    "why_it_matters": "Teknologisektorens voksende gjeldsopptak påvirker likviditeten i det globale obligasjonsmarkedet og setter nye krav til selskapsfinansiell disiplin.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere rentekostnader på ny gjeld kan legge press på teknologiselskapenes frie kontantstrøm og dempe veksten i fremtidig overskudd per aksje."
+     },
+     {
+      "area": "Renter",
+      "effect": "Masseutstedelse av selskapsobligasjoner fra kapitalsterke teknologiselskaper kan presse kredittpåslagene oppover for andre låntakere i obligasjonsmarkedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Konkurser rammer norske bilforhandlere etter svak etterspørsel",
+    "summary": "Forhandlerne Elverum Auto og Slatlem Trondheim har begge meldt oppbud, mens fire andre forhandlere i samme konsern opprettholder driften inntil videre. Konkursene kommer i kjølvannet av svakere nybilsalg, høyt rentenivå og endrede rammebetingelser i det norske bilmarkedet.",
+    "why_it_matters": "Bilbransjen er en ledende indikator på norske husholdningers vilje til å gjøre store kapitalintensive innkjøp i en periode med høye renter.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Sviktende ordreinngang og høye varelagerkostnader kan tvinge flere kapitalkrevende bilforhandlere ut i restrukturering eller konkurs de neste månedene."
+     },
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Oppbud i etablerte bilforhandlere fører til oppsigelser og kan øke ledigheten blant mekanikere og salgspersonell i berørte distrikter."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Kunder hos konkursrammede forhandlere kan oppleve usikkerhet rundt garantioppfølging, levering av forhåndsbestilte biler og serviceavtaler."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Gadi Eisenkot får oppdraget med å danne ny regjering i Israel",
+    "summary": "Israels president Isaac Herzog har gitt opposisjonsleder og tidligere forsvarssjef Gadi Eisenkot i oppdrag å forsøke å danne landets neste regjering. Avgjørelsen er et markant politisk tilbakeslag for sittende statsminister Benjamin Netanyahu etter et jevnt parlamentsvalg der ingen av blokkene oppnådde rent flertall.",
+    "why_it_matters": "Et eventuelt regjeringsskifte i Israel kan endre den politiske dynamikken i Midtøsten og påvirke pågående forhandlinger om våpenhviler og sikkerhetsordninger i regionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "En ny regjeringskonstellasjon under Eisenkot kan føre til en kursendring i landets sikkerhetspolitikk og påvirke diplomatiske relasjoner til både USA og regionale naboland."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617",
+      "paywall": false
+     },
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Seks personer drept i masseskyting på torget i Kraków",
+    "summary": "En bevæpnet gjerningsperson åpnet lørdag ild mot tilfeldige mennesker på hovedtorget i den polske storbyen Kraków, og tok livet av minst seks personer, inkludert en britisk turist. Polske myndigheter opplyser at gjerningsmannen var motivert av ytre høyre-ideologi, og tre ytterligere omkomne ble senere funnet i mannens bolig.",
+    "why_it_matters": "Terroren skaper dyp uro i sentraleuropeiske byer og setter fornyet fokus på trusselen fra høyreekstrem voldsbruk og radikalisering i Europa.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Angrepet vil ventelig føre til skjerpet beredskap og økt politinærvær på offentlige samlingsplasser og turistmål på tvers av europeiske storbyer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Parlamentsvalget i New Zealand forblir uavklart etter jevnt resultat",
+    "summary": "Valget i New Zealand endte i en fastlåst situasjon der ingen partier sikret seg rent flertall, selv om sentrum-høyre-partiet National ser ut til å bli parlamentets største parti. Landet går nå inn i uker med krevende koalisjonsforhandlinger for å etablere en levedyktig flertallsregjering.",
+    "why_it_matters": "Politisk usikkerhet i New Zealand kan forsinke viktige nasjonale reformer innen handel, infrastruktur og klimapolitikk i Stillehavsregionen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Politikk",
+      "effect": "Langvarige regjeringsforhandlinger kan lamme politiske beslutningsprosesser og skape uforutsigbarhet for landets offentlige investeringer og budsjettbehandling."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-07-08",
   "hour": 8,
   "date": "2026-11-07",
@@ -7022,270 +7269,6 @@
      {
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-20-20",
-  "hour": 20,
-  "date": "2026-10-20",
-  "generated": "20.10.2026 20:29",
-  "overview": "Dagens nyhetsbilde preges av økende spenninger rundt ressursforvaltning og handel, markert ved EUs skjerpede linje mot oljeleting i Arktis og rettslige oppgjør om amerikanske tollsatser mot Canada. Samtidig skaper et historisk svakt norsk nyboligsalg og sårbarheter i internasjonal skyinfrastruktur bekymring for henholdsvis byggenæringen og finanssektoren.",
-  "stories": [
-   {
-    "title": "EU vil stanse all oljeleting i Arktis",
-    "summary": "EU-kommisjonens president Ursula von der Leyen understreker i unionens nye arktiske strategi at fossile brensler som olje, gass og kull må forbli i bakken. Utspillet utfordrer Norges planer om videre leting og utbygging i Barentshavet, der regjeringen har tildelt nye letearealer. EUs holdning signaliserer en skjerpet miljøpolitisk linje overfor petroleumsvirksomhet i sårbare nordlige havområder.",
-    "why_it_matters": "Dersom EU strammer inn regelverket for arktisk gass, kan det svekke den langsiktige etterspørselen etter og finansieringen av norske energiprosjekter i Barentshavet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Strengere europeiske klimakrav kan redusere letevilligheten i umodne nordlige havområder og tvinge oljeselskaper til å prioritere feltnære investeringer."
-     },
-     {
-      "area": "Regulering",
-      "effect": "Norske myndigheter kan oppleve økt diplomatisk og regulatorisk press fra EU, noe som kan komplisere fremtidige konsesjonstildelinger i nord."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
-      "paywall": false
-     },
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUFVYkJWSDBycUZiN29PN3UtVkZwQzlnc2lOQ2pQRTduYTdEemFfNjdncTRBZGdTb0VLUTNfQm90c1lUWWFDc2YyNDJMdnVJWThPYjVpNGpvYXZxV2pDVzlBTXBwYUdkNFh3VmhWLXVMby1paDA4ekhiVlBBb25TQmNEeVNUWnVQclo3cm1xX0JKZFlNQl81TVp4NmwzZW43Wk9DX0JrRkhraHVFMXc?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Norsk sokkel runder 100 felt tross varsler om produksjonsfall",
-    "summary": "Norge feirer at det for første gang er 100 felt i drift på sokkelen, men feiringen overskygges av advarsler om en kraftig nedgang i produksjonen fremover. Uten betydelige nye drivverdige funn eller omfattende tiltak for økt utvinning ventes norsk oljeproduksjon å falle markant mot slutten av tiåret. Utviklingen skaper bekymring for aktivitetsnivået i offshore-leverandørindustrien på lengre sikt.",
-    "why_it_matters": "Oljeproduksjonen er en av Norges viktigste inntektskilder, og et fall i volum vil redusere statens skatteinntekter og eksportverdi.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Lavere samlet utvinning over tid vil redusere innbetalingene fra petroleumsskatt og dermed begrense statens fremtidige handlingsrom over statsbudsjettet."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Norsk leverandørindustri må omstille seg mot fornybar energi eller internasjonale markeder når aktiviteten på norsk sokkel gradvis trappes ned."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623",
-      "paywall": false
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclZ0a1lMd0VtTGdfdzQ5UHk1SWdadFpDNVVtczdocWpsT3E3SjFvN1ZOdUdtM2Nld05yUnBBWjAwbFI1VWdBQ2g5Y1VqRXA2WjhHQ3Q5UE42eTdJejByTHBIVWlLUGI1OHpoVmMwdkpfY29IWFVWY0RRRE1HR1c1TFU5SE9ubFVYUGhwTw?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Nyboligsalget i Norge faller til historisk lavt nivå",
-    "summary": "Salget av nye boliger i Norge har sunket til et historisk bunnivå som følge av et vedvarende høyt rentenivå og økte byggekostnader. Boligutviklere opplever sviktende etterspørsel fra husholdninger som rammes av strammere lånevilkår og redusert kjøpekraft. Den lave igangsettingen fører til et betydelig etterslep i boligbyggingen over hele landet.",
-    "why_it_matters": "Den svake boligbyggingen forsterker boligmangelen i pressområder og risikerer å drive bruktboligprisene kraftig opp så snart rentene faller.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Bolig",
-      "effect": "Det lave igangsettingstempoet vil gi færre ferdigstilte boliger om to til tre år, noe som kan presse leie- og bruktboligpriser kraftig opp."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Byggenæringen står overfor økt risiko for permitteringer og oppsigelser dersom ordretilgangen på nye boligprosjekter forblir på dagens svake nivå."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjgwR1BVeDM4M2RzV1RCZ1lWczQ4VUd2eVkzVGRwTnU0RUZPZDRCMW9UY3ZCZVpEOUNnUnZ2clMyVTVwbmM1N1UyWUluVGRIUEoxWC1YYnhDTWpmdFUwYVoyWjNxSXdPU1h6VVdUSElkZXhYcXNRdGd0Y3AwOW8xQUxzT0tIV3o2S1IzVHhnS3RmZDQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Lundin-familien bak ny oljefusjon til 11 milliarder på Oslo Børs",
-    "summary": "Lundin-sfæren gjennomfører en ny sammenslåing av oljevirksomheter verdsatt til 11 milliarder kroner med notering på Oslo Børs. Transaksjonen markerer fornyet optimisme for uavhengige oljeselskaper og samler ressursene i et mer robust konsern. Fusjonen har som mål å styrke selskapets investeringsevne og sikre videre feltutbygginger på sokkelen.",
-    "why_it_matters": "Satsingen bekrefter at Oslo Børs opprettholder sin posisjon som en attraktiv kapitalmarkedsplass for energisektoren tross politisk usikkerhet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Børsnoteringen av et større fusjonert oljeselskap tilfører likviditet og tiltrekker internasjonale institusjonelle investorer til den norske energisektoren."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Konsolideringen blant mellomstore oljeselskaper kan gi stordriftsfordeler og lavere kapitalkostnader ved utbygging av mindre modne funn."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3RqTTJUTy1mQ3VLT1oxVHpvbkRjZzdmYXRzQVg1dlNwX2RaTHhtSXJKUnh1TWtwNjB6NVphWktITElib0hyaS1hbVJwZ1JOdnFRdkptQnluUHgxWlRxNkVhQ2E5dUZ0YlZpYmpKMXBhMk1zR3VnOVRacXdDRzVLOW1oa2tKNzJFUWNZX3kyem9jZllDcXVCQU5zc2VPZVZQVjZGbXNIa3Z0WHhnejBCd0pGelpNY3M?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Svakere boligtall i USA skaper hodebry for sentralbanken Fed",
-    "summary": "Nye data for det amerikanske boligmarkedet svekket seg ytterligere i september, samtidig som Federal Reserve vurderer om det kreves flere rentehevinger. Høye boliglånsrenter demper boligkjøp og nybygging drastisk, noe som skaper tydelige sprekker i den økonomiske aktiviteten. Sentralbanken står overfor en vanskelig avveining mellom å få bukt med inflasjonen og å unngå en dypere boligkrise.",
-    "why_it_matters": "En oppbremsing i USAs eiendomsmarked kan dempe den økonomiske veksten globalt og påvirke rentebanene til andre vestlige sentralbanker.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Svakere økonomiske nøkkeltall kan tvinge den amerikanske sentralbanken til å stanse rentehevingene tidligere enn fryktet for å hindre en dyp resesjon."
-     },
-     {
-      "area": "Bolig",
-      "effect": "Vedvarende høye boliglånsrenter i USA presser husholdningenes lånekapasitet og demper byggeaktiviteten, noe som sprer seg negativt til underleverandører."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Trump-administrasjonen saksøkes over 50 prosent toll på canadiske varer",
-    "summary": "Donald Trumps administrasjon har blitt saksøkt etter innføringen av en straffetoll på 50 prosent mot en rekke importvarer fra Canada. Samtidig har administrasjonen droppet tolltrusler mot den canadiske flyprodusenten Bombardier med henvisning til amerikanske arbeidsplasser. Det uforutsigbare tollregimet skaper betydelig usikkerhet for industriaktører og forsyningskjeder på tvers av grensene.",
-    "why_it_matters": "Økende proteksjonisme mellom de nordamerikanske handelspartnerne truer etablerte verdikjeder og kan drive opp inflasjonen internasjonalt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Høye og uforutsigbare tollsatser mellom nære handelspartnere forstyrrer etablerte verdikjeder og øker risikoen for proteksjonistiske mottiltak fra andre land."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Ekstra tollkostnader veltes ofte over i sluttbrukerleddet, noe som kan bidra til fornyet prisvekst på importerte industri- og konsumvarer."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUGVFb0Mtd09NZF90S24wRWJyVjc0amRwSUlOOGJYa01oeUM4WkZiLTJVLUw2aWZYYXY5NmdDNWVYT1FvNlEyRi0yYXhoSGxVdWwxdFdGdzhMZ2M2ZFhkM1dTV2M4UFJON1BFbkRkNmIwUHFlMHB2MVhsd1BRSWFac1FNejF2ckZoWER6ZHFoRmpMel82Q2NEb3p3MWRBSFdEZ3dNTDZwak11bW9WUEhnQTFzRQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Google Cloud-nedbrudd skapte kaos for britiske banker",
-    "summary": "En større teknisk feil hos Google Cloud førte tirsdag til omfattende driftsstans for flere britiske finansinstitusjoner og nettsteder, deriblant fintech-giganten Revolut. Hendelsen lammet kunders tilgang til nettbanker og betalingstjenester i flere timer før systemene gradvis kom på nett igjen. Feilen retter søkelyset mot den finansielle sektorens ekstreme avhengighet av et fåtall amerikanske teknologileverandører.",
-    "why_it_matters": "Systemiske avbrudd i sentral skyinfrastruktur utgjør en betydelig operasjonell risiko for stabiliteten i det moderne finans- og betalingssystemet.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Finanstilsyn internasjonalt vil trolig skjerpe kravene til beredskapsplaner og diversifisering for banker som lener seg tungt på enkelte skyleverandører."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Svikt i digitale bank- og betalingstjenester hindrer vanlige kunder i å gjennomføre nødvendige transaksjoner og svekker tilliten til kontantløse løsninger."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmtxU0llU3JkYXhuYzZuM21hMGt6cUxxM1JWMWFPRWF1UzdGQzk4MlVhYnV1OTRKU0pOWFhTNmRqdzJZU3lzeXF5MWE1RWoweEVSam9rMG5pQUFnX05INkFZRHpVWnVWRUY3OEF0U0NTS2lPVkc5aUNYSFkxbXc5OHFMV1psOTg3LWM1ZC1obkdUZDFTbTVrSXIyblZicFZqNmVCTW1LNA?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa19yZHNPSUxKdDBqd2FfTDNXbThvRC1nRWdsLWVzd2htZDhQTE1YT3BPRnFXOEZNdFZKbnJhUlUyZnFldnBIRnhkalRrVmNmazB6U2lEdjNzSGMyMURLYTFYNldpYlBTQk45VWF3UVhlVUpTbHluUHZWVDZxZzczcVRGUjNVX2ludFBOODYySGJHVF9X?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Fredssamtaler i Oslo parallelt med russiske angrep mot Ukraina",
-    "summary": "Ukrainas president Volodymyr Zelenskyj har deltatt i samtaler i Oslo med amerikanske og europeiske utsendinger for å sondere mulighetene for fredsforhandlinger. Samtidig som møtene fant sted, rammet massive russiske luftangrep Ukraina med sivile tap. Zelenskyj har åpnet for eventuelle trepartsforhandlinger med Vladimir Putin og Donald Trump dersom forutsetningene er til stede.",
-    "why_it_matters": "Norges rolle som arena for diplomatiske samtaler understreker behovet for en samordnet vestlig linje for sikkerhet og stabilitet i Europa.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Diplomatiske fremstøt i vestlige hovedsteder kan forme rammene for fremtidige sikkerhetsgarantier og bistandspakker til gjenoppbyggingen av Ukraina."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZjBGZWQwSjlYd2Zrc1lncjhvcG5uOGpZOTI2aVhhVHY4YzhDTlNRRWJWTnIzdnk4V1FfVUpTbzNkX3gtOGdwU3VNTTZCdFN3Z055akhaMjNKSDVqY3hXNzM4bmpaU0lQQ0dwTlhIQ0prUUVyRkNtbzhyN3BDOWlIWk02YUItdkI4Nnc3cTJZancxRTk3b2ZSWjd6TlMyN21IUWtXWFUtRjBmaUItQjRGZA?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEhGVzFOVWh0MVV4WVB6aWNoREZMWHJheXRDRlJjV0g3bXZaWlZCOGlsZUNzMVRCaEdreFhfX0ZhdTc0cl9sX0ZWdW4yS2tPRU1kV1gtUjNLLTM2LUNId1dEbzNZLTMzZks3dFEybnpZY2FMSHVNdzJDUFdiQUplUk1xSGROczNwLUFQZ0htVnVyR2dRMEI0RVkxNWhSSFFEZE5mNGdGdGU4YVpMN3VWbU1SNXp3QXY4bXc?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Velgerne i Alberta avviser løsrivelse fra Canada i folkeavstemning",
-    "summary": "Innbyggerne i den canadiske provinsen Alberta stemte med overveldende flertall nei til et forslag om å starte en prosess for løsrivelse fra Canada. Resultatet gir en avgjørende politisk seier til statsminister Mark Carney og tilhengerne av canadisk enhet. Avstemningen setter et punktum for en periode preget av skarp politisk splittelse og separatisme i landets oljerike kjerneområde.",
-    "why_it_matters": "Utfallet avverger en potensiell konstitusjonell krise og sikrer videre stabilitet i Canadas politiske og økonomiske føderasjon.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Det klare nei-flertallet demper separatistiske strømninger i provinsen og styrker den føderale regjeringens autoritet i nasjonal ressurs- og klimapolitikk."
-     }
-    ],
-    "sources": [
-     {
-      "name": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Britiske pågripelser etter mistanke om iransk spionasje ved flybase",
-    "summary": "Britisk antiterrorpoliti har pågrepet to personer mistenkt for å bistå iransk etterretning etter en hendelse ved flybasen RAF Fairford. Sikkerhetsmyndighetene vurderer det som svært sannsynlig at den iranske staten er direkte involvert i operasjonen. Pågripelsene føyer seg inn i et mønster av økt bekymring i vestlige land for iransk etterretningsvirksomhet og sabotasjetrusler mot militære mål.",
-    "why_it_matters": "Saken understreker de økende sikkerhetsspenningene mellom vestlige land og Iran samt trusselen om irregulær spionasje mot strategiske forsvarsanlegg.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Avsløringen kan føre til ytterligere forverring av det diplomatiske forholdet mellom London og Teheran og utløse strengere sikkerhetstiltak ved allierte militærbaser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5",
       "paywall": false
      }
     ]
