@@ -1,5 +1,273 @@
 [
  {
+  "id": "2026-11-09-08",
+  "hour": 8,
+  "date": "2026-11-09",
+  "generated": "09.11.2026 08:51",
+  "overview": "Internasjonale markeder preges av uro i teknologisektoren etter at Nvidias toppsjef granskes for mulige spionasjebånd, samtidig som ferske tall viser overraskende sterk produsentprisvekst i Kina. I Norge setter Statnett bremsene på for nye datasentre for å trygge forsyningssikkerheten i kraftnettet, mens finanssektoren gjør seg klar for en travel noterings- og rapporteringsuke.",
+  "stories": [
+   {
+    "title": "Nvidia i hardt vær etter spionanklager og gransking av Jensen Huang",
+    "summary": "Nvidias styre har igangsatt en uavhengig gransking etter meldinger om at toppsjef Jensen Huang har hatt et forhold til en kvinne mistenkt for å være kinesisk etterretningsagent. Huang innrømmer utroskap, mens USAs president Donald Trump har gått offentlig ut med støtte til teknologilederen. Nvidias aksjekurs falt om lag tre prosent i etterhandelen som følge av den oppståtte usikkerheten rundt selskapets ledelse.",
+    "why_it_matters": "Nvidia er selve motoren i den globale KI-bølgen, og ledelsesuro eller skjerpet regulatorisk gransking kan forplante seg direkte til verdens aksjemarkeder og globale leverandørkjeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt usikkerhet rundt toppledelsen i Nvidia kan legge press på verdsettelsen av store teknologiselskaper som er høyt priset på forventninger om stabil vekst."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Saken kan utløse skjerpet gransking fra amerikanske myndigheter og fremskynde ytterligere restriksjoner på eksport av avanserte mikrobrikker til det kinesiske markedet."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Styrets håndtering og eventuelle sikkerhetsbrudd kan tvinge frem strengere interne retningslinjer for sikkerhetsklarering av ledere i strategisk kritisk teknologibransje."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pTclA4c2pDZlE3NXExNGt0dU9JUDRTaU80SVhfU1FzV2pmSzhYZG9rdzdPaGZSRHV3LXEtaDAwX0ttREhYUGwtalVma1ktTlBCSUdzLUJETkhFVm5ETDVrNVF6OGswVE5EempEc01PSXlrbWRtUERvWDlwVk5KMnlmRmlNNDRYRS1ubHB2bl9oRXp6WFg1cGFYVVdzSnBaNE53?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3dOYm9ZRDk5WkxsTGFrb0MtWFMwMmd2SWRBdG1PX2NzdExkUDVjZ1YydXl0MGxNYlV4am9uc19hMDR3Wll5ZTBuY284OUk4ZnFudjBkMERLQldwVmZQVkNwQUhZZGFFOEtkM0NlWFVFbnBJZW5iZ0pOcTFRZ2RzVlYtM3o?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/ez1Ldg/trump-stoetter-nvidia-sjefen-etter-utroskap-med-mistenkt-spion?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Statnett innfører midlertidig stans for krafttildeling til datasentre",
+    "summary": "Statnett varsler full midlertidig stans i tildeling og reservasjon av strømkapasitet til nye datasentre i Norge. Årsaken er et akutt behov for å opprettholde en teknisk og driftsmessig forsvarlig balanse i det nasjonale kraftnettet. Beslutningen rammer planlagte nyetableringer og utvidelser i en sektor som opplever kraftig vekst.",
+    "why_it_matters": "Tilgang til fornybar energi er en av Norges viktigste konkurransefordeler, og kapasitetsbegrensninger i strømnettet setter direkte grenser for industriell omstilling og digital vekst.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Datasenteraktører og investorer må sette planlagte milliardprosjekter på vent, noe som kan føre til at internasjonale investeringer flyttes til naboland med ledig nettkapasitet."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Stansen kan midlertidig avlaste presset på det norske kraftnettet og bidra til jevnere regional kraftbalanse for eksisterende industri."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Berørte kommuner som hadde lagt til rette for store datasenteretableringer risikerer bortfall av forventede fremtidige skatteinntekter og nye arbeidsplasser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/i/kMag69/statnett-midlertidig-stans-i-kraft-til-datasentre",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVG5jZUVVaWl5NFRScFlQcTU0QWJCY0Z3ZS1fZTNFaTRUWDF1bFpocGJ3UThTWUtmZHRYMlhrejd4V29PMDdNc0p5ejl5MWtQVHhKY0tQTTBVMlVaNndJbzJTaWQ3ZG5NWHRqZ1pwWEFoTUdyTWV2RzZJZGljV3I3UjBUU1FJV2pJb3VTdmhSdm1TSHphUjdTWXhEQ1ZfM3pzWXN1N3d2OUIxWFdnYU1OY3I2UzdWREhu?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kinesisk produsentprisvekst bykser til 5,7 prosent",
+    "summary": "Kinas produsentprisindeks (PPI) steg til 5,7 prosent i oktober sammenlignet med samme periode i fjor, godt over forventningene i markedet på 5,3 prosent. Dette markerer den kraftigste oppgangen i engrosinflasjonen på over fire år, samtidig som den bredere konsumprisveksten viser tegn til å dempe seg.",
+    "why_it_matters": "Som verdens fabrikk eksporterer Kina ofte prisimpulser til vestlige økonomier, og vedvarende høy fabrikkinflasjon kan forsinke den globale desinflasjonsprosessen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "Høyere produksjonskostnader i kinesisk fabrikkindustri kan gradvis forplante seg til vestlige importpriser og gjøre kampen mot global prisvekst mer krevende."
+     },
+     {
+      "area": "Renter",
+      "effect": "Dersom importert vareinflasjon biter seg fast internasjonalt, kan sentralbankene bli tvunget til å holde styringsrentene høyere over en lengre periode enn tidligere antatt."
+     },
+     {
+      "area": "Handel",
+      "effect": "Divergensen mellom fallende innenlandsk forbruk og økte produksjonspriser kan svekke marginene til kinesiske eksportbedrifter som konkurrerer i globale markeder."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtVSmRjR3dJWkJYWi1ROURuRTNuVXFmUFBDelZtUkFHQ0pwaWRmVzFJNXhiMEFoS0g0Mmx3UTJoTFpEcWFDVm4tNTZMSmV5NkhrRGs1SWhYMC1iNmpaMG92UlRweV9wTldzNHFLdE1qbUh1U0ltcWdNcDUwVHpaVkhidDlobUM3RTNGV0pIbkR2OUF3akRtamtaRi1iN3VuZXl5VkJlS1IzclV3ZFZNVWhyS2U?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kina forlenger pause på straffetoll mot USA til januar",
+    "summary": "Kinesiske myndigheter har besluttet å videreføre utsettelsen av straffetoll på 24 prosent på utvalgte amerikanske varer frem til januar, men opprettholder en grunnleggende sats på 10 prosent. Samtidig tar kinesiske banker grep for å stabilisere yuanen mot amerikanske dollar ved å heve innskuddsrentene for dollar.",
+    "why_it_matters": "Handelsforholdet mellom verdens to største økonomier definerer rammebetingelsene for global frakt, råvareetterspørsel og industrielle verdikjeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Utsettelsen av de høyeste tollsatsene gir internasjonale handelsaktører et midlertidig pusterom og reduserer faren for umiddelbare forstyrrelser i vareflyten over Stillehavet."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Lavere kortsiktig spenning i den globale handelen kan styrke risikoviljen i valutamarkedene, noe som erfaringsmessig kan gi moderat støtte til mindre valutaer som den norske kronen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzF1MFhueDRWX1A3LWlGYWJuZ21hMjNBQkE5aG9JdElOT1pYeUNrMHUxS2lXaGQ4RDAxUUp1T256bjBXelZMZ3UyNDA1UEI5QlJ4SHgwX3QweWsyczBnRUhRTC1PZGtpRUVFNzVycWp3d1RQVE0zUm40SUNURVdES2EwZmpNUFNlMGV5S1lXajlza3A4OW1RSGFzWldtU1N1N0N1R0kxbTUxRGtXU29FX0x3M2J6SU5yVjBxWk1yZmN2WHdvR01UMGtqaw?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Kinesisk gassbrems og mykere oljepris løfter gullprisen",
+    "summary": "Gullprisen steg med over én prosent etter at fallende oljepriser bidro til å dempe umiddelbare inflasjonsbekymringer blant markedsaktørene. Samtidig meldes det at tilgang på rimelig innenlandsk gass i Kina reduserer landets behov for import av flytende naturgass (LNG) inn mot vintersesongen.",
+    "why_it_matters": "Råvareprisene, særlig innen olje og gass, er den mest direkte driveren for norske eksportinntekter, skatteinngang fra sokkelen og overskuddet i Oljefondet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Svakere asiatisk etterspørsel etter LNG kan føre til økt tilbud av gass i det europeiske markedet, noe som kan legge press nedover på europeiske gasspriser."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Vedvarende lavere petroleumspriser kan redusere statens inntekter fra petroleumsskatt og direkte eierskap på norsk sokkel."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEdIVXlJc2RaUEw2RmFrR2FZcXYzYlBKUG9Cdl9WUVFfalVxT0hGcGFCdW1DS3JMT2daanhDYktBeXVGNGt5TGlsOGZJVWVSMFpnT3ZVa2RBUjZYakRlVlQ3SXd1ZkpTQVNXVkpoNUZoemdycWY0MG02dVk0cWRuWG4taG5VMm9kbEluSHctTVZVMXJwWXNWSWdVcmxQeWtRSW1EWDQ2dTJ6QVV2TzhoeQ?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUZfNGswWTV0QkJuSVdRUXN2bWxsWU9EUG11eFp2OUlOV2YwWEltSEx1el80NHFEWDAzd2t4TE9RTmpzLWRBWDJCZkg1cl9YUFdJTGFfNU1iNGdLeUw4dDhZai1FeWNXVGJIaW9MUDhEQlNZZXdjTU5BaXpENWtGZFJKWmFWU3pTRUZRTXRrcmZUT0VzSFJmajcxakRYcXVWcEdPQ215SW5YUUFBZnFJ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Banksektoren i fokus på Oslo Børs: DNB og Heder Bank",
+    "summary": "Oppmerksomheten i det norske finansmarkedet rettes mot DNB foran konsernets kapitalmarkedsdag, der analytikere ser etter signaler om kapitaldistribusjon og fremtidig marginutvikling. Parallelt melder utfordreren Heder Bank at de planlegger notering på Oslo Børs etter en periode med sterk vekst.",
+    "why_it_matters": "Bankene utgjør en tung del av Oslo Børs og fungerer som en temperaturmåler på norsk kredittvekst, utlånstap og husholdningenes økonomiske bæreevne.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Signaler om høyere utbyttekapasitet eller aggressive tilbakekjøpsprogrammer fra DNB kan styrke interessen for norske finansaksjer blant institusjonelle investorer."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Nye børsnoteringer i banksektoren kan skjerpe konkurransen om person- og bedriftskunder og presse utlånsmarginene i det norske markedet."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/X9GnEE/analytikere-dette-boer-du-vite-foer-dnbs-kapitalmarkedsdag?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkxzazhET3RTWko3UVJJVVhVRjJzcjNDREtBRG1nbnpYQ01Ga3QwSmtmdGNwbjZlOGlMaU5aamd0NzRIX05ucjdVVXllaXNKdFoyUGtjYkl2czlCcEQzSERkWWxOanJobHlQLVhRWlh4QURuMlgxcXk1aEZJVlR2bnRNOTlUMjJmenNKTENsNEZCTkVFNW5kWFlWZmd2SFpOWlpMdF9NUGVZM3VBX1ZWeEZwWU95X0dja0NlUFM0RG96RGhCN2V0WUZZcw?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Kraków-skytteren bekreftet død på sykehus",
+    "summary": "Den 24 år gamle gjerningsmannen som skjøt og drepte seks personer på hovedtorget i den polske byen Kraków, er død på sykehuset etter skuddveksling med politiet. Polakker og myndigheter sørger mens politiet etterforsker bakgrunnen for hendelsen, der tre familiemedlemmer av gjerningsmannen også ble funnet døde i sitt hjem.",
+    "why_it_matters": "Det dødelige angrepet har rystet Polen og utløst fornyet debatt om offentlig sikkerhet, våpenkontroll og beredskap i sentraleuropeiske storbyer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Hendelsen fører til skjerpet politiberedskap og intensivert overvåking på offentlige samlingssteder i Polen og nabolandene i Sentral-Europa."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JCSWlLOUNwYXJVdFZDNkd6QndqWm4tVGxvT2piU202T3NWeXV5VkxEcjVIclV3cG9aa1Yxa1BMUmlSeHVuV1lvc0FYVzRZQXBrVE16Q19uVXJPNWZPbTRKdjcwNWIwNFhxeXRCS19wSEVPU2xoWk51dGdmU0p3U1VZeWRDUFFxUi1ZcmxUenBFdE05cm5iQU5hWjJhLWRDZFkydU9rRlZGNG1qbFhOag?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Klimatoppmøtet COP31 åpner i Tyrkia med rekordvarme som bakteppe",
+    "summary": "Verdens ledere samles i Tyrkia til FN-klimatoppmøtet COP31, samtidig som klimaforskere anslår at 2026 ligger an til å bli det varmeste året som noensinne er målt. Under åpningsdagen kunngjorde Norges regjering et bidrag på 600 millioner kroner til Brasil som belønning for historisk lave avskogingstall i Amazonas.",
+    "why_it_matters": "Forhandlingene under toppmøtet legger premissene for fremtidige globale kvotepriser, reguleringer av utslipp og internasjonale overføringer til klimafinansiering.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Møtet kan føre til skjerpede internasjonale krav til utslippsrapportering og overgangsordninger for energiintensive industrier over hele kloden."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU8wcnlKSFdOUDFITlRFV21ZNHVjNF9kQktSTi12UTZGX3dtbC13OG5YMkkzdVVuYS0wcFREbGpCWkd4R2x2cDdvTnVacE5VVTNUTE5SS01tSW1wbEZFQkQza3RaLTg4QWoxdEJHRDBORTVJRWN5bGRzV05MUmZnNzBFaE1xZFhZYlBDaU9EWXd5ZVlFX3pkRWtR?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/norge-gir-600-regnskogmillioner-til-brasil-1.18077109",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Avsatt statsminister Sheikh Hasina søker nytt pass for retur til Bangladesh",
+    "summary": "Bangladeshs avsatte statsminister Sheikh Hasina, som har oppholdt seg i eksil i India i to år, har søkt om nytt pass med mål om å returnere til hjemlandet i desember. Hennes planlagte retur skjer i en svært betent politisk situasjon og truer med å utløse nye demonstrasjoner og politisk uro.",
+    "why_it_matters": "Politisk stabilitet i Bangladesh er avgjørende for stabiliteten i Sør-Asia og for landets omfattende tekstilindustri, som leverer varer til globale kleskjeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "En eventuell retur for Hasina kan utløse omfattende gateprotester og forverre det diplomatiske forholdet mellom nabolandene India og Bangladesh."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQy1pMFQtX2ZjVFVyZTJSR296WXMzdl9haTFsMEk5S2RWR0wwWWpzNG12Mld0VFVIYVpnOEZnVHVBa3ppeTJVZHNjZlNyQXhxWTBDVFhiSU1nbDJUSXdlaUZzdzl5d2twLWZKMW9DazVxNFNiamQyY1h6cDM2WDUyRFM0ZjVWSTlhWWFkaWtSREtmVFVNV29qT3U3d0dBcGx1eHNBblZZQTc3ajF4Q1dQWVln?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-08-20",
   "hour": 20,
   "date": "2026-11-08",
@@ -7081,309 +7349,6 @@
      {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-22-08",
-  "hour": 8,
-  "date": "2026-10-22",
-  "generated": "22.10.2026 08:33",
-  "overview": "Geopolitisk uro i Midtøsten løfter oljeprisen og presser rentene oppover, mens børsene i Asia og Kina faller markant videre inn i et bjørnemarked. Samtidig preges selskapsbildet av blandede kvartalstall, der Yara presses av høye gasspriser mens teknologiselskaper som Nordic Semiconductor og Tesla leverer solid vekst.",
-  "stories": [
-   {
-    "title": "Oljeprisen stiger etter diplomatisk evakuering og eskalering i Midtøsten",
-    "summary": "Oljeprisen klatrer etter at USA har trukket diplomater ut av Saudi-Arabia i forkant av mulige angrep mot Iran, samtidig som den iranske revolusjonsgarden hevder å ha truffet sju fartøyer i regionen. Frykten for en bredere militær eskalering og forstyrrelser i råoljeforsyningen har ført til at gullprisen faller over én prosent som følge av forventninger om vedvarende høye renter. Analytikere peker på at et strammere energimarked kan forsinke sentralbankenes rentekutt.",
-    "why_it_matters": "Høyere globale oljepriser kan forsterke det internasjonale inflasjonspresset og styrke norske petroleumsinntekter på kort sikt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Frykt for forstyrrelser i oljeforsyningen fra Persiabukta kan drive råoljeprisene videre oppover og skape økt volatilitet for europeiske raffinerier."
-     },
-     {
-      "area": "Renter",
-      "effect": "Dersom vedvarende høye oljepriser gir ny næring til inflasjonen, kan store sentralbanker bli tvunget til å holde styringsrentene oppe lenger enn markedet priser inn."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "En oppgang i petroleumsprisene vil kunne gi økte skatteinntekter fra sokkelen og dermed styrke overføringene til Statens pensjonsfond utland."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0a0dDNHVBZ3htWXJxMWhXS19sRkdkMUNBcXF0MzZWejJBMEpLU2p2WEx3Xy1XaHNuamhaUVBmbHU3OG12Y1ZBaVdHRjJ5ck9jV0U2ZGtyRE5KVEdIUTlOa0NjZlJqeU1YRXfSAW9BVV95cUxQbERlN19LekgzYkNqdXFjd3FJb0lYM2JOaGdhWU1oSFdaSVFFTExkeGM5Y19peUFfR1RxZkczR2VwY2tGTGF4ek11SGcyUVZJeURTLVNyVmw0ZEtUdU5WeGVHT0Y0NV9fSkhDd0hRQzg?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWk9teHlrWEtxamRqWU8weEZmX19xaTMybUxoODc2LVU5QUsxTFNzZ1gxYXJCaGlrRU1kQjliZWZZT1BDMGpOSHBpSXdOdWMtN1ZLcE9jQS1hSmdmUEZXSFY3bDhnZkhFY2tkVFdJRHhIUjhnZlVQOWFwVi1hZV9WZ1dNX1FUUTFLRV91SUF0NkNuS0U?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Yara rammes av høye gasspriser og svakere etterspørsel",
-    "summary": "Yara International melder om et svakere resultat før skatt i tredje kvartal enn på samme tid i fjor. Gjødselprodusenten varsler en kraftig økning i gasskostnadene fremover og rapporterer at utsatt etterspørsel i markedet har tynget lønnsomheten. Resultatsvikten understreker utfordringene europeisk prosessindustri står overfor når energiprisene svinger.",
-    "why_it_matters": "Yaras sårbarhet for europeiske gasspriser belyser marginpresset i kraftkrevende norsk industri og kan påvirke aksjonæravkastningen på Oslo Børs.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Høyere råvare- og energikostnader kan redusere driftsmarginene til europeiske industribedrifter og tvinge frem ytterligere produksjonskutt eller prisjusteringer."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Skuffende kvartalstall og dystrere kostnadsutsikter kan legge negativt press på Yara-aksjen og dempe risikoviljen for selskaper innen kjemisk sektor."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb2lDV2FQMUJnX08zVTFXNnJsRG1SVTNSdjFPMm5zX3Flb2tpQndjXzQxTkN1TEI1ZW9RaEdtVlBzMHZNWEF5NWZTNXRHeU9mVG5HWXFhOHo0YmMwcGxmX2N0Z1dTVUNOZFBhWDRlbkh5OTBWMXRCRFNDc2FHeG9GcXFmb3JKVjJ1S3cycXZRUWJDZ0tXQVJiem9qUmRla2JvMVJxbnU3ZHZYNUVVZkNwUGpSY2Q2bmFTSE1tcG84b29xZEZTYWVMdEJ2V21JOGdLXzc4UjJmUW4zWU9l?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/9kA0eM/sterkere-fra-yara?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kinesiske og asiatiske aksjemarkeder faller inn i bjørnemarked",
-    "summary": "Kinesiske aksjer har falt inn i bjørnemarkedsterreng etter en ti uker lang nedgang i CSI 300-indeksen som følge av sviktende optimisme rundt kunstig intelligens og manglende stimulanser. Kursfallet forsterkes av bred nedgang i Asia, der børser i Tokyo og Seoul leder an fallet, samtidig som Alibaba opplever sitt kraftigste fall på to måneder. Markedsanalytikere mener myndighetenes nåværende støttekjøp ikke er tilstrekkelige til å stabilisere aksjemarkedet.",
-    "why_it_matters": "En vedvarende nedkjøling i Kina og asiatiske børser kan svekke den globale industrietterspørselen og ramme verdsettelsen av internasjonale aksjeporteføljer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Det dype fallet i kinesiske indekser kan spre frykt for lavere vekst til vestlige markeder og føre til kapitalflukt mot sikrere rentepapirer."
-     },
-     {
-      "area": "Handel",
-      "effect": "Svakere forbrukertillit og økonomisk motvind i Kina kan dempe etterspørselen etter vestlige eksportvarer og råvarer fra fremvoksende økonomier."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkp5bjg3WHRYdlFYTFc2b1VRRmVpd09Oa0Y1SkxUR2xnUTFyTXAyMG9zcUFnN2pIbU1WQVJBdmVqNG0xZDk1UWM0N1M3djhNaWVwbXVBamhRS3dMMWtPRlhQbGFXWk9BTXVXcnppTVB6ZWl3eTRzM3BqclJ0MlE3MEJVSXhWTUlnYm1aVGVGa01kcmljSXFBX1NTWC1Hd1k5X3hwcGtyRjdtblFhVG9RdmlmVQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUExJMFZtcmo1cjZOcGhIa1BMZE13TFZ0VEo1YnBxRk1ILWtOd2JwUHc1bVNXeDBnVGZ3bjdOU0NWa1ljYlBOVlFLcG1sb28tQTM4MG1FZGdJX05KQ2dxU3lxU0ZEZkxmR0NJSHBJTnZYNC1VR3piYVB2Mm0yWHZhbFRwdXJEUDNoNk9iT1plNXRpUGpudEFIdGtiWE1wNllxaktBZXNsUFRMWFh3X0E?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Sterke kvartalstall og inntektsvekst for Nordic Semiconductor",
-    "summary": "Nordic Semiconductor leverte kraftig inntektsvekst og et betydelig styrket resultat før skatt i tredje kvartal. Det norske halvlederselskapet slo analytikernes forventninger og ga samtidig positive signaler gjennom en høy fremtidsguiding. Tallene indikerer at etterspørselen etter selskapets trådløse komponenter er i ferd med å hente seg markant inn igjen etter en lengre periode med lagertrekk.",
-    "why_it_matters": "Gode resultater fra Nordic Semiconductor bekrefter en potensiell snuoperasjon i halvledersektoren, som er en nøkkelindikator for global elektronikkproduksjon.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Sterke leveranser og offensiv guiding kan tiltrekke institusjonelle investorer og løfte verdsettelsen av norske teknologiselskaper på Oslo Børs."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Økt salgsvolum av brikker kan stimulere leverandørkjeder innen tingenes internett og bidra til høyere investeringstakt i norsk teknologisektor."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjJSbmUzQXVEUEpGZXc5OEtCYVVfcThFVTQzQVpqUW1GeEIwN0tob0dhNU5MT3FjUE9uemxaWGZVVkhtUmc3WXlkaVZwYjRHWVp1Nmd4Y2NQMEpSOTdVZzRWMlVtUmNaYmdjcGR6Vmx6NXcxVktpV1Bxdm5YT2FXaHk4ZTMwWlRoMEJMSEdUdzJ0RXlqS1QwWU8yejItdVZJVW1XQTlaRHAtMHVqb3pCYzl2NTNnV0xDa0didTZ6THBfRzVGclFlTQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/oKQwwW/sterkere-fra-nordic-semiconductor?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Finansavisen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkVtcnRWbzhJWHExZFNjRjVOOVVVcDNEcndyMXZFTjI1cWhvbDNNM0U3MW5vU1Y0OVVGYzFUMjQxZm83LTBKYUtodnJRd0h6dWJyU1RkTWJ2TlBqV3pxdmtKSy1UMjE4aklLcXdGX29hWDRGSVZsWmFHY1NXdUdYd1FHdGNrOXRYd3lLdl91MTNLSkVKdkY3VGJ4RGxYc0M2OWN2RmllLVNIZlpsQVVlMWVR?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "DeepSeek henter 15 milliarder dollar i opptrappet AI-kappløp",
-    "summary": "Det kinesiske kunstig intelligens-selskapet DeepSeek er i ferd med å hente 15 milliarder dollar for å utfordre ledende amerikanske teknologilaboratorier. Kapitalinnhentingen skjer i en fase der investorer debatterer om AI-sektoren er overopphetet, mens rentemarkedene i USA påvirkes av investorer som søker trygge havner. Satsingen viser at konkurransen om avansert maskinlæring og datakraft forblir intens til tross for regulatorisk motvind.",
-    "why_it_matters": "Milliardinvesteringer i kinesisk kunstig intelligens forsterker den teknologiske maktkampen mellom USA og Kina med store ringvirkninger for globale forsyningskjeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Konkurranse",
-      "effect": "Økt tilgang på kapital for kinesiske AI-utfordrere kan presse prisene på avanserte modeller og utfordre de etablerte amerikanske teknologigigantene."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Intensivert konkurranse og debatt om mulige verdivurderingsbobler kan skape økt svingning i prisingen av globale teknologifond og halvlederprodusenter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbV8yRlI5QUgtclQ1Y25PbklMNW5ITlNyUm9udEYwQkFaRmoxZ3R4bVdKOEItVVpLX3lXejBfSzllSVZUTFZuRDVSckkzcHJrUnZwRVhCamxrMzh6cjVPYk04N0thbjRlenFlLXZpT0E3TUtsSzFlS1VBY2NHRTh2Rk5NNDhXRVVoYnJHMWFPbFVPbzZoQm5VMzBpREs5b183eE9PQTZ1SGgySkVxTFE?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kritisk PHP-sårbarhet avdekket med AI utløser millioner av nettangrep",
-    "summary": "Cloudflare rapporterer om millioner av utnyttelsesforsøk etter at en kritisk sikkerhetsfeil ble avdekket i kodespråket PHP, som driver en stor andel av verdens nettsteder. Sårbarheten ble identifisert ved hjelp av kunstig intelligens, og selskaper som Google, OpenAI og Amazon har iverksatt hastetiltak for å tette sikkerhetshullene. Amazon advarer om at nye svakheter funnet med AI nå blir bredt utnyttet i organiserte angrep.",
-    "why_it_matters": "Sårbarheter i sentral internettinfrastruktur truer driftsstabiliteten for digital handel og næringsliv på global basis.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Regulering",
-      "effect": "Omfattende angrepsbølger mot kritisk infrastruktur kan fremskynde strengere krav fra myndigheter om revisjon og sikring av digital programvare."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Bedrifter over hele verden kan bli nødt til å øke budsjettene for cybersikkerhet for å forsvare sine webløsninger mot automatiserte angrep."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "CNBC International",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aVW9GbzJYU2tyRUZaZXhuYVZLUzNKaURYMF96UUxGelZEQlJuS05hd3V2ajZXYThmYS1nZm1fRTFEZ1RlYzJxY0RDSnd2c0dCTTJ5RTRYa2daejlQYVQzNGhsazViYnk0LTRUQzhobnkwMU5pV0lDMzc1ONIBgAFBVV95cUxPWU1MOW5DRUpvWXNVNExyUzRMdVhsUHVyUWdPcUJmY19wMVVEaDNuVFczazh1VWZ5RE85Z0hOQjZWVm9GTS1pd3BOMjhyZ1dRMzdSM1Y3MHBCS3dYaHlhOVBPMHotVmp0ZVNQbE4wZjdKcVcwQnBwVUd5MlJ0VUZuUg?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRWlTVjlfV0ZBcl9tcjZ3b0VhTGd1UFNkNEVNY244akVyV2RxZTBNOG53LVB0bkJzdF9jWVZsOEN3LTBtNkoyWXBfbWdPS3c5dmZyLXdqTVEzQW5Bd0Y4U3JjX1ZQOG5RdTdOVXZ4c29WcndYdUdsN1VzU2lYYkdlUTZkY28?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Tesla slår forventningene og ser mot sammenslåing med SpaceX",
-    "summary": "Tesla rapporterer om en kraftig oppgang i det månedlige elbilsalget i Europa og legger frem kvartalstall som slår forventningene i markedet. Samtidig rettes oppmerksomheten mot administrerende direktør Elon Musk, som vurderer og søker å forankre en historisk fusjonsplan mellom Tesla og SpaceX. De positive leveransetallene har bidratt til et lettelsesrally for aksjen etter en periode preget av uro rundt teknologisektoren.",
-    "why_it_matters": "Teslas salgsutvikling og selskapsstruktur fungerer som en global temperaturmåler for overgangen til elbiler og investorers appetitt på storskala industrisatsinger.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Bedre inntjening og nye vekstutsikter kan gjenreise tilliten til elbilprodusenter og løfte risikoviljen blant amerikanske vekstaksjeinvestorer."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Salgsveksten i Europa viser at etablerte elbilaktører fortsatt kan forsvare sine markedsandeler i møte med økende konkurranse fra kinesiske merker."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/2Ve6nB/tesla-slaar-skuffer-forventningene-gigantfusjon-i-soekelyset?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1ZWUzRWaGZaaWE3WEhkM3ZwSXpfWUQxZWFWVW9FOUhMR2RPejcxbUsxcmNUNC1pTlZuVDlYYVlJWVZnV1o3TEE5eE15VjJJQVd1RGYySWt3VkpCVnFsajVzcFp2MWh5Y3p2ZkV6RWRlWDFMclRIUWxqVm5jWVdJZkpTcW55c0EwMFFtWUsySQ?oc=5",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Omfattende vannbrudd setter Kirkenes sykehus i rød beredskap",
-    "summary": "Et stort brudd på en hovedvannledning i Sør-Varanger har ført til at rundt 6000 innbyggere og sykehuset for Øst-Finnmark står uten vannforsyning. Kirkenes sykehus har innført rød beredskap, og akuttpasienter må transporteres til andre sykehus i regionen. Kommunen opplyser at lekkasjen er lokalisert og at det pågår intensivt arbeid for å gjenopprette forsyningen.",
-    "why_it_matters": "Hendelsen synliggjør sårbarheten i samfunnskritisk infrastruktur i distriktene og utfordringene ved lange avstander innen helseberedskap.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Kritiske feil i eldre rørnett kan tvinge distriktskommuner til å øke investeringene i lokal vann- og avløpsinfrastruktur betraktelig."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/tromsogfinnmark/enormt-vannbrudd-i-sor-varanger-1.18061410",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-1.18061316",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Minst 15 såret i russisk missilangrep mot Kyiv",
-    "summary": "Russland avfyrte ballistiske missiler mot Kyiv natt til torsdag, noe som førte til at minst 15 personer ble såret. To bydeler på østsiden av elven Dnipro ble rammet av ødeleggelser, ifølge ordfører Vitalij Klitsjko. Angrepet skjer samtidig som diplomatiske forsøk på å gjenoppta fredssamtaler viser lite tegn til snarlig gjennombrudd.",
-    "why_it_matters": "Fortsatte angrep mot ukrainske byer opprettholder det humanitære lidelsestrykket og understreker den fastlåste sikkerhetssituasjonen i Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Eskalerende missilangrep mot sivile sentra kan øke presset på vestlige land om å levere mer luftvern og materiell til Ukrainas forsvar."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/15-saret-i-missilangrep-mot-kyiv-1.18061314",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "USA evakuerer diplomater fra Saudi-Arabia etter økt Houthi-trussel",
-    "summary": "Det amerikanske utenriksdepartementet har beordret utreise for deler av sitt diplomatiske personell i Saudi-Arabia på grunn av fare for opptrappede angrep. Bakgrunnen er frykt for eskalering fra Houthi-militsen i Jemen samt nylige angrep mot en flyplass i landet som krevde ett menneskeliv. Evakueringen vitner om skjerpet regional sikkerhetsrisiko og tiltakende spenninger på tvers av Den arabiske halvøy.",
-    "why_it_matters": "Den tilspissede sikkerhetssituasjonen for vestlige representasjoner i Gulfen illustrerer den høye faren for en bredere regional konflikt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Økt militær trussel mot Saudi-Arabia kan svekke den regionale stabiliteten og tvinge frem mer omfattende amerikanske forsvarsinnsatser i Gulfen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSkdGRlFLaE1FOXc3dGM0UHhMVnpzcjF6SkR4TzJRTWtuTm0wZmpGVFJMeEZydGx5VndhUGo3dzN2ZHJCOHdnVVVGVE9LNFNfVlgyTzlmRHJadlRuTk10OFdaZ1otTlB2OEhHWTJvUlQ3Sk5QYUI4Tk9HRjhfMVFmWXBUM0JSXzllODBTNTRqOEk5U00?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
