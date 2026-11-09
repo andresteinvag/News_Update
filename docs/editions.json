@@ -1,5 +1,315 @@
 [
  {
+  "id": "2026-11-09-20",
+  "hour": 20,
+  "date": "2026-11-09",
+  "generated": "09.11.2026 19:40",
+  "overview": "Uken preges av et dramatisk børsfall for teknologigiganten Nvidia etter oppstart av styregransking rundt toppsjef Jensen Huang, samtidig som geopolitisk uro rammer saudiarabisk oljeinfrastruktur. I Norge stiger strømprisene markant i sør og vest, mens Norges Bank holder et våkent øye med gjenstridig inflasjon og økende betalingsproblemer blant husholdningene.",
+  "stories": [
+   {
+    "title": "Nvidia rystes av styregransking mot konsernsjef Jensen Huang",
+    "summary": "Styret i brikkegiganten Nvidia har igangsatt en intern gransking etter anklager om at konsernsjef Jensen Huang har hatt en relasjon til en mistenkt kinesisk spion. Avsløringene har sendt sjokkbølger gjennom aksjemarkedet og barbert bort enorme markedsverdier fra selskapet. Samtidig varsler amerikanske politikere økt parlamentarisk gransking av brikkesektorens sikkerhet.",
+    "why_it_matters": "Som verdens ledende produsent av AI-maskinvare og en tungvekter i globale aksjeindekser og Oljefondet, kan uro i Nvidia smitte over på hele det globale teknologimarkedet.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Vedvarende usikkerhet rundt ledelsen i Nvidia kan svekke risikoviljen i det globale teknologisegmentet og presse verdsettelsen av andre selskaper eksponert mot kunstig intelligens."
+     },
+     {
+      "area": "Geopolitikk",
+      "effect": "Saken kan forsterke den teknologiske handelskonflikten mellom USA og Kina samt føre til ytterligere innstramminger i amerikansk eksportkontroll av avanserte halvledere."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Amerikanske myndigheter og tilsynsorganer kan innføre strengere bakgrunnssjekker og skjerpet innsyn i topplederes internasjonale forretningsforbindelser."
+     }
+    ],
+    "sources": [
+     {
+      "name": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaHdZZkpucG9aOVF5R2JPeHljWV85XzlhbUxnbUREYWlKQzBiR1UzeWxwaF9EMnpDajI1aXlmMlo0aENzeGdyRzJDSEtJR0xVanhFSkN3bXE0R1FYV2VWZHdIV1A1MmFlczN4VnRZcVZ5QV9xdUlxZXVlZVl3eHRqVWxsVmE1dktHZzdnelB0ZjUwejJj?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPazd6NEpLVXdvaVZYTGExM013dnFwTmsxX3FFQlBfa3B1NlRqYzhsX1hrWlpUWG5BdU5Bcl9zdTVLNDZzRUk0S0dwYXZYaW1XS21SRDJtSUpLR04zdGl4QjM2NzZqN1AyazJRRnlVa1Z1ZDg2ejdPTnpFNlRGY2VQUm9OMnVhWEtOLWxCOHJuOXR2VE5BMjRlVjNnSzJOamE0bjRuUA?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Prishopp på strøm i Sør-Norge mens regjeringen strammer inn for datasentre",
+    "summary": "Strømprisene i Sør- og Vest-Norge gjør et kraftig byks mot 300 øre per kilowattime, drevet av lav fyllingsgrad i vannmagasinene og høyere etterspørsel. Samtidig varsler regjeringen en ny konsesjonsordning for datasentre for å sikre strengere nasjonal kontroll over hvem som tildeles verdifull nettkapasitet. Diskusjonen tilspisses også etter at flere store industri- og datasenterprosjekter har mistet sine reserverte køplasser hos Statnett.",
+    "why_it_matters": "Tilgangen på rimelig kraft og stabil nettkapasitet er avgjørende for norsk industris konkurransekraft og husholdningenes disponible inntekt gjennom vinteren.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Lite vann i magasinene gjennom senhøsten kan presse kraftprisene opp over lengre tid og øke risikoen for høye strømregninger gjennom vintermånedene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Strengere konsesjonskrav og køprioritering i strømnettet kan forsinke eller stanse planlagte etableringer av kraftkrevende datasentre og batterifabrikker i Norge."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Høyere strømkostnader reduserer husholdningenes disponible inntekt og kan dempe privat konsum i andre deler av den norske tjenesteøkonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/rogaland/arets-dyreste-strom-i-morgen-1.18077555",
+      "paywall": false
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlV5Ty1kNEJuT2VlRXJtaWNiY3J6X3RDLVdheThrYm1kZG1FTWJNajVPRlA4RU00dnlnNzZKTXNIWldMX3lSN0FYMWcxYW9oWlY0bTc3VjYwSkpRV2c2YkIzclY3VFNhZllIWGEwamVNNm5qWkZoMWlreVBSYmRoNUQzUVluc0swVklKTnpUM2VRMGJDOHNpTExhOTlzWmFLNTVjTl8yYy1DZFFp?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2F6SGd2aFhEV0U2aHRUYTJhc0U3eTR5Q0JwUGRSTUxuai11MktQREh4LXV2akRseXJPRExkeXlYU3RYZHJBeTNsWjFLZy1FaVN1b1B4OENFOXJfZkdLT2FpeEhBVTBrX290cExVb2pmSUR2cDl6UXVjTU1UOUxOdE1HenAzVVY2UkNyaXFfOFJwQ0g0OVhnTmJUZ2JIUVVSdm9JelR1cW10X09YSjByTQ?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Inflasjonsbekymring i Norges Bank samtidig som flere sliter med regningene",
+    "summary": "Norges Bank følger prisveksten med argusøyne, og sjeføkonomer peker på at sentralbanken ikke vil nøle med å opprettholde et stramt rentenivå dersom inflasjonen biter seg fast. Samtidig viser ferske tall at dobbelt så mange nordmenn opplever alvorlige betalingsproblemer sammenlignet med tidligere perioder. Dette skaper et økende sprik mellom husholdninger som håndterer rentebyrden og de som presses til det ytterste.",
+    "why_it_matters": "En forlenget periode med høye styrenter øker misligholdsrisikoen i bankene og bremser den økonomiske aktiviteten i fastlandsøkonomien.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Vedvarende kjerneinflasjon kan føre til at Norges Bank utsetter eventuelle rentekutt til langt ut i neste år for å sikre prisstabilitet."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Høye lånekostnader kombinert med økt betalingspress på husholdningene kan dempe budrundene og føre til lengre omsetningstid i boligmarkedet."
+     },
+     {
+      "area": "Forbrukere",
+      "effect": "Økende inkassosaker og betalingsvansker tvinger husholdninger til å stramme kraftig inn på diskresjonært forbruk og varehandel."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/9Bm1pq/prisveksten-norges-bank-er-bekymret?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDR5YlNicnpjeFhvMk40WkNIZEZKeWlrOFQ0akg1T2ZNNkF1Rk1nYTZEN09Cbk1KWXp5dmQwUkRNZDV0eGtOcXo2YUdGRG9udjR3VDFhM2xpd1dNRHJpbnpLd2pBTDFQTkV2R2tMeThNdF9kT1pMRlY1X0lLekR5Q25Nc1ZWYVFuN05hZzdXWjBRM2ZEYWFmbTFQdldhczR4bEF0VUwzS0dZdzZ6RFZaRUVZSHRuaWhzQ2JSMVI0elJEVkZ3LVdfdk1HMEQ4bzBNSDFPbXBJWkUxbi16OHhTR2Zn?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Angrep mot saudisk oljerørledning skaper forsyningsfrykt",
+    "summary": "Saudi-Arabias sentrale Øst-Vest-oljerørledning har blitt rammet i Medina-regionen, ifølge statlige medier i landet. Rørledningen er en kritisk transportåre som gjør det mulig for kongedømmet å eksportere råolje via Rødehavet utenom det sårbare Hormuzstredet. Hendelsen skaper fornyet frykt for sabotasje og eskalering mot kritisk energiinfrastruktur i Midtøsten.",
+    "why_it_matters": "Fysiske forstyrrelser i Midtøstens oljetransport gir umiddelbare utslag i globale oljepriser, noe som direkte påvirker norske petroleumsinntekter og kronekursen.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Usikkerhet rundt saudisk eksportkapasitet kan legge en risikopremie på råoljeprisene og presse opp drivstoffprisene internasjonalt."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere oljepriser som følge av geopolitisk forsyningsuro kan øke inntektene til den norske statskassen og tilførselen til Statens pensjonsfond utland."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Dersom forstyrrelsene vedvarer, kan økte transport- og energikostnader forsinke den globale desinflasjonsprosessen og tvinge sentralbanker til å holde rentene oppe."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEtKMGZOdkpGT0I4d1dsaUtDQjlLSlhyV1o4M0Rqcm5KZHV4ZHhXeEdnTUwwV0x5eU1Ldmo1cFk0RG16SnFCMlZ0SkNlQzBmdkxPU2pmdmNqWmYwNEcwWGVVeEVNQVhqTnduTnZYNnVqZ3padlFRRkpGNGpYWHRRYVJsX0h3SXN6OFVaTWI2TGFfUVV2LVpLUGtydXppb0VFaDBNZy1YZ2pXWS1XSUxOTng3ZVpkZ18xd1E?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Boeing nedbemanner 5 prosent av arbeidsstyrken i passasjerflydivisjonen",
+    "summary": "Flyprodusenten Boeing har varslet at de kutter rundt 5 prosent av de ansatte i sin kommersielle flydivisjon etter at opptrappingen i produksjonstakten går vesentlig saktere enn planlagt. Selskapet fortsetter å kjempe med forsyningskjedeproblemer, regulatorisk tilsyn og etterdønninger etter tekniske problemer. Nedskjæringen viser at gjenoppbyggingen av selskapets leveransekapasitet tar lengre tid enn flyselskapene har håpet på.",
+    "why_it_matters": "Forsinkelser og produksjonskutt hos Boeing påvirker den globale luftfartskapasiteten, flyflåtefornyelser og billettpriser verden over.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Flyselskaper som venter på nye fly kan bli tvunget til å forlenge levetiden på eldre maskiner, noe som øker vedlikeholdskostnadene og begrenser ruteveksten."
+     },
+     {
+      "area": "Handel",
+      "effect": "Langsommere produksjonsvekst hos en av verdens største eksportører kan skape forsinkelser for et omfattende nettverk av globale underleverandører innen luftfartsindustrien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04SmhLWm85WTdGX3dQRHVtQVRZQm9Zbjh0M0lWcGxVQWwtellyNTZ3V0I4eGlDNmVJTXZKckhlNlNXRmIybXJCMzcwSnhxQmFaVlY5TktfdXkxWTg3WXZ2YS0xNFpYSjdWQWprdzJROC1saERqWWZYVW9xNA?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "SAS rammes av massiv datalekkasje og trussel om sympatistreik",
+    "summary": "Rundt 350.000 SAS-passasjerer i Skandinavia og Spania skal være berørt av en alvorlig datalekkasje der personopplysninger har kommet på avveie. Samtidig trappes konflikten rundt selskapets datterselskap SAS Link opp, etter at Fellesforbundet har varslet at de tar ut over 600 medlemmer i sympatistreik for å støtte kabinansatte. Dette legger et betydelig operasjonelt og omdømmemessig press på flyselskapet.",
+    "why_it_matters": "SAS er en kritisk samferdselsaktør i Norge, og nye streiker eller IT-skandaler kan forstyrre både forretningsreiser og flyselskapets finansielle restrukturering.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "En sympatistreik blant bakkeansatte kan skape store kanselleringer og logistikkproblemer for norsk luftfart og næringslivets reisevirksomhet."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Datatilsynet i flere land kan ilegge betydelige overtredelsesgebyrer dersom det avdekkes at SAS har sviktet i sikringen av passasjerenes personopplysninger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/7PlaXv/opplysninger-om-350-000-sas-passasjerer-lekket?utm_medium=rss",
+      "paywall": false
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/naeringsliv/i/pM6aVV/fellesforbundet-varsler-sympatistreik-til-stoette-for-sas-link-kabinansatte?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQczhPQ1FHVHBLM1NZVkdjMWd3LXB5bDAyV3kxUUF2VW9ic1JDb2xCNk1vOGFXSDF2QXpGQkN5dGZ3QkNkcDRWVWRIR2p5Nml2Y2RwNlh0ZEpoYmhrOFVSNV9TV1RHTi02SVBVQXpGY29QbkJacl83dXU5Yjh6NWh5am9wMko0dWdHbDFxN3h5Q3l2ZkEwbm5ZaWlYd1BLZ3A5c3VvMmh0V0ZVY3hfWTFxQQ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Avsløringer om russiske bånd skaper usikkerhet rundt Nussir-gruven",
+    "summary": "Artem Volynets, den nye toppeieren av Nussir-gruva i Finnmark, ga uriktige opplysninger da han hevdet å ha brutt alle bånd til Moskva i 2013, ifølge undersøkelser fra NRK og VG. Volynets har tidligere bekledd nøkkelposisjoner for sanksjonerte russiske oligarker, og saken reiser nå alvorlige spørsmål om eierskapet til strategisk viktige norske mineralressurser. Myndighetene presses til å vurdere prosjektet under sikkerhetsloven.",
+    "why_it_matters": "Kobberforekomsten i Nussir regnes som en strategisk ressurs for det grønne skiftet, og utenlandsk eierskap i Nord-Norge er gjenstand for skjerpet sikkerhetspolitisk årvåkenhet.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Norske sikkerhetsmyndigheter kan gripe inn og granske eierskiftet etter sikkerhetsloven for å hindre at aktører med bånd til russiske myndigheter får kontroll over kritisk mineralinfrastruktur."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Økt regulatorisk usikkerhet kan skremme bort vestlige medinvestorer og forsinke byggingen av det planlagte gruveanlegget i Repparfjorden."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/tromsogfinnmark/russisk-nussir-eier-ga-feil-informasjon-om-moskva-exit-1.18077614",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/g3Pjg1/kjoeper-gruve-i-finnmark-jobbet-for-sanksjonerte-oligarker?utm_medium=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "Frankrike anklager Iran for sabotasjeangrep mot supermarkeder",
+    "summary": "Franske myndigheter anklager den iranske revolusjonsgarden for å stå bak et omfattende dataangrep mot kjøleanlegg i hundrevis av franske supermarkeder. Angrepet førte til at frysere og kjøledisker ble slått av eller varmet opp, noe som forårsaket store matødeleggelser. Utenriksminister Jean-Noël Barrot betegner hybridangrepet som enestående og varsler europeiske sanksjoner mot Teheran.",
+    "why_it_matters": "Saken markerer en farlig eskalering innen cyberkrigføring der statlige aktører angriper sivil matforsyning og hverdagsinfrastruktur i europeiske land.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Hendelsen forverrer de diplomatiske forbindelsene mellom EU og Iran og kan føre til koordinerte europeiske sanksjoner mot iranske statsorganer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "paywall": false
+     },
+     {
+      "name": "Deutsche Welle",
+      "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Russell Brand dømt til ti og et halvt års fengsel",
+    "summary": "Den britiske underholderen Russell Brand har blitt dømt til ti år og seks måneders fengsel i Southwark Crown Court i London for voldtekt og tre tilfeller av seksuelle overgrep. Dommen falt etter en fire uker lang rettssak som omhandlet handlinger begått mot flere kvinner over en tiårsperiode. Saken har vakt stor oppsikt internasjonalt etter omfattende journalistiske avsløringer om misbruk i underholdningsbransjen.",
+    "why_it_matters": "Dommen representerer et rettslig oppgjør med overgrep begått av profilerte mediepersonligheter og setter nytt søkelys på varslingsrutiner i kultursektoren.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Domfellelsen kan styrke kravene til uavhengige varslings- og kontrollmekanismer i britiske og internasjonale medie- og underholdningsinstitusjoner."
+     }
+    ],
+    "sources": [
+     {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaXp3c2pGbWNPcXloZ2h2amF1Uzg5MGFSdWhkTUFCRTc4QkhiaFA2WTlLOXVOYnF6M1NGLXZhMWFndWN5RzRIbDUxTHlIUXk4enY3Q1dpTXQ4UTBQd0pLS3lUc2tlU1dxNGxRNktlNFpDOHF4SHJBT2dRRVVuWTktUWlEVmhDd3lXLURwUFpPSjVOaEZKMExfQlJacjd1Y0o2M0RpYV9QSER6VURzV1l1dF9OTkJSQkdRY1NzRUxUSTJSRFlZTE9SNHdYb2pXSWc?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdG12ZVVaLU54TVdrNXJOLUZ0S1VyZXNveS0wMnQzdDFaZ05Dc0tpYnQwRzdrOHN3ZFM3ZkwtVGtKRDBDbGV4WTlpcnItb0diM1ZPVmN6MGpzN05DcjJsbG1vYU5vNGVYNW1WeG1VNTVORlRFQzk0emJlTXRMMEVMR3NwYXh3SEhZckxwOUZpNGNIaG04d3E0dlZKZWdLcU1Bang5UGM2dWVWWGhnQnhBcnQ1ZTk1S3dmSFVNZU1KTEJhcGZn?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Gjerningsmannen bak dødelig masseskyting i Krakow er død",
+    "summary": "En 24 år gammel mann med høyreekstreme sympatier som drepte seks personer og såret 15 i en masseskyting på et torg i Krakow, er død på sykehus. Polsk politi etterforsker hendelsen som en politisk motivert terrorhandling, og hele Polen er preget av dyp sorg etter angrepet. Polske myndigheter varsler skjerpet overvåking av radikaliserte nettverk og strengere kontroll med våpentilgang.",
+    "why_it_matters": "Angrepet ryster et av Sentral-Europas viktigste kultursentre og aktualiserer trusselen fra voldelig høyreekstremisme i europeiske storbyer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Regulering",
+      "effect": "Polske og europeiske sikkerhetsmyndigheter vil trolig stramme inn overvåkingen av ekstremistiske nettfora og vurdere strengere lover for våpenbesittelse."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-09-08",
   "hour": 8,
   "date": "2026-11-09",
@@ -7137,218 +7447,6 @@
      {
       "name": "Euronews",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbG51dGFXbVpKTmtmU1V4aEdyLVllZThic1ZLcDdIODlxYU4yckFmRWlQUkZIVXRuX05hemh4VW5aUWlmSmRQMlM5b2tGUmUtWFFSd2I5cm9ubXNkRVQxaXZmMjdtbTI1VWdHTXpLSmsyODhYUmJMQTFTUUhlcDFYTDNXeExNNXloTmQ3eWJGbktsVGFiNUFLcnJVQ2JjTFhnS0E5X0RpVWhfaHdGanNrOWdFaWZpQWVrQUd3ZkZSdw?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-10-22-20",
-  "hour": 20,
-  "date": "2026-10-22",
-  "generated": "22.10.2026 20:27",
-  "overview": "Dagens markeder preges av bred nedgang i teknologiaksjer og økende bekymring for høye renter, mens oljeprisen klatrer til sitt høyeste nivå siden mai. Internasjonale børser svekkes av korreksjon i kunstig intelligens-sektoren og geopolitiske spenninger i Midtøsten.",
-  "stories": [
-   {
-    "title": "Moderna-aksjen stuper etter mulig lekkasje",
-    "summary": "Data om resultater fra en vaksine kan ha blitt lekket, noe som skaper uro blant investorene. Saken har ført til et kraftig fall for aksjen på børsen.",
-    "why_it_matters": "Illustrerer hvor sårbare bioteknologiselskaper er for informasjonslekkasjer og regulatoriske utfordringer knyttet til kliniske data.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Uventede lekkasjer av sensitive medisinske data kan umiddelbart utløse kraftige kursfall og redusere investlernes tillit til berørte selskaper."
-     },
-     {
-      "area": "Forbrukere",
-      "effect": "Potensielle forsinkelser i vaksineutviklingen kan utsette lanseringen av nye helsetjenester og medisiner for pasienter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/MAraAJ/moderna-aksjen-stuper-etter-mulig-lekkasje?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGF1R0FYdlVEamdsa29mMjBOQ2tQVXk0LWlfRmxOSXhSMTRqQnNXUDVJZVgwQ21KUGFwTVJqajFQT0w5WlZES2ZaLVQxOG85SjhDLUhtM2hJbU5jWWt2dnc2YWhPejRuc0FMOUw3TjdRU3Y2bGlYNVA2ZEQtWFpHcmJYTnpiVi1MdTJIWFpNRGRxQmlEVUFWNnRTLThDbXgwalZQaWx0NmlXV1BCazI0TG5tVDU?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Blackstone kutter eiendomsverdier",
-    "summary": "Blackstone kutter verdien på sine eiendommer ettersom vedvarende høye renter fortsetter å tynge avkastningen. Dette viser at det høye rentenivået nå gir dypere effekter i det kommersielle eiendomsmarkedet.",
-    "why_it_matters": "Viser hvordan stramme finansieringsvilkår og høye renter sprer seg til det fysiske eiendomsmarkedet globalt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Vedvarende høye kapitalkostnader tvinger fram nedskrivninger av verdier i kapitalintensive sektorer som kommersiell eiendom."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Lavere eiendomsverdier kan legge press på investorenes forventninger til fremtidig kontantstrøm i børsnoterte eiendomsselskaper."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RuWW4yUE5ReldySFFLNDVxbG5YdVhESTlscFF0dFJUNmtxRHlCMUNaMlA2NFBJMGhrLWJDSGQ1SGNtVzVYSjFMTk1NOW1DbUp5cEhUV0p1N2NoYmdJWDZNcnpBN3pUdXBuaHZKZ2ZLbWV1TlN4QjVuaklZV29kR043V1g?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "USAs arbeidsmarked viser historisk lav ledighet",
-    "summary": "De ukentlige ledighetstallene i USA har falt til nivåer man ikke har sett siden 1960-tallet. Den lave oppsigelsestrenden fortsetter til tross for usikkerhet i andre deler av økonomien.",
-    "why_it_matters": "Et sterkt amerikansk arbeidsmarked opprettholder det generelle forbruket, men kan også tvinge sentralbanken til å holde rentene oppe lenger.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Eksepsjonell jobbsikkerhet og lav arbeidsledighet kan styrke arbeidstakernes forhandlingsposisjon og gi vedvarende press på lønnsveksten."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Vedvarende stramme arbeidsmarkeder kan opprettholde det innenlandske prispresset og forsinke sentralbankens rentekutt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Frankrikes gjeldskrise forsterker frykten for europeiske aksjer",
-    "summary": "Uroen rundt Frankrikes statsgjeld tiltar ettersom utenlandske investorer ser etter en utvei. Dette forsterker bekymringen for europeisk økonomisk stabilitet og rammer kontinentets markeder.",
-    "why_it_matters": "Økt uro i store europeiske økonomier kan spre seg til resten av EU og svekke tilliten til eurosonens felles finanser.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Manglende kontroll over statsgjelden kan øke landets lånekostnader og kreve upopulære kutt i offentlige budsjetter."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Generell europeisk usikkerhet og svekket risikoaptit i markedet kan gjøre det krevende for mindre valutaer som den norske kronen."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHZpbmlQOU91ajdXQW9SU3JXdlZMN3NBUGVQcTFRUHE3RXNfSHRCODNybnBFR081bi1SVmlwS2FHTkFiWFRMOFUzeUYtbTd2cDQ0LUQyQU5rRTdOVGN6OUZpR09hX1R0d0NpQnV2d0lfazI4ckVoTEtBRWtJNWJtUUplVzRBVDdpV0tEQVN1c0dRZWRmNFZ2LWVsWGlGbFg5Q1dYUUpFNVJYd2NwcXdyUlU5RQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/Og2m1O/europa-kommer-litt-til-kort?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Britisk storbank kutter 5.000 jobber for å satse på kunstig intelligens",
-    "summary": "En stor britisk bank kutter tusenvis av stillinger som ledd i en omfattende satsing på automatisering og kunstig intelligens. Konsernsjefen peker på storskala AI-bruk som en driver for effektivisering.",
-    "why_it_matters": "Viser hvordan tradisjonelle næringer som finanssektoren aktivt omstrukturerer arbeidsstyrken for å hente ut gevinster fra ny teknologi.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Utstrakt bruk av kunstig intelligens kan føre til strukturelle endringer og færre rutinejobber innen tradisjonell administrasjon og kundeservice."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Betydelige investeringer i automasjon kan styrke bankens langsiktige lønnsomhet gjennom lavere faste driftskostnader per transaksjon."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/JrAdB6/britisk-storbank-kutter-5-000-jobber-satser-paa-ai?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Globalt børsfall preget av tech-nedgang og AI-frykt",
-    "summary": "Teknologiaksjer faller på Wall Street etter at investorer har blitt mer kravstore til inntjeningen fra kunstig intelligens. Samtidig klatrer oljeprisen til sitt høyeste nivå siden mai.",
-    "why_it_matters": "Høye forventninger til teknologisektoren har drevet markedene lenge, og korreksjoner her slår raskt inn i globale porteføljer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere avkastningskrav fra investorene kan tvinge teknologiselskaper til å dokumentere raskere og sikrere inntekter fra sine AI-investeringer."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Stigende oljepriser kan øke energikostnadene for globale industribedrifter og forsterke det generelle inflasjonspresset i økonomien."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Iran melder om skadde tankskip i Hormuzstredet",
-    "summary": "Iranske myndigheter opplyser at flere tankskip har blitt skadet i Hormuzstredet, noe som skaper frykt for eskalering i regionen. USA avviser påstandene og mener meldingene er et forsøk på å presse opp oljeprisen.",
-    "why_it_matters": "Hormuzstredet er en av verdens viktigste flaskehalser for oljetransport, og enhver trussel mot skipsfarten der kan gi umiddelbare utslag i globale energipriser og sikkerhetspolitikk.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Økende spenning i Hormuzstredet kan tvinge frem økt militær tilstedeværelse og skape langvarig usikkerhet rundt forsyningslinjene for energi til verdensmarkedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Kritiske sårbarheter funnet i programmeringsspråket PHP",
-    "summary": "Utviklerne bak programmeringsspråket PHP har avdekket kritiske sårbarheter som potensielt kan ramme millioner av nettsider verden over. Det pågår nå en intens innsats for å oppdatere systemer før hackere kan utnytte feilene.",
-    "why_it_matters": "En stor del av verdens nettsider er bygget på PHP, og sikkerhetsbrister av denne typen kan føre til omfattende dataangrep og nedetid for kritiske digitale tjenester.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Digital sikkerhet",
-      "effect": "Avdekkingen krever umiddelbare og kostbare oppdateringer på tvers av globale servere for å forhindre utstrakt misbruk fra ondsinnede aktører."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
-      "paywall": false
-     },
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
       "paywall": false
      }
     ]
