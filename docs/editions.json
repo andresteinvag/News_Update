@@ -3,30 +3,25 @@
   "id": "2026-11-11-20",
   "hour": 20,
   "date": "2026-11-11",
-  "generated": "11.11.2026 22:11",
-  "overview": "Verdensmarkedene opplever et fornyet løft i teknologisektoren og kunstig intelligens, samtidig som oljeproduksjonen henter seg inn igjen etter tidligere forstyrrelser i Midtøsten. På hjemmebane preges nyhetsbildet av diskusjoner rundt utenlandsk eierskap i strategiske næringer og stramme budsjetter i helsesektoren.",
+  "generated": "11.11.2026 22:13",
+  "overview": "Amerikanske børser opplevde et markant oppsving drevet av fornyet optimisme rundt kunstig intelligens, selv om analytikere advarer mot voksende systemiske sårbarheter knyttet til teknologigantenes finansielle nettverk. Samtidig skaper fornyede angrep på skipsfart i Midtøsten og infrastrukturkollaps i Nord-Norge uro for henholdsvis globale oljeleveranser og regional sjømateksport.",
   "stories": [
    {
-    "title": "Nvidia-skandalen og AI-finansieringens risiko",
-    "summary": "Teknologigiganten Nvidia er sentrum for en politisk og finansiell storm etter avdekkelser om omstridte kunder og tette relasjoner i kunstig intelligens-sektoren. Til tross for uroen har investorer sendt aksjen opp igjen på Wall Street.",
-    "why_it_matters": "Siden Nvidia og AI-relaterte selskaper driver store deler av det globale aksjemarkedet, kan brå stemningsskift få ringvirkninger for internasjonal finansiell stabilitet.",
+    "title": "Wall Street stiger etter KI-rekyl til tross for advarsler om systemrisiko",
+    "summary": "Teknologiaksjer ledet an en bred oppgang på Wall Street etter at investorer igjen kjøpte seg opp i store selskaper som Nvidia og CoreWeave etter tidligere uro. Samtidig advarer analytikere om at Nvidias omfattende nettverk av finansielle koblinger og kundeforhold kan utgjøre en systemisk trussel mot det finansielle systemet dersom KI-etterspørselen svikter.",
+    "why_it_matters": "Svingninger i amerikanske teknologigiganter har umiddelbar innvirkning på globale aksjeindekser og påvirker direkte avkastningen til Statens pensjonsfond utland.",
     "region": "Verden",
     "impact": [
      {
       "area": "Aksjemarkedet",
-      "effect": "Fornyet optimisme rundt kunstig intelligens kan drive teknologitunge børser oppover på kort sikt, men øker samtidig sårbarheten for brå korreksjoner hvis vekstforventningene svikter."
+      "effect": "Den fornyede oppgangen i KI-aksjer kan styrke den globale risikoviljen på kort sikt, men gjør samtidig aksjemarkedet svært sårbart for eventuelle skuffelser i selskapenes inntjening."
      },
      {
-      "area": "Næringsliv",
-      "effect": "Tette finansieringsnettverk mellom store teknologiselskaper kan gjøre hele økosystemet mer sårbart for enkeltkunders betalingsproblemer."
+      "area": "Finansiell stabilitet",
+      "effect": "De tette finansielle forbindelsene mellom ledende maskinvareprodusenter og KI-oppstartsselskaper kan utløse dominoeffekter i kredittmarkedene dersom kapitallinjene plutselig strammes inn."
      }
     ],
     "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/9Bmyz5/konfronterte-minister-omstridt-nvidia-kunde-sto-ikke-paa-svarteliste?utm_medium=rss",
-      "paywall": true
-     },
      {
       "name": "CNBC International",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -34,30 +29,73 @@
      },
      {
       "name": "Financial Times",
-      "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFdTQTdsNlZNN1RrOFQ2SURTdFNGdVJqdlNCMm1pTUd0QzBYcWJxbFptWTNoMWYzRGtCRFk0Tmg0eUpOenZfV004STBHVG1oNnRVYzB3MzlINzFqcHA2dUw5UGpJdUpSMjhTckFwX09qUTZmWHFtYmlkZzdVbVNra3owVEM?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1kyaWZTVlRvZmh2Qnl5eHFNeDVmd2JqYTNVZlhtSW9HMW5pQm5OTXUycTRNNkxLYkhtQ0ZzMDN6bzdkWTQza3JyS1V6bU5UOUFPVG1mQkhtUmJjeVJmYWx2ejI2NGVHWmd0YjhEYWtUZ3NUa2U4U0c0OGdsYkFfUVFLdGNxMVltSHcxZHpzR3pMZXRIMWc3U2NwVVp2djMwMUVNMGM2UVdKb1NjcS1LdmZB?oc=5",
       "paywall": true
      }
     ]
    },
    {
-    "title": "Politisk strid om russisk gruvekjøp i Finnmark",
-    "summary": "MDG leverer et hasteforslag på Stortinget for å stanse oppkjøpet av en gruve i Finnmark, som knyttes til en britisk-russer med tidligere oligarkbånd. Næringsministeren avviser å offentliggjøre hvem som er sikkerhetssjekket.",
-    "why_it_matters": "Saken setter søkelyset på norske sikkerhetsvurderinger av utenlandske investeringer i kritiske ressurser og nordområdene.",
+    "title": "Oljeprisen løftes av angrep på sivil skipsfart og Midtøsten-spenning",
+    "summary": "Oljeprisene har snudd oppover etter rapporter om iranske angrep mot navigasjonssystemer for skipsfart på Didamar-øya ved Oman. Samtidig viser tall at Saudi-Arabia har økt sin oljeproduksjon til det høyeste nivået siden krigsutbruddet for å kompensere for forstyrrelser i regionale forsyningsruter.",
+    "why_it_matters": "Høyere energipriser styrker den norske handelsbalansen og petroleumsinntektene, men bidrar samtidig til vedvarende inflasjonspress internasjonalt.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Økt usikkerhet rundt skipsfarten i Hormuzstredet kan føre til høyere krigsrisikopremier for tankskip og presse de globale spotprisene på råolje videre opp."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Vedvarende oppgang i petroleumsprisene kan gi drahjelp til den norske kronen og redusere presset på Norges Bank om videre rentehevinger."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFB3XzM5cVFXcFdvTWhfdVJSY21DLVNHRE81YXh1Ykt3MlY0M29GY05FbFEwd2hMT3lTR1duaVV6UGdac003SWM2cTJpb1FqX2UzdnZqNW5YSEpEOGd2dmZ2VW5XOTZzcGlSNGl5dENGNFQ4c2JGYU9yaXV2RU84QXVRQVVtR3EtYmpaNXRKM3d2ZHJVdzlzOWxrMktEVVZYZzJVeVVzcmtMM0JLYmxsZVQ5YlRWN2tRd0UyM2dUXy04eW5PWlE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bGRMYzFIY19zSWlQanUwc0QyUUdTVmNSY0VlZVRoQWJja1RVWFVEQVVsTlZZdUhHZktVd2ZsMEZwQnpJczhhbE5sTHo4UUc1V0R5cW1iOE9ERVk?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Politisk strid om sikkerhetsklarering av russiskknyttet gruvekjøp i Finnmark",
+    "summary": "Næringsdepartementet møter sterk politisk motstand på Stortinget etter at et britisk-russisk konsortium overtok Nussir-kobbergruven i Hammerfest. Miljøpartiet De Grønne krever stans i oppkjøpet av hensyn til nasjonal sikkerhet, mens tidligere amerikanske toppolitikere hevder gruveprosjektet styrker Vestens tilgang til kritiske mineraler.",
+    "why_it_matters": "Saken illustrerer dilemmaet mellom å tiltrekke privat industrikapital til det grønne skiftet og å skjerme kritisk infrastruktur og råvarer i strategisk sårbare nordområder.",
     "region": "Norge",
     "impact": [
      {
-      "area": "Geopolitikk",
-      "effect": "Skjerpet fokus på nasjonal sikkerhet kan føre til strengere statlige inngrep mot utenlandske oppkjøp i strategiske sektorer i nord."
+      "area": "Regulering",
+      "effect": "Den politiske oppvasken kan tvinge regjeringen til å skjerpe anvendelsen av sikkerhetsloven overfor utenlandske investeringer i norske mineral- og naturressurser."
      },
      {
-      "area": "Offentlige finanser",
-      "effect": "Politiske omkamper om eierskap kan skape usikkerhet rundt rammevilkårene for utenlandske investorer i norske næringssatsinger."
+      "area": "Næringsliv",
+      "effect": "Økt usikkerhet rundt konsesjoner og eierskapsgodkjenning kan gjøre internasjonale industriselskaper mer forsiktige med å investere i utvinningsprosjekter i Nord-Norge."
      }
     ],
     "sources": [
      {
       "name": "VG",
       "url": "https://www.vg.no/nyheter/i/2v1L2a/mdg-vil-stoppe-russisk-gruvekjoep-tatt-i-loegn?utm_medium=rss",
+      "paywall": false
+     },
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/8PwrGA/myrseth-vil-ikke-si-hvem-som-er-sikkerhetssjekket?utm_medium=rss",
       "paywall": false
      },
      {
@@ -68,46 +106,18 @@
     ]
    },
    {
-    "title": "Oljeproduksjonen stiger til tross for uro i Midtøsten",
-    "summary": "Saudi-Arabias oljeproduksjon har steget til det høyeste nivået siden krigen startet, selv om forsyningskjedene fortsatt opplever utfordringer og sabotasje mot navigasjonssystemer.",
-    "why_it_matters": "Økt produksjon fra OPEC-landene kan dempe prispresset på energi og bidra til å stabilisere inflasjonsutsiktene globalt.",
+    "title": "Amerikansk detaljhandel bremser opp under press fra vedvarende høye priser",
+    "summary": "Veksten i det amerikanske detaljsalget falt i oktober til sitt tregeste tempo på nesten et år, ifølge ferske tall fra bransjeorganisasjonene. Forbrukerne opprettholder fremdeles et visst forbruksnivå, men viser tydelige tegn til finansiell slitasje etter langvarig inflasjon og høye lånekostnader.",
+    "why_it_matters": "Amerikansk forbruk er den viktigste motoren i verdensøkonomien, og en vedvarende oppbremsing vil dempe den globale økonomiske veksttakten.",
     "region": "Verden",
     "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Høyere tilbud av olje fra Midtøsten kan legge dempende på internasjonale energipriser, noe som påvirker inntektene til norske eksportører."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Mer stabile energipriser reduserer risikoen for nye kostnadssjokk i vare- og tjenesteproduksjonen verden over."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bGRMYzFIY19zSWlQanUwc0QyUUdTVmNSY0VlZVRoQWJja1RVWFVEQVVsTlZZdUhHZktVd2ZsMEZwQnpJczhhbE5sTHo4UUc1V0R5cW1iOE9ERVk?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske forbrukere viser tegn til slitasje",
-    "summary": "Ferske tall fra USA viser at detaljhandelen vokste i det langsomste tempoet på nesten et år i oktober, ettersom høye priser tærer på husholdningenes kjøpekraft.",
-    "why_it_matters": "Forbruket utgjør en stor del av amerikansk økonomi, og svakere vekst kan påvirke den globale etterspørselen etter varer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Vedvarende høye priser tvinger husholdninger til å stramme inn på pengebruken, noe som svekker vekstutsiktene for detaljhandelen."
-     },
      {
       "area": "Renter",
-      "effect": "Svakere veksttall kan presse sentralbanker til å vurdere raskere lettelser i pengepolitikken for å støtte opp under den økonomiske aktiviteten."
+      "effect": "Tegn til svekket forbruksvekst kan styrke argumentene for at den amerikanske sentralbanken bør fremskynde rentekutt for å unngå en bråere økonomisk nedtur."
+     },
+     {
+      "area": "Handel",
+      "effect": "Lavere etterspørsel i amerikanske husholdninger kan ramme europeiske og asiatiske eksportbedrifter som er avhengige av det amerikanske forbrukermarkedet."
      }
     ],
     "sources": [
@@ -119,18 +129,69 @@
     ]
    },
    {
-    "title": "Investeringsselskap satser stort på Norwegian",
-    "summary": "Investorer som John Fredriksen og Øystein Stray Spetalen har kjøpt seg betydelig opp i flyselskapet Norwegian, som de mener er langsiktig undervurdert.",
-    "why_it_matters": "Transaksjonen viser at tunge aktører ser nedsiderisikoen som begrenset og verdsetter potensialet i det nordiske luftfartsmarkedet høyere enn dagens kurser gjenspeiler.",
+    "title": "Økende rentedifferanser i eurosonen legger press på Frankrike og Belgia",
+    "summary": "Rentepremiene på franske og belgiske statsobligasjoner har steget markant mot tyske referanserenter som følge av voksende budsjettunderskudd og politisk usikkerhet. Investorer krever nå høyere kompensasjon for å finansiere land med svak budsjettdisiplin, noe som synliggjør et nytt skille i det europeiske gjeldsmarkedet.",
+    "why_it_matters": "Finansiell fragmentering og økte statlige lånekostnader i kjernelandene kan komplisere Den europeiske sentralbankens pengepolitikk og svekke europeisk vekst.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere gjeldsrenter kan tvinge myndighetene i Paris og Brussel til å gjennomføre smertefulle budsjettkutt og skatteøkninger som demper den økonomiske aktiviteten."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Økt kredittrisiko for europeiske stater kan smitte over på banksektoren og tynge verdsettelsen av finansaksjer over hele Europa."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmR3YlNDMVZzUVhwMmg1d1pDQ1ZnN1IwUHBMemZBaHdJekc0ZmVxYTVPeHUwNEY2TGZ4bzc3T202NFlGSVB4VnBHQjIzLXYwVzNxSndCMGplOEs2MjcxWXBZM2dDYi1vSnNjaGpUWjI3bk9lZzN0bGJGMUc2VjNhNzY5YXo?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Kvikkleireskred i Tana skaper akutt krise for sjømateksporten",
+    "summary": "Et omfattende kvikkleireskred har stengt fylkesvei 98 i Austertana og isolert store deler av sjømatnæringen i Øst-Finnmark fra sine vanlige transportruter. Produsenter av fersk fisk og levende kongekrabbe må ty til provisorisk båtfrakt for å forhindre store økonomiske tap på leveranser til det asiatiske og amerikanske markedet.",
+    "why_it_matters": "Hendelsen demonstrerer sårbarheten i norsk transportinfrastruktur og risikoen naturhendelser utgjør for ferskvarebaserte eksportnæringer i distriktene.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Forsinkelser i transportkjeden kan føre til tap av ferskvarekontrakter og påføre lokale sjømatprodusenter betydelige økonomiske ekstrakostnader."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Behovet for akutt geologisk sikring og gjenoppbygging av rasutsatt vei kan kreve omprioriteringer i fylkeskommunale og nasjonale samferdselsbudsjetter."
+     }
+    ],
+    "sources": [
+     {
+      "name": "VG",
+      "url": "https://www.vg.no/nyheter/i/6Pnm88/skredet-i-austertana-frykter-store-tap-i-sjoematnaeringen?utm_medium=rss",
+      "paywall": false
+     },
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/sapmi/kvikkleireskred-i-tana_-matte-frakte-levende-kongekrabbe-med-bat-1.18078994",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Profilerte investorer laster opp i Norwegian etter kursnedgang",
+    "summary": "Investorene John Fredriksen og Harald Espedal har gjennomført store aksjekjøp i flyselskapet Norwegian Air Shuttle den siste tiden. Begge aktørene argumenterer for at selskapets markedsposisjon og fremtidige inntjeningsevne er betydelig undervurdert av aksjemarkedet.",
+    "why_it_matters": "Lønnsomheten og kapitaltilgangen i luftfarten gir et viktig signal om husholdningenes reisebudsjetter og det generelle aktivitetsnivået i skandinavisk økonomi.",
     "region": "Norge",
     "impact": [
      {
       "area": "Aksjemarkedet",
-      "effect": "Storhjulet eiernes inntreden kan øke tilliten blant mindre aksjonærer og bidra til å stabilisere kursutviklingen på Oslo Børs."
+      "effect": "Kjøpssignalene fra toneangivende bjellesauer kan bidra til å etablere en kursbunn og øke interessen for sykliske reiselivsaksjer på Oslo Børs."
      },
      {
-      "area": "Næringsliv",
-      "effect": "Sterke eiere med solid finansiell ryggrad gir flyselskapet bedre forutsetninger for å møte sesongvariasjoner og høye drivstoffkostnader."
+      "area": "Konkurranse",
+      "effect": "En stabil og kapitalsterk eierside kan gjøre Norwegian bedre rustet til å håndtere sesongsvingninger og opprettholde rutenettet i konkurranse med SAS."
      }
     ],
     "sources": [
@@ -142,69 +203,103 @@
     ]
    },
    {
-    "title": "Stramme budsjetter tvinger frem kutt i helsesektoren",
-    "summary": "Stavanger universitetssjukehus (SUS) anbefaler å kutte minst 250 årsverk for å gjenopprette balansen i økonomien inn mot 2027.",
-    "why_it_matters": "Sykehussituasjonen illustrerer den stramme økonomiske hverdagen i offentlig sektor, der økende kostnader og demografiske endringer presser budsjettene.",
+    "title": "Panteselskapet Envipco kutter bemanningen etter svakere markedsutvikling",
+    "summary": "Envipco har varslet en runde med oppsigelser etter at selskapet har levert skuffende finansielle resultater og opplever tregere markedsadopsjon enn ventet. Kostnadskuttene iverksettes for å bevare selskapets likviditet i en periode med økt usikkerhet om internasjonale panteordninger.",
+    "why_it_matters": "Utviklingen reflekterer utfordringene grønne vekstselskaper møter når regulatoriske rammeverk forsinkes og kapitalkostnadene forblir høye.",
     "region": "Norge",
     "impact": [
      {
-      "area": "Offentlige finanser",
-      "effect": "Manglende budsjettbalanse i helseforetakene krever harde prioriteringer som kan ramme lokalt tjenestetilbud og behandlingskapasitet."
+      "area": "Næringsliv",
+      "effect": "Redusert bemanning kan senke selskapets faste driftskostnader på kort sikt, men risikerer samtidig å svekke den operative kapasiteten når nye anbud skal rulles ut."
      },
      {
-      "area": "Arbeidsmarked",
-      "effect": "Store nedbemanninger i offentlig sektor kan øke arbeidsledigheten blant helsepersonell og skape rekrutteringsutfordringer i regionen."
+      "area": "Aksjemarkedet",
+      "effect": "Gjentatte skuffelser og restruktureringer kan forsterke investorenes skepsis mot ulønnsomme vekstselskaper innen miljøteknologi på Oslo Børs."
      }
     ],
     "sources": [
      {
-      "name": "NRK",
-      "url": "https://www.nrk.no/rogaland/ledelsen-anbefaler-styret-a-kutte-250-arsverk-ved-stavanger-universitetssjukehus-1.18079540",
-      "paywall": false
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lUkZvd1BjMjNjNjF1cy1pQ09YVVdmTFlkNDZiN3BwNmVJdG90T3VkZGY2UUkxRFQ2SVV3WnJKeUMxSUtqVGI1YWc3NDVLNG15T0R2OXFvUmlhZw?oc=5",
+      "paywall": true
      },
      {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRC00X0diN01acWpGSk5iQkxTaVd6QUxwdWpGS1VjTXFtODYwblBjQUJyOXVKVWxYOTgxTEpUYmpNZmJuek9oaWl5RTYwanc0SlZFUzQ2UlJlelpGOUpnZkhLUUdVVzNJX3B3d0g5dXZTVEFGYWFGbElZSGJFQVVEV0MzXzJZWjRIUGIxNVNmX2RYSkI0OHdsWVlIN09md2wyQTJMdkFxbDRFelhLanM0Y20xZjNMcUJiUUpsajBuS2lscTRjZlE?oc=5",
-      "paywall": false
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUdJWTRwQ3VDamxwdkJCTnkxVHRJSWlDamFZNXRYNlF6a29UOWhUY0FER18xTXZkMmxfcUlPc3ZOZXhDX2kweGpiSGIxNWIxMnJ1UVRKb3Z3Q25CSTBuNGszOEwyTThSUEc3ZS1jSFgtbkRoOTV5VXVmclFqdTc3WldneHJiRGo5Wi1YNUp6MHlpX2d3MDZVWXMtTkNTQTl3LUdJazBaS092RDJZdm9Qa3QxdWVBSWI3Nkl4VW1ZOA?oc=5",
+      "paywall": true
      }
     ]
    }
   ],
   "general_stories": [
    {
-    "title": "Stramme levekår fører til generalstreik i Spania",
-    "summary": "Titusenvis av mennesker har deltatt i demonstrasjoner og streiker i Barcelona og andre spanske byer i protest mot høye levekostnader og boligmangel.",
-    "why_it_matters": "Saken viser hvordan vedvarende inflasjon og press på boligmarkedet skaper sosial uro og politisk press i flere europeiske land.",
+    "title": "Ukraina og Russland enige om fangeutveksling mens fredssamtaler fortsetter",
+    "summary": "Russland og Ukraina har blitt enige om en ny og omfattende utveksling av krigsfanger etter forhandlinger, til tross for at partene ikke oppnådde noe gjennombrudd om en våpenhvile. Samtalene skal likevel videreføres, og amerikanske utsendinger skal etter planen møte russiske representanter i Moskva.",
+    "why_it_matters": "De diplomatiske samtalene er avgjørende for den europeiske sikkerhetsarkitekturen og kan legge grunnlaget for en fremtidig deeskalering av krigen.",
     "region": "Verden",
     "impact": [
      {
-      "area": "Samfunn",
-      "effect": "Høye levekostnader utløser bred folkelig misnøye som kan tvinge frem nye politiske tiltak for å regulere boligmarkedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Verdensledere oppfordrer til raskere klimahandling",
-    "summary": "Under de pågående FN-klimasamtalene advarer ledere om at innsatsen mot globale klimaendringer går for sakte i forhold til de faktiske utfordringene.",
-    "why_it_matters": "Manglende fremdrift kan øke risikoen for fremtidige naturkatastrofer og skjerpe kravene til strengere internasjonale reguleringer.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Politikk",
-      "effect": "Økt internasjonalt press kan føre til at nasjonale myndigheter må stramme inn sine utslippsmål tidligere enn planlagt."
+      "area": "Geopolitikk",
+      "effect": "At forhandlingskanalen holdes åpen kan dempe faren for ytterligere militær eskalering i Europa, selv om mangelen på en våpenhvile opprettholder den humanitære krisen."
      }
     ],
     "sources": [
      {
       "name": "Associated Press",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0NNSmRNNW5UOE9yWE0yRVVJdEdDX09OeG9PRWo1ckJtSmhBWU1RaFQ0Mi1pWF9QX3JsbVgyd213RHl2NjdhY0tnTGVpY01zLWpGNkQtUTBqMGgyUmZYNVcwTVFydU9veWp4NUlnczBBU2NBbHlQaUIxSF9haUJCWm0tNmZsT2xSczBrLUQyNEFsREJXZENIMlpDNE9pc3lYaExj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSWhFTzF5ZmxxNjRIMFlDcjhvalFEREpXZnJ4MUdrdUdDMDloTWtMOTBOSy1qcGpTOGNJaU1kZGhoVjZVaUxuMmxZbWZmLWNrOXFYdVF2NjlOeFM0U3hSTE8tUXgwYWtVZzNmU0pUbUF0TEdhRHVQUzBwNE5iakJZTjU2ZEZqdHdiRXd2MGJDR3BYRndtc0VLWjN2ZjJZT3B2QkpMZXd3?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlFTSXpLWThLRnd4RXFHS05mUWFQdWs3MmtQWkhVNWJ4ZlV3N2lzWENNdlVfTjg3dXV2ZTBkUmVyTDlzUEJVbXlhZTZxcDAzZkwwc1RXZHhVNlotMUVXdk44d2ZUcmJ0QjVha0lRRG9pTk4xdFB2UHdzUE9EWnpsWjRqRXRuV3Jy?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Økonomisk krise ved Stavanger universitetssjukehus tvinger frem kutt i årsverk",
+    "summary": "Ledelsen ved Stavanger universitetssjukehus anbefaler å kutte rundt 250 årsverk for å håndtere et alvorlig økonomisk underskudd. Helseforetaket sliter med kraftige kostnadsoverskridelser knyttet til drift og innflytting i nye sykehusbygg.",
+    "why_it_matters": "Saken belyser det akutte økonomiske presset som rammer norske helseforetak som følge av høy prisvekst og store byggeinvesteringer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Arbeidsmarked",
+      "effect": "Betydelige bemanningskutt ved et av landets største sykehus kan øke arbeidspresset på det gjenværende helsepersonellet og føre til lengre ventetider for pasientene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRC00X0diN01acWpGSk5iQkxTaVd6QUxwdWpGS1VjTXFtODYwblBjQUJyOXVKVWxYOTgxTEpUYmpNZmJuek9oaWl5RTYwanc0SlZFUzQ2UlJlelpGOUpnZkhLUUdVVzNJX3B3d0g5dXZTVEFGYWFGbElZSGJFQVVEV0MzXzJZWjRIUGIxNVNmX2RYSkI0OHdsWVlIN09md2wyQTJMdkFxbDRFelhLanM0Y20xZjNMcUJiUUpsajBuS2lscTRjZlE?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Ekstremværet Charles lammer Portugal med stengte skoler og hundrevis av kansellerte fly",
+    "summary": "En kraftig storm har rammet Portugal med ekstrem nedbør og vindstyrker som har tvunget myndighetene til å innstille over 200 flyvninger og stenge skoler i store deler av landet. Redningstjenestene er satt i høyeste beredskap for å håndtere omfattende oversvømmelser og rasfare.",
+    "why_it_matters": "Ekstremværhendelser skaper store utfordringer for europeisk infrastruktur, sivil beredskap og transportknutepunkter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Omfattende transportkanselleringer og stengt infrastruktur kan påføre flyselskaper, reiseliv og lokalt næringsliv i den iberiske regionen store kortsiktige tap."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BnRmpUanRPTTZiR2d4QV9iWWpGOHlSOEd6dW9KSmNSNGpHOUpLQ1VLYnpIN1N2c1FIQV9LN1dHRWU1YXRDbTc4UkR5M295OVE2azN0T1AwdjQtWkpFbHl6TDZrYmV6X0VrdjRFWEwzeWZkU2NDT0R5VTU3aHduZ0FCUzJMUlB0TmN2TUxEaXNJZFcySDV6SGZ5U1NfTEZDSzhmR1pQNmNhZVJhVDhWbUVGMXlQSVpYc3c0VV9TSkw?oc=5",
+      "paywall": false
+     },
+     {
+      "name": "Euronews",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVNvb3pZRGR5RzJzWDRUa0N0eEJtWVdTSnJRVUNMRDM4ZGlVVTAyVEJ2SDhqMXZEckRFMEtUR1hWLTRQc3JVRzdZV3lwbHl1R1NmbHRlaFlZbV9mZ3FKN2JhRU1VZnZGc21Uby1wQVhBNmZJSExmYV9OYTl4ZXNMcjIxOGlEZGpMNmxCZkpxcDM1Q3RCWDZvMEx4S2dodEEzYkZOMEIyOG5mMDlZenc?oc=5",
       "paywall": false
      }
     ]
