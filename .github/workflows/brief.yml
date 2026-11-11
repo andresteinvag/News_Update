@@ -5,9 +5,9 @@ on:
     paths:
       - 'brief.py'
   schedule:
-    # To UTC-tidspunkter dekker både norsk sommer- og vintertid.
-    # brief.py har catch-up-vindu og lager maksimalt én utgave per tidspunkt.
-    - cron: "5 6,7,18,19 * * *"
+    # Norsk vintertid (UTC+1): kjør kl. 08:05 og 20:05 norsk tid.
+    # Bytt til 5 6,18 * * * når Norge går over til sommertid (UTC+2).
+    - cron: "5 7,19 * * *"
   workflow_dispatch:
 
 permissions:
