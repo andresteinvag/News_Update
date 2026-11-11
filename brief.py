@@ -14,7 +14,7 @@ import feedparser
 OSLO = ZoneInfo("Europe/Oslo")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 EDITIONS = "docs/editions.json"
-KEEP = 30
+KEEP = 5
 PAYWALLED = ["ft.com", "dn.no", "finansavisen.no", "wsj.com", "bloomberg.com", "nytimes.com"]
 OPEN_COVERAGE = ["reuters.com", "apnews.com", "bbc.com", "nrk.no", "cnbc.com"]
 PW = " (betalingsmur)"
