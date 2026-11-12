@@ -9,7 +9,7 @@ from google import genai
 from google.genai import types
 import feedparser
 
-# Test trigger: push to brief.py starts a controlled morning/evening run.
+# Push trigger: refresh the current edition after schedule recovery changes.
 
 OSLO = ZoneInfo("Europe/Oslo")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
