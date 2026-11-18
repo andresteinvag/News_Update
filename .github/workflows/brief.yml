@@ -5,9 +5,9 @@ on:
     paths:
       - 'brief.py'
   schedule:
-    # Norsk vintertid (UTC+1): prøv hver time kl. 08:05–11:05 og 20:05–23:05.
-    # Ved sommertid (UTC+2): bruk 5 6-9,18-21 * * *.
-    - cron: "5 7-10,19-22 * * *"
+    # Norsk vintertid (UTC+1): prøv hvert 30. minutt kl. 08:00–12:30 og 20:00–23:30.
+    # Gjentatte forsøk gjør at forsinkede GitHub-kjøringer ikke stopper dagens utgave.
+    - cron: "*/30 7-11,19-22 * * *"
   workflow_dispatch:
 
 permissions:
