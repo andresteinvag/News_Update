@@ -375,16 +375,16 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    # Planlagte kjøringer kan bli forsinket hos GitHub. Vi tillater derfor
-    # catch-up gjennom formiddagen/kvelden, men lager fortsatt maksimalt én
-    # morgenutgave og én kveldsutgave per dag.
+    # GitHub Actions kan forsinke planlagte kjøringer. Workflowen prøver derfor
+    # hvert 30. minutt i morgen- og kveldsøkten. Første vellykkede forsøk lager
+    # utgaven; ID-sjekken under hindrer dubletter resten av økten.
     if not force:
-        if 8 <= now.hour < 12:
+        if 8 <= now.hour < 13:
             hour = 8
         elif 20 <= now.hour < 24:
             hour = 20
         else:
-            print("Ikke utgavetid, hopper over.")
+            print("Utenfor morgen- og kveldsøkten, hopper over.")
             return
     else:
         hour = 8 if now.hour < 14 else 20
