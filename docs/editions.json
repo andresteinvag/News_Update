@@ -1,5 +1,197 @@
 [
  {
+  "id": "2026-11-18-20",
+  "hour": 20,
+  "date": "2026-11-18",
+  "generated": "18.11.2026 23:29",
+  "overview": "Dagens markedsbilde preges av rekordstore teknologibørsnoteringer som trekker oppmerksomheten mot kunstig intelligens, samtidig som inflasjonstall og sentralbankkommentarer skaper usikkerhet rundt rentenivået fremover. Det geopolitiske toppmøtet mellom stormaktene setter dagsorden for globale handels- og energimarkeder.",
+  "stories": [
+   {
+    "title": "Anthropic gjør tidenes største børsnotering",
+    "summary": "AI-giganten Anthropic har priset sin historiske børsnotering til 83 dollar per aksje, noe som plasserer selskapet blant verdens mest verdifulle og skaper tusenvis av nye millionærer. Børsnoteringen markerer en ny milepæl for kommersialiseringen av kunstig intelligens i finansmarkedene.",
+    "why_it_matters": "Børsnoteringen påvirker globale teknologiinvestorer og verdsettelsen av AI-sektoren, noe som indirekte kan smitte over på Oljefondets teknologiinvesteringer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Høyere tilgang på attraktive teknologiaksjer kan tiltrekke ny kapital til vekstmarkeder og endre risikoviljen blant institusjonelle investorer."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "En massiv børsnotering gir Anthropic betydelig finansiell muskelkraft til å utfordre konkurrenter innen kunstig intelligens og fremskynde produktutviklingen."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/xJPedp/anthropic-gjoer-tidenes-stoerste-boersnotering-aksjen-prises-til-83-dollar-melder-flere-medier?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Høyere inflasjon i Storbritannia presset opp av drivstoffpriser",
+    "summary": "Storbritannias årlige inflasjonsrate har steget til det høyeste nivået på et år og landets på 3,6 prosent, i stor grad drevet av rekordhøye dieselpriser. Utviklingen skaper økt press på husholdningene og øker sannsynligheten for at rentene forblir høye lenger.",
+    "why_it_matters": "Storbritannia er en viktig handelspartner for Norge, og internasjonale inflasjonstrender påvirker også de lange rentene i europeisk økonomi.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Inflasjon",
+      "effect": "Vedvarende prispress på energi og drivstoff kan forplante seg gjennom verdikjedene og forlenge perioden med høyere levekostnader for forbrukere."
+     },
+     {
+      "area": "Renter",
+      "effect": "Høyere inflasjonstall kan tvinge sentralbankene til å holde rentene på et restriktivt nivå for å dempe den samlede etterspørselen i økonomien."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norebo tapte søksmål mot den norske stat",
+    "summary": "Det russiske fiskerikonsernet Norebo har lidt et nederlag i retten etter å ha saksøkt den norske stat i et forsøk på å utfordre rammebetingelsene. Saken har vakt oppmerksomhet knyttet til reguleringer i nordområdene og næringslivets forhold til statlige vedtak.",
+    "why_it_matters": "Utfallet bekrefter statens myndighet over fiskeriforvaltningen og gir forutsigbarhet for norske rammebetingelser i sensitive næringer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Offentlige finanser",
+      "effect": "Sjablongmessige saksomkostninger og stadfestet kontroll over fiskeripolitikken styrker statens posisjon i fremtidige juridiske tvister med utenlandske aktører."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Norske fiskeriaktører får et mer forutsigbart regulatorisk rammeverk når forsøk på å endre premissene gjennom rettsvesenet ikke fører frem."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Amerikanske sentralbanktopper åpner for rentehevinger",
+    "summary": "Flere sentralbankmedlemmer i USA indikerer at det kan bli aktuelt med nye rentehevinger, og enkelte utelukker ikke en dobbeltheving dersom inflasjonen ikke avtar. Meldingene skaper uro i de finansielle markedene som hadde priset inn rentetoppen.",
+    "why_it_matters": "Strammere pengepolitikk i USA påvirker den globale kronekursen, importert inflasjon og kapitalkostnadene for norske bedrifter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "Høyere styringsrenter i USA kan presse opp rentene internasjonalt og gjøre det dyrere for foretak å hente inn fremmedkapital."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Høyere amerikanske renter kan styrke dollaren ytterligere, noe som kan gjøre det dyrere for Norge å importere varer og tjenester."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/internasjonal-oekonomi/i/EbWmql/sentralbanktopper-vil-ha-renteheving-i-usa?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nye amerikanske regler truer AI-forsyningen til Sørøst-Asia",
+    "summary": "Nye eksportkontroller fra USA krever at datasentre i Sørøst-Asia må søke om spesiell godkjennelse for å kjøpe avanserte AI-brikker. Dette truer med å bremse en kraftig vekst som i stor grad har vært drevet av kinesisk etterspørsel.",
+    "why_it_matters": "Regelverket rammer den globale verdikjeden for halvledere og kan redusere etterspørselen etter kritiske råvarer og teknologiinfrastruktur.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Strammere amerikanske handelsrestriksjoner tvinger teknologiselskaper til å omstrukturere forsyningskjedene sine for å unngå straffetiltak."
+     },
+     {
+      "area": "Energi og råvarer",
+      "effect": "Forsinkelser i utbyggingen av nye datasentre kan dempe veksten i den globale etterspørselen etter kraft og industrimetaller som kobber."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Brødrene Dahl klaget inn til Konkurransetilsynet",
+    "summary": "Vvs-giganten Brødrene Dahl har blitt innklaget til Konkurransetilsynet etter en opphetet priskrangel i markedet. Saken setter søkelyset på maktforhold og prisstrukturer i norsk byggevare- og anleggsbransje.",
+    "why_it_matters": "Prisdynamikken i byggevaresektoren påvirker byggekostnadene for boliger og næringsbygg i Norge.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Konkurranse",
+      "effect": "En grundig gjennomgang fra Konkurransetilsynet kan avdekke markedsskjevheter og føre til strengere kontroll med rabattstrukturer mellom grossister."
+     },
+     {
+      "area": "Bolig",
+      "effect": "Høyere materialkostnader som følge av manglende konkurranse kan presse byggekostnadene opp og indirekte ramme fremtidig boligbygging."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS01jcENMT3hPZXFiYzJVWmJDSWt0OTlNaUpNNlRyczFoWjZOdFc4cTNhejJHdUl2U1R2WDJ0Y2EtS19raXBwN0Z5bnJlQ21aaEN4SC1OQllGdV9yVHVkZWRsR2Y0aWxXalM2S3RvdGRlcjdkeGpJVHZqSHI0dFlSUEkyQ1dlRERVekRiWU9TU1RqcE9xY2s4U2JRaTVLRlRXUXZlb21sb3FCbTRDc29LbQ?oc=5",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "USA og Venezuela undertegner ny militærleieavtale",
+    "summary": "USAs forsvarsminister Pete Hegseth har besøkt Caracas og signert en avtale om å gjenopprette et nært militært samarbeid med Venezuela, inkludert felles trening og etterretningsutveksling.",
+    "why_it_matters": "Avtalen markerer et dramatisk skifte i amerikansk sikkerhetspolitikk i Latin-Amerika og kan påvirke den regionale stabiliteten samt globale oljemarkeder.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Geopolitikk",
+      "effect": "Gjenopprettede bånd mellom USA og Venezuela endrer maktbalansen i regionen og skaper nye premisser for amerikansk tilstedeværelse i Sør-Amerika."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Stortingspolitikerne rammet av passordlekkasje i ekstremt nett-miljø",
+    "summary": "En rekke politikeres passord har blitt spredt i et ekstremt digitalt miljø, noe som har utløst bekymring for digital sikkerhet og sårbarhet i det politiske apparatet.",
+    "why_it_matters": "Hendelsen illustrerer den vedvarende trusselen mot samfunnskritiske institusjoner og personvern i offentlig forvaltning.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Saken tvinger frem en skjerping av digitale sikkerhetsrutiner og bevisstgjøring rundt passordbruk blant beslutningstakere i Norge."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Aftenposten",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWczbDhhYmtOVFpqWmtKMUhubV9tTFNPdDhWMTVJOTI3NGJBMVVfSndLQU9IUEJDX0pDWG1qZG1INUtTUXpCQ3NTXzBxQ2hvT0dLVzd6ZnVLd1FDdEdTc0U5b1RwN0FOZ01laDFHSnVnczFJVHhka0dnTlpTYzNyd19Nbi1tMF9hVjhnSjJYTjBFN0MxRXZ4UldLTV8?oc=5",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-14-20",
   "hour": 20,
   "date": "2026-11-14",
@@ -951,213 +1143,6 @@
      {
       "name": "Deutsche Welle",
       "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-11-10-20",
-  "hour": 20,
-  "date": "2026-11-10",
-  "generated": "11.11.2026 00:09",
-  "overview": "Dagens markedsbilde preges av sterkere inflasjonstall fra USA enn ventet, noe som sender USAs statsobligasjoner ned og øker presset på Federal Reserve. Samtidig skaper geopolitiske spenninger og høye strømpriser i Sør-Norge nye utfordringer for både bedrifter og husholdninger.",
-  "stories": [
-   {
-    "title": "Høyere inflasjon i USA enn ventet kompliserer Feds rentebane",
-    "summary": "Forbrukerprisene i USA steg med 0,4 prosent i oktober, mer enn anslått av markedet. Tallene skaper hodebry for Federal Reserve idet sentralbanken vurderer sine neste rentegrep i desember.",
-    "why_it_matters": "Høyere inflasjon i verdens største økonomi smitter raskt over på globale renter og finansmarkeder, noe som også påvirker norske finansieringskostnader.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Sterke inflasjonstall og markedsforventninger om en ny renteøkning kan presse lange statsobligasjonsrenter oppover og gjøre kapitaldyrking generelt dyrere."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Høyere avkastning på trygge rentepapirer gjør at aksjemarkedet opplever økt salgspress og reprising, særlig innen teknologisektoren."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "paywall": false
-     },
-     {
-      "name": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDdJZWZTVGp6N25nUmVzN2E0anpESlN6a3ZRd3hRTEVyZVB0MzRTT3E2TDQzNmd5LV9GQi1nblV1dGcwd0Vxa3BJclZnUUpDRl9JUmxaQzFVc1hoaVNhNVJUbTNCb3RRODVtSEJkWXhYR0hlOGFfRHlpNkZkbm04cHJnWm8?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Kinas handelsoverskudd runder 1 billion dollar igjen",
-    "summary": "Kinas vareoverskudd har passert 1000 milliarder dollar per oktober for andre år på rad. Dette forsterker presset fra handelspartnere som frykter overflod av billige kinesiske varer.",
-    "why_it_matters": "Det massive handelsoverskuddet viser dype ubalanser i global handel, noe som kan utløse strengere tollmurer og proteksjonisme fra vestlige markeder.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Handel",
-      "effect": "Vedvarende kinesisk eksportdominans kan tvinge frem nye proteksjonistiske handelstiltak og tollbarrierer fra både USA og EU for å beskytte egen industri."
-     },
-     {
-      "area": "Energi og råvarer",
-      "effect": "Store svingninger i kinesisk industriaktivitet påvirker den globale etterspørselen etter råvarer, noe som indirekte slår ut på norske eksportinntekter."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "CoreWeave oppjusterer inntektsprognosen tross AI-skepsis",
-    "summary": "Kunstig intelligens-infrastrukturselskapet CoreWeave har lagt frem sterke tall for tredje kvartal og hever guidingen. Dette demper uroen i markedet for en oppbremsing i etterspørselen etter KI-tjenester.",
-    "why_it_matters": "Selskapet er en sentral temperaturmåler på den globale KI-boomen, og tallene girrt fornyet optimisme for leverandører og investorer i teknologisektoren.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Positive utsikter fra sentrale aktører innen kunstig intelligens kan dempe den nylige investoruroen og stabilisere verdsettelsen av vekstaksjer."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Fortsatt høy etterspørsel etter serverkapasitet krever massive investeringer i datakraft, noe som påvirker energiforbruket og utbyggingen av datasentre globalt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/z0Lne1/nscale-konkurrenten-coreweave-mangedoblet-omsetningen-aksjen-hopper-i-etterhandelen?utm_medium=rss",
-      "paywall": true
-     },
-     {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW16c2FCODY2R0c2NmhNcXU4aldCVDlBZDNRR3l6M0hxNmI0WUd3VjZRdmwxZGx2bTlOQ2VVSUZrdTlQemxiY2I4b2tMdGs2Qm4xNEo4UDBlaDJ2S3VzZzNOZF9QTFZ3X1NuRDFwVWM4N0h1endtYVFJVUpiNHVGdmU0X19sTmhzR3c3bVdVdUJ2WTJIZURmYVlGUkRJWWsxM3hfLXp6YzB6dnQxbWhQSnR0bXhpbjFWTVdNbA?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Rekordhøye strømpriser i Sør-Norge rammer næringslivet",
-    "summary": "Strømprisene i Sør-Norge nådde tirsdag sitt høyeste nivå på ett år. Bedrifter melder om firedoblede regninger og en svært krevende kostnadssituasjon.",
-    "why_it_matters": "Høye energipriser svekker konkurransekraften for kraftkrevende industri og småbedrifter i Sør-Norge, samtidig som det presser opp driftskostnadene.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Høyereliggende strømpriser i vinterhalvåret reduserer husholdningenes disponible inntekt og demper den generelle private etterspørselen i varehandelen."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Kraftintensive foretak og mindre produksjonsbedrifter opplever press på driftsmarginene, noe som på sikt kan tvinge frem produksjonskutt eller prisøkninger ut til sluttkunde."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/vestfoldogtelemark/stromsmell-pa-arets-dyreste-dag_-_-det-er-spinnvilt.-det-er-koko-1.18078480",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Datasentersjef advarer om at byggestans svekker Norges omdømme",
-    "summary": "Statsforvalterens stans av Greenscales milliardprosjekt i Sirdal møter hard kritikk fra bransjen. Sjefen mener behandlingen skader Norges attraktivitet som destinasjon for grønne investeringer.",
-    "why_it_matters": "Regulatorisk usikkerhet og treg saksbehandling kan føre til at utenlandsk kapital og grønn industri velger å etablere seg i andre land.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Stansede industriprosjekter skaper investeringsusikkerhet for aktører som vurderer milliardinvesterginger i norsk grønn infrastruktur og digitaløkonomi."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Manglende realisering av store næringsprosjekter reduserer fremtidige skatteinntekter og potensielle arbeidsplasser i regioner som søker ny vekst."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/naeringsliv/i/Abe9yM/datasenter-sjef-reagerer-paa-byggestans-svekker-norges-omdoemme?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norge rammet av ny EØS-smell på uføreregler",
-    "summary": "Det norske kravet om at EU-borgere må ha minst fem års sammenhengende trygdemedlemskap for å motta uføretrygd, bryter med EØS-retten. Det slår nye juridiske vurderinger fast.",
-    "why_it_matters": "Saken kan føre til lovendringer og økte utgifter for norske trygdeordninger, og understreker konsekvensene av å ikke harmonisere nasjonalt regelverk med EØS-avtalen.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Offentlige finanser",
-      "effect": "Utvidede trygderettigheter for utenlandske arbeidstakere kan øke de samlede utgiftene over statsbudsjettet til velferdsordninger framover."
-     },
-     {
-      "area": "Arbeidsmarked",
-      "effect": "Tydeligere regelverk knyttet til trygdemedlemskap kan påvirke mobiliteten og incentivene for EØS-borgere som søker arbeid i det norske arbeidsmarkedet."
-     }
-    ],
-    "sources": [
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/8Pwg8E/norge-gaar-paa-ny-trygdesmell-ufoereregler-bryter-med-eoes-retten?utm_medium=rss",
-      "paywall": false
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Amerikansk soldat pågrepet i Storbritannia for russisk spionasje",
-    "summary": "Britisk politi har arrestert en høytstående amerikansk soldat stasjonert i England i forbindelse med en antiterror- og spionasjeetterforskning knyttet til Russland.",
-    "why_it_matters": "Saken kaster lys over sikkerhetstruslene mot vestlig militært samarbeid og risikoen for internt innsidespionasje i Nato.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Sikkerhet og forsvar",
-      "effect": "Avdekking av mulig spionasje internt i allierte styrker tvinger frem skjerpede sikkerhetsrutiner og tettere etterretningssamarbeid mellom USA og Storbritannia."
-     }
-    ],
-    "sources": [
-     {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-      "paywall": false
-     },
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/storbritannia_-amerikansk-soldat-arrestert-i-antiterror-etterforskning-1.18078778",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Latvia ber innbyggere søke tilflukt etter luftromstrussel",
-    "summary": "Latviske myndigheter ba tirsdag kveld innbyggere i grenseregioner mot Belarus om å søke tilflukt som følge av en luftromstrussel, noe som utløste utrykning fra Natos kampfly.",
-    "why_it_matters": "Hendelsen illustrerer den spente sikkerhetssituasjonen ved Natos østflank og risikoen for uforutsette eskaleringer i regionen.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Gjentatte trusler mot alliert luftrom forsterker behovet for permanent tilstedeværelse av Natos kampfly og øker den generelle beredskapen i Baltikum."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nyheter/latvias-haer_-ber-folk-soke-tilfluktsrom-etter-luftromstrussel-1.18078847",
-      "paywall": false
-     },
-     {
-      "name": "VG",
-      "url": "https://www.vg.no/nyheter/i/wdEaEA/latvisk-militaer-ber-alle-naer-den-belarusiske-grensen-om-aa-soeke-tilflukt?utm_medium=rss",
       "paywall": false
      }
     ]
