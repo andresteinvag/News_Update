@@ -375,9 +375,8 @@ def render(editions):
 def main():
     now = datetime.now(OSLO)
     force = os.environ.get("FORCE") == "1"
-    # GitHub Actions kan forsinke planlagte kjøringer. Workflowen prøver derfor
-    # hvert 30. minutt i morgen- og kveldsøkten. Første vellykkede forsøk lager
-    # utgaven; ID-sjekken under hindrer dubletter resten av økten.
+    # Planlagte kjøringer identifiseres fra cron-uttrykket, slik at forsinkelser
+    # hos GitHub ikke gjør at en utgave hoppes over; ID-sjekken hindrer dubletter.
     schedule = os.environ.get("SCHEDULE", "").strip()
     if not force and schedule:
         # Bruk cron-tidspunktet, ikke runnerens faktiske starttid: GitHub kan
