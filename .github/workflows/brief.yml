@@ -5,9 +5,12 @@ on:
     paths:
       - 'brief.py'
   schedule:
-    # Norsk vintertid (UTC+1): prøv hvert 30. minutt kl. 08:00–12:30 og 20:00–23:30.
-    # Gjentatte forsøk gjør at forsinkede GitHub-kjøringer ikke stopper dagens utgave.
-    - cron: "*/30 7-11,19-22 * * *"
+    # Fire faste UTC-tidspunkter dekker 08:00 og 20:00 norsk tid gjennom sommer- og vintertid.
+    # Python velger riktig lokale utgave basert på hvilken cron som utløste kjøringen.
+    - cron: "5 6 * * *"
+    - cron: "5 7 * * *"
+    - cron: "5 18 * * *"
+    - cron: "5 19 * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,7 +41,8 @@ jobs:
         run: python brief.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          FORCE: ${{ (github.event_name == 'workflow_dispatch' || github.event_name == 'push') && '1' || '0' }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
+          SCHEDULE: ${{ github.event.schedule || '' }}
       - if: steps.gen.outputs.new == 'true'
         run: |
           git config user.name "brief-bot"
