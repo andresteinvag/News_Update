@@ -378,7 +378,26 @@ def main():
     # GitHub Actions kan forsinke planlagte kjøringer. Workflowen prøver derfor
     # hvert 30. minutt i morgen- og kveldsøkten. Første vellykkede forsøk lager
     # utgaven; ID-sjekken under hindrer dubletter resten av økten.
-    if not force:
+    schedule = os.environ.get("SCHEDULE", "").strip()
+    if not force and schedule:
+        # Bruk cron-tidspunktet, ikke runnerens faktiske starttid: GitHub kan
+        # starte scheduled workflows flere timer forsinket.
+        try:
+            utc_hour = int(schedule.split()[1])
+            utc_offset = int(now.utcoffset().total_seconds() // 3600)
+            scheduled_local_hour = (utc_hour + utc_offset) % 24
+        except (IndexError, ValueError, AttributeError):
+            sys.exit(f"Ugyldig schedule-verdi: {schedule!r}")
+
+        if 8 <= scheduled_local_hour < 14:
+            hour = 8
+        elif 20 <= scheduled_local_hour < 24:
+            hour = 20
+        else:
+            print(f"Cron tilsvarer {scheduled_local_hour:02d}:xx norsk tid; ingen utgave.")
+            return
+    elif not force:
+        # Ved push utenfor utgivelsesvinduet skal vi ikke lage en utgave.
         if 8 <= now.hour < 13:
             hour = 8
         elif 20 <= now.hour < 24:
