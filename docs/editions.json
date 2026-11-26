@@ -1,5 +1,237 @@
 [
  {
+  "id": "2026-11-26-08",
+  "hour": 8,
+  "date": "2026-11-26",
+  "generated": "26.11.2026 18:40",
+  "overview": "Dagens finansmarkeder preges av sentralbankskifter i Europa og nye tolltrusler fra USA som skaper usikkerhet rundt den globale handelen. Samtidig opplever Oslo Børs et løft drevet av oppgang i oljeprisen.",
+  "stories": [
+   {
+    "title": "Spanske Pablo Hernández de Cos pekes ut som ny sjef for Den europeiske sentralbanken",
+    "summary": "Spanske Pablo Hernández de Cos ligger an til å overta etter Christine Lagarde som sjef for Den europeiske sentralbanken neste år. Han vil lede sentralbanken inn i en krevende periode med politisk usikkerhet og lav vekst.",
+    "why_it_matters": "Endringen i ledelsen ved Den europeiske sentralbanken kan få direkte følger for rentebanen og pengepolitikken som også påvirker norsk økonomi gjennom handel og kronekurs.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Renter",
+      "effect": "En ny sentralbanksjef kan legge om pengepolitikken og justere rentenivået for å møte europeisk inflasjon, noe som direkte påvirker europeiske lånekostnader."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Endringer i rentenivået i eurosonen vil kunne svekke eller styrke kronen avhengig av rentemarginen mellom Norges Bank og Den europeiske sentralbanken."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Markedet vil trolig reagere på profilen til den nye sjefen, hvor en strengere eller mer lempelig linje kan endre verdsettelsen av børsnoterte selskaper."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/boers-og-finans/i/xJPG3B/blir-trolig-europeisk-sentralbanksjef?utm_medium=rss",
+      "paywall": true
+     },
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "paywall": false
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTUzYlI2Rk5CTUlTd2JKMnZtWmZpMzZ1VHRYTmtlV3VKcE9ocGdMSkpDcmdvOE9JVzdFd2E0enVLdEVlOHMyRXNDQzlmTGtSM2N6N0FvVTVUendHLXRkVG5zeW1WMGRJemlTTFBnS0h6NVlFZHIwS1JhdS11V3pSTXZSMWg?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nye amerikanske tolltrusler mot flere handelspartnere",
+    "summary": "USA planlegger en ny runde med tolløkninger mot 14 handelspartnere, samtidig som det åpnes for lavere satser for land som inngår særskilte handelsavtaler med Washington. Dette øker presset på globale aktører.",
+    "why_it_matters": "Økt proteksjonisme og handelskonflikter rammer verdensøkonomien og kan redusere etterspørselen etter norske eksportvarer.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Handel",
+      "effect": "Høyere tollsatser kan føre til at globale verdikjeder blir dyrere og mindre effektive, noe som reduserer det internasjonale handelsvolumet."
+     },
+     {
+      "area": "Inflasjon",
+      "effect": "Forbrukere og bedrifter kan oppleve økte priser på importerte varer fordi importtollene veltes over på sluttkundene."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Eksportrettede selskaper må belage seg på økt markedsrisiko og potensielt endre sine strategiske forsyningslinjer for å unngå straffetoll."
+     }
+    ],
+    "sources": [
+     {
+      "name": "CNBC International",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "Norse Atlantic advarer om konkursfare og forhandler med investorer",
+    "summary": "Det kriserammede flyselskapet Norse Atlantic har stilt seg i en situasjon hvor det advarer om konkursfare og forhandler intenst med en investorgruppe for å berge driften.",
+    "why_it_matters": "Saken belyser de ekstreme marginene i luftfarten og kan føre til at tusenvis av reisende mister sine bestilte billetter og juleferieturer.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Forbrukere",
+      "effect": "Reisende som har kjøpt billetter, risikerer å tape sine utlegg og må skaffe seg nye, potensielt langt dyrere reiser i en travel høytidsperiode."
+     },
+     {
+      "area": "Konkurranse",
+      "effect": "Et eventuelt fallittbo fjerner en lavpriskonkurrent på langdistanseruter, noe som kan gi andre aktører mulighet til å heve billettprisene."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Aksjonærene risikerer at verdiene i selskapet blir fullstendig borte dersom en finansiell redningspakke ikke fører fram."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjE3YWhleVJBZmt5X1dyRTlCT2xzR2NnVVVaTHRDdUFHX205Ukx2czZveFFaZ3VPb1F3RkFlcGUtaFN0cmU5TVVqS3U5aXZCajdIclB1ZDM3bDFaLW1QR2txS2FweEo5eU5ybmJBZ3hCTURiZGkyLXdFNmJqRkpyUnV0bzAtWmFjUnZpWkxGYlZaaU1lRGFUU2pzVjYwQQ?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "E24",
+      "url": "https://e24.no/norsk-oekonomi/i/M5RzRR/billigbilletten-kan-bli-svindyr?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Oslo Børs løftes av stigende oljepriser",
+    "summary": "Oslo Børs åpnet oppover etter at oljeprisene tok seg opp i takt med at handelen i energimarkedet reagerer på økt geopolitisk risiko og spenninger knyttet til Midtøsten.",
+    "why_it_matters": "Oljeprisen er livsnerven i norsk økonomi, og oppgang styrker umiddelbart statens inntekter og verdiene på Oslo Børs.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Tunge olje- og energiselskaper drar opp hovedindeksen og gir bedre avkastning for investorer med eksponering mot Oslo Børs."
+     },
+     {
+      "area": "Offentlige finanser",
+      "effect": "Høyere priser på olje og gass styrker det norske statsbudsjettets inntektsstrømmer gjennom økende kontantstrøm fra petroleumsvirksomheten."
+     },
+     {
+      "area": "Kronekurs",
+      "effect": "Større eksportinntekter fra energi kan isolert sett bidra til å styrke den norske kronen mot andre valutaer."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Dagens Næringsliv",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUTBPZDhHOVJ2dFlLVUQwSzVZekJVS2Y4ckl2STBKbUpmNmN2ZDFDUTFXVG5Gd0dFaW1KMjVBTXpHcFRTMGlJcEkwVldCZ2JfN1RNS1c2ZEJiLXVUU0Q1eTF2WG01Q2swUldUcVZUczRRZXkyVHNSeVlXN0pVSy10akVXMTd3X214YWFuZm1oMlQzVGh3RkZPSFE4UWgxb1o0VU9hNGowTWFxT1RyVEoxZ0RYS3EtdmpqbVRFaFVR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Finansavisen",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnJWNC1sWW40NWNFN29XM2doVW9MNE1MWnpzV0hQcTNvci1FRDlrTFpld2M5M1IxMnItZWU2NzgtSGtkYncyV1pkQzV3UDlvRmlnaXJhLTRKT2VZLXlKSjNSdG1pZzVfMEZWZEN0WnR5RDVOV0thMl9jZnRkdEdIS1Zvd2o?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Nvidia stanser brikkesendinger til Sørøst-Asia",
+    "summary": "Teknologigiganten Nvidia har bedt sine partnere om å midlertidig stanse forsendelser av databrikker til Sørøst-Asia som følge av nye regulatoriske føringer og markedsbekymringer.",
+    "why_it_matters": "Saken illustrerer hvordan geopolitiske restriksjoner og teknologiinfrastruktur blir brukt som politiske verktøy, noe som rammer globale forsyningskjeder for avansert it-utstyr.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Næringsliv",
+      "effect": "Teknologibedrifter som er avhengige av rask tilgang på grafikkort og AI-brikker, kan oppleve forsinkelser og økte kostnader i sin produktutvikling."
+     },
+     {
+      "area": "Aksjemarkedet",
+      "effect": "Uforutsigbarhet rundt leveranser og eksportkontroll skaper usikkerhet rundt Nvidias fremtidige salgsvekst og kan tynge aksjekursen."
+     },
+     {
+      "area": "Regulering",
+      "effect": "Skjerpede statlige kontroller tvinger multinasjonale selskaper til å omstrukturere sine globale distribusjonsnettverk."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Wall Street Journal",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGFER2Vpbl9JMXo5TFF1MFdQemdLcWFENFE0eGhwRS1pWkVyVTJvMFQ3RnRxUURGSjBxbHVMVVlyYzk0N3ZVU0tfb0tJa3NJREFmSzNmbkVWd0xxdDlvLUlqNzQ1bnBmUExWNWxmVTczRG1UNEQzd3NReXh5N2xTU3IwbkRwcDJFT1BXYzExU3NLMVNkZ3RR?oc=5",
+      "paywall": true
+     },
+     {
+      "name": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDFtRGxaSmJxdndYb1VMbTBjLWJGOExCdUdULWNlRXF6RG90SDQzQkdYb29GbmI3Q1J5UHp2Yk80N3R1Wkl4UXlfWFdFd0VmQ2FEYUZXdnFpbnR3SndRWkh6dVJYQlY1cHhQMWVkTEpJaV9lbHJteGc1ai0tS0ppYWxuWVI?oc=5",
+      "paywall": true
+     }
+    ]
+   },
+   {
+    "title": "Regjeringen jubler over at norsk vannkraft igjen regnes som grønn av EU",
+    "summary": "Et nytt EU-grep gjør at norsk vannkraft igjen kan bli regnet som grønn i henhold til EUs regelverk, noe som mottas med stor glede av den norske regjeringen.",
+    "why_it_matters": "Dette er avgjørende for norske kraftprodusenter som er avhengige av grønne sertifikater for å tiltrekke seg bærekraftig kapital og opprettholde konkurransekraften.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Energi og råvarer",
+      "effect": "Norske kraftselskaper får en enklere tilgang til europeisk grønn kapital fordi investeringene klassifiseres i tråd med EUs taksonomi."
+     },
+     {
+      "area": "Næringsliv",
+      "effect": "Forutsigbare rammevilkår styrker tilliten til det grønne skiftet i Norge og oppmuntrer til videre investeringer i fornybar energi."
+     }
+    ],
+    "sources": [
+     {
+      "name": "E24",
+      "url": "https://e24.no/energi-og-klima/i/kMJAmj/mener-eu-gir-etter-svaert-glad?utm_medium=rss",
+      "paywall": true
+     }
+    ]
+   }
+  ],
+  "general_stories": [
+   {
+    "title": "To italienske teknikere drept i angrep i Kuwait",
+    "summary": "To italienske teknikere som arbeidet ved en luftvernsstasjon i Kuwait, mistet livet som følge av vrakgods etter en droneinterceptjon i regionen.",
+    "why_it_matters": "Hendelsen understreker den spente sikkerhetssituasjonen i Midtøsten og risikoen for at sivilt personell rammes av regionale konflikter.",
+    "region": "Verden",
+    "impact": [
+     {
+      "area": "Sikkerhet",
+      "effect": "Konflikten i Midtøsten sprer seg med økt fare for sabotasje og tap av liv i nabolandene."
+     }
+    ],
+    "sources": [
+     {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
+      "paywall": false
+     }
+    ]
+   },
+   {
+    "title": "FHI melder at vinterens influensautbrudd er i gang i Norge",
+    "summary": "Folkehelseinstituttet opplyser at årets influensautbrudd har startet samtidig som koronasmitten øker, og oppfordrer folk til å ta vaksine.",
+    "why_it_matters": "Dette kan føre til økt press på helsetjenesten og høyere sykefravær i arbeidslivet i årets mørkeste måneder.",
+    "region": "Norge",
+    "impact": [
+     {
+      "area": "Arbeidsliv",
+      "effect": "Økt smittepress kan føre til høyere kortidsfravær i bedrifter og offentlig sektor."
+     }
+    ],
+    "sources": [
+     {
+      "name": "NRK",
+      "url": "https://www.nrk.no/nyheter/utbrudd-av-influensa_-_-ta-vaksinen-na-1.18089136",
+      "paywall": false
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "2026-11-18-20",
   "hour": 20,
   "date": "2026-11-18",
@@ -880,269 +1112,6 @@
      {
       "name": "Euronews",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVNvb3pZRGR5RzJzWDRUa0N0eEJtWVdTSnJRVUNMRDM4ZGlVVTAyVEJ2SDhqMXZEckRFMEtUR1hWLTRQc3JVRzdZV3lwbHl1R1NmbHRlaFlZbV9mZ3FKN2JhRU1VZnZGc21Uby1wQVhBNmZJSExmYV9OYTl4ZXNMcjIxOGlEZGpMNmxCZkpxcDM1Q3RCWDZvMEx4S2dodEEzYkZOMEIyOG5mMDlZenc?oc=5",
-      "paywall": false
-     }
-    ]
-   }
-  ]
- },
- {
-  "id": "2026-11-11-08",
-  "hour": 8,
-  "date": "2026-11-11",
-  "generated": "11.11.2026 15:02",
-  "overview": "Dagens markedsbilde preges av uventet høy amerikansk inflasjon som kompliserer rentekuttutsiktene, samtidig som stigende oljepriser gir drahjelp til Oslo Børs. Her hjemme advarer Norges Bank om økt sårbarhet i det finansielle systemet, mens Finanstilsynet retter et kritisk søkelys mot bankenes høye utlånsmarginer.",
-  "stories": [
-   {
-    "title": "Uventet sterk amerikansk inflasjon skaper hodebry for Federal Reserve",
-    "summary": "Konsumprisindeksen i USA steg med 0,4 prosent i oktober, noe som var mer enn analytikerne hadde ventet på forhånd. Rapporten kommer på et kritisk tidspunkt for den amerikanske sentralbanken og sår tvil om fremtidige rentekutt.",
-    "why_it_matters": "Høye renter i USA påvirker det globale rentenivået direkte og setter rammene for andre sentralbankers handlingsrom.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Renter",
-      "effect": "Høyere inflasjonspress i USA kan føre til at Federal Reserve utsetter planlagte rentekutt og holder styringsrenten restriktiv lenger enn markedet har forventet."
-     },
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Vedvarende høye renter kan legge press på verdsettelsen av vekstselskaper ettersom fremtidige kontantstrømmer diskonteres med høyere kalkulasjonsrenter."
-     },
-     {
-      "area": "Kronekurs",
-      "effect": "Dersom rentedifferansen mot USA forblir bred, kan dette svekke den norske kronen og dermed importere ytterligere prisvekst til norsk økonomi."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "paywall": false
-     },
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Norges Bank advarer om økt risiko for den finansielle stabiliteten",
-    "summary": "Norges Bank peker i en fersk vurdering på at faren for uforutsette sjokk og alvorlige rystelser har tiltatt i lys av geopolitisk usikkerhet. Sentralbanken frykter at internasjonale forstyrrelser kan forplante seg og svekke stabiliteten i det norske finansielle systemet.",
-    "why_it_matters": "Risikovurderingene fra sentralbanken danner grunnlaget for kapitalkravene til norske banker og påvirker tilgangen på kreditt i samfunnet.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Strengere risikovurderinger fra sentralbanken kan lede til at forretningsbankene strammer inn på utlånspraksisen overfor sårbare sektorer i næringslivet."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Myndighetene kan bli nødt til å opprettholde større finanspolitiske buffere for å motvirke ringvirkningene av plutselige eksterne rystelser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Aftenposten",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjlLQ3NJNHp2MkFWRC1TYVozNXBtNWZFSWQxcUpxai03cnExMUdia2JzWDMwY0hwQm4zS0tnUWFrMnpGOHF6dXBMV2E4Q0ZCV24zTjBjYUU3YU9XU1ZxMUExSkcxUGVRNC1oOWNtbkIxeTVmSmNsNWJ4UWxiRm1rWkYwMGNXeHRoUGFza0pNTEFzX0U0TzlEQmhpTjdKLU1Tbl9yRjFCZGwtUGdxSzJsS2daSFBGaWhudHh2WkYxZWFzQQ?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Finanstilsynet krever tiltak mot høye norske bankmarginer",
-    "summary": "Finanstilsynet påpeker at norske banker over lang tid har hatt betydelig høyere rentemarginer enn bankene i nabolandene. Tilsynet foreslår nå en rekke regulatoriske grep for å styrke forbrukervernet og stimulere til bedre rentevilkår for kundene.",
-    "why_it_matters": "Lavere bankmarginer vil direkte øke kjøpekraften til norske låntakere, men samtidig utfordre lønnsomheten i banksektoren.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Dersom tiltakene fører til økt konkurranse og mobilitet, kan norske husholdninger oppnå lavere boliglånsrenter og spare betydelige renteutgifter."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Norske finansinstitusjoner kan oppleve fallende rentenetto og lavere egenkapitalavkastning dersom marginene presses ned mot nordisk gjennomsnitt."
-     }
-    ],
-    "sources": [
-     {
-      "name": "E24",
-      "url": "https://e24.no/privatoekonomi/i/zlb1Aq/finanstilsynet-forbrukervernet-hos-bankene-boer-styrkes?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Enorm interesse for AI-noteringer og strategiske IT-investeringer",
-    "summary": "Det meldes om at børsnoteringen til AI-selskapet Anthropic allerede er flerfoldige ganger overtegnet, mens halvlederkjempen TSMC godkjenner milliardoppkjøp av eierandeler i sektoren. Samtidig benytter banker nye kredittforsikringsmetoder for å utvide utlånskapasiteten til kapitaltunge AI-datasentre.",
-    "why_it_matters": "Den enorme kapitaltilførselen til kunstig intelligens preger den globale likviditetsflyten og driver store deler av børsoppgangen internasjonalt.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Aksjemarkedet",
-      "effect": "Massiv etterspørsel etter AI-relaterte aksjer bidrar til å holde teknologisektoren oppe, men øker fallhøyden dersom de faktiske inntektene skuffer investorene."
-     },
-     {
-      "area": "Næringsliv",
-      "effect": "Økt tilgang på kapital gjør det mulig for teknologigiganter å akselerere utbyggingen av datakraft og skape store ringvirkninger i hele leverandørkjeden."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGtLeG5WQUVLcHhzM3Y1YUFGamt6TFVZYzZJc1JaSEpNNHcwaTJqaGxXdjF5bm9MWnVrWmNadTlyLUZ1cjVCSmVUeUhsOEZLWnBRbnN6X0tqYmRfdGMzakdrWmdOeGNHR01kc0dlTm9tQ0hLLS1lQWt4ZWYyMllYNG9TYWFVTnpPUzFwYlE4ODBRNkVmZ0FRc2kwWGRISHAyQ2l6VlRXMDZLRGhGUmVSMHE2OGZKUQ?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3ZlYXlWNllKZkZETDl2YUpGcXdKYnBpc01rZ2pMenZYcXJrcmVhbFdlUW5oQnFWeTZ1dlN2S2RwVFFUaVJIUWk0UVJsOHk4R25nSGt4NnlfYTZVNXZvTzlrcXU4V2ZGNUNQQTY1amMwcHZ3bC00aTFBMTRKcFExdThaQlY2Nmp4ek1qSXRDdVVuLUlOSWVPQWMtSHlqT0g3RmlCbQ?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "SAS kutter nordnorske ruter og skaper logistikkutfordringer",
-    "summary": "SAS legger ned sine direkteruter mellom Trondheim og flere byer i Nord-Norge fra desember, noe som rammer anslagsvis 8000 årlige pasientreiser ifølge Helse Nord. Ruteavviklingen skjer parallelt med at interne bemanningsutfordringer tidligere har satt fly på bakken i selskapet.",
-    "why_it_matters": "Flytilbudet er kritisk infrastruktur for næringsliv og velferdstjenester i distriktene, og kutt truer den regionale mobiliteten.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Forbrukere",
-      "effect": "Reduserte direkteforbindelser gir lengre reisetid og økt belastning for pasienter og pendlere som er avhengige av flynettet i landsdelen."
-     },
-     {
-      "area": "Konkurranse",
-      "effect": "Norwegian og Widerøe kan oppnå en sterkere markedsposisjon på innenlandsrutene i nord, noe som på sikt kan gi rom for økte billettpriser."
-     }
-    ],
-    "sources": [
-     {
-      "name": "NRK",
-      "url": "https://www.nrk.no/nordland/sas-kutter-i-nord_-_-8000-pasientreiser-blir-rammet-1.18079041",
-      "paywall": false
-     },
-     {
-      "name": "Dagens Næringsliv",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGFfUnZKNVh3R2tjZmk1S0RVc2d4MXd0OFphRGxKakthNWFveTFydWQ4bDBSLXZKRFNzeHpiMDE1TkctSWdHTzJjQXcyQjlrODFZWUFJaE5MZFVaNDJHejlLQThzVXZJVWV6bFE0LU9zaEtaOWtuWkpVa2lzTUZlcHFpNC1sUHRURlBveU9heE1heHNYaG85Z2lKMDZkb0ZJWnl2cWZxTlE5THY4VXNV?oc=5",
-      "paywall": true
-     }
-    ]
-   },
-   {
-    "title": "Amerikanske forbrukere viser tretthetstegn tross vedvarende pengebruk",
-    "summary": "Veksten i detaljhandelen i USA avtok i oktober til sitt laveste nivå på nesten et år, ifølge ferske handelstall. Selv om konsumet opprettholdes, melder forhandlere at husholdningene begynner å merke det høye prisnivået på lommeboken.",
-    "why_it_matters": "Privat forbruk i USA utgjør ryggraden i landets økonomi og fungerer som en sentral drivkraft for global vekst.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Næringsliv",
-      "effect": "Varehandelen og konsumvareselskaper kan bli tvunget til å øke tilbudskampanjer for å forsvare volumene, noe som kan presse selskapenes driftsmarginer."
-     },
-     {
-      "area": "Inflasjon",
-      "effect": "Avtagende etterspørsel i detaljhandelen kan gradvis bidra til å dempe prispresset på varer ettersom butikkene mister prissettingsevne overfor kundene."
-     }
-    ],
-    "sources": [
-     {
-      "name": "CNBC International",
-      "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Oljeprisen henter seg inn på geopolitisk spenning og løfter Oslo Børs",
-    "summary": "Råoljeprisene stiger onsdag morgen som følge av vedvarende forsyningsrisiko knyttet til uroligheter i Midtøsten. Prisoppgangen gir god medvind til energitunge aksjer og trekker Hovedindeksen på Oslo Børs oppover.",
-    "why_it_matters": "Petroleumssektoren er Norges største eksportnæring og påvirker direkte både statsfinansene, investeringsnivået og kronekursen.",
-    "region": "Norge",
-    "impact": [
-     {
-      "area": "Energi og råvarer",
-      "effect": "Styrkede oljepriser forbedrer kontantstrømmen til oljeselskapene på norsk sokkel og kan stimulere til høyere aktivitet i leverandørindustrien."
-     },
-     {
-      "area": "Offentlige finanser",
-      "effect": "Statens inntekter fra petroleumsskatt og direkte eierskap øker, noe som tilfører mer kapital til Statens pensjonsfond utland."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Wall Street Journal",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5",
-      "paywall": true
-     },
-     {
-      "name": "E24",
-      "url": "https://e24.no/boers-og-finans/i/AR2eBx/oppgang-paa-oslo-boers?utm_medium=rss",
-      "paywall": true
-     }
-    ]
-   }
-  ],
-  "general_stories": [
-   {
-    "title": "Omfattende falske bombetrusler mot hundrevis av europeiske skoler",
-    "summary": "Over 300 skoler i Italia, Storbritannia, Irland og Bulgaria mottok koordinerte bombetrusler via e-post, noe som utløste massive evakueringer. Myndighetene har avfeid truslene som falske, men hendelsene skaper frykt for organisert hybrid krigføring rettet mot samfunnskritisk infrastruktur.",
-    "why_it_matters": "Saken illustrerer hvordan koordinerte digitale sabotasjeaksjoner kan skape stor uro og lamme hverdagen i flere europeiske land samtidig.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Europeiske myndigheter må skjerpe den nasjonale beredskapen og styrke det internasjonale etterretningssamarbeidet mot ondsinnede hybride trusler."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/italy-hundreds-of-school-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf",
-      "paywall": false
-     },
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Enighet om fangeutveksling under fredssamtaler i Abu Dhabi",
-    "summary": "Utsendinger fra Ukraina og Russland har møttes i Abu Dhabi for sine første direkte forhandlinger på ni måneder, med mål om å deeskalere konflikten. Møtene endte med en avtale om fangeutveksling, selv om det ikke ble meldt om noe diplomatisk gjennombrudd rundt territorielle stridsspørsmål.",
-    "why_it_matters": "At partene snakker sammen på nøytral grunn holder et lite håp om videre forhandlinger i hevd, selv om frontlinjene forblir låst.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Geopolitikk",
-      "effect": "Begrenset fremgang på humanitære avtaler kan holde diplomatiske kontaktkanaler åpne uten at det nødvendigvis fører til en snarlig våpenhvile."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
-      "paywall": false
-     },
-     {
-      "name": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRUYzMzk4VjIzNzZlRW1PNkszQlQ2RjVjWk9kNnpCbVFqR0VZV3NvdnhLRXpCNVNfSVZqMTV5UjRFMnlINW1XYUthOEw0Qy1oN3A2ZllKSHVReTFUdnloNHhESGdOOEp2TTYzU2s1SWxUNFlYYk4wSlkwcGo0X0NrNEdxYTBkNVdBZ2dtaWdIZXBIc3dTYVBNOEVRVndkUjhhU3FkcmVWbXhCS3kwMUMwUTE4aExqVm1OREpQUzFwaWhRQ3RR?oc=5",
-      "paywall": false
-     }
-    ]
-   },
-   {
-    "title": "Generalstreik lammer Spania i protest mot akutt boligkrise",
-    "summary": "Arbeidstakere over hele Spania har gått ut i en landsomfattende generalstreik i protest mot galopperende leiepriser og akutt boligmangel. Boligkrisen har vokst til å bli den mest betente saken i spansk politikk foran det kommende parlamentsvalget i slutten av november.",
-    "why_it_matters": "Den eskalerende boligkrisen skaper dype sosiale spenninger og setter velferdsmodeller under hardt press i hele Sør-Europa.",
-    "region": "Verden",
-    "impact": [
-     {
-      "area": "Bolig",
-      "effect": "Omfattende folkelig mobilisering kan presse spanske myndigheter til å innføre strengere husleiereguleringer og kraftige begrensninger på korttidsutleie til turister."
-     }
-    ],
-    "sources": [
-     {
-      "name": "Deutsche Welle",
-      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
       "paywall": false
      }
     ]
